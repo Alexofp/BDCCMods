@@ -1,29 +1,28 @@
 {
-	"test": "Hello",
 	"mods": [
 	{
 		"name": "Horny Bat",
 		"author": "Sority Arikua",
-		"description": "Test text\nmeow meow",
+		"description": "Adds a new hidden bat to the game for people to find and use. The bat can be used on self or opponent to remove lust and add some pain.",
 		"modversion": "1.0",
 		"gameversion": "0.0.20",
-		"download": "https://cdn.discordapp.com/attachments/1021686418512289792/1063535998912438333/Horny_Bat_v1_.20.zip"
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Horny_Bat_v1_.20.zip"
 	},
 	{
 		"name": "Hairs!",
 		"author": "Sority Arikua",
-		"description": "Test text\nmeow meow 123",
-		"modversion": "2.0",
+		"description": "Adds a several new hair styles to the game to try out.",
+		"modversion": "1.0",
 		"gameversion": "0.0.19",
-		"download": "https://cdn.discordapp.com/attachments/1021686418512289792/1063532092497076375/Hair_v1_.20.zip"
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Hair_v1_.20.zip"
 	},
 	{
 		"name": "Inmate Hoodie",
 		"author": "Max-Maxou",
-		"description": "Test text\nmeow meow 12345",
-		"modversion": "1.5",
+		"description": "Hoodie with color matching the uniform",
+		"modversion": "1.0",
 		"gameversion": "0.0.19, 0.0.20, 0.0.21",
-		"download": "https://cdn.discordapp.com/attachments/1021686418512289792/1063076831550525500/Inmate_Hoodie.zip"
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Inmate_Hoodie.zip"
 	}
 	]
 }
