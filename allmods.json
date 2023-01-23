@@ -4,16 +4,25 @@
 	{
 		"name": "Horny Bat",
 		"author": "Sority Arikua",
+		"description": "Test text\nmeow meow",
+		"modversion": "1.0",
+		"gameversion": "0.0.20",
 		"download": "https://cdn.discordapp.com/attachments/1021686418512289792/1063535998912438333/Horny_Bat_v1_.20.zip"
 	},
 	{
 		"name": "Hairs!",
 		"author": "Sority Arikua",
+		"description": "Test text\nmeow meow 123",
+		"modversion": "2.0",
+		"gameversion": "0.0.19",
 		"download": "https://cdn.discordapp.com/attachments/1021686418512289792/1063532092497076375/Hair_v1_.20.zip"
 	},
 	{
 		"name": "Inmate Hoodie",
 		"author": "Max-Maxou",
+		"description": "Test text\nmeow meow 12345",
+		"modversion": "1.5",
+		"gameversion": "0.0.19, 0.0.20, 0.0.21",
 		"download": "https://cdn.discordapp.com/attachments/1021686418512289792/1063076831550525500/Inmate_Hoodie.zip"
 	}
 	]
