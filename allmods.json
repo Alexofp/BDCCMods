@@ -1,28 +1,124 @@
 {
 	"mods": [
 	{
-		"name": "Horny Bat",
-		"author": "Sority Arikua",
-		"description": "Adds a new hidden bat to the game for people to find and use. The bat can be used on self or opponent to remove lust and add some pain.",
+		"name": "Rat Species",
+		"author": "Fantos",
+		"description": "It add the bigger and more dangerous of the cheese lover species, the rat.",
 		"modversion": "1.0",
-		"gameversion": "0.0.20",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Horny_Bat_v1_.20.zip"
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RatSpeciesModule.zip"
 	},
 	{
-		"name": "Hairs!",
-		"author": "Sority Arikua",
-		"description": "Adds a several new hair styles to the game to try out.",
+		"name": "Crow Species",
+		"author": "Max-Maxou",
+		"description": "Add The Black Bird for any Avian lovers.",
 		"modversion": "1.0",
-		"gameversion": "0.0.19",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Hair_v1_.20.zip"
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CrowSpeciesModule.zip"
+	},
+	{
+		"name": "Deer Species",
+		"author": "Max-Maxou",
+		"description": "Add the Majestic forest Dwelling race.",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DeerSpecies.zip"
+	},
+	{
+		"name": "Holiday Sweaters",
+		"author": "Max-Maxou",
+		"description": "Killers, whores and thieves.. MERRY CHRISTMAS! this mod adds holiday sweaters.",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Inmate_Holiday_Sweaters.zip"
+	},
+	{
+		"name": "Contraband Clothes",
+		"author": "Max-Maxou",
+		"description": "Add a variety of clothes and accessories. should fit the game style (PS: Updated for the new sex engine)",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Contraband_Clothes.zip"
+	},
+	{
+		"name": "Contraband Clothes 2 (Electric Boogaloo)",
+		"author": "Max-Maxou",
+		"description": "More simple piece of clothes. (PS: Updated for the sex engine)",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Contraband_Clothes_2.zip"
+	},
+	{
+		"name": "Thigh Highs",
+		"author": "Max-Maxou",
+		"description": "Keep those legs warm sluts   (adapt to every leg in the base game)",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ThighHighs.zip"
+	},
+	{
+		"name": "Dildo!",
+		"author": "Sority Arikua",
+		"description": "Cheat Item. Adds a 100 cred dildo to the general vendomat for purchase to knock down any pesky dom that need to learn how to sub. ",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Dildo.zip"
+	},
+	{
+		"name": "Stock Events",
+		"author": "Fantos",
+		"description": "(Requires Rat Species mod!) This is a mod where you can find different characters randomly in the main hall public punishment area. So far there is only one character but planning to expand it, and if you are interested to help expanding the mod, please DM me. It comes in two version, one come with Rat Species module included since the mod depend on it, but if you have it just use the other version.",
+		"modversion": "1.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/StockEvents.zip"
+	},
+	{
+		"name": "Stock Events + Rat Species",
+		"author": "Fantos",
+		"description": "This is a mod where you can find different characters randomly in the main hall public punishment area. So far there is only one character but planning to expand it, and if you are interested to help expanding the mod, please DM me. It comes in two version, one come with Rat Species module included since the mod depend on it, but if you have it just use the other version.",
+		"modversion": "1.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/StockEvents_RatSpecies.zip"
+	},
+	{
+		"name": "Racoon Species",
+		"author": "Fantos, art: Max-Maxou",
+		"description": "Add the trash panda to the rooster with all the stripe and facemask",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Racoon_Species.zip"
+	},
+	{
+		"name": "Rabbit Species",
+		"author": "Fantos, art: Max-Maxou",
+		"description": "Add The Jumping Animal for all the lola and bugs bunny lovers. It has 3 Ears Variant type and 2 Tails variant",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Rabbit_Species.zip"
 	},
 	{
 		"name": "Inmate Hoodie",
 		"author": "Max-Maxou",
 		"description": "Hoodie with color matching the uniform",
 		"modversion": "1.0",
-		"gameversion": "0.0.19, 0.0.20, 0.0.21",
+		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Inmate_Hoodie.zip"
+	},
+	{
+		"name": "Hairs!",
+		"author": "Sority Arikua",
+		"description": "Adds a several new hair styles to the game to try out.",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Hair_v1_.20.zip"
+	},
+	{
+		"name": "Horny Bat",
+		"author": "Sority Arikua",
+		"description": "Adds a new hidden bat to the game for people to find and use. The bat can be used on self or opponent to remove lust and add some pain.",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Horny_Bat_v1_.20.zip"
 	}
 	]
 }
