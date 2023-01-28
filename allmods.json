@@ -119,6 +119,14 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Horny_Bat_v1_.20.zip"
+	},
+	{
+		"name": "Max-Maxou weapon vender",
+		"author": "Fantos (Code), Max-Maxou (Idea/Graphics), Zaxon Rapial (Scenes)",
+		"description": "Adds Max-Maxou to the game as a weapons vender, He'll sell shivs and upgrade/repair shock batons. Still WIP as there is a an armor set planned but I'm still working on the quest to get said armor. Feedback is appreciated.",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Max_Module.zip"
 	}
 	]
 }
