@@ -135,6 +135,14 @@
 		"modversion": "1.2",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ElfEar.zip"
+	},
+	{
+		"name": "Harrow",
+		"author": "Exceeder",
+		"description": "This is, for now, an encounter that can occur if the player is in the stocks, with a slightly modified second encounter. Hoping to make more of these in the future!",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HarrowMod.zip"
 	}
 	]
 }
