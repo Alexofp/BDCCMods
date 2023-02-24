@@ -10,7 +10,7 @@
 	},
 	{
 		"name": "Crow Species",
-		"author": "Max-Maxou",
+		"author": "Fantos (Code), Max-Maxou (Graphics)",
 		"description": "Add The Black Bird for any Avian lovers.",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -18,7 +18,7 @@
 	},
 	{
 		"name": "Deer Species",
-		"author": "Max-Maxou",
+		"author": "Fantos (Code), Max-Maxou (Graphics)",
 		"description": "Add the Majestic forest Dwelling race.",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -26,7 +26,7 @@
 	},
 	{
 		"name": "Holiday Sweaters",
-		"author": "Max-Maxou",
+		"author": "Fantos (Code), Max-Maxou (Graphics)",
 		"description": "Killers, whores and thieves.. MERRY CHRISTMAS! this mod adds holiday sweaters.",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -34,7 +34,7 @@
 	},
 	{
 		"name": "Contraband Clothes",
-		"author": "Max-Maxou",
+		"author": "Fantos (Code), Max-Maxou (Graphics)",
 		"description": "Add a variety of clothes and accessories. should fit the game style (PS: Updated for the new sex engine)",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -42,7 +42,7 @@
 	},
 	{
 		"name": "Contraband Clothes 2 (Electric Boogaloo)",
-		"author": "Max-Maxou",
+		"author": "Fantos (Code), Max-Maxou (Graphics)",
 		"description": "More simple piece of clothes. (PS: Updated for the sex engine)",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -50,7 +50,7 @@
 	},
 	{
 		"name": "Thigh Highs",
-		"author": "Max-Maxou",
+		"author": "Fantos (Code), Max-Maxou (Graphics)",
 		"description": "Keep those legs warm sluts   (adapt to every leg in the base game)",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -66,7 +66,7 @@
 	},
 	{
 		"name": "Stock Events",
-		"author": "Fantos",
+		"author": "Fantos (Code), Zaxon Rapial (Scenes)",
 		"description": "(Requires Rat Species mod!) This is a mod where you can find different characters randomly in the main hall public punishment area. So far there is only one character but planning to expand it, and if you are interested to help expanding the mod, please DM me. It comes in two version, one come with Rat Species module included since the mod depend on it, but if you have it just use the other version.",
 		"modversion": "1.2",
 		"gameversion": "*",
@@ -74,7 +74,7 @@
 	},
 	{
 		"name": "Stock Events + Rat Species",
-		"author": "Fantos",
+		"author": "Fantos (Code), Zaxon Rapial (Scenes)",
 		"description": "This is a mod where you can find different characters randomly in the main hall public punishment area. So far there is only one character but planning to expand it, and if you are interested to help expanding the mod, please DM me. It comes in two version, one come with Rat Species module included since the mod depend on it, but if you have it just use the other version.",
 		"modversion": "1.2",
 		"gameversion": "*",
@@ -82,7 +82,7 @@
 	},
 	{
 		"name": "Racoon Species",
-		"author": "Fantos, art: Max-Maxou",
+		"author": "Fantos (Code), Max-Maxou (Graphics)",
 		"description": "Add the trash panda to the rooster with all the stripe and facemask",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -90,7 +90,7 @@
 	},
 	{
 		"name": "Rabbit Species",
-		"author": "Fantos, art: Max-Maxou",
+		"author": "Fantos (Code), Max-Maxou (Graphics)",
 		"description": "Add The Jumping Animal for all the lola and bugs bunny lovers. It has 3 Ears Variant type and 2 Tails variant",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -98,7 +98,7 @@
 	},
 	{
 		"name": "Inmate Hoodie",
-		"author": "Max-Maxou",
+		"author": "Fantos (Code), Max-Maxou (Graphics)",
 		"description": "Hoodie with color matching the uniform",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -124,7 +124,7 @@
 		"name": "Max-Maxou weapon vender",
 		"author": "Fantos (Code), Max-Maxou (Idea/Graphics), Zaxon Rapial (Scenes)",
 		"description": "Adds Max-Maxou to the game as a weapons vender, He'll sell shivs and upgrade/repair shock batons. Still WIP as there is a an armor set planned but I'm still working on the quest to get said armor. Feedback is appreciated.",
-		"modversion": "1.0",
+		"modversion": "0.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Max_Module.zip"
 	},
