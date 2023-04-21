@@ -143,6 +143,14 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HarrowMod.zip"
+	},
+	{
+		"name": "Chet Encounter",
+		"author": "Poofy",
+		"description": "A prototype with a dom cellmate named Chet involving permanent chastity. The cage is removed after the module's story is complete.",
+		"modversion": "0.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ChetMod.zip"
 	}
 	]
 }
