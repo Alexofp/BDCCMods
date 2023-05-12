@@ -155,8 +155,8 @@
 	{
 		"name": "n76-imagepack",
 		"author": "newtown76",
-		"description": "Replaces characters avatars (Change the order of imagepacks in the game's settings after downloading). [url=https://cdn.discordapp.com/attachments/1021686418512289792/1106572399106854972/preview.png]Preview[/url]",
-		"modversion": "1.0",
+		"description": "Replaces characters avatars (Change the order of imagepacks in the game's settings after downloading). [url=https://cdn.discordapp.com/attachments/1021686418512289792/1106572399106854972/preview.png]Click for Preview[/url]\nChangelog:\n1.01 Tavi's ears fix",
+		"modversion": "1.01",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/n76-imagepack.zip"
 	}
