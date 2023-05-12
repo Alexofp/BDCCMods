@@ -151,6 +151,14 @@
 		"modversion": "0.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ChetMod0.1.zip"
+	},
+	{
+		"name": "n76-imagepack",
+		"author": "newtown76",
+		"description": "Replaces characters avatars (Change the order of imagepacks in the game's settings after downloading)",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/n76-imagepack.zip"
 	}
 	]
 }
