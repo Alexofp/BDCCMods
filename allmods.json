@@ -159,6 +159,14 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/n76-ultrapack.zip"
+	},
+	{
+		"name": "Bovine Species",
+		"author": "Fantos (Code), Max-Maxou (Art)",
+		"description": "Add the Milk Making Animal to the game",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BovineSpecies.zip"
 	}
 	]
 }
