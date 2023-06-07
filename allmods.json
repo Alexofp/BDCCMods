@@ -167,6 +167,14 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BovineSpecies.zip"
+	},
+	{
+		"name": "Eevee Species",
+		"author": "Eurygrey",
+		"description": "Now play a fluff and cute creature! Include a face with and without eye and a second body with fluff (use it at your own risk).\nDisclaimer : This is a test version a better version will be released later. Thank Fantos for the big help!",
+		"modversion": "0.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EeveeSpecieVer0.1.zip"
 	}
 	]
 }
