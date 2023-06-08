@@ -171,10 +171,18 @@
 	{
 		"name": "Eevee Species",
 		"author": "Eurygrey",
-		"description": "Now play a fluff and cute creature! Include a face with and without eye and a second body with fluff (use it at your own risk).\nDisclaimer : This is a test version a better version will be released later. Thank Fantos for the big help!",
+		"description": "Now play a fluff and cute creature! Include a face with and without eye and a second body with fluff (use it at your own risk).\nDisclaimer : This is a test version a better version will be released later. Thank Fantos for the big help!\n[url=https://media.discordapp.net/attachments/1021686418512289792/1115776532846223520/Capture_decran_2023-06-07_005304.png]Click for Preview[/url]",
 		"modversion": "0.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EeveeSpecieVer0.1.zip"
+	},
+	{
+		"name": "Umbreon Species",
+		"author": "Eurygrey",
+		"description": "Play as you favorite cute and dark anthro creature! Dark as a shadow but still very cute! Includes two face types, with and without eyes.\n[url=https://media.discordapp.net/attachments/1021686418512289792/1116135816608088104/umbreonmale.png]Click for Preview[/url]",
+		"modversion": "0.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/UmbreonSpeciesVer0.2.zip"
 	}
 	]
 }
