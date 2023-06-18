@@ -199,6 +199,14 @@
 		"modversion": "0.2",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PuroSpeciesVer0.2.zip"
+	},
+	{
+		"name": "Renamon Species",
+		"author": "Eurygrey",
+		"description": "Play now as your favorite yellow creature!\nIncludes two faces, with and without eyes, a normal body and a fur body with marking.\n[url=https://media.discordapp.net/attachments/1021686418512289792/1119766031779496056/Renamonmale.png]Click for Preview[/url]",
+		"modversion": "0.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RenamonSpeciesVer0.1.zip"
 	}
 	]
 }
