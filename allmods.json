@@ -121,14 +121,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Horny_Bat_v1_.20.zip"
 	},
 	{
-		"name": "Max-Maxou weapon vender",
-		"author": "Fantos (Code), Max-Maxou (Idea/Graphics), Zaxon Rapial (Scenes)",
-		"description": "Adds Max-Maxou to the game as a weapons vender, He'll sell shivs and upgrade/repair shock batons. Still WIP as there is a an armor set planned but I'm still working on the quest to get said armor. Feedback is appreciated.",
-		"modversion": "0.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Max_Module.zip"
-	},
-	{
 		"name": "Elf Ears",
 		"author": "Fantos (Code), Max-Maxou (Graphics)",
 		"description": "Elf ear for human and demon species.",
@@ -215,6 +207,14 @@
 		"modversion": "0.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/OriSpeciesVer0.1.zip"
-	}
+	},
+	{
+		"name": "Max-Maxou weapon vender",
+		"author": "Fantos (Code), Max-Maxou (Idea/Graphics), Zaxon Rapial (Scenes)",
+		"description": "Adds Max-Maxou to the game as a weapons vender, He'll sell shivs and upgrade shock batons. Still WIP as there is a an armor set planned.\nUpdated for BDCC 0.0.23\n[url=https://media.discordapp.net/attachments/1021686418512289792/1122874126000980008/image.png]Click for Preview[/url]",
+		"modversion": "0.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Max_Module.zip"
+	},
 	]
 }
