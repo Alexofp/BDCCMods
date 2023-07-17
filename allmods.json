@@ -215,6 +215,14 @@
 		"modversion": "0.2",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Max_Module.zip"
+	},
+	{
+		"name": "Protogen Species",
+		"author": "Eurygrey",
+		"description": "Play now as your favorite electronical fluff!\nInclude two faces (normal and small). The protogen body need to be selected in the bodies type category when your making the character. Also include a default shark tail. You can change the tail with the tails from the base game and others mods\n[url=https://media.discordapp.net/attachments/1021686418512289792/1129920333198139533/ProtgenMale.PNG]Click for Preview[/url]",
+		"modversion": "0.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ProtogenSpeciesVer0.1.zip"
 	}
 	]
 }
