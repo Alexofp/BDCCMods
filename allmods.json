@@ -223,6 +223,14 @@
 		"modversion": "0.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ProtogenSpeciesVer0.1.zip"
+	},
+	{
+		"name": "Shark Species",
+		"author": "Eurygrey",
+		"description": "Play now as your water species!\nInclude 4 faces (Big and small head, with and without eyes) Also include a special shark pen and a shark body.\n[url=https://media.discordapp.net/attachments/1021686418512289792/1131017541079281794/SharkFemale.PNG]Click for Preview[/url]",
+		"modversion": "0.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SharkSpeciesVer0.1.zip"
 	}
 	]
 }
