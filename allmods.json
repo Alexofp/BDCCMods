@@ -231,6 +231,14 @@
 		"modversion": "0.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SharkSpeciesVer0.1.zip"
+	},
+	{
+		"name": "Flareon Species",
+		"author": "Eurygrey",
+		"description": "Play now as your fire fluffball!\nInclude 2 faces (With and without eyes).\n[url=https://media.discordapp.net/attachments/1021686418512289792/1131375011664494683/FlareonFemale.PNG]Click for Preview[/url]",
+		"modversion": "0.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FlareonSpeciesVer0.1.zip"
 	}
 	]
 }
