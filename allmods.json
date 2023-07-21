@@ -239,6 +239,14 @@
 		"modversion": "0.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FlareonSpeciesVer0.1.zip"
+	},
+	{
+		"name": "Glaceon Species",
+		"author": "Eurygrey",
+		"description": "Play now as your ice fluff!\nInclude 2 faces (With and without eyes).\n[url=https://media.discordapp.net/attachments/1021686418512289792/1131744788102795344/GlaceonFemale.PNG]Click for Preview[/url]",
+		"modversion": "0.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GlaceonSpeciesVer0.1.zip"
 	}
 	]
 }
