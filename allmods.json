@@ -247,6 +247,14 @@
 		"modversion": "0.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GlaceonSpeciesVer0.1.zip"
+	},
+	{
+		"name": "Vaporeon Species",
+		"author": "Eurygrey",
+		"description": "Guys did you know in term of...\nInclude 2 faces (With and without eyes).\n[url=https://media.discordapp.net/attachments/1021686418512289792/1132124006812766298/VaporeonMale.PNG]Click for Preview[/url]",
+		"modversion": "0.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/VaporeonSpeciesVer0.1.zip"
 	}
 	]
 }
