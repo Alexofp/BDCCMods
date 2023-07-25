@@ -259,10 +259,10 @@
 	{
 		"name": "Fluffy Bodyparts",
 		"author": "AverageAce & Max-Maxou",
-		"description": "Add a small set of new bodyparts with additional fluff, originally made by Max-Maxou and finished by AverageAce\nCurrently only affects the player for all species, until I find out how to give to NPCs\n[url=https://media.discordapp.net/attachments/1021686418512289792/1132925476353089556/image.png]Click for Preview[/url]",
-		"modversion": "1.0",
+		"description": "Add a small set of new bodyparts with additional fluff, originally made by Max-Maxou and finished by AverageAce\nShould have NPCs spawn with the new parts now, but I promise nothing\n[url=https://media.discordapp.net/attachments/1021686418512289792/1132925476353089556/image.png]Click for Preview[/url]",
+		"modversion": "2.0",
 		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FluffBodypartsVer1.zip"
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FluffyBodypartsVer2.zip"
 	}
 	]
 }
