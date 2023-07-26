@@ -263,6 +263,22 @@
 		"modversion": "2.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FluffyBodypartsVer2.zip"
+	},
+	{
+		"name": "Espeon Species",
+		"author": "AverageAce",
+		"description": "Continuing the eeveelutions mods, we have Espeon. The powerful psychic one. Shame we dont have super mind bullets in game. Comes with variants with and without eyes.\n[url=https://media.discordapp.net/attachments/1021686418512289792/1133511493200125962/image.png]Click for Preview[/url]",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EspeonSpecies.zip"
+	},
+	{
+		"name": "Gardevoir Species",
+		"author": "Eurygrey",
+		"description": "Now play as you tall looking creature\nInclude 2 faces (With and without eyes).\n[url=https://media.discordapp.net/attachments/1021686418512289792/1133557184232423464/GardevoirFemale.PNG]Click for Preview[/url]",
+		"modversion": "0.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GardevoirSpeciesVer0.1.zip"
 	}
 	]
 }
