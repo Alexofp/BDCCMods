@@ -279,6 +279,14 @@
 		"modversion": "0.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GardevoirSpeciesVer0.1.zip"
+	},
+	{
+		"name": "Jackal Parts",
+		"author": "AverageAce",
+		"description": "Adds Jackal parts to the canine species, comes with tail and ears.\n[url=https://media.discordapp.net/attachments/1021686418512289792/1136104771963592885/image.png]Click for Preview[/url]",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/JackalParts.zip"
 	}
 	]
 }
