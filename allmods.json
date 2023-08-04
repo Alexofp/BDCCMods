@@ -287,6 +287,14 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/JackalParts.zip"
+	},
+	{
+		"name": "Non-permanent, Flat Chastity Cage",
+		"author": "AlexVSharp",
+		"description": "Adds a non-permanent, flat chastity cage as a separate item. NPC usage not tested; spawnable with the debug menu.",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ChastityCageFlat.zip"
 	}
 	]
 }
