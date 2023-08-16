@@ -291,10 +291,10 @@
 	{
 		"name": "Leafeon Species",
 		"author": "AverageAce",
-		"description": "Further continuing the eeveelutions mods, Leafeon. Comes with an entire species, skin compatibility, and some alt bodyparts.\n[url=https://media.discordapp.net/attachments/1021686418512289792/1140880173814792222/Showcase.png]Click for Preview[/url]",
-		"modversion": "1.0",
+		"description": "Further continuing the eeveelutions mods, Leafeon. Comes with an entire species, skin compatibility, and some alt bodyparts.\nUpdated to fix your skin coming off if you gave oral sex. Freaky stuff. Remember to save your files when you quit the editor...\n[url=https://media.discordapp.net/attachments/1021686418512289792/1140880173814792222/Showcase.png]Click for Preview[/url]",
+		"modversion": "1.1",
 		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/LeafeonSpecies.zip"
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/LeafeonSpeciesVers1.1.zip"
 	},
 	{
 		"name": "Espeon Species",
