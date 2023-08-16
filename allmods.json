@@ -209,14 +209,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/OriSpeciesVer0.1.zip"
 	},
 	{
-		"name": "Max-Maxou weapon vender",
-		"author": "Fantos (Code), Max-Maxou (Idea/Graphics), Zaxon Rapial (Scenes)",
-		"description": "Adds Max-Maxou to the game as a weapons vender, He'll sell shivs and upgrade shock batons. Still WIP as there is a an armor set planned.\nUpdated for BDCC 0.0.23\n[url=https://media.discordapp.net/attachments/1021686418512289792/1122874126000980008/image.png]Click for Preview[/url]",
-		"modversion": "0.2",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Max_Module.zip"
-	},
-	{
 		"name": "Protogen Species",
 		"author": "Eurygrey",
 		"description": "Play now as your favorite electronical fluff!\nInclude two faces (normal and small). The protogen body need to be selected in the bodies type category when your making the character. Also include a default shark tail. You can change the tail with the tails from the base game and others mods\n[url=https://media.discordapp.net/attachments/1021686418512289792/1129920333198139533/ProtgenMale.PNG]Click for Preview[/url]",
@@ -311,6 +303,14 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/collar_newtown76.zip"
+	},
+	{
+		"name": "Max-Maxou weapon vender",
+		"author": "Fantos (Code), Max-Maxou (Idea/Graphics), Zaxon Rapial (Scenes)",
+		"description": "Adds Max to the game as a weapons vender, He'll sell shivs, pipes and upgrade shock batons.There is a quest to get an armor.\n[url=https://media.discordapp.net/attachments/1021686418512289792/1141423967324868700/image.png]Click for Preview[/url]",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Max_Module.zip"
 	}
 	]
 }
