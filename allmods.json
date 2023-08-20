@@ -319,6 +319,14 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/furskinV1.zip"
+	},
+	{
+		"name": "Hologlass",
+		"author": "panzertigre",
+		"description": "Adds a pair of glasses buyable in vendomat\n[url=https://media.discordapp.net/attachments/1021686418512289792/1142895667329634324/image.png]Click for Preview[/url]",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HologlassV1.zip"
 	}
 	]
 }
