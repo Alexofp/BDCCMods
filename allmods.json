@@ -327,6 +327,22 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HologlassV1.zip"
+	},
+	{
+		"name": "Skulldog Species",
+		"author": "AverageAce",
+		"description": "Adds a cryptid skull-canine that goes by a few different names. Comes with a custom species, Two head types, one ear + alt look, and a body.\n[url=https://media.discordapp.net/attachments/1021686418512289792/1142957375536513094/image.png]Click for Preview[/url]",
+		"modversion": "0.9",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SkulldogSpeciesVer0.9.zip"
+	},
+	{
+		"name": "Skulldog Species Breed Edition",
+		"author": "AverageAce",
+		"description": "Adds a cryptid skull-canine that goes by a few different names. Comes with a custom species, Two head types, one ear + alt look, and a body.\n[url=https://media.discordapp.net/attachments/1021686418512289792/1142957375536513094/image.png]Click for Preview[/url]\n\n[b]Bonus: Breed edition[/b]: a version of this mod with a single change, npc's of this species can spawn with anus wombs, a small but very noticeable difference. For people like myself who like to breed anyone and everyone. (download one or the other)",
+		"modversion": "0.9",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SkullDogVer0.9_-_Breed_Edition.zip"
 	}
 	]
 }
