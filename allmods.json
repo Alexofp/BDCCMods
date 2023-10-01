@@ -367,6 +367,14 @@
 		"modversion": "0.9",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AvaliSpeciesVer.9_-_BreedEdition.zip"
+	},
+	{
+		"name": "Knotted Equine Penis",
+		"author": "AverageAce",
+		"description": "A simple mod that adds a knotted equine penis to the character creator. NPCs dont currently spawn with this to my knowledge.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/KnottedEquinePenis.png]Click for Preview[/url]",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/KnottedEquinePenis.zip"
 	}
 	]
 }
