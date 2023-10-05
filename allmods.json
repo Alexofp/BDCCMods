@@ -81,14 +81,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Racoon_Species.zip"
 	},
 	{
-		"name": "Rabbit Species",
-		"author": "Fantos (Code), Max-Maxou (Graphics)",
-		"description": "Add The Jumping Animal for all the lola and bugs bunny lovers. It has 3 Ears Variant type and 2 Tails variant",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Rabbit_Species.zip"
-	},
-	{
 		"name": "Inmate Hoodie",
 		"author": "Fantos (Code), Max-Maxou (Graphics)",
 		"description": "Hoodie with color matching the uniform",
@@ -241,14 +233,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/VaporeonSpeciesVer0.1.zip"
 	},
 	{
-		"name": "Fluffy Bodyparts",
-		"author": "AverageAce & Max-Maxou",
-		"description": "Add a small set of new bodyparts with additional fluff, originally made by Max-Maxou and finished by AverageAce\nShould have NPCs spawn with the new parts now, but I promise nothing\n[url=https://media.discordapp.net/attachments/1021686418512289792/1132925476353089556/image.png]Click for Preview[/url]",
-		"modversion": "2.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FluffyBodypartsVer2.zip"
-	},
-	{
 		"name": "Gardevoir Species",
 		"author": "Eurygrey",
 		"description": "Now play as you tall looking creature\nInclude 2 faces (With and without eyes).\n[url=https://media.discordapp.net/attachments/1021686418512289792/1133557184232423464/GardevoirFemale.PNG]Click for Preview[/url]",
@@ -383,6 +367,22 @@
 		"modversion": "0.9",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SynthSpeciesV0.9.zip"
+	},
+	{
+		"name": "Rabbit Species",
+		"author": "Fantos (Code), Max-Maxou (Graphics)",
+		"description": "Add The Jumping Animal for all the lola and bugs bunny lovers. It has 3 Ears Variant type and 2 Tails variant. Work with skin system, with default patterns, and custom pattenr variants for ears, head and tails\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/RabbitPreview.png]Click for Preview[/url]",
+		"modversion": "2.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Rabbit_Species.zip"
+	},
+	{
+		"name": "Fluffy Bodyparts",
+		"author": "AverageAce & Max-Maxou",
+		"description": "The old mod updated and actually functioning this time. totally brand new compatibility with skins and the addition of the fluffy flat chest. NPC generation not guaranteed.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FluffPreview.png]Click for Preview[/url]",
+		"modversion": "3.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FluffbodypartsVer3.zip"
 	}
 	]
 }
