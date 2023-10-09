@@ -81,14 +81,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Racoon_Species.zip"
 	},
 	{
-		"name": "Inmate Hoodie",
-		"author": "Fantos (Code), Max-Maxou (Graphics)",
-		"description": "Hoodie with color matching the uniform",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Inmate_Hoodie.zip"
-	},
-	{
 		"name": "Hairs!",
 		"author": "Sority Arikua",
 		"description": "Adds a several new hair styles to the game to try out.",
@@ -383,6 +375,14 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SynthSpeciesVer1.zip"
+	},
+	{
+		"name": "Inmate Hoodie",
+		"author": "Fantos (Code), Max-Maxou (Graphics)",
+		"description": "Hoodie with color matching the uniform. This is a fix cause turned out the mod never worked properly.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/hoodie.png]Click for Preview[/url]",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Inmate_Hoodie.zip"
 	}
 	]
 }
