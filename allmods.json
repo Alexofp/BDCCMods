@@ -383,6 +383,14 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SynthSpeciesVer1-Fix.zip"
+	},
+	{
+		"name": "Nova Sub Training",
+		"author": "JakeJames",
+		"description": "Warning: Heavy focus on impregnation fetish.\nMod to train Nova to be more submissive during modified scenes.\n\nAdds a new flag called 'NovaSub' which affects modified scenes. Modified scenes can increase or decrease this flag. There are four stages of submissiveness currently with breakpoints at 0, 37, 67, and 91.\n\nModified Scenes:\n- FuckSubbyNovaScene.gd\n-- Uses all four stages of submissiveness\n--- Slight variations while Nova is already pregnant\n- NovaPetPlayScene.gd\n-- Replaces the original prompt when at >=67 submissiveness\n--- Slight variations at >= 91\n--- Includes a special guest appearance..",
+		"modversion": "0.2",
+		"gameversion": "0.1.0",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NovaSubTraining.zip"
 	}
 	]
 }
