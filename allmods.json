@@ -391,6 +391,14 @@
 		"modversion": "0.3",
 		"gameversion": "0.1.0",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NovaSubTraining.zip"
+	},
+	{
+		"name": "RNGPerks",
+		"author": "CanInBad",
+		"description": "This mod adds 2 perks\n1) Dramaturgy (tier 3, cost 6 points, in Combat)\n - Randomly roll effect for either good buff, near down experience, and a item from custom list in a battle, is inside specials\n2) Gambler Cum Stud (tier 3, cost 6 points, in CumLover)\n- Get your balls fill up to the brim after you cum with 30% chance\n\nand a Dramaturgy's exclusive item:\n- Flashlight\n   - A weapon use in combat to instantly blind any foe (totally did not check if the opponent have a blindfold or not), is inside specials\n   - only have 2 charges\n\nplease note that status effect and perk images are placeholder",
+		"modversion": "0.3",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RNGPerksv0.3.zip"
 	}
 	]
 }
