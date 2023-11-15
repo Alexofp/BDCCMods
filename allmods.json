@@ -401,20 +401,28 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RNGPerksv0.4.zip"
 	},
 	{
-		"name": "Ace's Protogen Mod",
-		"author": "AverageAce",
-		"description": "The Fluffy Cyborg species has been added, based off the original mod from EuryGrey.\nFair warning that when I went to do my usual skins setup, it somehow caused a massive mess. Should be fixed but if you spot something you can find me on the game's discord.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/aceprotogen.png]Click for Preview[/url]",
-		"modversion": "0.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AcesProtogenModVer0.1.zip"
-	},
-	{
 		"name": "Lucario Species",
 		"author": "AverageAce",
 		"description": "The most sexualized pokemon.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/Lucario.png]Click for Preview[/url]",
 		"modversion": "2.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/LucarioSpeciesVer2.zip"
+	},
+	{
+		"name": "Ace's Protogen Mod",
+		"author": "AverageAce",
+		"description": "The Fluffy Cyborg species has been added, based off the original mod from EuryGrey.\nFair warning that when I went to do my usual skins setup, it somehow caused a massive mess. Should be fixed but if you spot something you can find me on the game's discord.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/aceprotogen.png]Click for Preview[/url]\n\nPatched to fix a missing head under the right circumstances. Thanks kiwwaqween",
+		"modversion": "0.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AcesProtogenModVer0.2.zip"
+	},
+	{
+		"name": "Ace's Protogen Mod (Breed Edition)",
+		"author": "AverageAce",
+		"description": "The Fluffy Cyborg species has been added, based off the original mod from EuryGrey.\nFair warning that when I went to do my usual skins setup, it somehow caused a massive mess. Should be fixed but if you spot something you can find me on the game's discord.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/aceprotogen.png]Click for Preview[/url]\n\nBreed Edition: All NPCs have a 50/50 chance to spawn with anal wombs.",
+		"modversion": "0.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AcesProtogenModV0.2-BreedEdition.zip"
 	}
 	]
 }
