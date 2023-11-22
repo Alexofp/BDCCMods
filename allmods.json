@@ -395,10 +395,10 @@
 	{
 		"name": "RNGPerks",
 		"author": "CanInBad",
-		"description": "This mod adds 2 perks\n1) Dramaturgy (tier 3, cost 6 points, in Combat)\n - Randomly roll effect for either good buff, near down experience, and a item from custom list in a battle, is inside specials\n2) Gambler Cum Stud (tier 3, cost 6 points, in CumLover)\n- Get your balls fill up to the brim after you cum with 30% chance\n\nand a Dramaturgy's exclusive item:\n- Flashlight\n   - A weapon use in combat to instantly blind any foe (totally did not check if the opponent have a blindfold or not), is inside specials\n   - only have 2 charges\n\nfix crashing when loading (when I 'hotfix' the 0.2 on mobile I add addEffect() behind return)\nchanges all perk and status effect images\nmade dramaturgy into lower tier and lowering cost (was tier 3, cost 6)\nmade gambler cum stud cheaper (was costing 6)",
-		"modversion": "0.4",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RNGPerksv0.4.zip"
+		"description": "This mod adds 2 perks\n1) Dramaturgy (tier 2, cost 4 points, in Combat)\n - Randomly roll effect for either good buff, near down experience, and a item from custom list in a battle, is inside specials\n2) Gambler Cum Stud (tier 3, cost 3 points, in Breeder)\n - Get your balls fill up to the brim after you cum with 30% chance\n\nand a Dramaturgy's exclusive item:\n**- Flashlight**\n   - A weapon use in combat to instantly blind any foe (totally did not check if the opponent have a blindfold or not), is inside specials\n   - only have 2 charges\n\nchangelog:\n   * fixed crashing for new version (0.1.1)\n   * fixed chance being 100% (how did i missed this??????)\n   * hopfully has mod info in the json named the same as zip",
+		"modversion": "0.5",
+		"gameversion": "0.1.1",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RNGPerksv0.5.zip"
 	},
 	{
 		"name": "Lucario Species",
