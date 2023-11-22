@@ -423,6 +423,14 @@
 		"modversion": "0.2",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AcesProtogenModV0.2-BreedEdition.zip"
+	},
+	{
+		"name": "Hypnosis Kink",
+		"author": "PeteTimesSix",
+		"description": "Engage with exciting hypnotic arts! You can meet the prison's only licensed hypnotherapist in the Lilac cellblock, or if you prefer more forceful methods, it seems someone's left a package unattended in the engineering workshop. Or maybe the next guard you meet decides to go high-tech when tying you up. Regardless of which route you choose, engaging with hypnosis will grant you hypnosis skill XP, though there might be some drawbacks to learning how to make your mind malleable...\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/hypno1.png]Preview 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/hypno2.png]Preview 2[/url]",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Hypnokink.zip"
 	}
 	]
 }
