@@ -321,22 +321,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BodyModif.zip"
 	},
 	{
-		"name": "Avali Species",
-		"author": "AverageAce",
-		"description": "The Sci-fi original species mod, Avali, is now here. Don't have much else to add. Comes with a custom species with a full range of bodyparts, and some alts. Some skins might be weird.\n[url=https://media.discordapp.net/attachments/1021686418512289792/1147445251619962940/image.png]Click for Preview[/url]",
-		"modversion": "1.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AvaliSpecies-Ver1.1.zip"
-	},
-	{
-		"name": "Avali Species Breed Edition",
-		"author": "AverageAce",
-		"description": "The Sci-fi original species mod, Avali, is now here. Don't have much else to add. Comes with a custom species with a full range of bodyparts, and some alts. Some skins might be weird.\n[url=https://media.discordapp.net/attachments/1021686418512289792/1147445251619962940/image.png]Click for Preview[/url][b]Bonus: Breed edition[/b]: a version of this mod with a single change, npc's of this species can spawn with anus wombs, a small but very noticeable difference. For people like myself who like to breed anyone and everyone. (download one or the other)",
-		"modversion": "1.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AvaliSpecies-Ver1.1-BreedEdition.zip"
-	},
-	{
 		"name": "Knotted Equine Penis",
 		"author": "AverageAce",
 		"description": "A simple mod that adds a knotted equine penis to the character creator. NPCs dont currently spawn with this to my knowledge.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/KnottedEquinePenis.png]Click for Preview[/url]",
@@ -377,22 +361,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Inmate_Hoodie.zip"
 	},
 	{
-		"name": "Synth Species",
-		"author": "AverageAce",
-		"description": "The robot lizard species, Originally made by Vader-San. Comes with a new species and a whole lot of new bodyparts. 3 penis types, 6 tail types, 6 arm types and more.\n[b]Updated again[/b] to fix more generation issues, and synths spawn with hair now, because the old way was making all npcs bald.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SynthSpeciesPreview.png]Click for Preview[/url]",
-		"modversion": "1.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SynthSpecies-Ver1.1.zip"
-	},
-	{
-		"name": "Synth Species (Breed Edition)",
-		"author": "AverageAce",
-		"description": "The robot lizard species, Originally made by Vader-San. Comes with a new species and a whole lot of new bodyparts. 3 penis types, 6 tail types, 6 arm types and more.\n[b]Updated again[/b] to fix more generation issues, and synths spawn with hair now, because the old way was making all npcs bald.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SynthSpeciesPreview.png]Click for Preview[/url]\nBreed Edition: All NPCs have a 50/50 chance to spawn with anal wombs.",
-		"modversion": "1.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SynthSpecies-Ver1.1-BreedEdition.zip"
-	},
-	{
 		"name": "Nova Sub Training",
 		"author": "JakeJames",
 		"description": "Warning: Heavy focus on impregnation fetish.\nMod to train Nova to be more submissive during modified scenes.\n\nAdds a new flag called 'NovaSub' which affects modified scenes. Modified scenes can increase or decrease this flag. There are four stages of submissiveness currently with breakpoints at 0, 37, 67, and 91.\n\nModified Scenes:\n- FuckSubbyNovaScene.gd\n-- Uses all four stages of submissiveness\n--- Slight variations while Nova is already pregnant\n- NovaPetPlayScene.gd\n-- Replaces the original prompt when at >=67 submissiveness\n--- Slight variations at >= 91\n--- Includes a special guest appearance..",
@@ -409,12 +377,44 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RNGPerksv0.5.zip"
 	},
 	{
-		"name": "Lucario Species",
-		"author": "AverageAce",
-		"description": "The most sexualized pokemon.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/Lucario.png]Click for Preview[/url]",
-		"modversion": "2.1",
+		"name": "Hypnosis Kink",
+		"author": "PeteTimesSix",
+		"description": "Engage with exciting hypnotic arts! You can meet the prison's only licensed hypnotherapist in the Lilac cellblock, or if you prefer more forceful methods, it seems someone's left a package unattended in the engineering workshop. Or maybe the next guard you meet decides to go high-tech when tying you up. Regardless of which route you choose, engaging with hypnosis will grant you hypnosis skill XP, though there might be some drawbacks to learning how to make your mind malleable...\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/hypno1.png]Preview 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/hypno2.png]Preview 2[/url]",
+		"modversion": "1.0",
 		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/LucarioSpecies-Ver2.1.zip"
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Hypnokink.zip"
+	},
+	{
+		"name": "Avali Species",
+		"author": "AverageAce",
+		"description": "The Sci-fi original species mod, Avali, is now here. Don't have much else to add. Comes with a custom species with a full range of bodyparts, and some alts. Some skins might be weird.\n[url=https://media.discordapp.net/attachments/1021686418512289792/1147445251619962940/image.png]Click for Preview[/url]",
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AvaliSpecies-Ver1.1.zip"
+	},
+	{
+		"name": "Avali Species Breed Edition",
+		"author": "AverageAce",
+		"description": "The Sci-fi original species mod, Avali, is now here. Don't have much else to add. Comes with a custom species with a full range of bodyparts, and some alts. Some skins might be weird.\n[url=https://media.discordapp.net/attachments/1021686418512289792/1147445251619962940/image.png]Click for Preview[/url][b]Bonus: Breed edition[/b]: a version of this mod with a single change, npc's of this species can spawn with anus wombs, a small but very noticeable difference. For people like myself who like to breed anyone and everyone. (download one or the other)",
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AvaliSpecies-Ver1.1-BreedEdition.zip"
+	},
+	{
+		"name": "Synth Species",
+		"author": "AverageAce",
+		"description": "The robot lizard species, Originally made by Vader-San. Comes with a new species and a whole lot of new bodyparts. 3 penis types, 6 tail types, 6 arm types and more.\n[b]Updated again[/b] to fix more generation issues, and synths spawn with hair now, because the old way was making all npcs bald.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SynthSpeciesPreview.png]Click for Preview[/url]",
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SynthSpecies-Ver1.1.zip"
+	},
+	{
+		"name": "Synth Species (Breed Edition)",
+		"author": "AverageAce",
+		"description": "The robot lizard species, Originally made by Vader-San. Comes with a new species and a whole lot of new bodyparts. 3 penis types, 6 tail types, 6 arm types and more.\n[b]Updated again[/b] to fix more generation issues, and synths spawn with hair now, because the old way was making all npcs bald.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SynthSpeciesPreview.png]Click for Preview[/url]\nBreed Edition: All NPCs have a 50/50 chance to spawn with anal wombs.",
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SynthSpecies-Ver1.1-BreedEdition.zip"
 	},
 	{
 		"name": "Ace's Protogen Mod",
@@ -433,12 +433,28 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AcesProtogenMod-Ver1.1-BreedEdition.zip"
 	},
 	{
-		"name": "Hypnosis Kink",
-		"author": "PeteTimesSix",
-		"description": "Engage with exciting hypnotic arts! You can meet the prison's only licensed hypnotherapist in the Lilac cellblock, or if you prefer more forceful methods, it seems someone's left a package unattended in the engineering workshop. Or maybe the next guard you meet decides to go high-tech when tying you up. Regardless of which route you choose, engaging with hypnosis will grant you hypnosis skill XP, though there might be some drawbacks to learning how to make your mind malleable...\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/hypno1.png]Preview 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/hypno2.png]Preview 2[/url]",
-		"modversion": "1.0",
+		"name": "Lucario Species",
+		"author": "AverageAce",
+		"description": "The most sexualized pokemon.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/Lucario.png]Click for Preview[/url]",
+		"modversion": "2.1",
 		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Hypnokink.zip"
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/LucarioSpecies-Ver2.1.zip"
+	},
+	{
+		"name": "Prosthetic Parts",
+		"author": "AverageAce",
+		"description": "A bundle of prosthetic bits for your character creation needs. (Npc generation is disabled because it was broken)\nalso includes some tail bandages\nFair Warning that this will clutter your character creator tabs with all the variants\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ProstheticParts.png]Click for Preview[/url]",
+		"modversion": "0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ProstheticPartsVer0.zip"
+	},
+	{
+		"name": "Ace's Shark Species",
+		"author": "AverageAce",
+		"description": "[b]shark[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AceSharkPreview.png]Click for Preview[/url]",
+		"modversion": "1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AcesSharkSpeciesVer1.zip"
 	}
 	]
 }
