@@ -385,22 +385,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Hypnokink.zip"
 	},
 	{
-		"name": "Avali Species",
-		"author": "AverageAce",
-		"description": "The Sci-fi original species mod, Avali, is now here. Don't have much else to add. Comes with a custom species with a full range of bodyparts, and some alts. Some skins might be weird.\n[url=https://media.discordapp.net/attachments/1021686418512289792/1147445251619962940/image.png]Click for Preview[/url]",
-		"modversion": "1.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AvaliSpecies-Ver1.1.zip"
-	},
-	{
-		"name": "Avali Species Breed Edition",
-		"author": "AverageAce",
-		"description": "The Sci-fi original species mod, Avali, is now here. Don't have much else to add. Comes with a custom species with a full range of bodyparts, and some alts. Some skins might be weird.\n[url=https://media.discordapp.net/attachments/1021686418512289792/1147445251619962940/image.png]Click for Preview[/url][b]Bonus: Breed edition[/b]: a version of this mod with a single change, npc's of this species can spawn with anus wombs, a small but very noticeable difference. For people like myself who like to breed anyone and everyone. (download one or the other)",
-		"modversion": "1.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AvaliSpecies-Ver1.1-BreedEdition.zip"
-	},
-	{
 		"name": "Synth Species",
 		"author": "AverageAce",
 		"description": "The robot lizard species, Originally made by Vader-San. Comes with a new species and a whole lot of new bodyparts. 3 penis types, 6 tail types, 6 arm types and more.\n[b]Updated again[/b] to fix more generation issues, and synths spawn with hair now, because the old way was making all npcs bald.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SynthSpeciesPreview.png]Click for Preview[/url]",
@@ -463,6 +447,30 @@
 		"modversion": "R2",
 		"gameversion": "0.1.1",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR2.zip"
+	},
+	{
+		"name": "Avali Species",
+		"author": "AverageAce",
+		"description": "The funny sci-fi birds.\n[b]Updated to add 2 new parts, and fix some NPC generation[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AvaliPreview1.png]Preview 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AvaliPreview2.png]Preview 2[/url]",
+		"modversion": "2.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AvaliSpeciesVer2.zip"
+	},
+	{
+		"name": "Avali Species Breed Edition",
+		"author": "AverageAce",
+		"description": "The funny sci-fi birds.\n[b]Updated to add 2 new parts, and fix some NPC generation[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AvaliPreview1.png]Preview 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AvaliPreview2.png]Preview 2[/url]\n\nBreeder Edition - Allows Npcs to spawn with ass wombs, use regular zip file or the breed edition, not both. (download one or the other)",
+		"modversion": "2.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AvaliSpeciesVer2-BreederEdition.zip"
+	},
+	{
+		"name": "Ace's Aviary Addon",
+		"author": "AverageAce",
+		"description": "4 new species added, Avians, Birds, Gryphons, and Hippogriffs.[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AviaryPreview.png]Click for preview[/url]",
+		"modversion": "0.9",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AcesAvairyAddonVer0.9.zip"
 	}
 	]
 }
