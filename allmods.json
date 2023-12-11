@@ -471,6 +471,22 @@
 		"modversion": "R2-hotfix",
 		"gameversion": "0.1.1",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR2-hotfix.zip"
+	},
+	{
+		"name": "Straitjacket woc",
+		"author": "Red Tiger",
+		"description": "Just the straitjacket but without the chasity (woc) bc someone asked me to do x3\n\nYou only can get it through the debug menu; A buyable version coming later\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/straitjacket.png]Click for preview[/url]",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Straitjacketmod.zip"
+	},
+	{
+		"name": "Chasitiybelt",
+		"author": "Red Tiger",
+		"description": "Just the Chasitiybelt from the normal Straitjacket; Again bc someone requestet it\n\nYou only can get it through the debug menu; A buyable version coming later",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Chasitybeltmod.zip"
 	}
 	]
 }
