@@ -495,6 +495,14 @@
 		"modversion": "0.9",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SylveonSpeciesVer0.9.zip"
+	},
+	{
+		"name": "Dragons+",
+		"author": "AverageAce",
+		"description": "Adds various bodyparts to the vanilla dragon species, 2 heads, 2 horns, a tail, and the option to be earless.\nBoth heads spawn more often than the vanilla dragon head.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/dragonPreview.png]Click for preview[/url]",
+		"modversion": "0.9",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DragonsPlusVer0.9.zip"
 	}
 	]
 }
