@@ -503,6 +503,14 @@
 		"modversion": "0.9",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DragonsPlusVer0.9.zip"
+	},
+	{
+		"name": "More Drugs",
+		"author": "ButNotTooGay",
+		"description": "Adds new items that grant buffs but can also cause potentially undesirable side effects if abused.\nAdded Sensitivity Enhancer\n-Increases dodge chance and incoming lust damage\n-Can cause side effect Hypersensitivity: extremely sensitive skin makes it difficult to wear clothes\nThe item is located in the medical vender for now\nMore items coming soon - I have lots of ideas I want to try",
+		"modversion": "0.01",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreDrugsMod-v0.01.zip"
 	}
 	]
 }
