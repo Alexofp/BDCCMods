@@ -441,14 +441,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AvaliSpeciesVer2-BreederEdition.zip"
 	},
 	{
-		"name": "Hypertus",
-		"author": "CanInBad",
-		"description": "[b]WARNING: This contains hyper stuff, if you dislike it then leave[/b]\nThis mod [color=yellow][u][b]adds[/b][/u][/color] bodyparts that are infused with \"Bluespace anomalies\" that enhance them enough to become unstable size wise.\n\nThe \"Bluespace anomalies\" in question can be activated with a skill tree that added by this mod.\n\nTo gain the tree's experience, you have to invest some points in to vanilla perks.\n\n[u][b]Some or all perks might be hidden due to incompatible bodyparts!!![/b][/u]\n\nThere is no story in this version yet, but the perks and bodyparts might not break in the future\n\nOnly the player can get it at this time and I might not make it spawn with dynamic NPC\n\nHas compatibility layer between these mods:\n - Synth Species\n - Knotted Horse Cock\n - Fluffy Bodyparts\n - Avali Species (both version)\n - Ace's Aviary Addon\n\nif you have any feedback send it in #mods-discussion and ping me\nor open an issue on [url]https://github.com/CanInBad/HypertusMod[/url]\n\n[code]\nChangelog\n * Add Ace's Aviary Addon compatibility\n * Add a dummy perk for those did not read the mod description\n * attempt to get the player's attention when creating a new charator\n * try out the code block by bbcode (which did not work :( )\n[/code]",
-		"modversion": "R2-hotfix",
-		"gameversion": "0.1.1",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR2-hotfix.zip"
-	},
-	{
 		"name": "Straitjacket woc",
 		"author": "Red Tiger",
 		"description": "Just the straitjacket but without the chasity (woc) bc someone asked me to do x3\n\nYou only can get it through the debug menu; A buyable version coming later\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/straitjacket.png]Click for preview[/url]",
@@ -511,6 +503,14 @@
 		"modversion": "0.01",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreDrugsMod-v0.01.zip"
+	},
+	{
+		"name": "Hypertus",
+		"author": "CanInBad",
+		"description": "[b]WARNING: This contains hyper stuff, if you dislike it then leave[/b]\nThis mod [color=yellow][u][b]adds[/b][/u][/color] bodyparts that are infused with \"Bluespace anomalies\" that enhance them enough to become unstable size wise.\n\nThe \"Bluespace anomalies\" in question can be activated with a skill tree that added by this mod.\n\nTo gain the tree's experience, you have to invest some points in to vanilla perks.\n\n[u][b]Some or all perks might be hidden due to incompatible bodyparts!!![/b][/u]\n\nThere is no story in this version yet, but the perks and bodyparts might not break in the future\n\nOnly the player can get it at this time and I might not make it spawn with dynamic NPC\n\nHas compatibility layer between these mods:\n - Synth Species\n - Knotted Horse Cock\n - Fluffy Bodyparts\n - Avali Species (both version)\n - Ace's Aviary Addon\n\nif you have any feedback send it in #mods-discussion and ping me\nor open an issue on [url]https://github.com/CanInBad/HypertusMod[/url]\n \nChangelog\n * Fix Ace's Aviary Addon compatibility",
+		"modversion": "R2-hotfix2",
+		"gameversion": "0.1.1",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR2-hotfix.zip"
 	}
 	]
 }
