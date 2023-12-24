@@ -499,10 +499,10 @@
 	{
 		"name": "More Drugs",
 		"author": "ButNotTooGay",
-		"description": "Adds new items that grant buffs but can also cause potentially undesirable side effects if abused.\nAdded Sensitivity Enhancer\n-Increases dodge chance and incoming lust damage\n-Can cause side effect Hypersensitivity: extremely sensitive skin makes it difficult to wear clothes\nThe item is located in the medical vender for now\nMore items coming soon - I have lots of ideas I want to try",
-		"modversion": "0.01",
+		"description": "Adds new items that grant buffs but can also cause potentially undesirable side effects if abused.\nAdded Sensitivity Enhancer\n-Increases dodge chance and incoming lust damage\n-Can cause side effect Hypersensitivity: extremely sensitive skin makes it difficult to wear clothes\nAdded Libido Blocker\n-Grants lust armor but reduces the damage of your lust attacks\n-Can cause side effect Blocked Orgasms: orgasm becomes nearly impossible and edging makes it harder to focus\nThe items are located in the medical vender for now\n",
+		"modversion": "0.02",
 		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreDrugsMod-v0.01.zip"
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreDrugsMod-v0.02.zip"
 	},
 	{
 		"name": "Hypertus",
