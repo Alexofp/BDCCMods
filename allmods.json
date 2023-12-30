@@ -515,8 +515,8 @@
 	{
 		"name": "Portal Expansion Mod",
 		"author": "ranchar",
-		"description": "Adds additional portal equipment and new content based around portals. Currently on an early test version, so please give feedback. More is planned to be added.\n\nChangelog:\n0.0.1: Fixed crash when attempting to 'lose' the improved portal panties, fixed portal rings so they should now stack when taken off. Fixed crash when retrieving portals. Added a couple more scenes.\n\n0.0.2: Fixed softlock when attempting certain actions.\n\n0.0.3: Fixed crashes when attempting rollback. Fixed portal ring variations being obtainable when not intended. Added some messages when attaching portal rings. Added differing effects when multiple linked rings are attached. Fixed incorrectly triggering sleeping and shower scenes when no portal items were equipped.",
-		"modversion": "0.0.3",
+		"description": "Adds additional portal equipment and new content based around portals. Currently on an early test version, so please give feedback. More is planned to be added.\n\nChangelog:\n0.0.1: Fixed crash when attempting to 'lose' the improved portal panties, fixed portal rings so they should now stack when taken off. Fixed crash when retrieving portals. Added a couple more scenes.\n\n0.0.2: Fixed softlock when attempting certain actions.\n\n0.0.3: Fixed crashes when attempting rollback. Fixed portal ring variations being obtainable when not intended. Added some messages when attaching portal rings. Added differing effects when multiple linked rings are attached. Fixed incorrectly triggering sleeping and shower scenes when no portal items were equipped.\n\n0.0.4: Added conditions to various buttons so that you should no longer be able to view scenes for bodyparts that you don't have.",
+		"modversion": "0.0.4",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PortalExpansionMod.zip"
 	}
