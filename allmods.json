@@ -481,14 +481,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AcesAvairyAddonVer0.99.zip"
 	},
 	{
-		"name": "Sylveon Species",
-		"author": "AverageAce",
-		"description": "The last of the Eeveelution mods. Sylveon comes with a new species and a few alt bodyparts.[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/sylPreview1.png]Preview 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/sylPreview2.png]Preview 2[/url]",
-		"modversion": "0.9",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SylveonSpeciesVer0.9.zip"
-	},
-	{
 		"name": "Dragons+",
 		"author": "AverageAce",
 		"description": "Adds various bodyparts to the vanilla dragon species, 2 heads, 2 horns, a tail, and the option to be earless.\nBoth heads spawn more often than the vanilla dragon head.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/dragonPreview.png]Click for preview[/url]",
@@ -515,10 +507,18 @@
 	{
 		"name": "Portal Expansion Mod",
 		"author": "ranchar",
-		"description": "Adds additional portal equipment and new content based around portals. Currently on an early test version, so please give feedback. More is planned to be added.\n\nChangelog:\n0.0.1: Fixed crash when attempting to 'lose' the improved portal panties, fixed portal rings so they should now stack when taken off. Fixed crash when retrieving portals. Added a couple more scenes.\n\n0.0.2: Fixed softlock when attempting certain actions.\n\n0.0.3: Fixed crashes when attempting rollback. Fixed portal ring variations being obtainable when not intended. Added some messages when attaching portal rings. Added differing effects when multiple linked rings are attached. Fixed incorrectly triggering sleeping and shower scenes when no portal items were equipped.\n\n0.0.4: Added conditions to various buttons so that you should no longer be able to view scenes for bodyparts that you don't have.",
-		"modversion": "0.0.4",
+		"description": "Adds additional portal equipment and new content based around portals. Currently on an early test version, so please give feedback. More is planned to be added.\n\nChangelog:\n0.0.1: Fixed crash when attempting to 'lose' the improved portal panties, fixed portal rings so they should now stack when taken off. Fixed crash when retrieving portals. Added a couple more scenes.\n\n0.0.2: Fixed softlock when attempting certain actions.\n\n0.0.3: Fixed crashes when attempting rollback. Fixed portal ring variations being obtainable when not intended. Added some messages when attaching portal rings. Added differing effects when multiple linked rings are attached. Fixed incorrectly triggering sleeping and shower scenes when no portal items were equipped.\n\n0.0.4: Added conditions to various buttons so that you should no longer be able to view scenes for bodyparts that you don't have.\n\n0.0.5: Fixed portal panties so they should now show random scenes correctly.\n\n0.0.6: Fixed some scenes not working correctly.\n\n0.1.0: Fixed crash when attempting to access vendomat (again), added more scenes.\n\n0.1.1: Fixed crash when attempting to attach portal rings.\n\n0.1.2: Fixed crash when attempting to attach portal rings (again).",
+		"modversion": "0.1.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PortalExpansionMod.zip"
+	},
+	{
+		"name": "Sylveon Species",
+		"author": "AverageAce",
+		"description": "The last of the Eeveelution mods. Sylveon comes with a new species and a few alt bodyparts.[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/sylPreview1.png]Preview 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/sylPreview2.png]Preview 2[/url]\n[b]Updated with a few more alternate parts[/b]",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SylveonSpeciesVer1.zip"
 	}
 	]
 }
