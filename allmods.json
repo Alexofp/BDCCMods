@@ -457,14 +457,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Chasitybeltmod.zip"
 	},
 	{
-		"name": "Hypnosis Kink",
-		"author": "PeteTimesSix",
-		"description": "Engage with exciting hypnotic arts! You can meet the prison's only licensed hypnotherapist in the Lilac cellblock, or if you prefer more forceful methods, it seems someone's left a package unattended in the engineering workshop. Or maybe the next guard you meet decides to go high-tech when tying you up. Regardless of which route you choose, engaging with hypnosis will grant you hypnosis skill XP, though there might be some drawbacks to learning how to make your mind malleable...\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/hypno1.png]Preview 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/hypno2.png]Preview 2[/url]\n\nSmall update",
-		"modversion": "1.2",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Hypnokink.zip"
-	},
-	{
 		"name": "Max-Maxou weapon vender",
 		"author": "Fantos (Code), Max-Maxou (Idea/Graphics), Zaxon Rapial (Scenes)",
 		"description": "Adds Max to the game as a weapons vender, He'll sell shivs, pipes and upgrade shock batons, There is a quest to get an armor. (update: it has a skin now thanks to Ace)\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/maxpreview.png]Click for Preview[/url]",
@@ -489,14 +481,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DragonsPlusVer0.9.zip"
 	},
 	{
-		"name": "More Drugs",
-		"author": "ButNotTooGay",
-		"description": "Adds new items that grant buffs but can also cause potentially undesirable side effects if abused.\nAdded Sensitivity Enhancer\n-Increases dodge chance and incoming lust damage\n-Can cause side effect Hypersensitivity: extremely sensitive skin makes it difficult to wear clothes\nAdded Libido Blocker\n-Grants lust armor but reduces the damage of your lust attacks\n-Can cause side effect Blocked Orgasms: orgasm becomes nearly impossible and edging makes it harder to focus\nThe items are located in the medical vender for now\n",
-		"modversion": "0.02",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreDrugsMod-v0.02.zip"
-	},
-	{
 		"name": "Hypertus",
 		"author": "CanInBad",
 		"description": "[b]WARNING: This contains hyper stuff, if you dislike it then leave[/b]\nThis mod [color=yellow][u][b]adds[/b][/u][/color] bodyparts that are infused with \"Bluespace anomalies\" that enhance them enough to become unstable size wise.\n\nThe \"Bluespace anomalies\" in question can be activated with a skill tree that added by this mod.\n\nTo gain the tree's experience, you have to invest some points in to vanilla perks.\n\n[u][b]Some or all perks might be hidden due to incompatible bodyparts!!![/b][/u]\n\nThere is no story in this version yet, but the perks and bodyparts might not break in the future\n\nOnly the player can get it at this time and I might not make it spawn with dynamic NPC\n\nHas compatibility layer between these mods:\n - Synth Species\n - Knotted Horse Cock\n - Fluffy Bodyparts\n - Avali Species (both version)\n - Ace's Aviary Addon\n\nif you have any feedback send it in #mods-discussion and ping me\nor open an issue on [url]https://github.com/CanInBad/HypertusMod[/url]\n \nChangelog\n * Fix Ace's Aviary Addon compatibility",
@@ -505,20 +489,60 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR2-hotfix2.zip"
 	},
 	{
+		"name": "Sylveon Species",
+		"author": "AverageAce",
+		"description": "The last of the Eeveelution mods. Sylveon comes with a new species and a few alt bodyparts.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/sylPreview1.png]Preview 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/sylPreview2.png]Preview 2[/url]\n[b]Updated with a few more alternate parts[/b]",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SylveonSpeciesVer1.zip"
+	},
+	{
 		"name": "Portal Expansion Mod",
 		"author": "ranchar",
 		"description": "Adds additional portal equipment and new content based around portals. Currently on an early test version, so please give feedback. More is planned to be added.\n\nChangelog:\n0.0.1: Fixed crash when attempting to 'lose' the improved portal panties, fixed portal rings so they should now stack when taken off. Fixed crash when retrieving portals. Added a couple more scenes.\n\n0.0.2: Fixed softlock when attempting certain actions.\n\n0.0.3: Fixed crashes when attempting rollback. Fixed portal ring variations being obtainable when not intended. Added some messages when attaching portal rings. Added differing effects when multiple linked rings are attached. Fixed incorrectly triggering sleeping and shower scenes when no portal items were equipped.\n\n0.0.4: Added conditions to various buttons so that you should no longer be able to view scenes for bodyparts that you don't have.\n\n0.0.5: Fixed portal panties so they should now show random scenes correctly.\n\n0.0.6: Fixed some scenes not working correctly.\n\n0.1.0: Fixed crash when attempting to access vendomat (again), added more scenes.\n\n0.1.1: Fixed crash when attempting to attach portal rings.\n\n0.1.2: Fixed crash when attempting to attach portal rings (again).",
-		"modversion": "0.1.1",
+		"modversion": "0.1.2",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PortalExpansionMod.zip"
 	},
 	{
-		"name": "Sylveon Species",
+		"name": "Transgender Flat Chest",
 		"author": "AverageAce",
-		"description": "The last of the Eeveelution mods. Sylveon comes with a new species and a few alt bodyparts.[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/sylPreview1.png]Preview 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/sylPreview2.png]Preview 2[/url]\n[b]Updated with a few more alternate parts[/b]",
+		"description": "Flat Chest with a mastectomy scar on it, for transgender purposes.\nNPCs wont generate with it, sadly. working on that.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/transchestpreview.png]Click for preview[/url]",
+		"modversion": "0.9",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/TransChestVer0.9.zip"
+	},
+	{
+		"name": "Hypnosis Kink",
+		"author": "PeteTimesSix",
+		"description": "Engage with exciting hypnotic arts! You can meet the prison's only licensed hypnotherapist in the Lilac cellblock, or if you prefer more forceful methods, it seems someone's left a package unattended in the engineering workshop. Or maybe the next guard you meet decides to go high-tech when tying you up. Regardless of which route you choose, engaging with hypnosis will grant you hypnosis skill XP, though there might be some drawbacks to learning how to make your mind malleable...\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/hypno1.png]Preview 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/hypno2.png]Preview 2[/url]\n\nSmall update",
+		"modversion": "1.2.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Hypnokink.zip"
+	},
+	{
+		"name": "Human cocks and legs only",
+		"author": "NatRobloxian",
+		"description": "this mod replaces all the main NPCs penis (if they have one) with a human one, also replaces legs to be plantigrade. this works with generated NPCs too (ONLY VAILLIA SPEICES WILL ONLY HAVE THESE CHANGES, I MIGHT ADD IN SUPPORT FOR MODDED SPEICES LATER) (also changed avy to like big cocks now cause why not lol, if u don't want it u can edit AvyCharacter.gd in the files of the mod and replace the npcLustInterests and interestVerbalReaction with the one from the vanilla file)\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/humanlegspreview.PNG]Click for preview[/url]",
 		"modversion": "1.0",
 		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SylveonSpeciesVer1.zip"
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Humancocksandlegsonly.zip"
+	},
+	{
+		"name": "Human legs only",
+		"author": "NatRobloxian",
+		"description": "this mod replaces all the main NPCs penis (if they have one) with a human one, also replaces legs to be plantigrade. this works with generated NPCs too (ONLY VAILLIA SPEICES WILL ONLY HAVE THESE CHANGES, I MIGHT ADD IN SUPPORT FOR MODDED SPEICES LATER) (also changed avy to like big cocks now cause why not lol, if u don't want it u can edit AvyCharacter.gd in the files of the mod and replace the npcLustInterests and interestVerbalReaction with the one from the vanilla file)\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/humanlegspreview.PNG]Click for preview[/url]",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Humanlegsonly.zip"
+	},
+	{
+		"name": "More Drugs",
+		"author": "ButNotTooGay",
+		"description": "Adds new items that grant buffs but can also cause potentially undesirable side effects if abused.\nAdded Sensitivity Enhancer\n-Increases dodge chance and incoming lust damage\n-Can cause side effect Hypersensitivity: extremely sensitive skin makes it difficult to wear clothes\nAdded Libido Blocker\n-Grants lust armor but reduces the damage of your lust attacks\n-Can cause side effect Blocked Orgasms: orgasm becomes nearly impossible and edging makes it harder to focus\nAdded Pheromone Spray\n-Increases lust attack and decreases lust defense\n-Can cause side effect Copious Pheromones: Lust steadily increases and encounters occur much more often\nAdded Toughness Booster\n-Improves block defense but lowers dodge chance\n-Can cause side effect Paralysis: Your body occasionally seizes up, leaving you vulnerable to being taken advantage of\n\nThe items are located in the medical vender for now\nThis update is incomplete. The item is mechanically functional, but there is a scene that contains only placeholder text.",
+		"modversion": "0.04a",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreDrugsMod-v0.04a.zip"
 	}
 	]
 }
