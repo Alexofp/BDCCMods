@@ -457,14 +457,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Chasitybeltmod.zip"
 	},
 	{
-		"name": "Max-Maxou weapon vender",
-		"author": "Fantos (Code), Max-Maxou (Idea/Graphics), Zaxon Rapial (Scenes)",
-		"description": "Adds Max to the game as a weapons vender, He'll sell shivs, pipes and upgrade shock batons, There is a quest to get an armor. (update: it has a skin now thanks to Ace)\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/maxpreview.png]Click for Preview[/url]",
-		"modversion": "1.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Max_Module.zip"
-	},
-	{
 		"name": "Ace's Aviary Addon",
 		"author": "AverageAce",
 		"description": "4 new species added, Avians, Birds, Gryphons, and Hippogriffs.[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AviaryPreview.png]Click for preview[/url]\n\n[b]A small fix that corrects the fact the module was using a blatanly incorrect file to tag the author and filename[/b]",
@@ -479,14 +471,6 @@
 		"modversion": "0.9",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DragonsPlusVer0.9.zip"
-	},
-	{
-		"name": "Hypertus",
-		"author": "CanInBad",
-		"description": "[b]WARNING: This contains hyper stuff, if you dislike it then leave[/b]\nThis mod [color=yellow][u][b]adds[/b][/u][/color] bodyparts that are infused with \"Bluespace anomalies\" that enhance them enough to become unstable size wise.\n\nThe \"Bluespace anomalies\" in question can be activated with a skill tree that added by this mod.\n\nTo gain the tree's experience, you have to invest some points in to vanilla perks.\n\n[u][b]Some or all perks might be hidden due to incompatible bodyparts!!![/b][/u]\n\nThere is no story in this version yet, but the perks and bodyparts might not break in the future\n\nOnly the player can get it at this time and I might not make it spawn with dynamic NPC\n\nHas compatibility layer between these mods:\n - Synth Species\n - Knotted Horse Cock\n - Fluffy Bodyparts\n - Avali Species (both version)\n - Ace's Aviary Addon\n\nif you have any feedback send it in #mods-discussion and ping me\nor open an issue on [url]https://github.com/CanInBad/HypertusMod[/url]\n \nChangelog\n * Fix Ace's Aviary Addon compatibility",
-		"modversion": "R2-hotfix2",
-		"gameversion": "0.1.1",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR2-hotfix2.zip"
 	},
 	{
 		"name": "Sylveon Species",
@@ -511,22 +495,6 @@
 		"modversion": "0.9",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/TransChestVer0.9.zip"
-	},
-	{
-		"name": "Hypnosis Kink",
-		"author": "PeteTimesSix",
-		"description": "Engage with exciting hypnotic arts! You can meet the prison's only licensed hypnotherapist in the Lilac cellblock, or if you prefer more forceful methods, it seems someone's left a package unattended in the engineering workshop. Or maybe the next guard you meet decides to go high-tech when tying you up. Regardless of which route you choose, engaging with hypnosis will grant you hypnosis skill XP, though there might be some drawbacks to learning how to make your mind malleable...\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/hypno1.png]Preview 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/hypno2.png]Preview 2[/url]\n\nSmall update",
-		"modversion": "1.2.2",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Hypnokink.zip"
-	},
-	{
-		"name": "Human cocks and legs only",
-		"author": "NatRobloxian",
-		"description": "this mod replaces all the main NPCs penis (if they have one) with a human one, also replaces legs to be plantigrade. this works with generated NPCs too (ONLY VAILLIA SPEICES WILL ONLY HAVE THESE CHANGES, I MIGHT ADD IN SUPPORT FOR MODDED SPEICES LATER) (also changed avy to like big cocks now cause why not lol, if u don't want it u can edit AvyCharacter.gd in the files of the mod and replace the npcLustInterests and interestVerbalReaction with the one from the vanilla file)\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/humanlegspreview.PNG]Click for preview[/url]",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Humancocksandlegsonly.zip"
 	},
 	{
 		"name": "Human legs only",
@@ -559,6 +527,30 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BoykisserArtVer1.zip"
+	},
+	{
+		"name": "Max-Maxou weapon vender",
+		"author": "Fantos (Code), Max-Maxou (Idea/Graphics), Zaxon Rapial (Scenes)",
+		"description": "Adds Max to the game as a weapons vender, He'll sell shivs, pipes and upgrade shock batons, There is a quest to get an armor. (update: remade the portraits)\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/maxpreview.png]Click for Preview[/url]",
+		"modversion": "1.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Max_mod.zip"
+	},
+	{
+		"name": "Human cocks and legs only",
+		"author": "NatRobloxian",
+		"description": "this mod replaces all the main NPCs penis (if they have one) with a human one, also replaces legs to be plantigrade. this works with generated NPCs too (ONLY VAILLIA SPEICES WILL ONLY HAVE THESE CHANGES, I MIGHT ADD IN SUPPORT FOR MODDED SPEICES LATER) (also changed avy to like big cocks now cause why not lol, if u don't want it u can edit AvyCharacter.gd in the files of the mod and replace the npcLustInterests and interestVerbalReaction with the one from the vanilla file)\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/humanlegspreview.PNG]Click for preview[/url]",
+		"modversion": "2.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Huamancocksandlegsonly.zip"
+	},
+	{
+		"name": "Hypertus",
+		"author": "CanInBad",
+		"description": "\n[b]WARNING: This contains hyper stuff, if you dislike it then leave[/b]\nThis mod [color=yellow][u][b]adds[/b][/u][/color] bodyparts that are infused with \"Bluespace anomalies\" that enhance them enough to become unstable size wise.\n\nThe \"Bluespace anomalies\" in question can be activated with a skill tree that added by this mod.\n\nTo gain the tree's experience, you have to invest some points in to vanilla perks.\n\n[u][b]Some or all perks might be hidden due to incompatible bodyparts!!![/b][/u]\n\nThere is no story in this version yet, but the perks and bodyparts might not break in the future\n\nOnly the player can get it at this time\n\nHas compatibility layer between these mods:\n - Synth Species\n - Knotted Horse Cock\n - Fluffy Bodyparts\n - Avali Species (both version)\n - Ace's Aviary Addon\n - Transgender Flat Chest\n\nif you have any feedback send it in #mods-discussion and ping me\nor open an issue on [url]https://github.com/CanInBad/HypertusMod[/url]\n\nChangelog\n * Version Bump\n * Added Transgender Flat Chest compatibility (:p)\n * Fixed penis pump states for this mod flared penises\n * \"Fixed\" hyperable equine knotted penis with pump \n * Made it possible to reach OMEGA breast size (hint: start at T)\n * made perks less grindy (might break save, if so please ping)",
+		"modversion": "R3",
+		"gameversion": "0.1.2bugfix1",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR3.zip"
 	}
 	]
 }
