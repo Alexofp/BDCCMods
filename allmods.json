@@ -497,14 +497,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/TransChestVer0.9.zip"
 	},
 	{
-		"name": "Hypnosis Kink",
-		"author": "PeteTimesSix",
-		"description": "Engage with exciting hypnotic arts! You can meet the prison's only licensed hypnotherapist in the Lilac cellblock, or if you prefer more forceful methods, it seems someone's left a package unattended in the engineering workshop. Or maybe the next guard you meet decides to go high-tech when tying you up. Regardless of which route you choose, engaging with hypnosis will grant you hypnosis skill XP, though there might be some drawbacks to learning how to make your mind malleable...\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/hypno1.png]Preview 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/hypno2.png]Preview 2[/url]\n\nSmall update",
-		"modversion": "1.2.2",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Hypnokink.zip"
-	},
-	{
 		"name": "Human legs only",
 		"author": "NatRobloxian",
 		"description": "this mod replaces all the main NPCs penis (if they have one) with a human one, also replaces legs to be plantigrade. this works with generated NPCs too (ONLY VAILLIA SPEICES WILL ONLY HAVE THESE CHANGES, I MIGHT ADD IN SUPPORT FOR MODDED SPEICES LATER) (also changed avy to like big cocks now cause why not lol, if u don't want it u can edit AvyCharacter.gd in the files of the mod and replace the npcLustInterests and interestVerbalReaction with the one from the vanilla file)\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/humanlegspreview.PNG]Click for preview[/url]",
