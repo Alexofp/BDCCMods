@@ -457,14 +457,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Chasitybeltmod.zip"
 	},
 	{
-		"name": "Max-Maxou weapon vender",
-		"author": "Fantos (Code), Max-Maxou (Idea/Graphics), Zaxon Rapial (Scenes)",
-		"description": "Adds Max to the game as a weapons vender, He'll sell shivs, pipes and upgrade shock batons, There is a quest to get an armor. (update: it has a skin now thanks to Ace)\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/maxpreview.png]Click for Preview[/url]",
-		"modversion": "1.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Max_Module.zip"
-	},
-	{
 		"name": "Ace's Aviary Addon",
 		"author": "AverageAce",
 		"description": "4 new species added, Avians, Birds, Gryphons, and Hippogriffs.[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AviaryPreview.png]Click for preview[/url]\n\n[b]A small fix that corrects the fact the module was using a blatanly incorrect file to tag the author and filename[/b]",
@@ -513,14 +505,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Hypnokink.zip"
 	},
 	{
-		"name": "Human cocks and legs only",
-		"author": "NatRobloxian",
-		"description": "this mod replaces all the main NPCs penis (if they have one) with a human one, also replaces legs to be plantigrade. this works with generated NPCs too (ONLY VAILLIA SPEICES WILL ONLY HAVE THESE CHANGES, I MIGHT ADD IN SUPPORT FOR MODDED SPEICES LATER) (also changed avy to like big cocks now cause why not lol, if u don't want it u can edit AvyCharacter.gd in the files of the mod and replace the npcLustInterests and interestVerbalReaction with the one from the vanilla file)\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/humanlegspreview.PNG]Click for preview[/url]",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Humancocksandlegsonly.zip"
-	},
-	{
 		"name": "Human legs only",
 		"author": "NatRobloxian",
 		"description": "this mod replaces all the main NPCs penis (if they have one) with a human one, also replaces legs to be plantigrade. this works with generated NPCs too (ONLY VAILLIA SPEICES WILL ONLY HAVE THESE CHANGES, I MIGHT ADD IN SUPPORT FOR MODDED SPEICES LATER) (also changed avy to like big cocks now cause why not lol, if u don't want it u can edit AvyCharacter.gd in the files of the mod and replace the npcLustInterests and interestVerbalReaction with the one from the vanilla file)\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/humanlegspreview.PNG]Click for preview[/url]",
@@ -551,6 +535,22 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BoykisserArtVer1.zip"
+	},
+	{
+		"name": "Max-Maxou weapon vender",
+		"author": "Fantos (Code), Max-Maxou (Idea/Graphics), Zaxon Rapial (Scenes)",
+		"description": "Adds Max to the game as a weapons vender, He'll sell shivs, pipes and upgrade shock batons, There is a quest to get an armor. (update: remade the portraits)\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/maxpreview.png]Click for Preview[/url]",
+		"modversion": "1.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Max_mod.zip"
+	},
+	{
+		"name": "Human cocks and legs only",
+		"author": "NatRobloxian",
+		"description": "this mod replaces all the main NPCs penis (if they have one) with a human one, also replaces legs to be plantigrade. this works with generated NPCs too (ONLY VAILLIA SPEICES WILL ONLY HAVE THESE CHANGES, I MIGHT ADD IN SUPPORT FOR MODDED SPEICES LATER) (also changed avy to like big cocks now cause why not lol, if u don't want it u can edit AvyCharacter.gd in the files of the mod and replace the npcLustInterests and interestVerbalReaction with the one from the vanilla file)\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/humanlegspreview.PNG]Click for preview[/url]",
+		"modversion": "2.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Huamancocksandlegsonly.zip"
 	},
 	{
 		"name": "Hypertus",
