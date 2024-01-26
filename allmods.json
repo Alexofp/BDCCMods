@@ -313,14 +313,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BodyModif.zip"
 	},
 	{
-		"name": "Knotted Equine Penis",
-		"author": "AverageAce",
-		"description": "A simple mod that adds a knotted equine penis to the character creator. NPCs dont currently spawn with this to my knowledge.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/KnottedEquinePenis.png]Click for Preview[/url]",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/KnottedEquinePenis.zip"
-	},
-	{
 		"name": "Rat Species",
 		"author": "Fantos",
 		"description": "It add the bigger and more dangerous of the cheese lover species, the rat. Now with skin support!\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/RatPreview.png]Click for Preview[/url]",
@@ -367,22 +359,6 @@
 		"modversion": "0.5",
 		"gameversion": "0.1.1",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RNGPerksv0.5.zip"
-	},
-	{
-		"name": "Synth Species",
-		"author": "AverageAce",
-		"description": "The robot lizard species, Originally made by Vader-San. Comes with a new species and a whole lot of new bodyparts. 3 penis types, 6 tail types, 6 arm types and more.\n[b]Updated again[/b] to fix more generation issues, and synths spawn with hair now, because the old way was making all npcs bald.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SynthSpeciesPreview.png]Click for Preview[/url]",
-		"modversion": "1.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SynthSpecies-Ver1.1.zip"
-	},
-	{
-		"name": "Synth Species (Breed Edition)",
-		"author": "AverageAce",
-		"description": "The robot lizard species, Originally made by Vader-San. Comes with a new species and a whole lot of new bodyparts. 3 penis types, 6 tail types, 6 arm types and more.\n[b]Updated again[/b] to fix more generation issues, and synths spawn with hair now, because the old way was making all npcs bald.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SynthSpeciesPreview.png]Click for Preview[/url]\nBreed Edition: All NPCs have a 50/50 chance to spawn with anal wombs.",
-		"modversion": "1.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SynthSpecies-Ver1.1-BreedEdition.zip"
 	},
 	{
 		"name": "Ace's Protogen Mod",
@@ -545,12 +521,36 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Huamancocksandlegsonly.zip"
 	},
 	{
+		"name": "Synth Species",
+		"author": "AverageAce",
+		"description": "The robot lizard species, Originally made by Vader-San. Comes with a new species and a whole lot of new bodyparts. 3 penis types, 6 tail types, 6 arm types and more.\n[b]Updated for the Alex Update, fixes some new things added, and the return of bald synths[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SynthSpeciesPreview.png]Click for Preview[/url]",
+		"modversion": "1.3",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SynthModVer1.3.zip"
+	},
+	{
+		"name": "Synth Species (Breed Edition)",
+		"author": "AverageAce",
+		"description": "The robot lizard species, Originally made by Vader-San. Comes with a new species and a whole lot of new bodyparts. 3 penis types, 6 tail types, 6 arm types and more.\n[b]Updated for the Alex Update, fixes some new things added, and the return of bald synths[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SynthSpeciesPreview.png]Click for Preview[/url]\nBreed Edition: Lets Male/Shemale npcs spawn with asswombs",
+		"modversion": "1.3",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SynthModVer1.3-B.zip"
+	},
+	{
+		"name": "Knotted Equine Penis",
+		"author": "AverageAce",
+		"description": "A simple mod that adds a knotted equine penis to the character creator. NPCs dont spawn with this.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/KnottedEquinePenis.png]Click for Preview[/url]",
+		"modversion": "2.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/KnottedEquinePenisVer2.zip"
+	},
+	{
 		"name": "Hypertus",
 		"author": "CanInBad",
 		"description": "\n[b]WARNING: This contains hyper stuff, if you dislike it then leave[/b]\nThis mod [color=yellow][u][b]adds[/b][/u][/color] bodyparts that are infused with \"Bluespace anomalies\" that enhance them enough to become unstable size wise.\n\nThe \"Bluespace anomalies\" in question can be activated with a skill tree that added by this mod.\n\nTo gain the tree's experience, you have to invest some points in to vanilla perks.\n\n[u][b]Some or all perks might be hidden due to incompatible bodyparts!!![/b][/u]\n\nThere is no story in this version yet, but the perks and bodyparts might not break in the future\n\nOnly the player can get it at this time\n\nHas compatibility layer between these mods:\n - Synth Species\n - Knotted Horse Cock\n - Fluffy Bodyparts\n - Avali Species (both version)\n - Ace's Aviary Addon\n - Transgender Flat Chest\n\nif you have any feedback send it in #mods-discussion and ping me\nor open an issue on [url]https://github.com/CanInBad/HypertusMod[/url]\n\nChangelog\n * Version Bump\n * Added Transgender Flat Chest compatibility (:p)\n * Fixed penis pump states for this mod flared penises\n * \"Fixed\" hyperable equine knotted penis with pump \n * Made it possible to reach OMEGA breast size (hint: start at T)\n * made perks less grindy (might break save, if so please ping)",
 		"modversion": "R3",
-		"gameversion": "0.1.2bugfix1",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR3.zip"
+		"gameversion": "0.1.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR3-1.zip"
 	}
 	]
 }
