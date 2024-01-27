@@ -57,22 +57,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Dildo.zip"
 	},
 	{
-		"name": "Stock Events",
-		"author": "Fantos (Code), Zaxon Rapial (Scenes)",
-		"description": "(Requires Rat Species mod!) This is a mod where you can find different characters randomly in the main hall public punishment area. So far there is only one character but planning to expand it, and if you are interested to help expanding the mod, please DM me. It comes in two version, one come with Rat Species module included since the mod depend on it, but if you have it just use the other version.",
-		"modversion": "1.2",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/StockEvents.zip"
-	},
-	{
-		"name": "Stock Events + Rat Species",
-		"author": "Fantos (Code), Zaxon Rapial (Scenes)",
-		"description": "This is a mod where you can find different characters randomly in the main hall public punishment area. So far there is only one character but planning to expand it, and if you are interested to help expanding the mod, please DM me. It comes in two version, one come with Rat Species module included since the mod depend on it, but if you have it just use the other version.",
-		"modversion": "1.2",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/StockEvents_RatSpecies.zip"
-	},
-	{
 		"name": "Racoon Species",
 		"author": "Fantos (Code), Max-Maxou (Graphics)",
 		"description": "Add the trash panda to the rooster with all the stripe and facemask",
@@ -551,6 +535,22 @@
 		"modversion": "R3",
 		"gameversion": "0.1.2",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR3-1.zip"
+	},
+	{
+		"name": "Stock Events",
+		"author": "Fantos (Code), Zaxon Rapial (Scenes)",
+		"description": "(Requires Rat Species mod!) This is a mod where you can find different characters randomly in the main hall public punishment area. So far there is only one character but planning to expand it, and if you are interested to help expanding the mod, please DM me. It comes in two version, one come with Rat Species module included since the mod depend on it, but if you have it just use the other version.",
+		"modversion": "1.2hotfix",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Stock_events.zip"
+	},
+	{
+		"name": "Stock Events + Rat Species",
+		"author": "Fantos (Code), Zaxon Rapial (Scenes)",
+		"description": "This is a mod where you can find different characters randomly in the main hall public punishment area. So far there is only one character but planning to expand it, and if you are interested to help expanding the mod, please DM me. It comes in two version, one come with Rat Species module included since the mod depend on it, but if you have it just use the other version.",
+		"modversion": "1.2hotfix",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Stock_events__Rat_species.zip"
 	}
 	]
 }
