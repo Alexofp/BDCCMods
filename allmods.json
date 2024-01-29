@@ -529,14 +529,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/KnottedEquinePenisVer2.zip"
 	},
 	{
-		"name": "Hypertus",
-		"author": "CanInBad",
-		"description": "\n[b]WARNING: This contains hyper stuff, if you dislike it then leave[/b]\n\nThis mods [b]adds[/b] [i](not replace)[/i] new body parts that just like the normal ones but you can upgrade them in a new skill tree that came with this mod. Said body parts are in form of breast, penises, vagina, and anus. \nThe mod also have capability layers that use the looks of your favorite body parts/species mod that add one of the 4 body part categories mentioned.\n\nYou gain experience points of said skill tree by invest in vanilla perks and then sleep, each time you wake up you will be notified how much of them you get. \nYou can then spend those point to add ridiculous amount of perks to your body parts. \n\nThere is a draft of the story but it isn't complete in anyway and some glimpse of it can be read in the perks' description.\n\nIf you want to play Hypertus in your current save (not recommended), you have to enable debug mode and change bodyparts that you want a hyperable version of.\n\nHas compatibility layer between these mods:\n - Synth Species\n - Knotted Horse Cock\n - Fluffy Bodyparts\n - Avali Species (both version)\n - Ace's Aviary Addon\n - Transgender Flat Chest\n\nIf you have any feedback send it in #mods-discussion and ping me,\nor open an issue on [url]https://github.com/CanInBad/HypertusMod/issues[/url].\n\nChangelog\n * Actually fixing penis pump with knotted horse cock\n * Added penis skins from base game\n * Reworked penises resize to make 1 cm achievable as well as making getting out of it more easy\n * Fixed one of the resizing perk not displaying detailed description\n * Added another effect to HyperCum4 due to penises being milkable",
-		"modversion": "R3",
-		"gameversion": "0.1.2",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR3-1.zip"
-	},
-	{
 		"name": "Stock Events",
 		"author": "Fantos (Code), Zaxon Rapial (Scenes)",
 		"description": "(Requires Rat Species mod!) This is a mod where you can find different characters randomly in the main hall public punishment area. So far there is only one character but planning to expand it, and if you are interested to help expanding the mod, please DM me. It comes in two version, one come with Rat Species module included since the mod depend on it, but if you have it just use the other version.",
@@ -551,6 +543,14 @@
 		"modversion": "1.2hotfix",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Stock_events__Rat_species.zip"
+	},
+	{
+		"name": "Hypertus",
+		"author": "CanInBad",
+		"description": "\n[b]WARNING: This contains hyper stuff, if you dislike it then leave[/b]\n\nThis mods [b]adds[/b] [i](not replace)[/i] new body parts that just like the normal ones but you can upgrade them in a new skill tree that came with this mod. Said body parts are in form of breast, penises, vagina, and anus. \nThe mod also have capability layers that use the looks of your favorite body parts/species mod that add one of the 4 body part categories mentioned.\n\nYou gain experience points of said skill tree by invest in vanilla perks and then sleep, each time you wake up you will be notified how much of them you get. \nYou can then spend those point to add ridiculous amount of perks to your body parts. \n\nThere is a draft of the story but it isn't complete in anyway and some glimpse of it can be read in the perks' description.\n\nIf you want to play Hypertus in your current save (not recommended), you have to enable debug mode and change bodyparts that you want a hyperable version of.\n\nHas compatibility layer between these mods:\n - Synth Species\n - Knotted Horse Cock\n - Fluffy Bodyparts\n - Avali Species (both version)\n - Ace's Aviary Addon\n - Transgender Flat Chest\n\nIf you have any feedback send it in #mods-discussion and ping me,\nor open an issue on [url]https://github.com/CanInBad/HypertusMod/issues[/url].\n\nChangelog\n * fix logic error in return XP function",
+		"modversion": "R3-2",
+		"gameversion": "0.1.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR3-2.zip"
 	}
 	]
 }
