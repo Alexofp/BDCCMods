@@ -537,14 +537,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Stock_events__Rat_species.zip"
 	},
 	{
-		"name": "Hypertus",
-		"author": "CanInBad",
-		"description": "\n[b]WARNING: This contains hyper stuff, if you dislike it then leave[/b]\n\nThis mods [b]adds[/b] [i](not replace)[/i] new body parts that just like the normal ones but you can upgrade them in a new skill tree that came with this mod. Said body parts are in form of breast, penises, vagina, and anus. \nThe mod also have capability layers that use the looks of your favorite body parts/species mod that add one of the 4 body part categories mentioned.\n\nYou gain experience points of said skill tree by invest in vanilla perks and then sleep, each time you wake up you will be notified how much of them you get. \nYou can then spend those point to add ridiculous amount of perks to your body parts. \n\nThere is a draft of the story but it isn't complete in anyway and some glimpse of it can be read in the perks' description.\n\nIf you want to play Hypertus in your current save (not recommended), you have to enable debug mode and change bodyparts that you want a hyperable version of.\n\nHas compatibility layer between these mods:\n - Synth Species\n - Knotted Horse Cock\n - Fluffy Bodyparts\n - Avali Species (both version)\n - Ace's Aviary Addon\n - Transgender Flat Chest\n\nIf you have any feedback send it in #mods-discussion and ping me,\nor open an issue on [url]https://github.com/CanInBad/HypertusMod/issues[/url].\n\nChangelog\n * fix logic error in return XP function",
-		"modversion": "R3-2",
-		"gameversion": "0.1.2",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR3-2.zip"
-	},
-	{
 		"name": "Human cocks and legs only",
 		"author": "NatRobloxian",
 		"description": "this mod replaces all the main NPCs penis (if they have one) with a human one, also replaces legs to be plantigrade. this works with generated NPCs too (ONLY VAILLIA SPEICES WILL ONLY HAVE THESE CHANGES, I MIGHT ADD IN SUPPORT FOR MODDED SPEICES LATER) (also changed avy to like big cocks now cause why not lol, if u don't want it u can edit AvyCharacter.gd in the files of the mod and replace the npcLustInterests and interestVerbalReaction with the one from the vanilla file)\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/humanlegspreview.PNG]Click for preview[/url]",
@@ -559,6 +551,30 @@
 		"modversion": "1.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WhiteThighHighsVer1.1.zip"
+	},
+	{
+		"name": "Hypertus",
+		"author": "CanInBad",
+		"description": "\n[b]WARNING: This contains hyper stuff, if you dislike it then leave[/b]\n\nThis mods [b]adds[/b] [i](not replace)[/i] new body parts that just like the normal ones but you can upgrade them in a new skill tree that came with this mod. Said body parts are in form of breast, penises, vagina, and anus. \nThe mod also have capability layers that use the looks of your favorite body parts/species mod that add one of the 4 body part categories mentioned.\n\nYou gain experience points of said skill tree by invest in vanilla perks and then sleep, each time you wake up you will be notified how much of them you get. \nYou can then spend those point to add ridiculous amount of perks to your body parts. \n\nThere is a draft of the story but it isn't complete in anyway and some glimpse of it can be read in the perks' description.\n\nIf you want to play Hypertus in your current save (not recommended), you have to enable debug mode and change bodyparts that you want a hyperable version of.\n\nHas compatibility layer between these mods:\n - Synth Species\n - Knotted Horse Cock\n - Fluffy Bodyparts\n - Avali Species (both version)\n - Ace's Aviary Addon\n - Transgender Flat Chest\n\nIf you have any feedback send it in #mods-discussion and ping me,\nor open an issue on [url]https://github.com/CanInBad/HypertusMod/issues[/url].\n\nChangelog\n * preparation for large compatiablity mod",
+		"modversion": "R3-3",
+		"gameversion": "0.1.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR3-3.zip"
+	},
+	{
+		"name": "Hypertus Species Compat Layers",
+		"author": "CanInBad & other authors that create the species",
+		"description": "This mod replaces EVERY species (yes even the modded one) files after 0.1.0 (the skin update) and will likly break in the future.\n[b]Android is not supported due to limitation on BDCC.pck loading first[/b]\n\n[b]!!!!! MAKE SURE THAT THIS MOD IS ABOVE EVERYTHING ELSE ON THE MOD LOADER !!!!![/b]",
+		"modversion": "B2",
+		"gameversion": "0.1.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/hyperSpeciesLayersB2.zip"
+	},
+	{
+		"name": "Hypertus Species Compat Layers, no anus womb",
+		"author": "CanInBad & other authors that create the species",
+		"description": "This mod replaces EVERY species (yes even the modded one) files after 0.1.0 (the skin update) and will likly break in the future. This version doesn't make NPC spawn with anus womb\n[b]Android is not supported due to limitation on BDCC.pck loading first[/b]\n\n[b]!!!!! MAKE SURE THAT THIS MOD IS ABOVE EVERYTHING ELSE ON THE MOD LOADER !!!!![/b]",
+		"modversion": "B2-nonAW",
+		"gameversion": "0.1.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/hyperSpeciesLayersB2-nonAW.zip"
 	}
 	]
 }
