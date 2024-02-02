@@ -473,14 +473,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreDrugsMod-v0.04a.zip"
 	},
 	{
-		"name": "Scalie Expansion",
-		"author": "AverageAce",
-		"description": "A species expansion pack with 5 species, Kobold, Snake, Eastern Dragon, Felkin, and Wickerbeasts. Comes with some new horns as well.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/scaliepreview.png]Click for preview[/url]",
-		"modversion": "0.9",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ScalieExpansionVer0.9.zip"
-	},
-	{
 		"name": "Boykisser Portraits",
 		"author": "AverageAce",
 		"description": "You like BDCC, Don't You?\nWorks with all vanilla character portraits (Alex, Avy, The Captain, Eliza, Ferri, Jacki, Kait, Nova, Rahi, Risha, and Tavi.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/kisserspreview.png]Click for preview[/url]",
@@ -537,22 +529,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Stock_events__Rat_species.zip"
 	},
 	{
-		"name": "Human cocks and legs only",
-		"author": "NatRobloxian",
-		"description": "this mod replaces all the main NPCs penis (if they have one) with a human one, also replaces legs to be plantigrade. this works with generated NPCs too (ONLY VAILLIA SPEICES WILL ONLY HAVE THESE CHANGES, I MIGHT ADD IN SUPPORT FOR MODDED SPEICES LATER) (also changed avy to like big cocks now cause why not lol, if u don't want it u can edit AvyCharacter.gd in the files of the mod and replace the npcLustInterests and interestVerbalReaction with the one from the vanilla file)\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/humanlegspreview.PNG]Click for preview[/url]",
-		"modversion": "2.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Humancocksandlegsonly.zip"
-	},
-	{
-		"name": "White Thigh Highs",
-		"author": "AverageAce",
-		"description": "A bundle of thigh highs, this time in white\nThey can be printed from the laundromat uniform vendor, with a special bonus awkwardly jammed into the underwear vendor \n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/tighsPreview.png]Click for Preview[/url]",
-		"modversion": "1.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WhiteThighHighsVer1.1.zip"
-	},
-	{
 		"name": "Hypertus",
 		"author": "CanInBad",
 		"description": "\n[b]WARNING: This contains hyper stuff, if you dislike it then leave[/b]\n\nThis mods [b]adds[/b] [i](not replace)[/i] new body parts that just like the normal ones but you can upgrade them in a new skill tree that came with this mod. Said body parts are in form of breast, penises, vagina, and anus. \nThe mod also have capability layers that use the looks of your favorite body parts/species mod that add one of the 4 body part categories mentioned.\n\nYou gain experience points of said skill tree by invest in vanilla perks and then sleep, each time you wake up you will be notified how much of them you get. \nYou can then spend those point to add ridiculous amount of perks to your body parts. \n\nThere is a draft of the story but it isn't complete in anyway and some glimpse of it can be read in the perks' description.\n\nIf you want to play Hypertus in your current save (not recommended), you have to enable debug mode and change bodyparts that you want a hyperable version of.\n\nHas compatibility layer between these mods:\n - Synth Species\n - Knotted Horse Cock\n - Fluffy Bodyparts\n - Avali Species (both version)\n - Ace's Aviary Addon\n - Transgender Flat Chest\n\nIf you have any feedback send it in #mods-discussion and ping me,\nor open an issue on [url]https://github.com/CanInBad/HypertusMod/issues[/url].\n\nChangelog\n * preparation for large compatiablity mod",
@@ -561,20 +537,44 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR3-3.zip"
 	},
 	{
+		"name": "Human cocks and legs only",
+		"author": "NatRobloxian",
+		"description": "this mod replaces all the main NPCs penis (if they have one) with a human one, also replaces legs to be plantigrade. this works with generated NPCs too\n[b]UPDATE: Ace's protogen mod is now supported[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/humanlegspreview.PNG]Click for preview[/url]",
+		"modversion": "0.4.5",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Humancocksandlegsonlyv2.zip"
+	},
+	{
+		"name": "White Thigh Highs",
+		"author": "AverageAce",
+		"description": "A bundle of thigh highs, this time in white\nThey can be printed from the laundromat uniform vendor, with a special bonus awkwardly jammed into the underwear vendor\n[b]Updated to fix the special something to be wearable[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/tighsPreview.png]Click for Preview[/url]",
+		"modversion": "2.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WhiteThighHighsVer2.zip"
+	},
+	{
+		"name": "Scalie Expansion",
+		"author": "AverageAce",
+		"description": "A species expansion pack with 5 species, Kobold, Snake, Eastern Dragon, Felkin, and Wickerbeasts. Comes with some new horns as well.\n[b]Update: Fixes a few things with horns, Character Creation/NPC Generation, and adds fluff to the wickerbeast tail[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/scaliepreview.png]Click for preview[/url]",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ScalieExpansionVer1.zip"
+	},
+	{
 		"name": "Hypertus Species Compat Layers",
 		"author": "CanInBad & other authors that create the species",
-		"description": "This mod replaces EVERY species (yes even the modded one) files after 0.1.0 (the skin update) and will likly break in the future.\n[b]Android is not supported due to limitation on BDCC.pck loading first[/b]\n\n[b]!!!!! MAKE SURE THAT THIS MOD IS ABOVE EVERYTHING ELSE ON THE MOD LOADER !!!!![/b]",
-		"modversion": "B2",
+		"description": "This mod replaces EVERY species (yes even the modded one but only after 0.1.0 (the skin update)) and will likly break in the future.\n[b]Android is not supported due to limitation on BDCC.pck loading first[/b]\nChangelog:\n - adjust to latest Scalie Expansion\n\n[b]!!!!! MAKE SURE THAT THIS MOD IS ABOVE EVERYTHING ELSE ON THE MOD LOADER !!!!![/b]",
+		"modversion": "R1",
 		"gameversion": "0.1.2",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/hyperSpeciesLayersB2.zip"
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/hyperSpeciesLayersR1.zip"
 	},
 	{
 		"name": "Hypertus Species Compat Layers, no anus womb",
 		"author": "CanInBad & other authors that create the species",
-		"description": "This mod replaces EVERY species (yes even the modded one) files after 0.1.0 (the skin update) and will likly break in the future. This version doesn't make NPC spawn with anus womb\n[b]Android is not supported due to limitation on BDCC.pck loading first[/b]\n\n[b]!!!!! MAKE SURE THAT THIS MOD IS ABOVE EVERYTHING ELSE ON THE MOD LOADER !!!!![/b]",
-		"modversion": "B2-nonAW",
+		"description": "This mod replaces EVERY species (yes even the modded one but only after 0.1.0 (the skin update)) and will likly break in the future. This version doesn't make NPC spawn with anus womb\n[b]Android is not supported due to limitation on BDCC.pck loading first[/b]\nChangelog:\n - adjust to latest Scalie Expansion\n\n[b]!!!!! MAKE SURE THAT THIS MOD IS ABOVE EVERYTHING ELSE ON THE MOD LOADER !!!!![/b]",
+		"modversion": "R1-nonAW",
 		"gameversion": "0.1.2",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/hyperSpeciesLayersB2-nonAW.zip"
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/hyperSpeciesLayersR1-nonAW.zip"
 	}
 	]
 }
