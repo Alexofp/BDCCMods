@@ -529,14 +529,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Stock_events__Rat_species.zip"
 	},
 	{
-		"name": "Hypertus",
-		"author": "CanInBad",
-		"description": "\n[b]WARNING: This contains hyper stuff, if you dislike it then leave[/b]\n\nThis mods [b]adds[/b] [i](not replace)[/i] new body parts that just like the normal ones but you can upgrade them in a new skill tree that came with this mod. Said body parts are in form of breast, penises, vagina, and anus. \nThe mod also have capability layers that use the looks of your favorite body parts/species mod that add one of the 4 body part categories mentioned.\n\nYou gain experience points of said skill tree by invest in vanilla perks and then sleep, each time you wake up you will be notified how much of them you get. \nYou can then spend those point to add ridiculous amount of perks to your body parts. \n\nThere is a draft of the story but it isn't complete in anyway and some glimpse of it can be read in the perks' description.\n\nIf you want to play Hypertus in your current save (not recommended), you have to enable debug mode and change bodyparts that you want a hyperable version of.\n\nHas compatibility layer between these mods:\n - Synth Species\n - Knotted Horse Cock\n - Fluffy Bodyparts\n - Avali Species (both version)\n - Ace's Aviary Addon\n - Transgender Flat Chest\n\nIf you have any feedback send it in #mods-discussion and ping me,\nor open an issue on [url]https://github.com/CanInBad/HypertusMod/issues[/url].\n\nChangelog\n * preparation for large compatiablity mod",
-		"modversion": "R3-3",
-		"gameversion": "0.1.2",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR3-3.zip"
-	},
-	{
 		"name": "Human cocks and legs only",
 		"author": "NatRobloxian",
 		"description": "this mod replaces all the main NPCs penis (if they have one) with a human one, also replaces legs to be plantigrade. this works with generated NPCs too\n[b]UPDATE: Ace's protogen mod is now supported[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/humanlegspreview.PNG]Click for preview[/url]",
@@ -575,6 +567,14 @@
 		"modversion": "R1-nonAW",
 		"gameversion": "0.1.2",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/hyperSpeciesLayersR1-nonAW.zip"
+	},
+	{
+		"name": "Hypertus",
+		"author": "CanInBad",
+		"description": "\n[b]WARNING: This contains hyper stuff, if you dislike it then leave[/b]\n\nThis mods [i][b]adds[/b] (not replace)[/i] new body parts that just are like the normal ones but you can upgrade them in a new skill tree that comes with this mod.\n[img=16]res://Images/World/important.png[/img][b]Said body parts are in form of breast, penises, vagina, and anus.[/b][img=16]res://Images/World/important.png[/img]\nThis mod also have capability layers that use the looks of your favorite body parts mod, including ones from species mod that add one of the 4 body part categories mentioned.\n\nYou can gain experience points of said skill tree by invest in vanilla perks and then sleep, each time you wake up you will be notified how much of them you get.\nYou can then spend those point to add ridiculous amount of perks to your body parts.\nPlease do note that some perks might be hidden due to not meeting the requirement for the perk.\n\nThere is a draft of the story but it isn't complete in anyway and some glimpse of it can be read in the perks' description.\n\nThere are compatibility layers mods that make all species including the modded one have the body parts this mod provides\n\nIf you want to play Hypertus in your current save (not recommended), you have to enable debug mode and change body parts to be the hyperable version.\n\nHas compatibility layer between these mods:\n - Synth Species\n - Knotted Horse Cock\n - Fluffy Bodyparts\n - Avali Species (both version)\n - Ace's Aviary Addon\n - Transgender Flat Chest\n\nIf you have any feedback send it in #mods-discussion and ping me,\nor open an issue on [url]https://github.com/CanInBad/HypertusMod/issues[/url].\n\nChangelog\n * change the function hiddenWhenLocked to mimic the function before R3-3\n * actually make function getBuff of some perks refer to the npc that have it, not the player\n * fixed hyperable dragon penis skins (i love mistyping, its too late to fix it now)",
+		"modversion": "R3-4",
+		"gameversion": "0.1.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR3-4.zip"
 	}
 	]
 }
