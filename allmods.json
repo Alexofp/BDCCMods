@@ -575,6 +575,30 @@
 		"modversion": "R3-4",
 		"gameversion": "0.1.2",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR3-4.zip"
+	},
+	{
+		"name": "Angular Converted",
+		"description": "This mod add AverageAce's Angular skin mod that is registered via Module system making it loadable in mod form without extraction",
+		"author": "\nConversion:\n  CanInBad\nSkin Maker:\n  AverageAce",
+		"modversion": "R1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AngularSkinConv.zip"
+	},
+	{
+		"name": "Industrial Skin Converted",
+		"description": "This mod add AverageAce's Industrial skin mod that is registered via Module system making it loadable in mod form without extraction",
+		"author": "\nConversion:\n  CanInBad\nSkin Maker:\n  AverageAce",
+		"modversion": "R1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/IndustrialSkinConv.zip"
+	},
+	{
+		"name": "LayeredSkin Converted",
+		"description": "This mod add AverageAce's LayeredSkin mod that is registered via Module system making it loadable in mod form without extraction",
+		"author": "\nConversion:\n  CanInBad\nSkin Maker:\n  AverageAce",
+		"modversion": "R1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/LayeredSkinConv.zip"
 	}
 	]
 }
