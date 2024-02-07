@@ -594,7 +594,7 @@
 	},
 	{
 		"name": "Sabertooth Heads",
-		"description": "A version of the feline and wolf heads with extra teeth, if you're into that. lower spawn rates on NPCs [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SabertoothHeadsPreview.png]Click for Preview[/url]",
+		"description": "A version of the feline and wolf heads with extra teeth, if you're into that. lower spawn rates on NPCs\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SabertoothHeadsPreview.png]Click for Preview[/url]",
 		"author": "AverageAce",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -611,7 +611,7 @@
 	{
 		"name": "Toilet slave mod",
 		"description": "[b]!!!!THIS MOD CONTAINS WATERSPORTS CONTENT!!!![/b]Little mod what add a event to toilets like slutwall or stocks.",
-		"author": "AverageAce",
+		"author": "reggie_the_fennec",
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ToiletSlaveMod.zip"
@@ -623,6 +623,14 @@
 		"modversion": "R3-6",
 		"gameversion": "0.1.2",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR3-6.zip"
+	},
+	{
+		"name": "Long Uniform",
+		"author": "AverageAce",
+		"description": "Adds a longer and fleshed out prisoner uniform (Drawn by MaxMaxouCat). Found in the Laundromat Vendor for 25 creds.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/LongUniformPreview.png]Click for Preview[/url]",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/LongUniformVer1.zip"
 	}
 	]
 }
