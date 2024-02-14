@@ -601,28 +601,12 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SabertoothHeadsVer1.zip"
 	},
 	{
-		"name": "Ace's Worldbuilding Mod",
-		"description": "A mod that adds or replaces various things in the game to add more fluff text or world building.\nRight now its just room descriptions, but I do plan on adding more things to build more narrative, when I figure it out atleast.\nReminder that my interpretation of the BDCC prison is my own, anything could change later depending on what Rahi makes.\nAlso be vigilant of errors in this one, with what little there is, it touches a lot of other things and I cant cover them all with a testing process.",
-		"author": "AverageAce",
-		"modversion": "0.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AcesWorldBuildingModVer0.1.zip"
-	},
-	{
 		"name": "Toilet slave mod",
 		"description": "[b]!!!!THIS MOD CONTAINS WATERSPORTS CONTENT!!!![/b]\n\nLittle mod what add a event to toilets like slutwall or stocks.",
 		"author": "Reggie",
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ToiletSlaveMod.zip"
-	},
-	{
-		"name": "More Uniforms",
-		"author": "AverageAce & Max-Maxou",
-		"description": "Adds a long prisoner uniform, and a croptop uniform, each with unique stats. also adds nipple tape as a bra option. Found in the Laundromat Vendor.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreUniformsPreview.png]Click for Preview[/url]",
-		"modversion": "2.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreUniformsVer2.zip"
 	},
 	{
 		"name": "Clothes Megapack",
@@ -639,6 +623,22 @@
 		"modversion": "R3-7",
 		"gameversion": "0.1.2",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR3-7.zip"
+	},
+	{
+		"name": "Ace's Worldbuilding Mod",
+		"description": "A mod that adds or replaces various things in the game to add more fluff text or world building.\nRight now its just room descriptions, but I do plan on adding more things to build more narrative, when I figure it out atleast.\nReminder that my interpretation of the BDCC prison is my own, anything could change later depending on what Rahi makes.\nAlso be vigilant of errors in this one, with what little there is, it touches a lot of other things and I cant cover them all with a testing process.\n[b]-Ver0.2: Added Gym, Underground, and Greenhouse Descriptions[/b]",
+		"author": "AverageAce",
+		"modversion": "0.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AcesWorldbuildingModVer0.2.zip"
+	},
+	{
+		"name": "More Uniforms",
+		"author": "AverageAce & Max-Maxou",
+		"description": "Adds a long prisoner uniform, and a croptop uniform, each with unique stats. also adds nipple tape as a bra option. Found in the Laundromat Vendor.\n[b]Ver 3: Adds pussy tape[/b]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreUniformsPreview.png]Click for Preview[/url]",
+		"modversion": "3.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreUniformsVer3.1.zip"
 	}
 	]
 }
