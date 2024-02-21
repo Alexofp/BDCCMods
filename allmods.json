@@ -635,7 +635,7 @@
 	{
 		"name": "Hypertus Species Compat Layers",
 		"author": "CanInBad & other authors that create the species",
-		"description": "This mod replaces EVERY species (yes even the modded one but only after 0.1.0 (the skin update)) and will likly break in the future.\n[b]Android is not supported due to limitation on BDCC.pck loading first[/b]\nChangelog:\n - adjust to latest Scalie Expansion\n\n[b]!!!!! MAKE SURE THAT THIS MOD IS ABOVE EVERYTHING ELSE ON THE MOD LOADER !!!!![/b]",
+		"description": "[b]This mod REQUIRES HYPERTUS!!![/b]\nif Hypertus does not exist, it will force close the game!\n\nThis mod overwrite all the species *(yes, even the modded ones)* with skin support to have hyperable parts.\n\nThis is an overwritten version, no need to put this mod above everything else because it doesn't overwrite files anymore.\n\nThis mod also sports BreedEdition detector, will enable BreedEdition for ones that you have them on",
 		"modversion": "R2",
 		"gameversion": "0.1.2",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusSpeciesCompactLayersR2.zip"
@@ -643,7 +643,7 @@
 	{
 		"name": "Hypertus Species Compat Layers, \"Breed Edition\"",
 		"author": "CanInBad & other authors that create the species",
-		"description": "This mod replaces EVERY species (yes even the modded one but only after 0.1.0 (the skin update)) and will likly break in the future. This version doesn't make NPC spawn with anus womb\n[b]Android is not supported due to limitation on BDCC.pck loading first[/b]\nChangelog:\n - adjust to latest Scalie Expansion\n\n[b]!!!!! MAKE SURE THAT THIS MOD IS ABOVE EVERYTHING ELSE ON THE MOD LOADER !!!!![/b]",
+		"description": "[b]This mod REQUIRES HYPERTUS!!![/b]\nif Hypertus does not exist, it will force close the game!\n\nThis mod overwrite all the species *(yes, even the modded ones)* with skin support to have hyperable parts.\n\nThis is an overwritten version, no need to put this mod above everything else because it doesn't overwrite files anymore.\n\nThis edition will force every species to have 50% chance of getting anus womb",
 		"modversion": "R2",
 		"gameversion": "0.1.2",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusSpeciesCompactLayersR2-BreedEdition.zip"
