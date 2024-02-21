@@ -273,22 +273,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HologlassV1.zip"
 	},
 	{
-		"name": "Skulldog Species",
-		"author": "AverageAce",
-		"description": "Adds a cryptid skull-canine that goes by a few different names. Comes with a custom species, Two head types, one ear + alt look, and a body.\n[url=https://media.discordapp.net/attachments/1021686418512289792/1142957375536513094/image.png]Click for Preview[/url]",
-		"modversion": "0.9",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SkulldogSpeciesVer0.9.zip"
-	},
-	{
-		"name": "Skulldog Species Breed Edition",
-		"author": "AverageAce",
-		"description": "Adds a cryptid skull-canine that goes by a few different names. Comes with a custom species, Two head types, one ear + alt look, and a body.\n[url=https://media.discordapp.net/attachments/1021686418512289792/1142957375536513094/image.png]Click for Preview[/url]\n\n[b]Bonus: Breed edition[/b]: a version of this mod with a single change, npc's of this species can spawn with anus wombs, a small but very noticeable difference. For people like myself who like to breed anyone and everyone. (download one or the other)",
-		"modversion": "0.9",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SkullDogVer0.9_-_Breed_Edition.zip"
-	},
-	{
 		"name": "Body Modification",
 		"author": "AR2000",
 		"description": "Adds a new scene at the medical bay (talk to the nurse) to change your body in exchange for some credits.",
@@ -375,14 +359,6 @@
 		"modversion": "0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ProstheticPartsVer0.zip"
-	},
-	{
-		"name": "Ace's Shark Species",
-		"author": "AverageAce",
-		"description": "[b]FISH[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AceSharkPreview.png]Click for Preview[/url]",
-		"modversion": "1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AcesSharkSpeciesVer1.zip"
 	},
 	{
 		"name": "Avali Species",
@@ -553,22 +529,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ScalieExpansionVer1.zip"
 	},
 	{
-		"name": "Hypertus Species Compat Layers",
-		"author": "CanInBad & other authors that create the species",
-		"description": "This mod replaces EVERY species (yes even the modded one but only after 0.1.0 (the skin update)) and will likly break in the future.\n[b]Android is not supported due to limitation on BDCC.pck loading first[/b]\nChangelog:\n - adjust to latest Scalie Expansion\n\n[b]!!!!! MAKE SURE THAT THIS MOD IS ABOVE EVERYTHING ELSE ON THE MOD LOADER !!!!![/b]",
-		"modversion": "R1",
-		"gameversion": "0.1.2",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/hyperSpeciesLayersR1.zip"
-	},
-	{
-		"name": "Hypertus Species Compat Layers, no anus womb",
-		"author": "CanInBad & other authors that create the species",
-		"description": "This mod replaces EVERY species (yes even the modded one but only after 0.1.0 (the skin update)) and will likly break in the future. This version doesn't make NPC spawn with anus womb\n[b]Android is not supported due to limitation on BDCC.pck loading first[/b]\nChangelog:\n - adjust to latest Scalie Expansion\n\n[b]!!!!! MAKE SURE THAT THIS MOD IS ABOVE EVERYTHING ELSE ON THE MOD LOADER !!!!![/b]",
-		"modversion": "R1-nonAW",
-		"gameversion": "0.1.2",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/hyperSpeciesLayersR1-nonAW.zip"
-	},
-	{
 		"name": "Angular Converted",
 		"description": "This mod add AverageAce's Angular skin mod that is registered via Module system making it loadable in mod form without extraction",
 		"author": "Conversion: CanInBad & Skin Maker: AverageAce",
@@ -617,14 +577,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Clothes_Megapack.zip"
 	},
 	{
-		"name": "Hypertus",
-		"author": "CanInBad",
-		"description": "\n[b]WARNING: This contains hyper stuff, if you dislike it then leave[/b]\n\nThis mods [i][b]adds[/b] (not replace)[/i] new body parts that just are like the normal ones but you can upgrade them in a new skill tree that comes with this mod.\n[img=16]res://Images/World/important.png[/img][b]Said body parts are in form of breast, penises, vagina, and anus.[/b][img=16]res://Images/World/important.png[/img]\nThis mod also have capability layers that use the looks of your favorite body parts mod, including ones from species mod that add one of the 4 body part categories mentioned.\n\nYou can gain experience points of said skill tree by invest in vanilla perks and then sleep, each time you wake up you will be notified how much of them you get.\nYou can then spend those point to add ridiculous amount of perks to your body parts.\nPlease do note that some perks might be hidden due to not meeting the requirement for the perk.\n\nThere is a draft of the story but it isn't complete in anyway and some glimpse of it can be read in the perks' description.\n\nThere are compatibility layers mods that make all species including the modded one have the body parts this mod provides\n\nIf you want to play Hypertus in your current save (not recommended), you have to enable debug mode and change body parts to be the hyperable version.\n\nHas compatibility layer between these mods:\n - Synth Species\n - Knotted Horse Cock\n - Fluffy Bodyparts\n - Avali Species (both version)\n - Ace's Aviary Addon\n - Transgender Flat Chest\n\nIf you have any feedback send it in #mods-discussion and ping me,\nor open an issue on [url]https://github.com/CanInBad/HypertusMod/issues[/url].\n\nChangelog\n * Fixed crashing when resizing other inmates' breasts in sex\n * Fixed modded compatibility layer parts not having \"Hyperable\" attribute\n * Fixed strings related to using raygun with breasts\n * Make it a module's job to register part skin by ace that was recently merged with the base game\n * Capped max size limit for breasts when using raygun to OMEGA",
-		"modversion": "R3-7",
-		"gameversion": "0.1.2",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR3-7.zip"
-	},
-	{
 		"name": "Ace's Worldbuilding Mod",
 		"description": "A mod that adds or replaces various things in the game to add more fluff text or world building.\nRight now its just room descriptions, but I do plan on adding more things to build more narrative, when I figure it out atleast.\nReminder that my interpretation of the BDCC prison is my own, anything could change later depending on what Rahi makes.\nAlso be vigilant of errors in this one, with what little there is, it touches a lot of other things and I cant cover them all with a testing process.\n[b]-Ver0.2: Added Gym, Underground, and Greenhouse Descriptions[/b]",
 		"author": "AverageAce",
@@ -639,6 +591,62 @@
 		"modversion": "3.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreUniformsVer3.1.zip"
+	},
+	{
+		"name": "Ace's Shark Species",
+		"author": "AverageAce",
+		"description": "[b]f i s h[/b]\n\nMade teeth unaffected by colors\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AceSharkPreview.png]Click for Preview[/url]",
+		"modversion": "1.11",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AcesSharkSpeciesVer1.11.zip"
+	},
+	{
+		"name": "Hypertus Species Compat Layers but only human cocks and legs",
+		"author": "NatRobloxian",
+		"description": "a modified verison of CanInBad's Hypertus Species Compat Layers that only allows to generated characters to have human cocks and legs",
+		"modversion": "1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/hyperspeciesHCLO.zip"
+	},
+	{
+		"name": "Skulldog Species",
+		"author": "AverageAce",
+		"description": "Adds a cryptid skull-canine that goes by a few different names. Comes with a custom species, Two head types, one ear + alt look, and a body.\n\n[b]Updated: minor art tweaks, removal of eyes because they looked weird[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SkullwolfPreview.png]Click for Preview[/url]",
+		"modversion": "1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SkulldogSpeciesVer1.zip"
+	},
+	{
+		"name": "Skulldog Species Breed Edition",
+		"author": "AverageAce",
+		"description": "Adds a cryptid skull-canine that goes by a few different names. Comes with a custom species, Two head types, one ear + alt look, and a body.\n\n[b]Updated: minor art tweaks, removal of eyes because they looked weird, and a change to how the breed edition works[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SkullwolfPreview.png]Click for Preview[/url]\n\n[b]Bonus: Breed edition[/b]: a version of this mod with a single change, Male and Shemale NPCs will always spawn with anus womb.\n[b]DO NOT USE BOTH VERSION AT ONCE![/b] Please use one or the other!",
+		"modversion": "1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SkulldogSpeciesVer1-B.zip"
+	},
+	{
+		"name": "Hypertus",
+		"author": "CanInBad",
+		"description": "\n[b]WARNING: This contains hyper stuff, if you dislike it then leave[/b]\n\nThis mods [i][b]adds[/b] (not replace)[/i] new body parts that just are like the normal ones but you can upgrade them in a new skill tree that comes with this mod.\n[img=16]res://Images/World/important.png[/img][b]Said body parts are in form of breast, penises, vagina, and anus.[/b][img=16]res://Images/World/important.png[/img]\nThis mod also have capability layers that use the looks of your favorite body parts mod, including ones from species mod that add one of the 4 body part categories mentioned.\n\nYou can gain experience points of said skill tree by invest in vanilla perks and then sleep, each time you wake up you will be notified how much of them you get.\nYou can then spend those point to add ridiculous amount of perks to your body parts.\nPlease do note that some perks might be hidden due to not meeting the requirement for the perk.\n\nThere is a draft of the story but it isn't complete in anyway and some glimpse of it can be read in the perks' description.\n\nThere are compatibility layers mods that make all species including the modded one have the body parts this mod provides\n\nIf you want to play Hypertus in your current save (not recommended), you have to enable debug mode and change body parts to be the hyperable version.\n\nHas compatibility layer between these mods:\n - Synth Species\n - Knotted Horse Cock\n - Fluffy Bodyparts\n - Avali Species (both version)\n - Ace's Aviary Addon\n - Transgender Flat Chest\n\nIf you have any feedback send it in #mods-discussion and ping me,\nor open an issue on [url]https://github.com/CanInBad/HypertusMod/issues[/url].\n\nChangelog\n * Renamed dragon penis id\n   ↳ Shouldn't affect current save as the old one still exists, THIS WILL ABSOLUTLY CAUSE PROBLEMS! so it is recommended to start a new save\n * Raygun stuff\n   ↳ new ball resize option (only item usage not sex activity).\n   ↳ new force lactate option (only item usage not sex activity).\n   ↳ fixed crashing with resizing breasts (only item usage not sex activity).\n   ↳ better error handling (only item usage not sex activity).\n   ↳ fixed crashing when loading a save with raygun scene on.\n * loading time should be lower by few nano seconds (i love \"optimizing\" function).\n * Hyperable anus womb now has a tooltip attached saying that it is indeed, has womb.\n * After you pick your customization at start of the game, if you do not have any hyperable parts, a pop up will show",
+		"modversion": "R3-8",
+		"gameversion": "0.1.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR3-8.zip"
+	},
+	{
+		"name": "Hypertus Species Compat Layers",
+		"author": "CanInBad & other authors that create the species",
+		"description": "This mod replaces EVERY species (yes even the modded one but only after 0.1.0 (the skin update)) and will likly break in the future.\n[b]Android is not supported due to limitation on BDCC.pck loading first[/b]\nChangelog:\n - adjust to latest Scalie Expansion\n\n[b]!!!!! MAKE SURE THAT THIS MOD IS ABOVE EVERYTHING ELSE ON THE MOD LOADER !!!!![/b]",
+		"modversion": "R2",
+		"gameversion": "0.1.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusSpeciesCompactLayersR2.zip"
+	},
+	{
+		"name": "Hypertus Species Compat Layers, \"Breed Edition\"",
+		"author": "CanInBad & other authors that create the species",
+		"description": "This mod replaces EVERY species (yes even the modded one but only after 0.1.0 (the skin update)) and will likly break in the future. This version doesn't make NPC spawn with anus womb\n[b]Android is not supported due to limitation on BDCC.pck loading first[/b]\nChangelog:\n - adjust to latest Scalie Expansion\n\n[b]!!!!! MAKE SURE THAT THIS MOD IS ABOVE EVERYTHING ELSE ON THE MOD LOADER !!!!![/b]",
+		"modversion": "R2-BreedEdition",
+		"gameversion": "0.1.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusSpeciesCompactLayersR2-BreedEdition.zip"
 	}
 	]
 }
