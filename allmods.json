@@ -289,14 +289,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Rat_Species.zip"
 	},
 	{
-		"name": "Rabbit Species",
-		"author": "Fantos (Code), Max-Maxou (Graphics)",
-		"description": "Add The Jumping Animal for all the lola and bugs bunny lovers. It has 3 Ears Variant type and 2 Tails variant. Work with skin system, with default patterns, and custom pattenr variants for ears, head and tails\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/RabbitPreview.png]Click for Preview[/url]",
-		"modversion": "2.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Rabbit_Species.zip"
-	},
-	{
 		"name": "Fluffy Bodyparts",
 		"author": "AverageAce & Max-Maxou",
 		"description": "The old mod updated and actually functioning this time. totally brand new compatibility with skins and the addition of the fluffy flat chest. NPC generation not guaranteed.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FluffPreview.png]Click for Preview[/url]",
@@ -609,6 +601,14 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/hyperspeciesHCLO.zip"
 	},
 	{
+		"name": "Skulldog Species Breed Edition",
+		"author": "AverageAce",
+		"description": "Adds a cryptid skull-canine that goes by a few different names. Comes with a custom species, Two head types, one ear + alt look, and a body.\n\n[b]Updated: minor art tweaks, removal of eyes because they looked weird, and a change to how the breed edition works[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SkullwolfPreview.png]Click for Preview[/url]\n\n[b]Bonus: Breed edition[/b]: a version of this mod with a single change, Male and Shemale NPCs will always spawn with anus womb.\n[b]DO NOT USE BOTH VERSION AT ONCE![/b] Please use one or the other!",
+		"modversion": "1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SkulldogSpeciesVer1-B.zip"
+	},
+	{
 		"name": "Skulldog Species",
 		"author": "AverageAce",
 		"description": "Adds a cryptid skull-canine that goes by a few different names. Comes with a custom species, Two head types, one ear + alt look, and a body.\n\n[b]Updated: minor art tweaks, removal of eyes because they looked weird[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SkullwolfPreview.png]Click for Preview[/url]",
@@ -617,12 +617,20 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SkulldogSpeciesVer1.zip"
 	},
 	{
-		"name": "Skulldog Species Breed Edition",
-		"author": "AverageAce",
-		"description": "Adds a cryptid skull-canine that goes by a few different names. Comes with a custom species, Two head types, one ear + alt look, and a body.\n\n[b]Updated: minor art tweaks, removal of eyes because they looked weird, and a change to how the breed edition works[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SkullwolfPreview.png]Click for Preview[/url]\n\n[b]Bonus: Breed edition[/b]: a version of this mod with a single change, Male and Shemale NPCs will always spawn with anus womb.\n[b]DO NOT USE BOTH VERSION AT ONCE![/b] Please use one or the other!",
-		"modversion": "1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SkulldogSpeciesVer1-B.zip"
+		"name": "Hypertus Species Compat Layers, \"Breed Edition\"",
+		"author": "CanInBad & other authors that create the species",
+		"description": "[b]This mod REQUIRES HYPERTUS!!![/b]\nif Hypertus does not exist, it will force close the game!\n\nThis mod overwrite all the species *(yes, even the modded ones)* with skin support to have hyperable parts.\n\nThis is an overwritten version, no need to put this mod above everything else because it doesn't overwrite files anymore.\n\nThis edition will force every species to have 50% chance of getting anus womb\n\n[b][u]NO, this mod will not replace existing npc in your save. If you want them in your current save you must forget old NPCs[/u][/b]\n\n[url=https://github.com/CanInBad/BDCC/blob/hypertusNPCs/Modules/0hyperVanillaSpecies/]Source 1[/url]\n[url=https://github.com/CanInBad/BDCC/blob/hypertusNPCs/Modules/z0hyperModdedSpecies/]Source 2[/url]",
+		"modversion": "R2",
+		"gameversion": "0.1.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusSpeciesCompactLayersR2-BreedEdition.zip"
+	},
+	{
+		"name": "Hypertus Species Compat Layers",
+		"author": "CanInBad & other authors that create the species",
+		"description": "[b]This mod REQUIRES HYPERTUS!!![/b]\nif Hypertus does not exist, it will force close the game!\n\nThis mod overwrite all the species *(yes, even the modded ones)* with skin support to have hyperable parts.\n\nThis is an overwritten version, no need to put this mod above everything else because it doesn't overwrite files anymore.\n\nThis mod also sports BreedEdition detector, will enable BreedEdition for ones that you have them on\n\n[b][u]NO, this mod will not replace existing npc in your save. If you want them in your current save you must forget old NPCs[/u][/b]\n\n[url=https://github.com/CanInBad/BDCC/blob/hypertusNPCs/Modules/0hyperVanillaSpecies/]Source 1[/url]\n[url=https://github.com/CanInBad/BDCC/blob/hypertusNPCs/Modules/z0hyperModdedSpecies/]Source 2[/url]",
+		"modversion": "R2",
+		"gameversion": "0.1.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusSpeciesCompactLayersR2.zip"
 	},
 	{
 		"name": "Hypertus",
@@ -633,20 +641,12 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR3-8.zip"
 	},
 	{
-		"name": "Hypertus Species Compat Layers",
-		"author": "CanInBad & other authors that create the species",
-		"description": "[b]This mod REQUIRES HYPERTUS!!![/b]\nif Hypertus does not exist, it will force close the game!\n\nThis mod overwrite all the species *(yes, even the modded ones)* with skin support to have hyperable parts.\n\nThis is an overwritten version, no need to put this mod above everything else because it doesn't overwrite files anymore.\n\nThis mod also sports BreedEdition detector, will enable BreedEdition for ones that you have them on",
-		"modversion": "R2",
-		"gameversion": "0.1.2",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusSpeciesCompactLayersR2.zip"
-	},
-	{
-		"name": "Hypertus Species Compat Layers, \"Breed Edition\"",
-		"author": "CanInBad & other authors that create the species",
-		"description": "[b]This mod REQUIRES HYPERTUS!!![/b]\nif Hypertus does not exist, it will force close the game!\n\nThis mod overwrite all the species *(yes, even the modded ones)* with skin support to have hyperable parts.\n\nThis is an overwritten version, no need to put this mod above everything else because it doesn't overwrite files anymore.\n\nThis edition will force every species to have 50% chance of getting anus womb",
-		"modversion": "R2",
-		"gameversion": "0.1.2",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusSpeciesCompactLayersR2-BreedEdition.zip"
+		"name": "Rabbit Species",
+		"author": "Fantos (Code), Max-Maxou (Graphics)",
+		"description": "Add The Jumping Animal for all the lola and bugs bunny lovers. It has 3 Ears Variant type and 2 Tails variant. Work with skin system, with default patterns, and custom pattern variants for ears, head and tails\n\nFixed issues with skins/patterns on legs\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/RabbitPreview.png]Click for Preview[/url]",
+		"modversion": "2.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Rabbit_Species.zip"
 	}
 	]
 }
