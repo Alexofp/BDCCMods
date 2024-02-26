@@ -647,6 +647,30 @@
 		"modversion": "2.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Rabbit_Species.zip"
+	},
+	{
+		"name": "Piercings Mod",
+		"author": "AverageAce",
+		"description": "Adds 4 various piercings to the ears bodyparts\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PiercingsEarsCover.png]Click for Preview[/url]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PiercingsRishaPreview.png]Click for Preview[/url]",
+		"modversion": "0.9",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PiercingsModVer0.9.zip"
+	},
+	{
+		"name": "Edited Paws",
+		"author": "AverageAce",
+		"description": "Replaces the vanilla digileg with a new one. Why? Who cares!\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EditedPawsPreview.png]Click for Preview[/url]",
+		"modversion": "1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EditedPawsVer1.zip"
+	},
+	{
+		"name": "Edited Sheath",
+		"author": "AverageAce",
+		"description": "This mod will replace the non-erected sprite of canine, feline, and dragon sheaths, and any species that uses their dicks\nI got bored and started drawing whatever. this is one of the things I actually finished\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EditedSheathPreview.png]Click for Preview[/url]",
+		"modversion": "1.11",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EditedSheathVer1.11.zip"
 	}
 	]
 }
