@@ -513,14 +513,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WhiteThighHighsVer2.zip"
 	},
 	{
-		"name": "Scalie Expansion",
-		"author": "AverageAce",
-		"description": "A species expansion pack with 5 species, Kobold, Snake, Eastern Dragon, Felkin, and Wickerbeasts. Comes with some new horns as well.\n[b]Update: Fixes a few things with horns, Character Creation/NPC Generation, and adds fluff to the wickerbeast tail[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/scaliepreview.png]Click for preview[/url]",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ScalieExpansionVer1.zip"
-	},
-	{
 		"name": "Angular Converted",
 		"description": "This mod add AverageAce's Angular skin mod that is registered via Module system making it loadable in mod form without extraction",
 		"author": "Conversion: CanInBad & Skin Maker: AverageAce",
@@ -601,7 +593,7 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/hyperspeciesHCLO.zip"
 	},
 	{
-		"name": "Skulldog Species Breed Edition",
+		"name": "Skulldog Species (Breed Edition)",
 		"author": "AverageAce",
 		"description": "Adds a cryptid skull-canine that goes by a few different names. Comes with a custom species, Two head types, one ear + alt look, and a body.\n\n[b]Updated: minor art tweaks, removal of eyes because they looked weird, and a change to how the breed edition works[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SkullwolfPreview.png]Click for Preview[/url]\n\n[b]Bonus: Breed edition[/b]: a version of this mod with a single change, Male and Shemale NPCs will always spawn with anus womb.\n[b]DO NOT USE BOTH VERSION AT ONCE![/b] Please use one or the other!",
 		"modversion": "1",
@@ -649,14 +641,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Rabbit_Species.zip"
 	},
 	{
-		"name": "Piercings Mod",
-		"author": "AverageAce",
-		"description": "Adds 4 various piercings to the ears bodyparts\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PiercingsEarsCover.png]Click for Preview[/url]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PiercingsRishaPreview.png]Click for Preview[/url]",
-		"modversion": "0.9",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PiercingsModVer0.9.zip"
-	},
-	{
 		"name": "Edited Paws",
 		"author": "AverageAce",
 		"description": "Replaces the vanilla digileg with a new one. Why? Who cares!\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EditedPawsPreview.png]Click for Preview[/url]",
@@ -671,6 +655,70 @@
 		"modversion": "1.11",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EditedSheathVer1.11.zip"
+	},
+	{
+		"name": "Piercings Mod",
+		"author": "AverageAce",
+		"description": "Adds 4 various piercings to the ears bodyparts\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PiercingsEarsCover.png]Click for Preview[/url]\n\n - removed Risha's piercings because thats becoming a different mod",
+		"modversion": "1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PiercingsVer1.zip"
+	},
+	{
+		"name": "Character Flair",
+		"author": "AverageAce",
+		"description": "Adds 3 unique bodyparts to existing characters.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/CharacterFlareAlexsSpinePreview.png]Click for Preview - Alex's Spine[/url]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PiercingsRishaPreview.png]Click for Preview - Risha's Piercings[/url]",
+		"modversion": "1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PiercingsVer1.zip"
+	},
+	{
+		"name": "Laquine Species (Breed Edition)",
+		"author": "Raznaak",
+		"description": "Rabbit-Horse hybrids.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/LaquineSpeciesPreview.png]Click for Preview[/url]\n\n[b]Breed edition[/b]: Make all Laquine NPC spawn with anus womb.\n[b]DO NOT USE BOTH VERSION AT ONCE![/b] Please use one or the other!",
+		"modversion": "1.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Laquine_SpeciesVer1.2-B.zip"
+	},
+	{
+		"name": "Laquine Species",
+		"author": "Raznaak",
+		"description": "Rabbit-Horse hybrids.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/LaquineSpeciesPreview.png]Click for Preview[/url]",
+		"modversion": "1.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Laquine_SpeciesVer1.2.zip"
+	},
+	{
+		"name": "Dick Skins, Batch 2",
+		"author": "AverageAce",
+		"description": "Even more looks for your wiggly bits.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/DickSkinsBatch2Preview.png]Click for Preview[/url]",
+		"modversion": "1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DickSkinsBatch2.zip"
+	},
+	{
+		"name": "Scalie Expansion",
+		"author": "AverageAce",
+		"description": "A species expansion pack with 6 species, Kobold, Snake, Eastern Dragon, Felkin, Wickerbeasts, and [b]new Nightstalkers[/b].\n[b]Update: This updated version adds Nightstalkers as a species, fixes some bugs, and slightly edits the wickerbeast mouth. I've done my standard amount of testing (none) for this update, so let me know if this somehow set your game on fire.[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/scaliepreview.png]Click for preview[/url]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NightstalkerPreview.png]Click for preview[/url]",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ScalieExpansionVer2.zip"
+	},
+	{
+		"name": "Squirrel Species (Breed Edition)",
+		"author": "AverageAce",
+		"description": "Adds the funny tree nuts species. Comes with a species, a head, and two tails.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NightstalkerPreview.png]Click for preview[/url]\n\n[b]Bonus: Breed edition[/b]: a version of this mod with a single change, Male and Shemale NPCs will always spawn with anus womb.\n[b]DO NOT USE BOTH VERSION AT ONCE![/b] Please use one or the other!",
+		"modversion": "0.9",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SquirrelSpeciesVer0.9-B.zip"
+	},
+	{
+		"name": "Squirrel Species",
+		"author": "AverageAce",
+		"description": "Adds the funny tree nuts species. Comes with a species, a head, and two tails.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NightstalkerPreview.png]Click for preview[/url]",
+		"modversion": "0.9",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SquirrelSpeciesVer0.9.zip"
 	}
 	]
 }
