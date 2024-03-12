@@ -433,14 +433,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Humanlegsonly.zip"
 	},
 	{
-		"name": "More Drugs",
-		"author": "ButNotTooGay",
-		"description": "Adds new items that grant buffs but can also cause potentially undesirable side effects if abused.\nAdded Sensitivity Enhancer\n-Increases dodge chance and incoming lust damage\n-Can cause side effect Hypersensitivity: extremely sensitive skin makes it difficult to wear clothes\nAdded Libido Blocker\n-Grants lust armor but reduces the damage of your lust attacks\n-Can cause side effect Blocked Orgasms: orgasm becomes nearly impossible and edging makes it harder to focus\nAdded Pheromone Spray\n-Increases lust attack and decreases lust defense\n-Can cause side effect Copious Pheromones: Lust steadily increases and encounters occur much more often\nAdded Toughness Booster\n-Improves block defense but lowers dodge chance\n-Can cause side effect Paralysis: Your body occasionally seizes up, leaving you vulnerable to being taken advantage of\n\nThe items are located in the medical vender for now\nThis update is incomplete. The item is mechanically functional, but there is a scene that contains only placeholder text.",
-		"modversion": "0.04a",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreDrugsMod-v0.04a.zip"
-	},
-	{
 		"name": "Boykisser Portraits",
 		"author": "AverageAce",
 		"description": "You like BDCC, Don't You?\nWorks with all vanilla character portraits (Alex, Avy, The Captain, Eliza, Ferri, Jacki, Kait, Nova, Rahi, Risha, and Tavi.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/kisserspreview.png]Click for preview[/url]",
@@ -719,6 +711,14 @@
 		"modversion": "0.9",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SquirrelSpeciesVer0.9.zip"
+	},
+	{
+		"name": "More Drugs V2",
+		"author": "ButNotTooGay/Makarov",
+		"description": "A rebuild of ButNotTooGay's New drugs. You have 6 pills in total:\n-Dominance/Submission pills\n-Obedience/Bratty Pills\n-Perceptive/Naive Pills",
+		"modversion": "2.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Newdrugsv2.zip"
 	}
 	]
 }
