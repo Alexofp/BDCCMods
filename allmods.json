@@ -719,6 +719,54 @@
 		"modversion": "2.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Newdrugsv2.zip"
+	},
+	{
+		"name": "PlusCombat",
+		"author": "Czarro",
+		"description": "4 new weapons, listed below:\n-Glass Shard, a single-use item that causes the enemy to bleed for 10 turns.\n-Lock Sock, a high damage weapon that costs stamina to use but has a chance to knock the enemy down. Not actually made with a lock.\n-Metal Bat, an aluminum baseball bat that costs a small amount of stamina to use and has a chance to stun the enemy.\n-Scrap Derringer, a makeshift, single-use gun that deals an enormous amount of pain but only has a 1 in 4 chance to fire properly.\nKnown Issues:\n-The Metal Bat and Lock Sock are supposed to have attack animations, but I'm too stupid to make the animations work.\n-All 4 weapons can only be obtained through the debug menu since I have no idea how to add them to enemy loot.\n-There is a non-zero chance that I fucked up when making the .zip archive.",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PlusCombat_1.0.zip"
+	},
+	{
+		"name": "Domcity",
+		"author": "Makarov",
+		"description": "Domcity Makes all the npc's fetishes dominant, they love giving hate taking.",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Domcity.zip"
+	},
+	{
+		"name": "Pillowprincess",
+		"author": "Makarov",
+		"description": "Domcity Makes all the npc's fetishes dominant, they love giving hate taking. Pillowprincess is the exact opposite, they love receiving and hate giving.",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Pillowprincess.zip"
+	},
+	{
+		"name": "The Flamehearts",
+		"author": "Phoenix",
+		"description": "Two New Characters along with a new Questline (2 quests from one and 1 from another character) along with a secret Item you can find if you are vigilant enough to find it as this item is only obtainable in this version, If you play the other version and get the other item you can do something special with them together.\n(to meet the new characters you need to get past the transmitter part in Tavi's line, then look around the engineers block or go to the yard area and look around there to start)\nItem Additions: Adds three new items that can be Combined in a special machine to make better versions of items\nFeedback:Please give me any feedback if you are curious about why things are the way they are or if you have anything else to say about my mod :3",
+		"modversion": "0.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/TheFlameheartsV0.2.zip"
+	},
+	{
+		"name": "Barbed Equine Penis",
+		"author": "AverageAce",
+		"description": "a small mod because its been too long since I posted a mod and pulled out my 'oh shit' list and picked something.\nComes with a unique penis, available to all player chracters, and spawning rarely on felines, equines, and demons. also compatilbe with a few skins\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BarbedEquinePenisPrev.png]Click for preview[/url]",
+		"modversion": "0.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BarbedEquinePenisVer1.1.zip"
+	},
+	{
+		"name": "Demon-Hellhound Conversion",
+		"author": "AverageAce",
+		"description": "Are you like me and you hate humanoids and are cripplingly addicted to anthros beyond reason? Do you wish there was some kind of hellhound in the game? Do you wish the demon species in game wasn't so god-damn worthless because they are just humans with horns?\n[b]Then this is the mod for you![/b]\n\nThis mod right here alters the base demon species into something more furry, with the removal of all human features and replaced with canine variants.\nThey still have the unique demon bits, such as the tail, horns, and hooves, but with additional paws, tails and heads, all of which are from the base game, no additional parts. NPCs will spawn with all of them.\n\n[i]This is a conversion and any new demons will spawn with the different parts, existing demons in your save file before downloading (shouldnt) be affected, they will be renamed though[/i]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/demonhoundspreview.png]Click for preview[/url]",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DemonHoundConversionVer1.zip"
 	}
 	]
 }
