@@ -1,22 +1,6 @@
 {
 	"mods": [
 	{
-		"name": "Crow Species",
-		"author": "Fantos (Code), Max-Maxou (Graphics)",
-		"description": "Add The Black Bird for any Avian lovers.",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CrowSpeciesModule.zip"
-	},
-	{
-		"name": "Deer Species",
-		"author": "Fantos (Code), Max-Maxou (Graphics)",
-		"description": "Add the Majestic forest Dwelling race.",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DeerSpecies.zip"
-	},
-	{
 		"name": "Holiday Sweaters",
 		"author": "Fantos (Code), Max-Maxou (Graphics)",
 		"description": "Killers, whores and thieves.. MERRY CHRISTMAS! this mod adds holiday sweaters.",
@@ -111,14 +95,6 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/n76-ultrapack.zip"
-	},
-	{
-		"name": "Bovine Species",
-		"author": "Fantos (Code), Max-Maxou (Art)",
-		"description": "Add the Milk Making Animal to the game",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BovineSpecies.zip"
 	},
 	{
 		"name": "Eevee Species",
@@ -775,6 +751,46 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SpinedDragonPenisVer1.zip"
+	},
+	{
+		"name": "Seahorse Species",
+		"author": "AverageAce",
+		"description": "Fish 2. The Sequel\nComes with a new species, 2 heads, 4 tails, and all the other bits.\n[b]They are 'accurate', Male NPCs can get pregnant[/b].\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/seahorseprev.png]Click for preview[/url]",
+		"modversion": "0.9",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SeahorseSpeciesVer0.9.zip"
+	},
+	{
+		"name": "Deer Species",
+		"author": "AverageAce/Fantos/Max-Maxou",
+		"description": "Add the Majestic forest Dwelling race\nOriginally made by Fantos and Max-Maxou. Updated with skin support by AverageAce.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/deerpreview.png]Click for preview[/url]",
+		"modversion": "2.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DeerSpeciesVer2.1.zip"
+	},
+	{
+		"name": "Deer Species (Horsecock)",
+		"author": "AverageAce/Fantos/Max-Maxou",
+		"description": "Add the Majestic forest Dwelling race\nOriginally made by Fantos and Max-Maxou. Updated with skin support by AverageAce.\nalso have a bonus version where equine penis has been added to the npc generation (Download one or the other)\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/deerpreview.png]Click for preview[/url]",
+		"modversion": "2.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DeerSpeciesVer2.1-HORSECOCK.zip"
+	},
+	{
+		"name": "Crow Species",
+		"author": "AverageAce/Fantos/Max-Maxou",
+		"description": "Another old mod brought into the modern era, with a few bonuses.\nSkin compatibility, A variant of penis that is slitted, and new legs\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/crowpreview.png]Click for preview[/url]",
+		"modversion": "2.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CrowSpeciesVer2.zip"
+	},
+	{
+		"name": "Bovine Species",
+		"author": "AverageAce/Fantos/Max-Maxou",
+		"description": "Another one of the old Max/Fantos mods brought up to date with additional skin support and the use of a much better penis.\nI did even less testing than usual so reprot any bugs you find to the discord.\n\nand anyone who wants the original penis back I consider to be a blight upon the universe and are not to be trusted with having an opinion.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/bovinepreview.png]Click for preview[/url]",
+		"modversion": "2.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BovineSpeciesVer2.zip"
 	}
 	]
 }
