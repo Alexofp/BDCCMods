@@ -249,14 +249,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HologlassV1.zip"
 	},
 	{
-		"name": "Body Modification",
-		"author": "AR2000",
-		"description": "Adds a new scene at the medical bay (talk to the nurse) to change your body in exchange for some credits.",
-		"modversion": "0.6-Beta",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BodyModif.zip"
-	},
-	{
 		"name": "Rat Species",
 		"author": "Fantos",
 		"description": "It add the bigger and more dangerous of the cheese lover species, the rat. Now with skin support!\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/RatPreview.png]Click for Preview[/url]",
@@ -529,14 +521,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Clothes_Megapack.zip"
 	},
 	{
-		"name": "Ace's Worldbuilding Mod",
-		"description": "A mod that adds or replaces various things in the game to add more fluff text or world building.\nRight now its just room descriptions, but I do plan on adding more things to build more narrative, when I figure it out atleast.\nReminder that my interpretation of the BDCC prison is my own, anything could change later depending on what Rahi makes.\nAlso be vigilant of errors in this one, with what little there is, it touches a lot of other things and I cant cover them all with a testing process.\n[b]-Ver0.2: Added Gym, Underground, and Greenhouse Descriptions[/b]",
-		"author": "AverageAce",
-		"modversion": "0.2",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AcesWorldbuildingModVer0.2.zip"
-	},
-	{
 		"name": "More Uniforms",
 		"author": "AverageAce & Max-Maxou",
 		"description": "Adds a long prisoner uniform, and a croptop uniform, each with unique stats. also adds nipple tape as a bra option. Found in the Laundromat Vendor.\n[b]Ver 3: Adds pussy tape[/b]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreUniformsPreview.png]Click for Preview[/url]",
@@ -791,6 +775,38 @@
 		"modversion": "2.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BovineSpeciesVer2.zip"
+	},
+	{
+		"name": "Body Modification",
+		"author": "AR2000",
+		"description": "Adds a new scene at the medical bay (talk to the nurse) to change your body in exchange for some credits.\nNote: this update only changes the metadata to newer version. nothing has changed",
+		"modversion": "0.6-Beta",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BodyModif.zip"
+	},
+	{
+		"name": "Lopunny Species",
+		"author": "trashbox_52161",
+		"description": "Add a special bunny species that come with an eyes or without eyes option\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/LopunnyPreview.png]Click for preview[/url]",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/LopunnySpeciesVer1.zip"
+	},
+	{
+		"name": "Ace's Worldbuilding Mod",
+		"description": "A mod that adds or replaces various things in the game to add more fluff text or world building.\nRight now its just room descriptions, but I do plan on adding more things to build more narrative, when I figure it out atleast.\nReminder that my interpretation of the BDCC prison is my own, anything could change later depending on what Rahi makes.\nAlso be vigilant of errors in this one, with what little there is, it touches a lot of other things and I cant cover them all with a testing process.\nI did try to write special scenes this time around but Im still not good enough to program them. oh well.\n[b]-Ver0.3: Added Medical and Engineering[/b]",
+		"author": "AverageAce",
+		"modversion": "0.3",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AcesWorldbuildingModVer0.3.zip"
+	},
+	{
+		"name": "Announcer BDSM Expansion",
+		"description": "Are you getting unlucky with gathering BDSM gear? Are you some weak slut tired of getting overpowered and stretched to breaking?\nThis mod [b]edits[/b] the \"basic\" BDSM gear (rope harness and zipties) to be sold by The Announcer for easy acquisition.\n\nWith this kind of gear, you can become a Bondage Ninja in no time!\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BDSMShopPreview.png]Click for preview[/url]",
+		"author": "AverageAce",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnnouncerBDSM.zip"
 	}
 	]
 }
