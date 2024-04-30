@@ -882,7 +882,7 @@
 	},
 	{
 		"name": "Body Drugs",
-		"description": "Adds a few pills that change bodyparts, and removes as needed\nIt doesn't create Herms or genderless charactors, the only things it moves to are shemales, males, females, and peachboys\nWorks best with NPCs but should work on the player too",
+		"description": "Adds a few pills that change bodyparts, and removes as needed\nIt doesn't create Herms or genderless charactors, the only things it moves to are shemales, males, females, and peachboys\nWorks best with NPCs but should work on the player too\n Should be usable on newer versions",
 		"author": "Darth",
 		"modversion": "1.1",
 		"gameversion": "0.1.3",
