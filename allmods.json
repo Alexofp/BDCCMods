@@ -41,14 +41,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Dildo.zip"
 	},
 	{
-		"name": "Racoon Species",
-		"author": "Fantos (Code), Max-Maxou (Graphics)",
-		"description": "Add the trash panda to the rooster with all the stripe and facemask",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Racoon_Species.zip"
-	},
-	{
 		"name": "Hairs!",
 		"author": "Sority Arikua",
 		"description": "Adds a several new hair styles to the game to try out.",
@@ -807,6 +799,94 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnnouncerBDSM.zip"
+	},
+	{
+		"name": "Male Lactation Mod",
+		"description": "This allows male NPCs to lactate. Also changes the threshold to visually switch breasts to B-cup and above, because ngl, with how a full size breast graphic was scaled down that much, i didnt like how it looked. So, uh, enjoy your flat chested women.\nModded breasts shouldn't be affected.\nThis mod [b]will conflict with any mod that changes the HumanBreasts.gd and MaleBreasts.gd files.[/b]",
+		"author": "AverageAce",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MaleLactation.zip"
+	},
+	{
+		"name": "Ampwave Species",
+		"description": "Adds the Sound Based Cybernetic dog things. Adds various bodyparts with a few variants and a new species.\nlook at the preview and see if its something you'd be into or if you want the parts. there are some good ones in here.\n\nI cant think of a good description, ive made like 30 of these things and dont have energy to do a salesman skit.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AmpwaveSpeciesPreview.png]Click for preview[/url]",
+		"author": "AverageAce",
+		"modversion": "0.9",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AmpwaveSpeciesVer0.9.zip"
+	},
+	{
+		"name": "Ace's Pregnancy Expansion Mod",
+		"description": "A mod for the best kink there is. I will not hear any arguments to the contrary.\nThis mod is in a very early state, mainly consisting of edits to existing scenes rather than any new scenes. A full list of everything altered is below.\n[b]This mod will be incompatible with any other mod that changes the same files. This includes the Nova Sub Training Mod[/b]",
+		"author": "AverageAce",
+		"modversion": "0.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AcePregExpacVer0.1.zip"
+	},
+	{
+		"name": "Breedable Avy",
+		"description": "Edits Avy's character file to make her breedable. No scenes are changed. Uses the Anuswomb bodypart because if I added a vagina to avy I would have to change/add scenes",
+		"author": "AverageAce",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BreedableAvy.zip"
+	},
+	{
+		"name": "Breedable Alex",
+		"description": "I did avy so might as well. I'm in enough preg fetish circles to know getting dommed by a pregnant guy is heaven for [i]somebody[/i]\nNo scene changes.",
+		"author": "AverageAce",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BreedableAlex_-_Vanilla.zip"
+	},
+	{
+		"name": "Character Flair - Breedable Alex Included",
+		"description": "Adds 3 unique bodyparts to existing characters.\n\n[b]This version includes breedable Alex mod[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/CharacterFlareAlexsSpinePreview.png]Click for Preview - Alex's Spine[/url]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PiercingsRishaPreview.png]Click for Preview - Risha's Piercings[/url]",
+		"author": "AverageAce",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CharacterFlairVer1_-_BreedableAlex.zip"
+	},
+	{
+		"name": "Raccoon Species",
+		"description": "hmm yes, trash. my favorite.\nThe last old Max/Fantos mod updated from the really old days. With a few alternate parts for skins.\nNo I didnt fix all typos. They're funny.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/RacconSpeciesPreview.png]Click for preview[/url]",
+		"author": "Revamp: AverageAce | Orginal: Fantos, Max-Maxou",
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AmpwaveSpeciesVer0.9.zip"
+	},
+	{
+		"name": "Hyena Parts",
+		"description": "Yeen.\nComes with Head, Ears, and a tail under the \"canine\" species. \nHead and tail have the same spawn rate as their base counterparts with ears being slightly less common.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HyenaPartPreview.png]Click for preview[/url]",
+		"author": "AverageAce",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HyenaParts.zip"
+	},
+	{
+		"name": "Houndoom",
+		"description": "The Hellish Pokemon.\nComes with a species and a whole bunch of additional bodyparts, 6 body types, 3 tails, etc.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HoundoomSpeciesPreview.png]Click for preview[/url]",
+		"author": "AverageAce",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HoundoomSpeciesVer1.zip"
+	},
+	{
+		"name": "Ace's Shark Species with backfin",
+		"description": "f i s h\nBut now with backfin, come in 4 different flavour (see image)\n[b]The backfin is part of the head[/b], so basically there are 4 different head with head and backfin variations.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/fantosSharkEditPreview.png]Click for preview[/url]",
+		"author": "Edited: Fantos | Original: AverageAce",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Shark_Species.zip"
+	},
+	{
+		"name": "Body Drugs",
+		"description": "Adds a few pills that change bodyparts, and removes as needed\nIt doesn't create Herms or genderless charactors, the only things it moves to are shemales, males, females, and peachboys\nWorks best with NPCs but should work on the player too",
+		"author": "Darth",
+		"modversion": "1.1",
+		"gameversion": "0.1.3",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Bodydrugs.zip"
 	}
 	]
 }
