@@ -954,7 +954,7 @@
 	},
 	{
 		"name": "NPC Claimer",
-		"description": "Allows you to brand NPCs, claiming them for yourself.\n Should be usable on newer versions\nNew content:\nBuffs can now be applied to the branding iron making the resulting brand do some fun things\nFixxxes:\nNpcs now have the some Mods as you at half the power, and one at a time.\nMulti Brands can now give more buffs.\nv2.5 Additions:\nA new drug that removes brands.\nA code refactor to help with possible issues before they're problems.\nA few new branding modifiers.",
+		"description": "Allows you to brand NPCs, claiming them for yourself.\n Should be usable on newer versions\nNew content:\nBuffs can now be applied to the branding iron making the resulting brand do some fun things\nFixxxes:\nNpcs now have the some Mods as you at half the power, and one at a time.\nMulti Brands can now give more buffs.\nv2.5 Additions:\nA new drug that removes brands.\nA code refactor to help with possible issues before they're problems.\nA few new branding modifiers.\n\n\nhot fix crashing on reload",
 		"author": "Darth",
 		"modversion": "2.5",
 		"gameversion": "0.1.3",
