@@ -417,14 +417,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SynthModVer1.3-B.zip"
 	},
 	{
-		"name": "Knotted Equine Penis",
-		"author": "AverageAce",
-		"description": "A simple mod that adds a knotted equine penis to the character creator. NPCs dont spawn with this.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/KnottedEquinePenis.png]Click for Preview[/url]",
-		"modversion": "2.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/KnottedEquinePenisVer2.zip"
-	},
-	{
 		"name": "Stock Events",
 		"author": "Fantos (Code), Zaxon Rapial (Scenes)",
 		"description": "(Requires Rat Species mod!) This is a mod where you can find different characters randomly in the main hall public punishment area. So far there is only one character but planning to expand it, and if you are interested to help expanding the mod, please DM me. It comes in two version, one come with Rat Species module included since the mod depend on it, but if you have it just use the other version.",
@@ -841,14 +833,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DomSub.zip"
 	},
 	{
-		"name": "Drug Injector",
-		"description": "Makes and handles an item that lets you drug oponents in combat.",
-		"author": "Darth",
-		"modversion": "1.0",
-		"gameversion": "0.1.3",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DrugInjector.zip"
-	},
-	{
 		"name": "Dynamic Stocks",
 		"description": "Allows you to find Dynamic NPCs stuck in the stocks",
 		"author": "Darth",
@@ -858,7 +842,7 @@
 	},
 	{
 		"name": "Breasts and Penis size - Small",
-		"description": "Changes the size of Random npcs breasts, from small average to large average. I've basically taken Caninbad's hypertus mod and deconstructed it so some features from his mod. Let me know if you see anything off. Will not change currently active npcs breasts.\n\n[b]PLEASE only install one of these 3 or Hypertus!\nThey will collide![/b]",
+		"description": "[b]PLEASE only install one of these 3 or Hypertus!\nThey will collide![/b]\n\nChanges the size of Random npcs breasts, from small average to large average. I've basically taken Caninbad's hypertus mod and deconstructed it so some features from his mod. Let me know if you see anything off. Will not change currently active npcs breasts.",
 		"author": "Makarov",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -866,7 +850,7 @@
 	},
 	{
 		"name": "Breasts and Penis size - Normal",
-		"description": "Changes the size of Random npcs breasts, from small average to large average. I've basically taken Caninbad's hypertus mod and deconstructed it so some features from his mod. Let me know if you see anything off. Will not change currently active npcs breasts.\n\n[b]PLEASE only install one of these 3 or Hypertus!\nThey will collide![/b]",
+		"description": "[b]PLEASE only install one of these 3 or Hypertus!\nThey will collide![/b]\n\nChanges the size of Random npcs breasts, from small average to large average. I've basically taken Caninbad's hypertus mod and deconstructed it so some features from his mod. Let me know if you see anything off. Will not change currently active npcs breasts.",
 		"author": "Makarov",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -874,7 +858,7 @@
 	},
 	{
 		"name": "Breasts and Penis size - Large",
-		"description": "Changes the size of Random npcs breasts, from small average to large average. I've basically taken Caninbad's hypertus mod and deconstructed it so some features from his mod. Let me know if you see anything off. Will not change currently active npcs breasts.\n\n[b]PLEASE only install one of these 3 or Hypertus!\nThey will collide![/b]",
+		"description": "[b]PLEASE only install one of these 3 or Hypertus!\nThey will collide![/b]\n\nChanges the size of Random npcs breasts, from small average to large average. I've basically taken Caninbad's hypertus mod and deconstructed it so some features from his mod. Let me know if you see anything off. Will not change currently active npcs breasts.",
 		"author": "Makarov",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -967,6 +951,46 @@
 		"modversion": "0.5",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AcePregExpacVer0.5.zip"
+	},
+	{
+		"name": "Drug Injector",
+		"description": "Makes and handles an item that lets you drug oponents in combat.\n Should be usable on newer versions\nAdded a new pill that decreases stamina\nFixxes:\nFixed a crash when using the last loaded pill",
+		"author": "Darth",
+		"modversion": "1.5",
+		"gameversion": "0.1.3",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DrugInjector.zip"
+	},
+	{
+		"name": "Ace's Pregnancy Expansion Mod - Soft Nova Sub Training Patch",
+		"description": "Best Kink Mod gets more content. A Patch for the Preg Expac Mod to work with the Nova Sub Training Mod by Jake James.\nThis Patch is incompatible with the Original Nova Sub Mod, and the Original Preg Expac Ver0.5 Mod.\nThis mod combines the content from both original mods into one file",
+		"author": "AverageAce",
+		"modversion": "0.5",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AcePregExVer0.5-NovaSub.zip"
+	},
+	{
+		"name": "Knotted Equine Penis",
+		"author": "AverageAce",
+		"description": "A simple mod that adds a knotted equine penis to the character creator. NPCs dont spawn with this.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/KnottedEquinePenisPreview.png]Click for Preview[/url]",
+		"modversion": "3.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/KnottedEquinePenisVer3.zip"
+	},
+	{
+		"name": "Breast Pump on Torso",
+		"author": "Vyklade",
+		"gameversion": "0.1.3",
+		"modversion": "1.0",
+		"description": "Switches the breast pump and advanced breast pump items from being worn on the upper body slot to the torso slot, thus not interfering with the perks related to being nude. This disallows wearing a pump and a harness at the same time, however.",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Vyk_Torso_Pump.zip"
+	},
+	{
+		"name": "Hair Skins",
+		"author": "AverageAce",
+		"description": "Adds a bunch of variance to the existing hair types with skins. Some better than others...\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HairSkinsCover.png]Click for Preview[/url]",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HairSkinsBatch1.zip"
 	}
 	]
 }
