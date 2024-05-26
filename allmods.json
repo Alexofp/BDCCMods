@@ -983,6 +983,14 @@
 		"modversion": "1.0",
 		"description": "Switches the breast pump and advanced breast pump items from being worn on the upper body slot to the torso slot, thus not interfering with the perks related to being nude. This disallows wearing a pump and a harness at the same time, however.",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Vyk_Torso_Pump.zip"
+	},
+	{
+		"name": "Hair Skins",
+		"author": "AverageAce",
+		"description": "Adds a bunch of variance to the existing hair types with skins. Some better than others...\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HairSkinsCover.png]Click for Preview[/url]",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HairSkinsBatch1.zip"
 	}
 	]
 }
