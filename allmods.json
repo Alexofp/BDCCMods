@@ -601,14 +601,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DickSkinsBatch2.zip"
 	},
 	{
-		"name": "Scalie Expansion",
-		"author": "AverageAce",
-		"description": "A species expansion pack with 6 species, Kobold, Snake, Eastern Dragon, Felkin, Wickerbeasts, and [b]new Nightstalkers[/b].\n[b]Update: This updated version adds Nightstalkers as a species, fixes some bugs, and slightly edits the wickerbeast mouth. I've done my standard amount of testing (none) for this update, so let me know if this somehow set your game on fire.[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/scaliepreview.png]Click for preview[/url]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NightstalkerPreview.png]Click for preview[/url]",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ScalieExpansionVer2.zip"
-	},
-	{
 		"name": "Squirrel Species (Breed Edition)",
 		"author": "AverageAce",
 		"description": "Adds the funny tree nuts species. Comes with a species, a head, and two tails.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NightstalkerPreview.png]Click for preview[/url]\n\n[b]Bonus: Breed edition[/b]: a version of this mod with a single change, Male and Shemale NPCs will always spawn with anus womb.\n[b]DO NOT USE BOTH VERSION AT ONCE![/b] Please use one or the other!",
@@ -833,14 +825,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DomSub.zip"
 	},
 	{
-		"name": "Dynamic Stocks",
-		"description": "Allows you to find Dynamic NPCs stuck in the stocks",
-		"author": "Darth",
-		"modversion": "1.0",
-		"gameversion": "0.1.3",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DynamicStocks.zip"
-	},
-	{
 		"name": "Breasts and Penis size - Small",
 		"description": "[b]PLEASE only install one of these 3 or Hypertus!\nThey will collide![/b]\n\nChanges the size of Random npcs breasts, from small average to large average. I've basically taken Caninbad's hypertus mod and deconstructed it so some features from his mod. Let me know if you see anything off. Will not change currently active npcs breasts.",
 		"author": "Makarov",
@@ -863,14 +847,6 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Largebreastsandpenis.zip"
-	},
-	{
-		"name": "PortalPantiesPlus",
-		"description": "Lets you use the portal panties to walk around with your dick in someone, or someone's dick in you.\nMay have compatiblity porblems with later versions, or other portal panties mods",
-		"author": "Darth",
-		"modversion": "1.0",
-		"gameversion": "0.1.3",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PortalPantiesPlus.zip"
 	},
 	{
 		"name": "Hypertus",
@@ -937,28 +913,12 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BreedableCheckpointGuard.zip"
 	},
 	{
-		"name": "NPC Claimer",
-		"description": "Allows you to brand NPCs, claiming them for yourself.\n Should be usable on newer versions\nNew content:\nBuffs can now be applied to the branding iron making the resulting brand do some fun things\nFixxxes:\nNpcs now have the some Mods as you at half the power, and one at a time.\nMulti Brands can now give more buffs.\nv2.5 Additions:\nA new drug that removes brands.\nA code refactor to help with possible issues before they're problems.\nA few new branding modifiers.\n\n\nhot fix crashing on reload",
-		"author": "Darth",
-		"modversion": "2.5",
-		"gameversion": "0.1.3",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NPCclaimer.zip"
-	},
-	{
 		"name": "Ace's Pregnancy Expansion Mod",
 		"description": "Best Kink Mod gets more content. Some new scenes, Some altered scenes. Look at the changes list for all of them.\nStill very early, and this is my first time writing whole new scenes\n\n[b]!!This mod will be incompatible with any other mod that changes the same files. This includes the Nova Sub Training Mod!![/b]",
 		"author": "AverageAce",
 		"modversion": "0.5",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AcePregExpacVer0.5.zip"
-	},
-	{
-		"name": "Drug Injector",
-		"description": "Makes and handles an item that lets you drug oponents in combat.\n Should be usable on newer versions\nAdded a new pill that decreases stamina\nFixxes:\nFixed a crash when using the last loaded pill",
-		"author": "Darth",
-		"modversion": "1.5",
-		"gameversion": "0.1.3",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DrugInjector.zip"
 	},
 	{
 		"name": "Ace's Pregnancy Expansion Mod - Soft Nova Sub Training Patch",
@@ -991,6 +951,62 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HairSkinsBatch1.zip"
+	},
+	{
+		"name": "Cursed Equipment",
+		"description": "Adds cursed Equipment to the game. where do you find it? Who knows.\nThis mod was made in a way to make it easier to make more cursed equipment, but if you just want a start on the idea, this is it.\nFixxes:\nA problem with the dickeater and the milkinator not doing their autopump\npossibly some crashes\nMilkinator being clased as clothing",
+		"author": "Darth",
+		"modversion": "1.1",
+		"gameversion": "0.1.3",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CursedEquipment.zip"
+	},
+	{
+		"name": "Portal Panties Plus",
+		"description": "Lets you use the portal panties to walk around with your dick in someone, or someone's dick in you.\nMay have compatiblity porblems with later versions, or other portal panties mods\nAdded:\nThe ability to drug through portals\nFixxed:\nA few bad checks with the older code",
+		"author": "Darth",
+		"modversion": "2.0",
+		"gameversion": "0.1.3",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PortalPantiesPlus.zip"
+	},
+	{
+		"name": "NPC Claimer",
+		"description": "Allows you to brand NPCs, claiming them for yourself.\n Should be usable on newer versions\nNew content:\nBuffs can now be applied to the branding iron making the resulting brand do some fun things\nFixxes:\nProblem when removing characters resolved",
+		"author": "Darth",
+		"modversion": "2.6",
+		"gameversion": "0.1.3",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NPCclaimer.zip"
+	},
+	{
+		"name": "Dynamic Stocks",
+		"description": "Allows you to find Dynamic NPCs stuck in the stocks\n\nAdditions\nNPCs once they win can now lock you in the stocks\n(only under the chance you just let them free and pissed them off)\nA change in the chance of enchontering NPCs stuck in the stocks",
+		"author": "Darth",
+		"modversion": "1.5",
+		"gameversion": "0.1.3",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DynamicStocks.zip"
+	},
+	{
+		"name": "Sergal Species",
+		"author": "AverageAce",
+		"description": "Adds the fictional sergal species to the game. Comes with a number of alternate bodyparts, namely heads and ears.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SergalSpeciesShowcase.png]Click for Preview[/url]",
+		"modversion": "0.9",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SergalSpeciesVer0.9.zip"
+	},
+	{
+		"name": "Scalie Expansion",
+		"author": "AverageAce",
+		"description": "A species expansion pack with 6 species, Kobold, Snake, Eastern Dragon, Felkin, Wickerbeasts, and Nightstalkers. Comes with some new horns as well.\n\n[b]Update: The Great Atrocity has been rectified, the Felkin head has been replaced with a much better version.[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ScalieExpansionShowcase.png]Click for preview[/url]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NightstalkerPreview.png]Click for preview Nightstalker[/url]",
+		"modversion": "2.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ScalieExpansionVer2.1.zip"
+	},
+	{
+		"name": "Drug Injector",
+		"description": "Makes and handles an item that lets you drug oponents in combat.\n Should be usable on newer versions\nAdded A new mode to the injector, DNA mode, takes the species of a 'sample' and makes hybrids\nFixxes:\nErrors being loaded at startup",
+		"author": "Darth",
+		"modversion": "2.1",
+		"gameversion": "0.1.3",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DrugInjector.zip"
 	}
 	]
 }
