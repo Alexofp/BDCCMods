@@ -817,14 +817,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Largebreastsandpenis.zip"
 	},
 	{
-		"name": "Hypertus",
-		"author": "CanInBad",
-		"description": "\n[b]WARNING: This contains hyper stuff, if you dislike it then leave[/b]\n\nThis mods [b]adds[b] [i](not replace)[/i] new body parts that just are like the normal ones but you can upgrade them in a new skill tree that comes with this mod.\nSaid body parts are in form of breast, penises, vagina, and anus.\nThis mod also have capability layers that use the looks of your favorite body parts mod, including ones from species mod that add one of the 4 body part categories mentioned.\n\nYou can gain experience points of said skill tree by invest in vanilla perks and then sleep, each time you wake up you will be notified how much of them you get.\nYou can then spend those point to add ridiculous amount of perks to your body parts.\nPlease do note that some perks might be hidden due to not meeting the requirement for the perk.\n\nThere is a draft of the story but it isn't complete in anyway and some glimpse of it can be read in the perks' description.\n\nThere are compatibility layers that make all species including the modded one have hyperable version of them\n\nYou can transform your or your foe's parts to hyperable with Personal Bluespace Anomaly Emitter. You need to finish the Alex's portal quest to get one from his shop\n\nHas compatibility layer between these mods:\n - Synth Species\n - Fluffy Bodyparts\n - Avali Species (both version)\n - Ace's Aviary Addon\n - Transgender Flat Chest\n - Crow Species\n - Deer Species\n - Knotted Horse Cock\n - Barbed Equine Penis\n - Spined Dragon Penis\n\nIf you have any feedback send it in #mods-discussion and ping me,\nor open an issue on [url]https://github.com/CanInBad/HypertusMod/issues[/url].\n\n# Changelog\n * a new compatibility layer\n## backend stuff\n * added skinPathDir and skinPaths to either add skins of an entire folder or individually\n * changes order of loading stuff to bodyparts then skins (used to be skins then bodypart)",
-		"modversion": "R4-1",
-		"gameversion": "0.1.3",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR4-1.zip"
-	},
-	{
 		"name": "Rat Species",
 		"author": "Fantos",
 		"description": "It add the bigger and more dangerous of the cheese lover species, the rat. Now with skin support!\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/RatPreview.png]Click for Preview[/url]",
@@ -1023,6 +1015,30 @@
 		"modversion": "1.5",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Laquine_SpeciesVer1.5.zip"
+	},
+	{
+		"name": "Hypertus",
+		"author": "CanInBad",
+		"description": "\n[b]WARNING: This contains hyper stuff, if you dislike it then leave[/b]\n\nThis mods [b]adds[b] [i](not replace)[/i] new body parts that just are like the normal ones but you can upgrade them in a new skill tree that comes with this mod.\nSaid body parts are in form of breast, penises, vagina, and anus.\nThis mod also have capability layers that use the looks of your favorite body parts mod, including ones from species mod that add one of the 4 body part categories mentioned.\n\nYou can gain experience points of said skill tree by invest in vanilla perks and then sleep, each time you wake up you will be notified how much of them you get.\nYou can then spend those point to add ridiculous amount of perks to your body parts.\nPlease do note that some perks might be hidden due to not meeting the requirement for the perk.\n\nThere is a draft of the story but it isn't complete in anyway and some glimpse of it can be read in the perks' description.\n\nThere are compatibility layers that make all species including the modded one have hyperable version of them\n\nYou can transform your or your foe's parts to hyperable with Personal Bluespace Anomaly Emitter. You need to finish the Alex's portal quest to get one from his shop\n\nHas compatibility layer between these mods:\n - Synth Species\n - Fluffy Bodyparts\n - Avali Species (both version)\n - Ace's Aviary Addon\n - Transgender Flat Chest\n - Crow Species\n - Deer Species\n - Knotted Horse Cock\n - Barbed Equine Penis\n - Spined Dragon Penis\n\nIf you have any feedback send it in #mods-discussion and ping me,\nor open an issue on [url]https://github.com/CanInBad/HypertusMod/issues[/url].\n\n# Changelog\n * Added skins for Knotted Horse Cock\n## Backend stuff\n * Compatibility layers now loaded from a json, this means other developers can add their own support for hyperable bodypart without having to make their mod load after Hypertus\n * Changes how skins are loaded",
+		"modversion": "R4-2",
+		"gameversion": "0.1.3",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR4-2.zip"
+	},
+	{
+		"name": "Equine Pussy (E) - Hypertus Compatibility",
+		"author": "Raznaak | Conversion: CanInBad",
+		"description": "This mod is a addon for Hypertus mod and a POC for the new compatibility layers loading method, Add Hyperable Equine Pussy with a chance to spawn on equine natually..\nIf you do not want normal equine pussy in equine then do not use the E version of the normal mod.\n\n!!!DO NOT INSTALL BOTH VERSIONS, PICK ONE!!!",
+		"modversion": "R1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EquinePussyE-HyperableCompatR1.zip"
+	},
+	{
+		"name": "Equine Pussy - Hypertus Compatibility",
+		"author": "Raznaak | Conversion: CanInBad",
+		"description": "This mod is a addon for Hypertus mod and a POC for the new compatibility layers loading method, Add Hyperable Equine Pussy\nIf you do not want normal equine pussy in equine then do not use the E version of the normal mod.\n\n!!!DO NOT INSTALL BOTH VERSIONS, PICK ONE!!!",
+		"modversion": "R1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EquinePussy-HyperableCompatR1.zip"
 	}
 	]
 }
