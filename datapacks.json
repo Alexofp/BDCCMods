@@ -1,0 +1,15 @@
+{
+	"datapacks": [
+		{
+			"id": "testpack",
+			"name": "Test pack",
+			"author": "Rahi",
+			"version": "1.0",
+			"description": "Meow meow",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/testpack.res",
+			"lastedit": 1719340234,
+			"preview": "datapack_previews/testpack.png"
+		}
+	]
+}
