@@ -32,6 +32,7 @@ func _on_ScanButton_pressed():
 	var filenameByPackID = {}
 	var previewByID = {}
 	var lastEditByID = {}
+	var filesizeByID = {}
 	
 	var file = File.new()
 	for resourcePath in allResources:
@@ -58,6 +59,9 @@ func _on_ScanButton_pressed():
 		datapacksOrdered.append(newDatapack.id)
 		filenameByPackID[newDatapack.id] = resourcePath
 		lastEditByID[newDatapack.id] = file.get_modified_time(resourcePath)
+		file.open(resourcePath, File.READ)
+		filesizeByID[newDatapack.id] = file.get_len()
+		file.close()
 		
 		for previewPath in allPreviews:
 			if(previewPath.get_file().get_basename().to_lower() == newDatapack.id.to_lower()):
@@ -86,6 +90,7 @@ func _on_ScanButton_pressed():
 			contains = theDatapack.getContainsString(),
 			download = urlpath,
 			lastedit = lastEditByID[theDatapack.id],
+			filesize = filesizeByID[theDatapack.id],
 		}
 		
 		if(previewByID.has(theDatapack.id)):
@@ -134,7 +139,7 @@ func getResourcesInFolderSortedByDate(folder: String):
 	return result
 	
 func customSavePathComparison(a, b):
-	return a[1] > b[1]
+	return a[1] < b[1]
 
 func getPreviewsInFolder(folder: String):
 	var allpaths = []

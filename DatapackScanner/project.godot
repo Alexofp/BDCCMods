@@ -15,11 +15,6 @@ _global_script_classes=[ {
 "path": "res://Datapack.gd"
 }, {
 "base": "Resource",
-"class": "DatapackCharacter",
-"language": "GDScript",
-"path": "res://DatapackCharacter.gd"
-}, {
-"base": "Resource",
 "class": "DatapackResource",
 "language": "GDScript",
 "path": "res://Game/Datapacks/DatapackResource.gd"
@@ -36,7 +31,6 @@ _global_script_classes=[ {
 } ]
 _global_script_class_icons={
 "Datapack": "",
-"DatapackCharacter": "",
 "DatapackResource": "",
 "Log": "",
 "Util": ""
