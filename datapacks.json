@@ -23,6 +23,18 @@
 			"lastedit": 1719869006,
 			"filesize": 6472,
 			"preview": "datapack_previews/fenrircharacter.png"
+		},
+		{
+			"id": "brevmanscharacterpack1",
+			"name": "Brevman Character Pack V1",
+			"author": "Brevman",
+			"version": "1.0",
+			"description": "A assortment of characters that I've made!\nFocuses on the kinder types, and tries to have a variety of all types, inmates, guards, engineers, nurses, etc.",
+			"contains": "Contains: 4 characters",
+			"download": "datapacks/brevmanscharacterpack1.res",
+			"lastedit": 1719870172,
+			"filesize": 28801,
+			"preview": "datapack_previews/brevmanscharacterpack1.png"
 		}
 	]
 }
