@@ -11,6 +11,18 @@
 			"lastedit": 1719845351,
 			"filesize": 102787,
 			"preview": "datapack_previews/pandaskin.PNG"
+		},
+		{
+			"id": "fenrircharacter",
+			"name": "Fenrir Character",
+			"author": "AverageAce",
+			"version": "1.0",
+			"description": "Test Datapack with a good boy in it",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/fenrircharacter.res",
+			"lastedit": 1719869006,
+			"filesize": 6472,
+			"preview": "datapack_previews/fenrircharacter.png"
 		}
 	]
 }
