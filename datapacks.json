@@ -1,39 +1,16 @@
 {
 	"datapacks": [
 		{
-			"id": "testpack",
-			"name": "Test pack",
+			"id": "pandaskin",
+			"name": "Panda skin datapack",
 			"author": "Rahi",
 			"version": "1.0",
-			"description": "Meow meow",
-			"contains": "Contains: 1 character",
-			"download": "datapacks/testpack.res",
-			"lastedit": 1719340234,
-			"filesize": 899038,
-			"preview": "datapack_previews/testpack.png"
-		},
-		{
-			"id": "asd",
-			"name": "MEOW MEOW",
-			"author": "RAHI AAAAA",
-			"version": "1.0",
-			"description": "No description provided",
-			"contains": "Contains: 2 characters",
-			"download": "datapacks/asd.res",
-			"lastedit": 1719407860,
-			"filesize": 4124,
-			"preview": "datapack_previews/asd.png"
-		},
-		{
-			"id": "mewmew",
-			"name": "My mew pack",
-			"author": "Someone named Rahi",
-			"version": "1.0",
-			"description": "No description provided\nmew\nmew mew mew [color=red]MEW[/color] [url=https://rahimew.itch.io/project-rahi-lock-is-key]Check this game out[/url]",
-			"contains": "Contains: Nothing",
-			"download": "datapacks/mewmew.res",
-			"lastedit": 1719408684,
-			"filesize": 657
+			"description": "Adds a panda skin!",
+			"contains": "Contains: 1 skin",
+			"download": "datapacks/pandaskin.res",
+			"lastedit": 1719844407,
+			"filesize": 12583745,
+			"preview": "datapack_previews/pandaskin.PNG"
 		}
 	]
 }
