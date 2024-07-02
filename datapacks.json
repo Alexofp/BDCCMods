@@ -26,15 +26,27 @@
 		},
 		{
 			"id": "brevmanscharacterpack1",
-			"name": "Brevman Character Pack V1",
+			"name": "Brevman Character Pack V2",
 			"author": "Brevman",
-			"version": "1.0",
-			"description": "A assortment of characters that I've made!\nFocuses on the kinder types, and tries to have a variety of all types, inmates, guards, engineers, nurses, etc.",
-			"contains": "Contains: 4 characters",
+			"version": "2.0",
+			"description": "A assortment of characters that I've made!\nFocuses on the kinder types, and tries to have a variety of all types, inmates, guards, engineers, nurses, etc.\nAll highly customised, with unique attacks, loot tables, etc.\nMOST of them love breeding & vaginal, cum in general, oral, rougher play.\n6 fem, 4 male, 2 andro II 6 inmates, 3 guards, 2 engineers, 1 nurse\nMost of them are higher level, 8-35 so far.",
+			"contains": "Contains: 12 characters",
 			"download": "datapacks/brevmanscharacterpack1.res",
-			"lastedit": 1719870172,
-			"filesize": 28801,
+			"lastedit": 1719898687,
+			"filesize": 83433,
 			"preview": "datapack_previews/brevmanscharacterpack1.png"
+		},
+		{
+			"id": "luciodemonicsindustriesclassified",
+			"name": "Luc....no idea why",
+			"author": "Luc",
+			"version": "1.0",
+			"description": "the gayass catto!\nWarning: it is not balanced for early game and is meant for when you atleast know what you're doing",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/luciodemonicsindustriesclassified.res",
+			"lastedit": 1719898695,
+			"filesize": 7400,
+			"preview": "datapack_previews/luciodemonicsindustriesclassified.png"
 		}
 	]
 }
