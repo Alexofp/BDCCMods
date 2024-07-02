@@ -95,6 +95,18 @@
 			"lastedit": 1719951642,
 			"filesize": 5793,
 			"preview": "datapack_previews/peanutsfursona.png"
+		},
+		{
+			"id": "Natalia",
+			"name": "Natalia",
+			"author": "Rocky",
+			"version": "1.0",
+			"description": "adds a new female fox inmate  Required mods: Prosthetic parts",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/Natalia.res",
+			"lastedit": 1719954048,
+			"filesize": 5890,
+			"preview": "datapack_previews/Natalia.png"
 		}
 	]
 }
