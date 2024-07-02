@@ -1039,6 +1039,30 @@
 		"modversion": "R1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EquinePussy-HyperableCompatR1.zip"
+	},
+	{
+		"name": "Canine Pussy",
+		"author": "Raznaak",
+		"description": "This adds the CaninePussy in the vagina parts available. There's no actual visible parts, but the descriptions are different, and it naturally handles smaller volumes, but it should be easier to stretch and stay stretched after some efforts, and is wetter (no effect on gameplay for now).\nPerhaps more stuff coming when I both get the motivation, the know-how and the inspiration.\nIf you find any bug of course notify me, and I'm listening to suggestions, numbers are a ballpark for now.\n\nThe base edition just adds the Canine Pussy option to what's available for you, while the -C edition also makes the random canine NPCs spawn with the part a bit less than half the time.\n[b]USE ONLY ONE, NOT BOTH![/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/caninepussy.png]Click for Preview[/url]",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CaninePussyVer1.0.zip"
+	},
+	{
+		"name": "Canine Pussy (C edition)",
+		"author": "Raznaak",
+		"description": "This adds the CaninePussy in the vagina parts available. There's no actual visible parts, but the descriptions are different, and it naturally handles smaller volumes, but it should be easier to stretch and stay stretched after some efforts, and is wetter (no effect on gameplay for now).\nPerhaps more stuff coming when I both get the motivation, the know-how and the inspiration.\nIf you find any bug of course notify me, and I'm listening to suggestions, numbers are a ballpark for now.\n\nThe base edition just adds the Canine Pussy option to what's available for you, while the -C edition also makes the random canine NPCs spawn with the part a bit less than half the time.\n[b]USE ONLY ONE, NOT BOTH![/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/caninepussy.png]Click for Preview[/url]",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CaninePussyVer1.0-C.zip"
+	},
+	{
+		"name": "Fenrir's Custom Console Commands (FensCCC)",
+		"author": "Fenrir",
+		"description": "This mod adds custom console commands.\n\nCurrent commands:\n- no_kids | Clears the nursery database\n- species_encounter_chance <default, none, number> | Sets the encounter chance for all species (0.0 -> 10.0)\n- gender_encounter_chance <male, female, shemale, herm, peachboy, all | default, none, number> | Sets the encounter rate for either a single gender, or all genders (0.0 -> 1.0)\n\nNotes:\nAdded a maximum number limit to both encounter commands. (10.0 for species, 1.0 for genders)",
+		"modversion": "a0.0.02",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/0_FensCCC.zip"
 	}
 	]
 }
