@@ -83,6 +83,18 @@
 			"lastedit": 1719950118,
 			"filesize": 8247,
 			"preview": "datapack_previews/kingdragon.PNG"
+		},
+		{
+			"id": "peanutsfursona",
+			"name": "Peanuts' fursona",
+			"author": "Peanuts",
+			"version": "1.0",
+			"description": "Peanuts, the masochistic bunny",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/peanutsfursona.res",
+			"lastedit": 1719951642,
+			"filesize": 5793,
+			"preview": "datapack_previews/peanutsfursona.png"
 		}
 	]
 }
