@@ -25,18 +25,6 @@
 			"preview": "datapack_previews/fenrircharacter.png"
 		},
 		{
-			"id": "brevmanscharacterpack1",
-			"name": "Brevman Character Pack V2",
-			"author": "Brevman",
-			"version": "2.0",
-			"description": "A assortment of characters that I've made!\nFocuses on the kinder types, and tries to have a variety of all types, inmates, guards, engineers, nurses, etc.\nAll highly customised, with unique attacks, loot tables, etc.\nMOST of them love breeding & vaginal, cum in general, oral, rougher play.\n6 fem, 4 male, 2 andro II 6 inmates, 3 guards, 2 engineers, 1 nurse\nMost of them are higher level, 8-35 so far.",
-			"contains": "Contains: 12 characters",
-			"download": "datapacks/brevmanscharacterpack1.res",
-			"lastedit": 1719898687,
-			"filesize": 83433,
-			"preview": "datapack_previews/brevmanscharacterpack1.png"
-		},
-		{
 			"id": "luciodemonicsindustriesclassified",
 			"name": "Luc....no idea why",
 			"author": "Luc",
@@ -73,18 +61,6 @@
 			"preview": "datapack_previews/one_hole_ona.PNG"
 		},
 		{
-			"id": "kingdragon",
-			"name": "Alexander, the Dragon King",
-			"author": "Katz",
-			"version": "1.0",
-			"description": "Introduce an unstoppable dom into your world. He starts out nice, but if you're too much of a brat...\nHeavy focus on breeding fetish, recommended for submissive female characters.",
-			"contains": "Contains: 1 character",
-			"download": "datapacks/kingdragon.res",
-			"lastedit": 1719950118,
-			"filesize": 8247,
-			"preview": "datapack_previews/kingdragon.PNG"
-		},
-		{
 			"id": "peanutsfursona",
 			"name": "Peanuts' fursona",
 			"author": "Peanuts",
@@ -107,6 +83,137 @@
 			"lastedit": 1719954048,
 			"filesize": 5890,
 			"preview": "datapack_previews/Natalia.png"
+		},
+		{
+			"id": "kingdragon",
+			"name": "Alexander, the Dragon King",
+			"author": "Katz",
+			"version": "1",
+			"description": "Introduce an unstoppable dom into your world. He starts out nice, but if you're too much of a brat...\nHeavy focus on breeding fetish, recommended for submissive female characters.",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/kingdragon.res",
+			"lastedit": 1719987296,
+			"filesize": 8338,
+			"preview": "datapack_previews/kingdragon.PNG"
+		},
+		{
+			"id": "kingdragonmod",
+			"name": "Alexander, the Dragon King (With Mods)",
+			"author": "Katz",
+			"version": "1.1 Modded",
+			"description": "Introduce an unstoppable dom into your world. He starts out nice, but if you're too much of a brat...\nHeavy focus on breeding fetish, recommended for submissive female characters.\nRequired Mods\n1) KnottedEquinePenisVer3\n2) ScalieExpansionVer2.1",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/kingdragonmod.res",
+			"lastedit": 1719987339,
+			"filesize": 8488,
+			"preview": "datapack_previews/kingdragonmod.PNG"
+		},
+		{
+			"id": "fhSisters",
+			"name": "The Flameheart Sisters",
+			"author": "Phoenix (A.K.A Bloxborne)",
+			"version": "1.0",
+			"description": "This is Phoenix and her sister Jay. Both of them are guards.",
+			"contains": "Contains: 2 characters",
+			"download": "datapacks/fhSisters.res",
+			"lastedit": 1719987357,
+			"filesize": 14025,
+			"preview": "datapack_previews/fhSisters.png"
+		},
+		{
+			"id": "Kisa",
+			"name": "New pack",
+			"author": "Donshadowwolf",
+			"version": "1.0",
+			"description": "No description provided",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/kisa.res",
+			"lastedit": 1719987453,
+			"filesize": 1337464,
+			"preview": "datapack_previews/kisa.png"
+		},
+		{
+			"id": "acesunreleasedskinspack",
+			"name": "Ace'sUnreleasedSkinsPack",
+			"author": "AverageAce",
+			"version": "1.0",
+			"description": "All the skins I've made for the game that haven't been added to the base game for whatever reason.\nSome have variants.",
+			"contains": "Contains: 9 skins",
+			"download": "datapacks/acesunreleasedskinspack.res",
+			"lastedit": 1719987523,
+			"filesize": 1462641,
+			"preview": "datapack_previews/acesunreleasedskinspack.png"
+		},
+		{
+			"id": "futarahi",
+			"name": "Futa Rahi",
+			"author": "AverageAce",
+			"version": "1.0",
+			"description": "Rahi but with more COCK",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/futarahi.res",
+			"lastedit": 1719987585,
+			"filesize": 7294,
+			"preview": "datapack_previews/futarahi.png"
+		},
+		{
+			"id": "Straight girls",
+			"name": "My first bit of characters",
+			"author": "Kuran",
+			"version": "1.0",
+			"description": "A bundle of of unique straight women, from a human supremacist power house, to a very slutty kitty, each of these four women have their own stories, but weather or not you care is up to you.",
+			"contains": "Contains: 4 characters",
+			"download": "datapacks/Straight girls.res",
+			"lastedit": 1719987613,
+			"filesize": 5779480
+		},
+		{
+			"id": "brevmanscharacterpack1",
+			"name": "Brevman Character Pack V3",
+			"author": "Brevman",
+			"version": "3.0",
+			"description": "A assortment of characters that I've made!\nTries to have a variety of all types, inmates, guards, engineers, nurses, etc. From the kind and gentle, to the utterly brutal. From the submissive to those that will crush you under their boot.\nEvery single character is highly customised, with unique attacks, loot tables, and detailed descriptions with backstory.\n16 fem, 12 male, 6 andro II 20 inmates, 7 guards, 4 engineers, 3 nurses\nMost of them are higher level, 8-50 so far. Most are 20+ (Plus a single lvl 80 \"boss\") The pack is meant to make the early levels rough, and lvl20+ no longer trivial.\nCan you handle the challenge? ;P",
+			"contains": "Contains: 34 characters",
+			"download": "datapacks/brevmanscharacterpack1.res",
+			"lastedit": 1719987628,
+			"filesize": 938090,
+			"preview": "datapack_previews/brevmanscharacterpack1.png"
+		},
+		{
+			"id": "equinesubsquad",
+			"name": "The Herd",
+			"author": "Katz",
+			"version": "1.0",
+			"description": "Your very own herd of lustful horses. Watch out for the stud!",
+			"contains": "Contains: 4 characters",
+			"download": "datapacks/equinesubsquad.res",
+			"lastedit": 1719987647,
+			"filesize": 26571,
+			"preview": "datapack_previews/equinesubsquad.PNG"
+		},
+		{
+			"id": "inmatenova",
+			"name": "InmateNova",
+			"author": "AverageAce",
+			"version": "1.0",
+			"description": "!SPOILERS!\nIf you've done enough content you'll notice that Nova isnt actually a guard, She's technically an inmate.\nSo this pack is a what if scenario of what if you came into the prison before all that. Or clone shenanigans.\nCan't remove the *actual* Nova as a character so feel free to come with a solution on your own.\nAlso Inmate Nova will be a standard Generic Inmate, so no special scenes.",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/inmatenova.res",
+			"lastedit": 1719987666,
+			"filesize": 7714,
+			"preview": "datapack_previews/inmatenova.png"
+		},
+		{
+			"id": "wintereira",
+			"name": "Winter 'Eira the Lustful",
+			"author": "Sethix'Ria",
+			"version": "1.0",
+			"description": "Thought I'd add my succubus paladin to the game. As a very nice lust based guard who'll get what she wants probably. Likely isnt a hard fight for most.",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/wintereira.res",
+			"lastedit": 1719987687,
+			"filesize": 7385,
+			"preview": "datapack_previews/wintereira.png"
 		}
 	]
 }
