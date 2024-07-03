@@ -214,6 +214,54 @@
 			"lastedit": 1719987687,
 			"filesize": 7385,
 			"preview": "datapack_previews/wintereira.png"
+		},
+		{
+			"id": "gooba",
+			"name": "Gura",
+			"author": "Raznaak",
+			"version": "1.0",
+			"description": "Same-chan",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/gooba.res",
+			"lastedit": 1719997882,
+			"filesize": 1208409,
+			"preview": "datapack_previews/gooba.png"
+		},
+		{
+			"id": "Ryan",
+			"name": "Ryan Pack",
+			"author": "No author",
+			"version": "1.1",
+			"description": "No description provided",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/Ryan.res",
+			"lastedit": 1719997917,
+			"filesize": 4309,
+			"preview": "datapack_previews/Ryan.png"
+		},
+		{
+			"id": "rebecca",
+			"name": "New pack",
+			"author": "Makarov",
+			"version": "1.0",
+			"description": "An absolute sexual defiant and an attempt at hyena",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/rebecca.res",
+			"lastedit": 1719997934,
+			"filesize": 5958,
+			"preview": "datapack_previews/rebecca.png"
+		},
+		{
+			"id": "jacob",
+			"name": "New pack",
+			"author": "Makarov",
+			"version": "1.0",
+			"description": "No description provided",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/jacob.res",
+			"lastedit": 1719997956,
+			"filesize": 4280,
+			"preview": "datapack_previews/jacob.png"
 		}
 	]
 }
