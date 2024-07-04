@@ -180,18 +180,6 @@
 			"preview": "datapack_previews/brevmanscharacterpack1.png"
 		},
 		{
-			"id": "equinesubsquad",
-			"name": "The Herd",
-			"author": "Katz",
-			"version": "1.0",
-			"description": "Your very own herd of lustful horses. Watch out for the stud!",
-			"contains": "Contains: 4 characters",
-			"download": "datapacks/equinesubsquad.res",
-			"lastedit": 1719987647,
-			"filesize": 26571,
-			"preview": "datapack_previews/equinesubsquad.PNG"
-		},
-		{
 			"id": "inmatenova",
 			"name": "InmateNova",
 			"author": "AverageAce",
@@ -262,6 +250,29 @@
 			"lastedit": 1719997956,
 			"filesize": 4280,
 			"preview": "datapack_previews/jacob.png"
+		},
+		{
+			"id": "equinesubsquad",
+			"name": "The Herd",
+			"author": "Katz",
+			"version": "1.1",
+			"description": "Your very own herd of lustful horses. Watch out for the stud!\nNow including 5 unique mares!",
+			"contains": "Contains: 6 characters",
+			"download": "datapacks/equinesubsquad.res",
+			"lastedit": 1720075628,
+			"filesize": 39062,
+			"preview": "datapack_previews/equinesubsquad.PNG"
+		},
+		{
+			"id": "comedyhappens42069",
+			"name": "Syna Emery",
+			"author": "Aedyn Walkr",
+			"version": "0.1",
+			"description": "A character that has lore I've been planning on turning into a mod for a while now. Once that scene creation feature drops I'll finally be able to get that shit done. (Requires Dragons+ and the Cybernetic Skin.)",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/synaemery.res",
+			"lastedit": 1720075631,
+			"filesize": 8162
 		}
 	]
 }
