@@ -841,14 +841,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusSpeciesCompatibilityLayersR3-1.zip"
 	},
 	{
-		"name": "The Flamehearts",
-		"author": "Phoenix",
-		"description": "Two New Characters along with a new Questline (2 quests from one and 1 from another character) along with a secret Item you can find if you are vigilant enough to find it as this item is only obtainable in this version, If you play the other version and get the other item you can do something special with them together.\n(to meet the new characters you need to get past the transmitter part in Tavi's line, then look around the engineers block or go to the yard area and look around there to start)\nItem Additions: Adds three new items that can be Combined in a special machine to make better versions of items\n\nUPDATE: Fixed problem where you couldn't interact with Phoenix again, And Fixed problem with crashing after trying to get an item from Phoenix again, Fixed a problem with the wrong computer being displayed, fixed issue with game crashing after interacting with a safe",
-		"modversion": "0.3.5",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/TheFlameheartsV0.3.5.zip"
-	},
-	{
 		"name": "BodyDrugs",
 		"description": "Allows you to change bodyparts and porportions with pills.\n Should be usable on newer versions\nNew Additions:\nThickness and Femininity pills as well as more options for plain body modification\nA new attack for Only this mods pills. Does Not edit other mods pills\nA new debug pill Turbo Conception, because normal Conception is just too slow.",
 		"author": "Darth",
@@ -1063,6 +1055,14 @@
 		"modversion": "a0.0.02",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/0_FensCCC.zip"
+	},
+	{
+		"name": "The Flamehearts",
+		"author": "Bloxborne (aka Phoenix)",
+		"description": "What it adds?: This adds a Pathway, Similar to Tavi, where you help a Guard/Engineer, who supposedly has hidden themselves from the captain, And they need your help In trying to get them out of the Space Station, she will offer you a way out too if you help her. There is a Two Diverging Path system depending on what you do to access Phoenix's place. This also adds a few new floor locations allowing you to explore and access different things. It adds some new items and a small crafting system in one of the floors.\nSecrets?: Yes, One in each version of the game (Except V0.4Alpha Rn) And yes they do carry over to other versions of the game so it is worth playing the older versions, and yes it should remember your progress when you update the mods to a higher version.\nTLDR: New floors, new items new interaction, new escape path (Not Finished Obvi), and smei dynamic choices",
+		"modversion": "0.4Alpha",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/TheFlameheartsV0.4.Alpha1.zip"
 	}
 	]
 }
