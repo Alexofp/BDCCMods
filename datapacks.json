@@ -85,18 +85,6 @@
 			"preview": "datapack_previews/Natalia.png"
 		},
 		{
-			"id": "kingdragon",
-			"name": "Alexander, the Dragon King",
-			"author": "Katz",
-			"version": "1",
-			"description": "Introduce an unstoppable dom into your world. He starts out nice, but if you're too much of a brat...\nHeavy focus on breeding fetish, recommended for submissive female characters.",
-			"contains": "Contains: 1 character",
-			"download": "datapacks/kingdragon.res",
-			"lastedit": 1719987296,
-			"filesize": 8338,
-			"preview": "datapack_previews/kingdragon.PNG"
-		},
-		{
 			"id": "kingdragonmod",
 			"name": "Alexander, the Dragon King (With Mods)",
 			"author": "Katz",
@@ -252,18 +240,6 @@
 			"preview": "datapack_previews/jacob.png"
 		},
 		{
-			"id": "equinesubsquad",
-			"name": "The Herd",
-			"author": "Katz",
-			"version": "1.1",
-			"description": "Your very own herd of lustful horses. Watch out for the stud!\nNow including 5 unique mares!",
-			"contains": "Contains: 6 characters",
-			"download": "datapacks/equinesubsquad.res",
-			"lastedit": 1720075628,
-			"filesize": 39062,
-			"preview": "datapack_previews/equinesubsquad.PNG"
-		},
-		{
 			"id": "comedyhappens42069",
 			"name": "Syna Emery",
 			"author": "Aedyn Walkr",
@@ -273,6 +249,42 @@
 			"download": "datapacks/synaemery.res",
 			"lastedit": 1720075631,
 			"filesize": 8162
+		},
+		{
+			"id": "brevmanmoddedpack1",
+			"name": "Brevman's Modded Character Pack V1",
+			"author": "Brevman",
+			"version": "1.0",
+			"description": "Contains characters that are modded. Varied types but with a strong leaning towards breeding kinks.\nPretty loose with realism, quite a few demons, some bots. whatever I think is hot.\nAll characters have custom attacks, personalities, loot drops, backstory descriptions and more. All in line with their personality.\nMost are high level.\n2 Fem I 11 Male I 1 peach II 9 inmates I 2 guards I 1 engineer I 2 nurses\nDependencies: Scalie Expansion, Skull Dogs, Sergals, Avali, Protogen, Synths, Barbed Equine Penis, Spined Dragon Penis. Ace's unreleased Skins pack.",
+			"contains": "Contains: 14 characters",
+			"download": "datapacks/brevmanmoddedpack1.res",
+			"lastedit": 1720158659,
+			"filesize": 88868,
+			"preview": "datapack_previews/brevmanmoddedpack1.png"
+		},
+		{
+			"id": "equinesubsquad",
+			"name": "The Herd",
+			"author": "Katz",
+			"version": "1.2",
+			"description": "6 mares with a comfortable variety of fetishes for you to enjoy, and one stallion lurking around the guard areas. Watch out for him!",
+			"contains": "Contains: 7 characters",
+			"download": "datapacks/equinesubsquad.res",
+			"lastedit": 1720158686,
+			"filesize": 45547,
+			"preview": "datapack_previews/equinesubsquad.PNG"
+		},
+		{
+			"id": "kingdragon",
+			"name": "Alexander, Dragon King",
+			"author": "Katz",
+			"version": "2.0",
+			"description": "Introduce an unstoppable dom into your world. He starts out nice, but if you're too much of a brat...\nHeavy focus on breeding fetish, recommended for submissive female characters.\n\nNow includes more dragons, less powerful than the king but a lot meaner.",
+			"contains": "Contains: 4 characters",
+			"download": "datapacks/kingdragon.res",
+			"lastedit": 1720158711,
+			"filesize": 28951,
+			"preview": "datapack_previews/kingdragon.PNG"
 		}
 	]
 }
