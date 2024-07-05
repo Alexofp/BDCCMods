@@ -297,6 +297,18 @@
 			"lastedit": 1720197931,
 			"filesize": 29946,
 			"preview": "datapack_previews/maledergs.PNG"
+		},
+		{
+			"id": "thesea251_pack",
+			"name": "thesea251_pack",
+			"author": "thesea251",
+			"version": "1.0",
+			"description": "A small collection of 7 characters.\n3 male / 2-ish female / 2 herms\n5 inmates / 1 guard / 1 nurse\nCharacters are varied in strength, with various fetishes, and some are meant to tease parts of the game.\nNo mods.",
+			"contains": "Contains: 7 characters",
+			"download": "datapacks/thesea251_pack.res",
+			"lastedit": 1720217074,
+			"filesize": 40286,
+			"preview": "datapack_previews/thesea251_pack.png"
 		}
 	]
 }
