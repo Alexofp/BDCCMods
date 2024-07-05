@@ -278,13 +278,25 @@
 			"id": "kingdragon",
 			"name": "Alexander, Dragon King",
 			"author": "Katz",
-			"version": "2.0",
-			"description": "Introduce an unstoppable dom into your world. He starts out nice, but if you're too much of a brat...\nHeavy focus on breeding fetish, recommended for submissive female characters.\n\nNow includes more dragons, less powerful than the king but a lot meaner.",
-			"contains": "Contains: 4 characters",
+			"version": "3.0",
+			"description": "Introduce an unstoppable dom into your world. Be prepared to become his bitch.\nHeavy focus on non-con breeding and bondage fetishes with the ocasional lactation, recommended for submissive female characters.",
+			"contains": "Contains: 1 character",
 			"download": "datapacks/kingdragon.res",
-			"lastedit": 1720158711,
-			"filesize": 28951,
+			"lastedit": 1720197906,
+			"filesize": 8829,
 			"preview": "datapack_previews/kingdragon.PNG"
+		},
+		{
+			"id": "maledergs",
+			"name": "Male Dragon Wing",
+			"author": "Katz",
+			"version": "1.0",
+			"description": "Treat yourself to a squad of dominant male scalies in all fields of work.\n\nand Snively, but we all hate Snively",
+			"contains": "Contains: 5 characters",
+			"download": "datapacks/maledergs.res",
+			"lastedit": 1720197931,
+			"filesize": 29946,
+			"preview": "datapack_previews/maledergs.PNG"
 		}
 	]
 }
