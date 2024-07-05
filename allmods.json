@@ -1049,20 +1049,20 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CaninePussyVer1.0-C.zip"
 	},
 	{
-		"name": "Fenrir's Custom Console Commands (FensCCC)",
-		"author": "Fenrir",
-		"description": "This mod adds custom console commands.\n\nCurrent commands:\n- no_kids | Clears the nursery database\n- species_encounter_chance <default, none, number> | Sets the encounter chance for all species (0.0 -> 10.0)\n- gender_encounter_chance <male, female, shemale, herm, peachboy, all | default, none, number> | Sets the encounter rate for either a single gender, or all genders (0.0 -> 1.0)\n\nNotes:\nAdded a maximum number limit to both encounter commands. (10.0 for species, 1.0 for genders)",
-		"modversion": "a0.0.02",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/0_FensCCC.zip"
-	},
-	{
 		"name": "The Flamehearts",
 		"author": "Bloxborne (aka Phoenix)",
 		"description": "What it adds?: This adds a Pathway, Similar to Tavi, where you help a Guard/Engineer, who supposedly has hidden themselves from the captain, And they need your help In trying to get them out of the Space Station, she will offer you a way out too if you help her. There is a Two Diverging Path system depending on what you do to access Phoenix's place. This also adds a few new floor locations allowing you to explore and access different things. It adds some new items and a small crafting system in one of the floors.\nSecrets?: Yes, One in each version of the game (Except V0.4Alpha Rn) And yes they do carry over to other versions of the game so it is worth playing the older versions, and yes it should remember your progress when you update the mods to a higher version.\nTLDR: New floors, new items new interaction, new escape path (Not Finished Obvi), and smei dynamic choices",
 		"modversion": "0.4Alpha",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/TheFlameheartsV0.4.Alpha1.zip"
+	},
+	{
+		"name": "Fenrir's Custom Console Commands (FensCCC)",
+		"author": "Fenrir",
+		"description": "This mod adds custom console commands.\n\nCurrent commands:\n- no_kids | Clears the nursery database\n- species_encounter_chance <default, none, number> | Sets the encounter chance for all species (0.0 -> 10.0)\n- gender_encounter_chance <male, female, shemale, herm, peachboy, all | default, none, number> | Sets the encounter rate for either a single gender, or all genders (0.0 -> 1.0)\nset_name <characterID | name> | Change the name if any given character within the game\n\nNotes:\nAdded the ability to change the name of any character (You need to know their ID first. Player's ID is 'pc')",
+		"modversion": "a0.0.03",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/0_FensCCC.zip"
 	}
 	]
 }
