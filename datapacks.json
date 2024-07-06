@@ -309,6 +309,18 @@
 			"lastedit": 1720217074,
 			"filesize": 40286,
 			"preview": "datapack_previews/thesea251_pack.png"
+		},
+		{
+			"id": "roar_tigerclaw_oc",
+			"name": "Roarpack",
+			"author": "Roar",
+			"version": "1.0",
+			"description": "No description provided",
+			"contains": "Contains: 4 characters, 3 skins",
+			"download": "datapacks/roar_tigerclaw_oc.res",
+			"lastedit": 1720249987,
+			"filesize": 2559360,
+			"preview": "datapack_previews/roar_tigerclaw_oc.png"
 		}
 	]
 }
