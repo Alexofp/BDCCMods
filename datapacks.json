@@ -321,6 +321,18 @@
 			"lastedit": 1720249987,
 			"filesize": 2559360,
 			"preview": "datapack_previews/roar_tigerclaw_oc.png"
+		},
+		{
+			"id": "Natalie",
+			"name": "Natalie Pack",
+			"author": "Makarov",
+			"version": "1.0",
+			"description": "No description provided",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/natalie.res",
+			"lastedit": 1720252953,
+			"filesize": 4743,
+			"preview": "datapack_previews/natalie.png"
 		}
 	]
 }
