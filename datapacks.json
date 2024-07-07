@@ -357,6 +357,18 @@
 			"lastedit": 1720338642,
 			"filesize": 6959,
 			"preview": "datapack_previews/sltlizcharacter.PNG"
+		},
+		{
+			"id": "computerwolfskins",
+			"name": "Roxy",
+			"author": "ComputerWolf",
+			"version": "1.0",
+			"description": "Adds a sex robot named Roxy. It was once a sex toy in a popular brothel, but due to a murder there, all the toys were thrown into the trash. Roxy decided to take revenge, but nothing came of it. She was thrown into this prison for killing a man. Roxy is a very difficult opponent due to her robotic qualities. If you defeat her, you have a chance to take her exoskeleton. (She has a dick  and a vagina)",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/computerwolfskins.res",
+			"lastedit": 1720374405,
+			"filesize": 457871,
+			"preview": "datapack_previews/computerwolfskins.png"
 		}
 	]
 }
