@@ -333,6 +333,30 @@
 			"lastedit": 1720252953,
 			"filesize": 4743,
 			"preview": "datapack_previews/natalie.png"
+		},
+		{
+			"id": "Femdergs",
+			"name": "Female Dragon Wing",
+			"author": "Katz",
+			"version": "0.1 Untested",
+			"description": "A whole flight of powerful ladies to dominate, or get dominated by.\n\nPlease be gentle with Snowdrop",
+			"contains": "Contains: 5 characters",
+			"download": "datapacks/Femdergs.res",
+			"lastedit": 1720338625,
+			"filesize": 34253,
+			"preview": "datapack_previews/Femdergs.PNG"
+		},
+		{
+			"id": "sltlizcharacter",
+			"name": "Liz Character",
+			"author": "SentientLinuxTerminal",
+			"version": "1.0",
+			"description": "adds my female oc, Liz\npretty self explanatory\nno mods needed",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/sltlizcharacter.res",
+			"lastedit": 1720338642,
+			"filesize": 6959,
+			"preview": "datapack_previews/sltlizcharacter.PNG"
 		}
 	]
 }
