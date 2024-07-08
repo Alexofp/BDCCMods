@@ -393,6 +393,18 @@
 			"lastedit": 1720422500,
 			"filesize": 18828,
 			"preview": "datapack_previews/tastyicecream.png"
+		},
+		{
+			"id": "rockstarskins",
+			"name": "RockStarSkins",
+			"author": "AverageAce",
+			"version": "1.0",
+			"description": "Series of skins based on a certain wolf",
+			"contains": "Contains: 3 skins",
+			"download": "datapacks/rockstarskins.res",
+			"lastedit": 1720425639,
+			"filesize": 345998,
+			"preview": "datapack_previews/rockstarskins.png"
 		}
 	]
 }
