@@ -369,6 +369,30 @@
 			"lastedit": 1720374405,
 			"filesize": 457871,
 			"preview": "datapack_previews/computerwolfskins.png"
+		},
+		{
+			"id": "usagisdatapack",
+			"name": "Usagi's Character Pack",
+			"author": "Usagi Fang",
+			"version": "1.0",
+			"description": "clothes mods as we as Rabbit Species, canine pussy, Knotted Horse cock, laquine species, and fluffy body mods are required.",
+			"contains": "Contains: 5 characters",
+			"download": "datapacks/usagisdatapack.res",
+			"lastedit": 1720422205,
+			"filesize": 40925,
+			"preview": "datapack_previews/usagisdatapack.png"
+		},
+		{
+			"id": "tastyicecream",
+			"name": "Vanilla Ice pack",
+			"author": "MalDragon",
+			"version": "1.0",
+			"description": "Vanlla character pack",
+			"contains": "Contains: 4 characters",
+			"download": "datapacks/tastyicecream.res",
+			"lastedit": 1720422500,
+			"filesize": 18828,
+			"preview": "datapack_previews/tastyicecream.png"
 		}
 	]
 }
