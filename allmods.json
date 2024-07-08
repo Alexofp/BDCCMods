@@ -1063,6 +1063,14 @@
 		"modversion": "a0.0.03",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/0_FensCCC.zip"
+	},
+	{
+		"name": "Loona mod",
+		"author": "surrealdeal",
+		"description": "Loona mod needed for a Loona data pack",
+		"modversion": "1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/LoonaMod.zip"
 	}
 	]
 }

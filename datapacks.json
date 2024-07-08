@@ -417,6 +417,18 @@
 			"lastedit": 1720427502,
 			"filesize": 123850,
 			"preview": "datapack_previews/culticskins.png"
+		},
+		{
+			"id": "loona",
+			"name": "Loona datapack",
+			"author": "SurrealDeal",
+			"version": "1.0",
+			"description": "Hell Hound from Helluva Boss.",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/loona.res",
+			"lastedit": 1720433281,
+			"filesize": 6354,
+			"preview": "datapack_previews/loona.png"
 		}
 	]
 }
