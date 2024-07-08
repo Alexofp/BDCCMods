@@ -405,6 +405,18 @@
 			"lastedit": 1720425639,
 			"filesize": 345998,
 			"preview": "datapack_previews/rockstarskins.png"
+		},
+		{
+			"id": "culticskins",
+			"name": "RunicSkin",
+			"author": "AverageAce",
+			"version": "1.0",
+			"description": "Shattarak Isvrum Viva, Lohk Fass Ris Khra Xata Vome",
+			"contains": "Contains: 1 skin",
+			"download": "datapacks/culticskins.res",
+			"lastedit": 1720427502,
+			"filesize": 123850,
+			"preview": "datapack_previews/culticskins.png"
 		}
 	]
 }
