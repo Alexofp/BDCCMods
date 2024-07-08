@@ -429,6 +429,30 @@
 			"lastedit": 1720433281,
 			"filesize": 6354,
 			"preview": "datapack_previews/loona.png"
+		},
+		{
+			"id": "Steel",
+			"name": "Steel",
+			"author": "Potatoes",
+			"version": "1.0",
+			"description": "Holds my fursona if i was to remake them on how id have them shaped up today, kinda",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/steel.res",
+			"lastedit": 1720461897,
+			"filesize": 8161,
+			"preview": "datapack_previews/steel.png"
+		},
+		{
+			"id": "Juniper Character",
+			"name": "Juniper",
+			"author": "weebiest",
+			"version": "1.0",
+			"description": "A humanoid-feline android harboring the memories of a soldier transferred into this body.",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/Juniper Character.res",
+			"lastedit": 1720461905,
+			"filesize": 7954,
+			"preview": "datapack_previews/Juniper Character.PNG"
 		}
 	]
 }
