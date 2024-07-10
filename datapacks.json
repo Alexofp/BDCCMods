@@ -453,6 +453,18 @@
 			"lastedit": 1720461905,
 			"filesize": 7954,
 			"preview": "datapack_previews/Juniper Character.PNG"
+		},
+		{
+			"id": "krystalpack",
+			"name": "KrystalPack",
+			"author": "Ghosty",
+			"version": "1.0",
+			"description": "Cerinian Fox Krystal, includes character and skin.\nThanks to AverageAce, for allowing me to modify some of their skins so I could make the Krystal skin. ^^",
+			"contains": "Contains: 1 character, 1 skin",
+			"download": "datapacks/krystalpack.res",
+			"lastedit": 1720598502,
+			"filesize": 163547,
+			"preview": "datapack_previews/krystalpack.png"
 		}
 	]
 }
