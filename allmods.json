@@ -705,14 +705,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AcesWorldbuildingModVer0.3.zip"
 	},
 	{
-		"name": "Announcer BDSM Expansion",
-		"description": "Are you getting unlucky with gathering BDSM gear? Are you some weak slut tired of getting overpowered and stretched to breaking?\nThis mod [b]edits[/b] the \"basic\" BDSM gear (rope harness and zipties) to be sold by The Announcer for easy acquisition.\n\nWith this kind of gear, you can become a Bondage Ninja in no time!\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BDSMShopPreview.png]Click for preview[/url]",
-		"author": "AverageAce",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnnouncerBDSM.zip"
-	},
-	{
 		"name": "Male Lactation Mod",
 		"description": "This allows male NPCs to lactate. Also changes the threshold to visually switch breasts to B-cup and above, because ngl, with how a full size breast graphic was scaled down that much, i didnt like how it looked. So, uh, enjoy your flat chested women.\nModded breasts shouldn't be affected.\nThis mod [b]will conflict with any mod that changes the HumanBreasts.gd and MaleBreasts.gd files.[/b]",
 		"author": "AverageAce",
@@ -863,14 +855,6 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BreedableCheckpointGuard.zip"
-	},
-	{
-		"name": "Ace's Pregnancy Expansion Mod",
-		"description": "Best Kink Mod gets more content. Some new scenes, Some altered scenes. Look at the changes list for all of them.\nStill very early, and this is my first time writing whole new scenes\n\n[b]!!This mod will be incompatible with any other mod that changes the same files. This includes the Nova Sub Training Mod!![/b]",
-		"author": "AverageAce",
-		"modversion": "0.5",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AcePregExpacVer0.5.zip"
 	},
 	{
 		"name": "Ace's Pregnancy Expansion Mod - Soft Nova Sub Training Patch",
@@ -1071,6 +1055,22 @@
 		"modversion": "1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/LoonaMod.zip"
+	},
+	{
+		"name": "Announcer BDSM Expansion",
+		"description": "Are you getting unlucky with gathering BDSM gear? Are you some weak slut tired of getting overpowered and stretched to breaking?\nThis mod [b]edits[/b] the \"basic\" BDSM gear (rope harness and zipties) to be sold by The Announcer for easy acquisition.\n\nWith this kind of gear, you can become a Bondage Ninja in no time!\n\nI fixed it not working with one of artica's scenes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BDSMShopPreview.png]Click for preview[/url]",
+		"author": "AverageAce",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnnouncerBDSMArticaPatch.zip"
+	},
+	{
+		"name": "Ace's Pregnancy Expansion Mod",
+		"description": "Best Kink Mod gets more content. Some new scenes, Some altered scenes. Look at the changes list for all of them.\nStill very early, and this is my first time writing whole new scenes\n\n[b]!!This mod will be incompatible with any other mod that changes the same files. This includes the Nova Sub Training Mod!![/b]\nHey. This is a quick patch for Preg Expac. Mainly it patches missing visible cumshots on the Artica Update. Also it adds a new Alex scene and teases another. You can see all the changes below\n\nRisha:\n-In the gym scene will have a few alternate lines(Updated V2)\n-Giving Risha a handjob will have a few alternate lines (Updated V2)\n-If the player is locked in the stocks and Risha shows up to get her dick sucked, she will mention her pregnancy.\n\nEliza Quinn:\n-Eliza gets Pregnancy Descriptions if you oogle her in the 'appearance' tab, with two variants for pregnancy and being late into pregnancy\n-Asking Eliza about her 'Best Mom' coffee mug gives a different if functionally same response if Eliza is pregnant\n-Has an additional line if Eliza is pregnant and the player is strapped into the milking pumps\n\nEliza Quinn (Experiments/MentalWard content):\n-The Mental Ward Shower scene has some new lines if the player is pregnant\n-The First Ghost hands scene has a few alternative lines if the player is pregnant, and lactating\n-The Second Ghost hands scene has a few alternative lines if the player is pregnant\n\nNova:\n-Nova can petplay the player if she is pregnant, the player giving Nova a BJ after the petplay has a few alternate lines mentioning the pregnancy\n-Nova's 'appearance' tab has an alternative line if she is heavily pregnant\n\nRahi:\n-The belly rub reward scene will mention if Rahi is pregnant, with a variant for being heavily pregnant\n\nAlex:\n-If the player is pregnant you can tell Alex he is gonna be a father\n-You can cuddle up with Alex if you told him he is gonna be a father\n-You can get free snacks from Alex while pregnant. They dont do anything though, its just fluff.\n-There is a tease for Alex milking content\n\nJacki:\n-Got a number of small alternate lines if she is pregnant. With ideas for scenes teased.\n\nMISC:\n-New Status Effect when any character is ready to give birth. Large Debuffs while doubling milk production.",
+		"author": "AverageAce",
+		"modversion": "0.6",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AcePregExpacVer0.6.zip"
 	}
 	]
 }
