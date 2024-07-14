@@ -857,14 +857,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BreedableCheckpointGuard.zip"
 	},
 	{
-		"name": "Ace's Pregnancy Expansion Mod - Soft Nova Sub Training Patch",
-		"description": "Best Kink Mod gets more content. A Patch for the Preg Expac Mod to work with the Nova Sub Training Mod by Jake James.\nThis Patch is incompatible with the Original Nova Sub Mod, and the Original Preg Expac Ver0.5 Mod.\nThis mod combines the content from both original mods into one file",
-		"author": "AverageAce",
-		"modversion": "0.5",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AcePregExVer0.5-NovaSub.zip"
-	},
-	{
 		"name": "Knotted Equine Penis",
 		"author": "AverageAce",
 		"description": "A simple mod that adds a knotted equine penis to the character creator. NPCs dont spawn with this.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/KnottedEquinePenisPreview.png]Click for Preview[/url]",
@@ -1071,6 +1063,14 @@
 		"modversion": "0.6",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AcePregExpacVer0.6.zip"
+	},
+	{
+		"name": "Ace's Pregnancy Expansion Mod - Soft Nova Sub Training",
+		"description": "[b]Combines the content from Preg Expac and Nova Sub mod into one mod, imcompatible with both original mods[/b]",
+		"author": "AverageAce",
+		"modversion": "0.6",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AcePregExpacVer0.6-NovaSub.zip"
 	}
 	]
 }
