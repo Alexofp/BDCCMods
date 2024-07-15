@@ -443,18 +443,6 @@
 			"preview": "datapack_previews/steel.png"
 		},
 		{
-			"id": "Juniper Character",
-			"name": "Juniper",
-			"author": "weebiest",
-			"version": "1.0",
-			"description": "A humanoid-feline android harboring the memories of a soldier transferred into this body.",
-			"contains": "Contains: 1 character",
-			"download": "datapacks/Juniper Character.res",
-			"lastedit": 1720461905,
-			"filesize": 7954,
-			"preview": "datapack_previews/Juniper Character.PNG"
-		},
-		{
 			"id": "krystalpack",
 			"name": "KrystalPack",
 			"author": "Ghosty",
@@ -465,6 +453,30 @@
 			"lastedit": 1720598502,
 			"filesize": 163547,
 			"preview": "datapack_previews/krystalpack.png"
+		},
+		{
+			"id": "Juniper Character",
+			"name": "Juniper",
+			"author": "weebiest",
+			"version": "1.0",
+			"description": "A humanoid-feline android harboring the memories of a soldier transferred into this body.",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/Juniper Character.res",
+			"lastedit": 1721086075,
+			"filesize": 7940,
+			"preview": "datapack_previews/Juniper Character.PNG"
+		},
+		{
+			"id": "silbycharacter",
+			"name": "Silby Character",
+			"author": "Silby",
+			"version": "1.0",
+			"description": "Adds an infertile submissive hybrid inmate. Can be found in engineering. REQUIRES the following mods:\n- Deer Species (by AverageAce/Fantos/Max-Maxou)\n- Hyena Parts (by AverageAce)\n- Sabertooth Heads (by AverageAce)",
+			"contains": "Contains: 1 character, 1 skin",
+			"download": "datapacks/silbycharacter.res",
+			"lastedit": 1721086115,
+			"filesize": 83527,
+			"preview": "datapack_previews/silbycharacter.png"
 		}
 	]
 }
