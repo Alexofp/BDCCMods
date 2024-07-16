@@ -371,18 +371,6 @@
 			"preview": "datapack_previews/computerwolfskins.png"
 		},
 		{
-			"id": "usagisdatapack",
-			"name": "Usagi's Character Pack",
-			"author": "Usagi Fang",
-			"version": "1.0",
-			"description": "clothes mods as we as Rabbit Species, canine pussy, Knotted Horse cock, laquine species, and fluffy body mods are required.",
-			"contains": "Contains: 5 characters",
-			"download": "datapacks/usagisdatapack.res",
-			"lastedit": 1720422205,
-			"filesize": 40925,
-			"preview": "datapack_previews/usagisdatapack.png"
-		},
-		{
 			"id": "tastyicecream",
 			"name": "Vanilla Ice pack",
 			"author": "MalDragon",
@@ -477,6 +465,30 @@
 			"lastedit": 1721086115,
 			"filesize": 83527,
 			"preview": "datapack_previews/silbycharacter.png"
+		},
+		{
+			"id": "usagisdatapack",
+			"name": "Usagi's Character Pack",
+			"author": "Usagi Fang",
+			"version": "1.0",
+			"description": "clothes mods as we as Rabbit Species, canine pussy, Knotted Horse cock, laquine species, and fluffy body mods are required.",
+			"contains": "Contains: 5 characters",
+			"download": "datapacks/usagisdatapack.res",
+			"lastedit": 1721114466,
+			"filesize": 40958,
+			"preview": "datapack_previews/usagisdatapack.png"
+		},
+		{
+			"id": "FennyOC",
+			"name": "Shannon",
+			"author": "FennyFenFen",
+			"version": "1.0",
+			"description": "Wanted to make my oc in the game, I believe she is manageable to fight but she is strong",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/FennyOC.res",
+			"lastedit": 1721114489,
+			"filesize": 7830,
+			"preview": "datapack_previews/FennyOC.png"
 		}
 	]
 }
