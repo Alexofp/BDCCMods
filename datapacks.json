@@ -489,6 +489,18 @@
 			"lastedit": 1721114489,
 			"filesize": 7830,
 			"preview": "datapack_previews/FennyOC.png"
+		},
+		{
+			"id": "usagischaracterpack2",
+			"name": "Usagi's Character Pack 2",
+			"author": "Usagi Fang",
+			"version": "1.0",
+			"description": "No description provided",
+			"contains": "Contains: 8 characters",
+			"download": "datapacks/usagischaracterpack2.res",
+			"lastedit": 1721219807,
+			"filesize": 68450,
+			"preview": "datapack_previews/usagischaracterpack2.png"
 		}
 	]
 }
