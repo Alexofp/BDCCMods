@@ -1071,6 +1071,14 @@
 		"modversion": "0.6",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AcePregExpacVer0.6-NovaSub.zip"
+	},
+	{
+		"name": "Ace's Lycanroc Mod",
+		"description": "I am back. Maybe. Regretfully, also maybe. I am undecided.\nRock Wolf Pokemon are surprisingly fluffy\nComes with 3 different species for the 3 types, Midday/Dusk/Midnight\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/LycanCover.png]Click for preview[/url]",
+		"author": "AverageAce",
+		"modversion": "0.9",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/LycanrocSpeciesVer0.9.zip"
 	}
 	]
 }
