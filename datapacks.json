@@ -501,6 +501,18 @@
 			"lastedit": 1721219807,
 			"filesize": 68450,
 			"preview": "datapack_previews/usagischaracterpack2.png"
+		},
+		{
+			"id": "B-AY",
+			"name": "Ayb",
+			"author": "DOOMPOISON",
+			"version": "1.0",
+			"description": "Ay-B an easygoing, 👫 relatively slutty, Nonbinary engineer.",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/B-AY.res",
+			"lastedit": 1721464230,
+			"filesize": 6639,
+			"preview": "datapack_previews/B-AY.png"
 		}
 	]
 }
