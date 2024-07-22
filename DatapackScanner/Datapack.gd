@@ -11,6 +11,12 @@ var description:String = "No description provided"
 var characters:Dictionary = {}
 var skins:Dictionary = {}
 var scenes:Dictionary = {}
+var flags:Dictionary = {}
+var quests:Dictionary = {}
+
+var requiredDatapacks:Array = []
+var reqDatapackToName:Dictionary = {}
+var requiredMods:Array = []
 
 func loadVar(_data, thekey, defaultValue = null):
 	if(_data.has(thekey)):
@@ -23,10 +29,16 @@ func loadData(_data):
 	author = loadVar(_data, "author", "No author")
 	version = loadVar(_data, "version", "1.0")
 	description = loadVar(_data, "description", "No description found")
+	requiredDatapacks = loadVar(_data, "requiredDatapacks", [])
+	requiredMods = loadVar(_data, "requiredMods", [])
+	reqDatapackToName = loadVar(_data, "reqDatapackToName", {})
 	
 	characters = loadVar(_data, "characters", {})
 	skins = loadVar(_data, "skins", {})
 	scenes = loadVar(_data, "scenes", {})
+	flags = loadVar(_data, "flags", {})
+	quests = loadVar(_data, "quests", {})
+
 	
 func getContainsString() -> String:
 	var resultDat = []
@@ -36,6 +48,8 @@ func getContainsString() -> String:
 		resultDat.append(str(skins.size())+" skin"+("s" if skins.size() != 1 else ""))
 	if(!scenes.empty()):
 		resultDat.append(str(scenes.size())+" scene"+("s" if scenes.size() != 1 else ""))
+	if(!quests.empty()):
+		resultDat.append(str(quests.size())+" quest"+("s" if quests.size() != 1 else ""))
 	if(resultDat.size() <= 0):
 		return "Contains: Nothing"
 	else:

@@ -91,6 +91,9 @@ func _on_ScanButton_pressed():
 			download = urlpath,
 			lastedit = lastEditByID[theDatapack.id],
 			filesize = filesizeByID[theDatapack.id],
+			requiredDatapacks = theDatapack.requiredDatapacks,
+			reqDatapackToName = theDatapack.reqDatapackToName,
+			requiredMods = theDatapack.requiredMods,
 		}
 		
 		if(previewByID.has(theDatapack.id)):
