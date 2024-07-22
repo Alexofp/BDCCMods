@@ -513,6 +513,17 @@
 			"lastedit": 1721464230,
 			"filesize": 6639,
 			"preview": "datapack_previews/B-AY.png"
+		},
+		{
+			"id": "magduscompanions",
+			"name": "Magdu's Companions",
+			"author": "Magdu",
+			"version": "1.0",
+			"description": "Magdu's Companions and cherished ones.\nRequires Spiney Dragon penis, lycanrock, hyper, sylveon, male lactation",
+			"contains": "Contains: 3 characters",
+			"download": "datapacks/magduscompanions.res",
+			"lastedit": 1721632386,
+			"filesize": 22569
 		}
 	]
 }
