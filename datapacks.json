@@ -920,6 +920,27 @@
 			"requiredMods": [
 
 			]
+		},
+		{
+			"id": "femalealex",
+			"name": "GenderswapAlex",
+			"author": "AverageAce",
+			"version": "1.0",
+			"description": "Genderswapped Alex as a regular engineer.",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/femalealex.res",
+			"lastedit": 1721778065,
+			"filesize": 8204,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/femalealex.png"
 		}
 	]
 }
