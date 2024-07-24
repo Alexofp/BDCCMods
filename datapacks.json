@@ -941,6 +941,27 @@
 
 			],
 			"preview": "datapack_previews/femalealex.png"
+		},
+		{
+			"id": "femmax",
+			"name": "GenderswappedMax",
+			"author": "AverageAce",
+			"version": "1.0",
+			"description": "Female Version of Max from the MaxMod.\nRequires Max Mod.\nInspired from recent Max art on the BDCC discord.",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/femmax.res",
+			"lastedit": 1721807158,
+			"filesize": 7680,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/femmax.png"
 		}
 	]
 }
