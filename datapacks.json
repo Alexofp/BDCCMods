@@ -1046,6 +1046,48 @@
 
 			],
 			"preview": "datapack_previews/fennysocs.png"
+		},
+		{
+			"id": "Kiana",
+			"name": "Kiana",
+			"author": "Makarov",
+			"version": "1.0",
+			"description": "This deviant inmate has an unusual obssession with being owned, before her arrest she was a prolific content creator who advertised to those of a feminine lifestyle that being a sex slave was the best lifestyle you could ever have. Frankly, she seems obsessive over this ideology and will likely become a slave immediately once she is inducted into Broken Dreams.",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/kiana.res",
+			"lastedit": 1721993276,
+			"filesize": 7451,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/kiana.png"
+		},
+		{
+			"id": "Tyler",
+			"name": "Tyler Pack",
+			"author": "Makarov",
+			"version": "1.0",
+			"description": "Tyler is a the worst kind of sexual deviant, so much so he has been classified as a high security inmate. He has no respect forthose of feminine appearance and will rape any and all women and herms without discretion. If you're a man he might not enjoy It but his record shows he's claimed a few men in his crime spree. We hope his time at Broken dreams correctional facility canbe \"productive\" and bring forth a possible outcome of his rehabilitation. ",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/tyler.res",
+			"lastedit": 1721993285,
+			"filesize": 6989,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/tyler.png"
 		}
 	]
 }
