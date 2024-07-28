@@ -1094,7 +1094,7 @@
 		"modversion": "R1",
 		"gameversion": "*",
 		"description": "This mod requires Hypertus (if the name doesn't give it away)\nThis mod overwrite all species in the below list, now requires another mod if you want force breed edition\n - Ampwave Species\n - Avali Species\n - Aces Avairy Addon Species\n - Bovie Species\n - Deer Species\n - Espeon Species\n - Houndoom Species\n - Laquine Species\n - Lopunny Species\n - Lucario Species\n - Protogen Species\n - Rabbit Species\n - Racoon Species\n - Rat Species\n - Scalie Expansion Species\n - Seahorse Species\n - Sergal Species\n - Shark Species\n - Skullwolf Species\n - Squirrel Species\n - Sylveon Species\n - Synth Species\n\nPLEASE REMOVE THE OLD HYPERTUS SPECIES COMPATIBILITY LAYERS! this new version use things from newer version.",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusShouldPrint.zip"
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusSpeciesCompat-R1.zip"
 	},
 	{
 		"name": "Hypertus",
