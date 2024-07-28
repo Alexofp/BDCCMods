@@ -809,22 +809,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Rat_Species_2.1.zip"
 	},
 	{
-		"name": "Hypertus Species Compatibility Layers, \"Breed Edition\"",
-		"author": "CanInBad & other authors that create the species",
-		"description": "[b]This mod REQUIRES HYPERTUS!!![/b]\nif Hypertus does not exist, it will force close the game!\n\nThis mod overwrite all the species [i](yes, even the modded ones)[/i] that have skin support to have hyperable parts.\n\nThis version tries to reduce file size by merging awomb with normal one and make it change on the fly, the downside is that NPC and player in new save will always have anus womb, will probably address in the future\n\n[b]This version forces all species to spawn with anus womb[/b]\n\n[b][u]NO, this mod will not replace existing npc in your save. If you want them in your current save you must forget old NPCs[/u][/b]\n\n[url=https://github.com/CanInBad/BDCC/blob/hypertusNPCs/Modules/0hyperVanillaSpecies/]Source 1[/url]\n[url=https://github.com/CanInBad/BDCC/blob/hypertusNPCs/Modules/z0hyperModdedSpecies/]Source 2[/url]",
-		"modversion": "R3-1",
-		"gameversion": "0.1.3",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusSpeciesCompatibilityLayersR3-1_B.zip"
-	},
-	{
-		"name": "Hypertus Species Compatibility Layers",
-		"author": "CanInBad & other authors that create the species",
-		"description": "[b]This mod REQUIRES HYPERTUS!!![/b]\nif Hypertus does not exist, it will force close the game!\n\nThis mod overwrite all the species [i](yes, even the modded ones)[/i] that have skin support to have hyperable parts.\n\nThis version tries to reduce file size by merging awomb with normal one and make it change on the fly, the downside is that NPC and player in new save will always have anus womb, will probably address in the future\n\n[b][u]NO, this mod will not replace existing npc in your save. If you want them in your current save you must forget old NPCs[/u][/b]\n\n[url=https://github.com/CanInBad/BDCC/blob/hypertusNPCs/Modules/0hyperVanillaSpecies/]Source 1[/url]\n[url=https://github.com/CanInBad/BDCC/blob/hypertusNPCs/Modules/z0hyperModdedSpecies/]Source 2[/url]",
-		"modversion": "R3-1",
-		"gameversion": "0.1.3",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusSpeciesCompatibilityLayersR3-1.zip"
-	},
-	{
 		"name": "BodyDrugs",
 		"description": "Allows you to change bodyparts and porportions with pills.\n Should be usable on newer versions\nNew Additions:\nThickness and Femininity pills as well as more options for plain body modification\nA new attack for Only this mods pills. Does Not edit other mods pills\nA new debug pill Turbo Conception, because normal Conception is just too slow.",
 		"author": "Darth",
@@ -977,14 +961,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Laquine_SpeciesVer1.5.zip"
 	},
 	{
-		"name": "Hypertus",
-		"author": "CanInBad",
-		"description": "\n[b]WARNING: This contains hyper stuff, if you dislike it then leave[/b]\n\nThis mods [b]adds[b] [i](not replace)[/i] new body parts that just are like the normal ones but you can upgrade them in a new skill tree that comes with this mod.\nSaid body parts are in form of breast, penises, vagina, and anus.\nThis mod also have capability layers that use the looks of your favorite body parts mod, including ones from species mod that add one of the 4 body part categories mentioned.\n\nYou can gain experience points of said skill tree by invest in vanilla perks and then sleep, each time you wake up you will be notified how much of them you get.\nYou can then spend those point to add ridiculous amount of perks to your body parts.\nPlease do note that some perks might be hidden due to not meeting the requirement for the perk.\n\nThere is a draft of the story but it isn't complete in anyway and some glimpse of it can be read in the perks' description.\n\nThere are compatibility layers that make all species including the modded one have hyperable version of them\n\nYou can transform your or your foe's parts to hyperable with Personal Bluespace Anomaly Emitter. You need to finish the Alex's portal quest to get one from his shop\n\nHas compatibility layer between these mods:\n - Synth Species\n - Fluffy Bodyparts\n - Avali Species (both version)\n - Ace's Aviary Addon\n - Transgender Flat Chest\n - Crow Species\n - Deer Species\n - Knotted Horse Cock\n - Barbed Equine Penis\n - Spined Dragon Penis\n\nIf you have any feedback send it in #mods-discussion and ping me,\nor open an issue on [url]https://github.com/CanInBad/HypertusMod/issues[/url].\n\n# Changelog\n * Added skins for Knotted Horse Cock\n## Backend stuff\n * Compatibility layers now loaded from a json, this means other developers can add their own support for hyperable bodypart without having to make their mod load after Hypertus\n * Changes how skins are loaded",
-		"modversion": "R4-2",
-		"gameversion": "0.1.3",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR4-2.zip"
-	},
-	{
 		"name": "Equine Pussy (E) - Hypertus Compatibility",
 		"author": "Raznaak | Conversion: CanInBad",
 		"description": "This mod is a addon for Hypertus mod and a POC for the new compatibility layers loading method, Add Hyperable Equine Pussy with a chance to spawn on equine natually..\nIf you do not want normal equine pussy in equine then do not use the E version of the normal mod.\n\n!!!DO NOT INSTALL BOTH VERSIONS, PICK ONE!!!",
@@ -1079,6 +1055,54 @@
 		"modversion": "4.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreUniformsVer4.zip"
+	},
+	{
+		"name": "Hypertus - shouldPrint CONF",
+		"author": "CanInBad",
+		"modversion": "R1",
+		"gameversion": "*",
+		"description": "Download this to make hypertus split out logs either in console or cout if you run the game in terminal emulator.",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusShouldPrint.zip"
+	},
+	{
+		"name": "Hypertus - speciesForceBreed CONF",
+		"author": "CanInBad",
+		"modversion": "R1",
+		"gameversion": "*",
+		"description": "Download this to make all species added by Hypertus to have anus womb by default, does not replace existing NPC.",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusSpeciesForceBreed.zip"
+	},
+	{
+		"name": "Hypertus - Hyperable Lycanroc  Species",
+		"author": "CanInBad",
+		"modversion": "R1",
+		"gameversion": "*",
+		"description": "This mod requires Hypertus (if the name doesn't give it away)\nReplace Lycanroc species (3 variants) with hyperable version, and adds 2 bodyparts from the mod",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/LycanrocHypertusCompatR1.zip"
+	},
+	{
+		"name": "Hypertus - Hyperable Hellhound Species",
+		"author": "CanInBad",
+		"modversion": "R1",
+		"gameversion": "*",
+		"description": "This mod requires Hypertus (if the name doesn't give it away)\nReplace vanilla demon/ace's hellhound with hyperable hellhound\ndoes not actually require the hellhound mod",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HellhoundHyperable-R1.zip"
+	},
+	{
+		"name": "Hypertus Species Compatibility Layers",
+		"author": "CanInBad",
+		"modversion": "R1",
+		"gameversion": "*",
+		"description": "This mod requires Hypertus (if the name doesn't give it away)\nThis mod overwrite all species in the below list, now requires another mod if you want force breed edition\n - Ampwave Species\n - Avali Species\n - Aces Avairy Addon Species\n - Bovie Species\n - Deer Species\n - Espeon Species\n - Houndoom Species\n - Laquine Species\n - Lopunny Species\n - Lucario Species\n - Protogen Species\n - Rabbit Species\n - Racoon Species\n - Rat Species\n - Scalie Expansion Species\n - Seahorse Species\n - Sergal Species\n - Shark Species\n - Skullwolf Species\n - Squirrel Species\n - Sylveon Species\n - Synth Species\n\nPLEASE REMOVE THE OLD HYPERTUS SPECIES COMPATIBILITY LAYERS! this new version use things from newer version.",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusShouldPrint.zip"
+	},
+	{
+		"name": "Hypertus",
+		"description": "\n[b]WARNING: This contains hyper stuff, if you dislike it then leave[/b]\n\nThis mods [b]adds[b] [i](not replace)[/i] new body parts that just are like the normal ones but you can upgrade them in a new skill tree that comes with this mod.\nSaid body parts are in form of breast, penises, vagina, and anus.\nThis mod also have capability layers that use the looks of your favorite body parts mod, including ones from species mod that add one of the 4 body part categories mentioned.\n\nYou can gain experience points of said skill tree by invest in vanilla perks and then sleep, each time you wake up you will be notified how much of them you get.\nYou can then spend those point to add ridiculous amount of perks to your body parts.\nPlease do note that some perks might be hidden due to not meeting the requirement for the perk.\n\nThere is a draft of the story but it isn't complete in anyway and some glimpse of it can be read in the perks' description.\n\nThere are compatibility layers that make all species including the modded one have hyperable version of them\n\nYou can transform your or your foe's parts to hyperable with Personal Bluespace Anomaly Emitter™️. You need to finish the Alex's portal quest to get one from his shop\n\nHas compatibility layer between these mods:\n  - Synth Bodyparts\n  - Fluffy Bodyparts\n  - Avali Species Bodyparts\n  - Ace's Aviary Addon Bodyparts\n  - Trans Scar Chest\n  - Crow Species Bodyparts\n  - Deer Species Bodyparts\n  - Knotted Horse Cock\n  - Barbed Equine Penis\n  - Spined Dragon Penis\n\nIf you have any feedback send it in #mods-discussion and ping me,\nor open an issue on [url]https://github.com/CanInBad/HypertusMod/issues[/url].\n\n# Changelog\n * Fixed crashing when selecting hyperable bodyparts inside datapack character creator\n * Made all penises to use floatinput in datapack creator\n * Now has \"configurable\" settings, end users need to install additional mod(s) to enable/configure them. This is due to limitation of options menu itself.\n * Upgrade to 0.1.4\n * Bump version to release 5\n## Backend stuff\n * Now supports species in the json. Please note that this is rushed and requires some tweaking. To learn more please see [url=https://github.com/CanInBad/HypertusMod/]how it works in repo[/url]",
+		"author": "CanInBad",
+		"modversion": "R5",
+		"gameversion": "0.1.4",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR5.zip"
 	}
 	]
 }
