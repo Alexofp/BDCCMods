@@ -1049,14 +1049,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/LycanrocSpeciesVer0.9.zip"
 	},
 	{
-		"name": "More Uniforms",
-		"author": "AverageAce & Max-Maxou",
-		"description": "Adds a whole bunch of new Uniforms both to prisoners and vendomats\ncan't be damaged\n\nList of new Uniforms, 3 per inmate type\n-Inmate Crop-Tops (Laundry Vendomat)\n-Upgraded Inmate Uniform (Laundry Vendomat\n-Maternity Uniform (Medical Vendomat) (NEW)\n-Topless Uniform (General Vendomat)  (NEW)\n-Bottomless Uniform (General Vendomat)  (NEW)\n\n-Nipple Tape, Hopefully fixed this time (Laundry Vendomat)\n-Pussy Tape (Laundry Vendomat)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreUniformsPreview.png]Click for Preview[/url]",
-		"modversion": "4.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreUniformsVer4.zip"
-	},
-	{
 		"name": "Hypertus - shouldPrint CONF",
 		"author": "CanInBad",
 		"modversion": "R1",
@@ -1103,6 +1095,14 @@
 		"modversion": "R5",
 		"gameversion": "0.1.4",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR5.zip"
+	},
+	{
+		"name": "More Uniforms",
+		"author": "AverageAce & Max-Maxou",
+		"description": "Adds a whole bunch of new Uniforms both to prisoners and vendomats\ncan't be damaged\nWhat was originally a patch became a full update\n\nList of new Uniforms, 3 per inmate type\n-Inmate Crop-Tops (Laundry Vendomat)\n-Upgraded Inmate Uniform (Laundry Vendomat)\n-Maternity Uniform (Medical Vendomat) (Patched)\n-Topless Uniform (General Vendomat)\n-Bottomless Uniform (General Vendomat) \n\n-Nipple Tape, Hopefully fixed this time (Laundry Vendomat)\n-Pussy Tape (Laundry Vendomat)\n-Cowprint Bra (Medical Vendomat) (NEW)\n-Chest wrappings (Medical Vendomat) (NEW)\n\nNew Harnesses, Sold by Announcer\n-Chest Harness\n-6-Point Harness\n-8-Point Harness\n-Full Harness\n-Maternity Harness\n-Max Harness\n-Restrictive Harness\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreUniformsPreview.png]Click for Preview[/url]",
+		"modversion": "5.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreUniformsVer5.zip"
 	}
 	]
 }
