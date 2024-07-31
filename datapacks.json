@@ -964,48 +964,6 @@
 			"preview": "datapack_previews/kingdragonmod.PNG"
 		},
 		{
-			"id": "maledergsmod",
-			"name": "Modded Male Dragon Wing",
-			"author": "Katz",
-			"version": "2.0",
-			"description": "Treat yourself to a squad of dominant male scalies in all fields of work.\n\nand Snively, but we all hate Snively",
-			"contains": "Contains: 6 characters",
-			"download": "datapacks/maledergsmod.res",
-			"lastedit": 1721977977,
-			"filesize": 34555,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-
-			],
-			"preview": "datapack_previews/maledergsmod.PNG"
-		},
-		{
-			"id": "Femdergsmod",
-			"name": "Modded Female Dragon Wing",
-			"author": "Katz",
-			"version": "2",
-			"description": "A whole flight of powerful ladies to dominate, or get dominated by.\n\nPlease be gentle with Snowdrop",
-			"contains": "Contains: 6 characters",
-			"download": "datapacks/Femdergsmod.res",
-			"lastedit": 1721978009,
-			"filesize": 40272,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-
-			],
-			"preview": "datapack_previews/Femdergsmod.PNG"
-		},
-		{
 			"id": "fennysocs",
 			"name": "Fenny's OC Character Pack",
 			"author": "FennyFenFen",
@@ -1088,6 +1046,48 @@
 
 			],
 			"preview": "datapack_previews/q43rt70ipjaylin.png"
+		},
+		{
+			"id": "maledergsmod",
+			"name": "Modded Male Dragon Wing",
+			"author": "Katz",
+			"version": "2.1",
+			"description": "Treat yourself to a squad of dominant male scalies in all fields of work. Maximum level of 75\n\nRequires two mods\nScalieExpansion and DragonsPlus ",
+			"contains": "Contains: 6 characters",
+			"download": "datapacks/maledergsmod.res",
+			"lastedit": 1722407030,
+			"filesize": 35036,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/maledergsmod.PNG"
+		},
+		{
+			"id": "Femdergsmod",
+			"name": "Modded Female Dragon Wing",
+			"author": "Katz",
+			"version": "2.1",
+			"description": "A whole flight of powerful ladies to dominate, or get dominated by. Maximum level of 50\nPlease be gentle with Snowdrop\n\nRequires two mods\nScalieExpansion and DragonsPlus ",
+			"contains": "Contains: 6 characters",
+			"download": "datapacks/Femdergsmod.res",
+			"lastedit": 1722407033,
+			"filesize": 40418,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/Femdergsmod.PNG"
 		}
 	]
 }
