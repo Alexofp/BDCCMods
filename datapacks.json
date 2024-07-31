@@ -1088,6 +1088,26 @@
 
 			],
 			"preview": "datapack_previews/Femdergsmod.PNG"
+		},
+		{
+			"id": "jace",
+			"name": "Jace - The Babbit No One Asked for!",
+			"author": "Jace",
+			"version": "1.0",
+			"description": "Adds a Notoriously Stupid Bat-Rabbit Hybrid to your Prison Experience! Featuring Holes to Fill, A Fluffy Tail to touch, And a Skull so empty it could be used as storage space.\n\nSubmissive and Breedable, Because let's face it. The Prison can Always use more of them.\n\nRequirements;\nBat Species\nRabbit Species\nHair v1\nFluffy Body Parts",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/jace.res",
+			"lastedit": 1722446028,
+			"filesize": 6846,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			]
 		}
 	]
 }
