@@ -1111,6 +1111,14 @@
 		"modversion": "0.9",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BatSpeciesVer0.9.zip"
+	},
+	{
+		"name": "Possum Species",
+		"description": "Trashy fellas known for being based as fuck\nMade from various bat parts I didnt use because they didnt fit\nAs such not as much customization as my usual mods but you still get 5 ears, a head and a tail with the species.\nSpawns with a 50/50 split between canine and human dicks \n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PossumCover.png]Click for preview[/url]",
+		"author": "AverageAce",
+		"modversion": "0.9",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PossumSpeciesVer0.9.zip"
 	}
 	]
 }
