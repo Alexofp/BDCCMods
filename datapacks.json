@@ -1172,6 +1172,27 @@
 			"requiredMods": [
 
 			]
+		},
+		{
+			"id": "MayaPack",
+			"name": "Maya The Demonic Dragon",
+			"author": "kurt258",
+			"version": "1.2",
+			"description": "Adds in a Demon/Dragon hybrid character that can be encountered in the Lilac home cell.",
+			"contains": "Contains: 1 character, 7 scenes, 1 quest",
+			"download": "datapacks/MayaPack.res",
+			"lastedit": 1722686078,
+			"filesize": 43442,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/MayaPack.png"
 		}
 	]
 }
