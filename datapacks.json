@@ -1110,26 +1110,6 @@
 			"preview": "datapack_previews/q43rt70ipjaylin.png"
 		},
 		{
-			"id": "brevmancosmeticsurgery",
-			"name": "Cosmetic Surgery",
-			"author": "Brevman",
-			"version": "1.0",
-			"description": "Allows you to get cosmetic surgery at the doctors office.",
-			"contains": "Contains: 1 scene",
-			"download": "datapacks/brevmancosmeticsurgery.res",
-			"lastedit": 1722619308,
-			"filesize": 105417,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-
-			]
-		},
-		{
 			"id": "Frostbun",
 			"name": "Frosty Bunny",
 			"author": "Dracovile",
@@ -1154,26 +1134,6 @@
 			"preview": "datapack_previews/Frostbun.png"
 		},
 		{
-			"id": "brevmanscharacterpack2",
-			"name": "Brevman Mega Pack V4",
-			"author": "Brevman",
-			"version": "4.0",
-			"description": "A assortment of characters & scenes that I've made!\nTries to have a variety of all types. From the kind and gentle, to the utterly brutal. From the submissive to those that will crush you under their boot.\nEvery single character is highly customised, with unique attacks, loot tables, and detailed descriptions with backstory.\nTotal: 35 II 16 fem, 13 male, 6 andro II 21 inmates, 7 guards, 4 engineers, 3 nurses\nLevels 8-50 so far. Most are 20+ (Plus a single lvl 80 \"boss\")\nQuestlist:\nHelp Katherine get her clothes back. Feat: 13 custom sex scenes. Breeding, somnophilia, dubcon, violence, light prostitution\nScene list: (not counting scenes tied directly to quests)\nWIP Sleep under the yard tree. Feat 0/? sex scenes.\nWIP Chat with Katherine (got to complete her clothing quest first)",
-			"contains": "Contains: 36 characters, 7 scenes, 1 quest",
-			"download": "datapacks/brevmanscharacterpack2.res",
-			"lastedit": 1722682385,
-			"filesize": 6254487,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-
-			]
-		},
-		{
 			"id": "MayaPack",
 			"name": "Maya The Demonic Dragon",
 			"author": "kurt258",
@@ -1193,6 +1153,67 @@
 
 			],
 			"preview": "datapack_previews/MayaPack.png"
+		},
+		{
+			"id": "03082024oc1",
+			"name": "A-25",
+			"author": "Tell me more, about love.",
+			"version": "1.0",
+			"description": "Hyper futanari, OC a-25,",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/03082024oc1.res",
+			"lastedit": 1722721092,
+			"filesize": 9466,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"KnottedEquinePenisVer3.zip"
+			],
+			"preview": "datapack_previews/03082024oc1.PNG"
+		},
+		{
+			"id": "brevmancosmeticsurgery",
+			"name": "Cosmetic Surgery",
+			"author": "Brevman",
+			"version": "1.0",
+			"description": "Allows you to get cosmetic surgery at the doctors office.",
+			"contains": "Contains: 1 scene",
+			"download": "datapacks/brevmancosmeticsurgery.res",
+			"lastedit": 1722721095,
+			"filesize": 105879,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			]
+		},
+		{
+			"id": "brevmanscharacterpack2",
+			"name": "Brevman Mega Pack V4",
+			"author": "Brevman",
+			"version": "4.0",
+			"description": "A assortment of characters & scenes that I've made!\nTries to have a variety of all types. From the kind and gentle, to the utterly brutal. From the submissive to those that will crush you under their boot.\nEvery single character is highly customised, with unique attacks, loot tables, and detailed descriptions with backstory.\nTotal: 35 II 16 fem, 13 male, 6 andro II 21 inmates, 7 guards, 4 engineers, 3 nurses\nLevels 8-50 so far. Most are 20+ (Plus a single lvl 80 \"boss\")\nQuestlist:\nHelp Katherine get her clothes back. Feat: 13 custom sex scenes. Breeding, somnophilia, dubcon, violence, light prostitution\nScene list: (not counting scenes tied directly to quests)\nWIP Sleep under the yard tree. Feat 0/? sex scenes.\nWIP Chat with Katherine (got to complete her clothing quest first)",
+			"contains": "Contains: 36 characters, 7 scenes, 1 quest",
+			"download": "datapacks/brevmanscharacterpack2.res",
+			"lastedit": 1722721098,
+			"filesize": 6254759,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			]
 		}
 	]
 }
