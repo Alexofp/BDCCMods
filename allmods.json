@@ -1135,6 +1135,14 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MaxSummerUniform.zip"
+	},
+	{
+		"name": "Race Bonus",
+		"description": "This adds different buffs to different species in original game. Actually, this mod is inspired by the another excellent game called Lilith Throne where every race have their own ability. So I just simply reproduce this function in BDCC.\nI'm not a professional game designer, so there might be some balance issue. Feel free to DM me if you have any suggestion or bug report. And have fun\nAlso, feel free to edit this mod structure for your own species, I'm really excited to see if there's more species with their unique abilities! owo",
+		"author": "Humoiww",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RaceBonusMod.zip"
 	}
 	]
 }
