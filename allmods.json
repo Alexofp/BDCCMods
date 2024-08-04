@@ -1106,7 +1106,7 @@
 	},
 	{
 		"name": "Bat Species",
-		"description": "the flying thing idk\nIve done like 30 of these what else could I even put here\nthey are BATS\nComes with 6 heads, 5 ears, and 2 tails and species\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BatCover.png]Click for preview[/url]",
+		"description": "The flying thing idk\nIve done like 30 of these what else could I even put here\nthey are BATS\nComes with 6 heads, 5 ears, and 2 tails and species\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BatCover.png]Click for preview[/url]",
 		"author": "AverageAce",
 		"modversion": "0.9",
 		"gameversion": "*",
@@ -1127,6 +1127,14 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ImprovedCuffs.zip"
+	},
+	{
+		"name": "Max Summer Uniform",
+		"description": "More stuff from MaxMaxou. Summer Uniform. It doesnt cover any of your naughty bits.\nSpawns on inmates and in the general vendomat for 25 creds.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MaxSummerUniform.png]Click for preview[/url]",
+		"author": "MaxMaxou & AverageAce",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MaxSummerUniform.zip"
 	}
 	]
 }
