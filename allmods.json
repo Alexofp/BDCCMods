@@ -1119,6 +1119,14 @@
 		"modversion": "0.9",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PossumSpeciesVer0.9.zip"
+	},
+	{
+		"name": "Improved Inmate Cuffs",
+		"description": "Tired of your slaves always finding a way to slip those cuffs? Well rest easy with the new and improved Inmate cuffs. These enhanced sets of wrist and ankle cuffs have been developed to all but guarantee those pesky slaves will never get them off. Each one is modified with the patented locking system that makes the those snazzy collars from the BDCC so infamous.\nAvailable now for a limited time only at your nearest Vendomat for whopping bargain of only 6 work credits.\n\nSeriously thou. I made these after a pesky slave was actually making progress in removing a lv 999 wrist cuffs.\nThey are a modified pair of Iron wrist Cuffs and Iron ankle Cuffs with the Impossible to remove effect added. \n\nYou can buy them from the Vendomat for 6 creds each under the names: Improved Iron Wrist Cuffs and Improved Iron Anle Cuffs. \n\nWhy 6 credits? Because I'm feeling vindictive and want slaves to suffer as I did figuring out how to get this mod to work.\n\nSpecial thanks to Brevman for inspiring me to get off my lazy butt and figure out how to make these. And to CanInBed who went out of their way to help me fix a issue that was preventing me from getting this to work.\n\n-Edit-\nSlaves wearing this and chained up does not seem to work now. The game acts as if there are no restraints. Still seems to work on other npc's though. Going to need to investigate further. ",
+		"author": "Senriku Axon",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ImprovedCuffs.zip"
 	}
 	]
 }
