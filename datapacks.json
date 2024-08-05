@@ -1214,6 +1214,26 @@
 			"requiredMods": [
 
 			]
+		},
+		{
+			"id": "god",
+			"name": "I made god",
+			"author": "luciodemonics",
+			"version": "any?",
+			"description": "it's god",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/god.res",
+			"lastedit": 1722843552,
+			"filesize": 6760,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			]
 		}
 	]
 }
