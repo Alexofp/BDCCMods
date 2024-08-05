@@ -1234,6 +1234,26 @@
 
 			],
 			"preview": "datapack_previews/MayaPack.png"
+		},
+		{
+			"id": "riley",
+			"name": "Riley",
+			"author": "No author",
+			"version": "1.0",
+			"description": "No description provided",
+			"contains": "Contains: 1 character, 1 scene",
+			"download": "datapacks/riley.res",
+			"lastedit": 1722874493,
+			"filesize": 15695,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			]
 		}
 	]
 }

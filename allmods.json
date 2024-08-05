@@ -1143,6 +1143,14 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RaceBonusMod.zip"
+	},
+	{
+		"name": "Equine Penis Barbs & Knots Edition",
+		"description": "This is a splice of Ace's Barbed Equine and Knotty Equine penis mods adding a character creation option for a barbed and knotty equine penis. All art assets are knicked from Ace's mods and restitched back together to make a bigger better penis!\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BarbedandKnottedEquinePenis.png]Click for preview[/url]",
+		"author": "Avery Winters & AverageAce",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BarbedandKnottedEquinePenis.zip"
 	}
 	]
 }
