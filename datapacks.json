@@ -1254,6 +1254,50 @@
 			"requiredMods": [
 
 			]
+		},
+		{
+			"id": "biggene_24",
+			"name": "BIG-GENE",
+			"author": "Tenten",
+			"version": "1.0",
+			"description": "No description provided",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/biggene_24.res",
+			"lastedit": 1722920674,
+			"filesize": 4939,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"BarbedEquinePenisVer1.1.zip"
+			],
+			"preview": "datapack_previews/biggene_24.png"
+		},
+		{
+			"id": "mane6",
+			"name": "main 6",
+			"author": "john doe",
+			"version": "1.0",
+			"description": "adds the main 6 from mlp to the ship.\n",
+			"contains": "Contains: 6 characters",
+			"download": "datapacks/mane6.res",
+			"lastedit": 1722920688,
+			"filesize": 34784,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"FluffbodypartsVer3.zip",
+				"HairSkinsBatch1.zip",
+				"HypertusR5.zip",
+				"MoreUniformsVer5.zip"
+			]
 		}
 	]
 }

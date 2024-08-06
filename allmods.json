@@ -545,14 +545,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PiercingsVer1.zip"
 	},
 	{
-		"name": "Character Flair",
-		"author": "AverageAce",
-		"description": "Adds 3 unique bodyparts to existing characters.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/CharacterFlareAlexsSpinePreview.png]Click for Preview - Alex's Spine[/url]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PiercingsRishaPreview.png]Click for Preview - Risha's Piercings[/url]",
-		"modversion": "1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PiercingsVer1.zip"
-	},
-	{
 		"name": "Dick Skins, Batch 2",
 		"author": "AverageAce",
 		"description": "Even more looks for your wiggly bits.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/DickSkinsBatch2Preview.png]Click for Preview[/url]",
@@ -689,14 +681,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/LopunnySpeciesVer1.zip"
 	},
 	{
-		"name": "Ace's Worldbuilding Mod",
-		"description": "A mod that adds or replaces various things in the game to add more fluff text or world building.\nRight now its just room descriptions, but I do plan on adding more things to build more narrative, when I figure it out atleast.\nReminder that my interpretation of the BDCC prison is my own, anything could change later depending on what Rahi makes.\nAlso be vigilant of errors in this one, with what little there is, it touches a lot of other things and I cant cover them all with a testing process.\nI did try to write special scenes this time around but Im still not good enough to program them. oh well.\n[b]-Ver0.3: Added Medical and Engineering[/b]",
-		"author": "AverageAce",
-		"modversion": "0.3",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AcesWorldbuildingModVer0.3.zip"
-	},
-	{
 		"name": "Male Lactation Mod",
 		"description": "This allows male NPCs to lactate. Also changes the threshold to visually switch breasts to B-cup and above, because ngl, with how a full size breast graphic was scaled down that much, i didnt like how it looked. So, uh, enjoy your flat chested women.\nModded breasts shouldn't be affected.\nThis mod [b]will conflict with any mod that changes the HumanBreasts.gd and MaleBreasts.gd files.[/b]",
 		"author": "AverageAce",
@@ -719,22 +703,6 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BreedableAvy.zip"
-	},
-	{
-		"name": "Breedable Alex",
-		"description": "I did avy so might as well. I'm in enough preg fetish circles to know getting dommed by a pregnant guy is heaven for [i]somebody[/i]\nNo scene changes.",
-		"author": "AverageAce",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BreedableAlex_-_Vanilla.zip"
-	},
-	{
-		"name": "Character Flair - Breedable Alex Included",
-		"description": "Adds 3 unique bodyparts to existing characters.\n\n[b]This version includes breedable Alex mod[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/CharacterFlareAlexsSpinePreview.png]Click for Preview - Alex's Spine[/url]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PiercingsRishaPreview.png]Click for Preview - Risha's Piercings[/url]",
-		"author": "AverageAce",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CharacterFlairVer1_-_BreedableAlex.zip"
 	},
 	{
 		"name": "Raccoon Species",
@@ -1151,6 +1119,22 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BarbedandKnottedEquinePenis.zip"
+	},
+	{
+		"name": "Hyperable Canine Pussy",
+		"description": "My canine pussy mod but with Hypertus compatibility\nIf you find any bug of course notify me, and I'm listening to suggestions, numbers are whatever makes sense for me for now.\n[b]!!You do need the original canine pussy mod for this to work!![/b], do NOT use the -C version of the original in combination with this mod, only the regular original version (otherwise they may clash with one another).\nAgain, do not use both files, only one of them. The -C version also makes canine NPCs spawn with it, the non-C version applies only to the PC.",
+		"author": "Raznaak",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HyperableCaninePussyVer1.0.zip"
+	},
+	{
+		"name": "Hyperable Canine Pussy (C edition)",
+		"description": "(This is the -C version)\nMy canine pussy mod but with Hypertus compatibility\nIf you find any bug of course notify me, and I'm listening to suggestions, numbers are whatever makes sense for me for now.\n[b]!!You do need the original canine pussy mod for this to work!![/b], do NOT use the -C version of the original in combination with this mod, only the regular original version (otherwise they may clash with one another).\nAgain, do not use both files, only one of them. The -C version also makes canine NPCs spawn with it, the non-C version applies only to the PC.",
+		"author": "Raznaak",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HyperableCaninePussyVer1.0-C.zip"
 	}
 	]
 }
