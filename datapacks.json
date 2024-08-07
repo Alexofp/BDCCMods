@@ -1298,6 +1298,30 @@
 				"HypertusR5.zip",
 				"MoreUniformsVer5.zip"
 			]
+		},
+		{
+			"id": "cavifork",
+			"name": "Cavi",
+			"author": "Aim",
+			"version": "1.0",
+			"description": "adds 1 character, my first ever datapack\nCavi, pretty tough to beat but she drops really good stuff\n\nalso custom portraits i made myself",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/cavifork.res",
+			"lastedit": 1723026028,
+			"filesize": 4556574,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"Clothes_Megapack.zip",
+				"ThighHighs.zip",
+				"Shark_Species.zip",
+				"AvaliSpeciesVer2.zip"
+			],
+			"preview": "datapack_previews/cavifork.png"
 		}
 	]
 }
