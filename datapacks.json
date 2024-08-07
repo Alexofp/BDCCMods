@@ -1215,27 +1215,6 @@
 			]
 		},
 		{
-			"id": "MayaPack",
-			"name": "Maya The Cyber-Draconian",
-			"author": "kurt258",
-			"version": "1.3",
-			"description": "Adds in a Cybernetically Enhanced Draconian hybrid character that can be encountered in the Lilac home cell.\nWarning, Prolonged contact with semen may have unintended side effects. (Breast Expansion & Feminization)",
-			"contains": "Contains: 1 character, 7 scenes, 1 quest",
-			"download": "datapacks/MayaPack.res",
-			"lastedit": 1722853287,
-			"filesize": 82931,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-
-			],
-			"preview": "datapack_previews/MayaPack.png"
-		},
-		{
 			"id": "riley",
 			"name": "Riley",
 			"author": "No author",
@@ -1322,6 +1301,27 @@
 				"AvaliSpeciesVer2.zip"
 			],
 			"preview": "datapack_previews/cavifork.png"
+		},
+		{
+			"id": "MayaPack",
+			"name": "Maya The Cyber-Draconian",
+			"author": "kurt258",
+			"version": "1.4",
+			"description": "Adds in a Cybernetically Enhanced Draconian hybrid character that can be encountered in the home cell.\nWarning, Prolonged contact with semen may have unintended side effects. (Breast Expansion, Feminization, Penis Shrinkage, Gender Swap MtF. all 4 toggleable in Debug Menu and are enabled by default)",
+			"contains": "Contains: 1 character, 7 scenes, 1 quest",
+			"download": "datapacks/MayaPack.res",
+			"lastedit": 1723054422,
+			"filesize": 116914,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/MayaPack.png"
 		}
 	]
 }
