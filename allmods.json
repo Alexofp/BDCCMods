@@ -1135,6 +1135,14 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HyperableCaninePussyVer1.0-C.zip"
+	},
+	{
+		"name": "Brutal Dreams Correctional Center",
+		"description": "Makes the game more difficult!\n\nInmate Encounters:\n- Chance raised dramaticly\n- Event cooldown reduced\n- Exposure requirement removed\n- Enemy level cap removed\n\nSex:\n- If a Dom undresses a Sub the item is deleted\n\nHard Struggling:\n- Time to complete the minigame halved\n- Stamina cost to play the minigame quintupled (5x!!)\n- Blindfold hint disabled\n- Extra time to complete the minigame when blindfolded removed\n\nThanks to aaron1218 for the idea!",
+		"author": "Mindstormsman",
+		"modversion": "1.0",
+		"gameversion": "0.1.5",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BrutalDreamsCorrectionalCenter.zip"
 	}
 	]
 }
