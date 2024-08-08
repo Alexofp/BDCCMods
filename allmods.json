@@ -1113,14 +1113,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RaceBonusMod.zip"
 	},
 	{
-		"name": "Equine Penis Barbs & Knots Edition",
-		"description": "This is a splice of Ace's Barbed Equine and Knotty Equine penis mods adding a character creation option for a barbed and knotty equine penis. All art assets are knicked from Ace's mods and restitched back together to make a bigger better penis!\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BarbedandKnottedEquinePenis.png]Click for preview[/url]",
-		"author": "Avery Winters & AverageAce",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BarbedandKnottedEquinePenis.zip"
-	},
-	{
 		"name": "Hyperable Canine Pussy",
 		"description": "My canine pussy mod but with Hypertus compatibility\nIf you find any bug of course notify me, and I'm listening to suggestions, numbers are whatever makes sense for me for now.\n[b]!!You do need the original canine pussy mod for this to work!![/b], do NOT use the -C version of the original in combination with this mod, only the regular original version (otherwise they may clash with one another).\nAgain, do not use both files, only one of them. The -C version also makes canine NPCs spawn with it, the non-C version applies only to the PC.",
 		"author": "Raznaak",
@@ -1143,6 +1135,14 @@
 		"modversion": "1.0",
 		"gameversion": "0.1.5",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BrutalDreamsCorrectionalCenter.zip"
+	},
+	{
+		"name": "Equine Penis Barbs & Knots Edition",
+		"description": "This is a splice of Ace's Barbed Equine and Knotty Equine penis mods adding a character creation option for a barbed and knotty equine penis. All art assets are knicked from Ace's mods and restitched back together to make a bigger better penis!\n\nChangelog: Now has skins available like the other equine options\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BarbedandKnottedEquinePenis.png]Click for preview[/url]",
+		"author": "Avery Winters & AverageAce",
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BarbedandKnottedEquinePenis.zip"
 	}
 	]
 }
