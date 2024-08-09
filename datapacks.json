@@ -1322,6 +1322,27 @@
 
 			],
 			"preview": "datapack_previews/MayaPack.png"
+		},
+		{
+			"id": "FarrenOC",
+			"name": "Zeta",
+			"author": "Farren",
+			"version": "1.0",
+			"description": "adds my pc",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/Zeta.res",
+			"lastedit": 1723238002,
+			"filesize": 6889,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/FarrenOC.png"
 		}
 	]
 }
