@@ -1343,6 +1343,49 @@
 
 			],
 			"preview": "datapack_previews/FarrenOC.png"
+		},
+		{
+			"id": "modpokepack",
+			"name": "Modded Poképack V1",
+			"author": "Richael Nif",
+			"version": "1.0",
+			"description": "Some modded Pokémon inmates. 3 strong futas (stats based on the Pokémons max theoretical stats), 1 male made exclusively to be bullied. ",
+			"contains": "Contains: 4 characters",
+			"download": "datapacks/modpokepack.res",
+			"lastedit": 1723271361,
+			"filesize": 3041975,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"LucarioSpecies-Ver2.1.zip",
+				"LopunnySpeciesVer1.zip",
+				"SylveonSpeciesVer1.zip",
+				"FluffbodypartsVer3.zip"
+			]
+		},
+		{
+			"id": "dianathebunbun",
+			"name": "Diana the Laquine",
+			"author": "Richael Nif",
+			"version": "1.0",
+			"description": "My current PC, a futa laquine.",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/dianathebunbun.res",
+			"lastedit": 1723271365,
+			"filesize": 7707,
+			"requiredDatapacks": [
+				"acesunreleasedskinspack"
+			],
+			"reqDatapackToName": {
+				"acesunreleasedskinspack": "Ace'sUnreleasedSkinsPack"
+			},
+			"requiredMods": [
+				"Laquine_SpeciesVer1.5.zip"
+			]
 		}
 	]
 }

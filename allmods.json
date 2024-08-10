@@ -1137,20 +1137,20 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BarbedandKnottedEquinePenis.zip"
 	},
 	{
-		"name": "Brutal Dreams Correctional Center",
-		"description": "Makes the game more difficult!\n\nInmate Encounters:\n- Chance raised dramaticly\n- Event cooldown reduced\n- Exposure requirement removed\n- Enemy level cap removed\n\nSex:\n- If a Dom undresses a Sub the item is deleted\n\nHard Struggling:\n- Time to complete the minigame halved\n- Stamina cost to play the minigame quintupled (5x!!)\n- Blindfold hint disabled\n- Extra time to complete the minigame when blindfolded removed\n\nThanks to aaron1218 for the idea!\n\nthis entire update is just bug fixes and balance adjustments,",
-		"author": "Mindstormsman",
-		"modversion": "1.0",
-		"gameversion": "0.1.5",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BrutalDreamsCorrectionalCenter.zip"
-	},
-	{
 		"name": "Knot Fucking",
 		"description": "Fuck them with your knot!\n\nCurrently you can't knot fuck yourself with someone else's cock, but they might choose to knot fuck you if they are in charge\nand for some reason the sub doesn't cum while being knot fucked\nTouches BasCharacter.gd to add StretchedPainfullyPussy to NPCs so to hell with compatibility probably\nWIP!\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/KnotFucking.png]Click for preview[/url]",
 		"author": "Mindstormsman",
 		"modversion": "1.0",
 		"gameversion": "0.1.5",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/KnotFucking.zip"
+	},
+	{
+		"name": "Brutal Dreams Correctional Center",
+		"description": "Makes the game more difficult!\n\nInmate Encounters:\n- Chance raised dramaticly\n- Event cooldown reduced\n- Exposure requirement removed\n- Enemy level cap removed\n\nSex:\n- If a Dom undresses a Sub the item is deleted\n\nHard Struggling:\n- Time to complete the minigame halved\n- Stamina cost to play the minigame quintupled (5x!!)\n- Blindfold hint disabled\n- Extra time to complete the minigame when blindfolded removed\n\nThanks to aaron1218 for the idea!\n\nthis entire update is just bug fixes and balance adjustments,",
+		"author": "Mindstormsman",
+		"modversion": "1.0",
+		"gameversion": "0.1.5",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BrutalDreamsCorrectionalCenter.zip"
 	}
 	]
 }
