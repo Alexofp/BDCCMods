@@ -1386,6 +1386,52 @@
 			"requiredMods": [
 				"Laquine_SpeciesVer1.5.zip"
 			]
+		},
+		{
+			"id": "satyrpack",
+			"name": "satyr pack",
+			"author": "Potato with Nipple Tassles",
+			"version": "1.0",
+			"description": "Introduces a collection of Sayters to the facility, a subspecies of demons.\n\nI basically have no programming skills so apologies for no quests or scenes.",
+			"contains": "Contains: 6 characters",
+			"download": "datapacks/satyrpack.res",
+			"lastedit": 1723359351,
+			"filesize": 32421,
+			"requiredDatapacks": [
+				"acesunreleasedskinspack",
+				"pandaskin",
+				"culticskins",
+				"krystalpack"
+			],
+			"reqDatapackToName": {
+				"acesunreleasedskinspack": "Ace'sUnreleasedSkinsPack",
+				"pandaskin": "Panda skin datapack",
+				"culticskins": "RunicSkin",
+				"krystalpack": "KrystalPack"
+			},
+			"requiredMods": [
+
+			]
+		},
+		{
+			"id": "clarabelle",
+			"name": "Clarabelle",
+			"author": "Clarabelle",
+			"version": "1.0",
+			"description": "(Note: She's supposed to be a cow girl species, but \n1-I dont like the way the only cow girl species mod looks. \n2-Id rather it be vanilla so you dont need to hunt a specific mod down, and I dont need to hope and pray that its creator keeps it up to date. \nso for now just imagine she's a cow, untill a bovine species ie either put in vanilla BDCC, or added as a REALLY well made mod.) \n\nThis is the first time ive done something like this, and I did that first scene in a day. \nIm loving this scene creator, and im 100% gonna keep working on it.\n\nClarabelle is a large, kind (although she sometimes speaks her mind without thinking), motherly, cow girl who took up the art of witch craft, not to curse people, but to get as many of them (and herself) pregnant as she can. Im already working in a lore reason for her to exist, and Dr.Quinn not to be studying magic instead if what she already does. \nShe also has an oversized dong. she hasnt used any magic or surgery on her body, she just has that. \nClarabelle enjoys long walks on the beach, and litteraly anything that involves someone getting pregnant. She REALLY doesnt like anal, even if you have a woomb in it. She also doesnt really like men. she only really takes interest in someone if they can get pregnant, or if they are strong.\n\n\tNext I'm gonna add a roaming encounter for her, but i dont want it to play entierly like a normal encounter (i wnt to make sure she doesnt call the player a whore, slut, or generally be mean.), so itll be scripted. then ill work on her \"shop\" where you can pay her to do various things, like make you grow a penis, pussy breasts, make them larger, and other fun stuff.",
+			"contains": "Contains: 1 character, 3 scenes",
+			"download": "datapacks/clarabelle.res",
+			"lastedit": 1723359355,
+			"filesize": 118187,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			]
 		}
 	]
 }
