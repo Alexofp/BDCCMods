@@ -1432,6 +1432,26 @@
 			"requiredMods": [
 
 			]
+		},
+		{
+			"id": "ynb-extraalexscenes",
+			"name": "Extra alex scenes",
+			"author": "Ynb",
+			"version": "1.0",
+			"description": "Extra scenes with the character Alex Rynard, each with some variants. \nKinda meant to be played after finishing his questline (currently can't call the necessary flag to lock / unlock it, so up to player's discretion).\nMostly vanilla and kinky sex without the trust exercises' master / slave dynamic.",
+			"contains": "Contains: 1 scene",
+			"download": "datapacks/extraalexscenes.res",
+			"lastedit": 1723365524,
+			"filesize": 586713,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			]
 		}
 	]
 }
