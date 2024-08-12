@@ -943,27 +943,6 @@
 			"preview": "datapack_previews/femmax.png"
 		},
 		{
-			"id": "kingdragonmod",
-			"name": "Dragon King Modded",
-			"author": "Katz",
-			"version": "4.0",
-			"description": "Introduce an unstoppable dom into your world. Be prepared to become his bitch.\nHeavy focus on non-con breeding and bondage fetishes with the ocasional lactation, recommended for submissive female characters.\nRequires three mods to work correctly.\n1) BarbedEquinePenis\n2) ScalieExpansion\n3)DragonsPlus",
-			"contains": "Contains: 1 character",
-			"download": "datapacks/kingdragonmod.res",
-			"lastedit": 1721977945,
-			"filesize": 9116,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-
-			],
-			"preview": "datapack_previews/kingdragonmod.PNG"
-		},
-		{
 			"id": "fennysocs",
 			"name": "Fenny's OC Character Pack",
 			"author": "FennyFenFen",
@@ -1452,6 +1431,27 @@
 			"requiredMods": [
 
 			]
+		},
+		{
+			"id": "kingdragonmod",
+			"name": "Dragon Slave",
+			"author": "Katz",
+			"version": "Alpha 0.1",
+			"description": "Become the sex slave of Alexander Katzen, a powerful dragon who seems to be missing his collar and refuses to wear clothes. He takes nudity as an invitation, so be careful walking around nude where he can find you.\n\nRequires three mods to work correctly.\n1) BarbedEquinePenis\n2) ScalieExpansion\n3)DragonsPlus",
+			"contains": "Contains: 1 character, 9 scenes, 1 quest",
+			"download": "datapacks/kingdragonmod.res",
+			"lastedit": 1723441422,
+			"filesize": 677274,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/kingdragonmod.PNG"
 		}
 	]
 }
