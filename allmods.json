@@ -1151,6 +1151,14 @@
 		"modversion": "1.0",
 		"gameversion": "0.1.5",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BrutalDreamsCorrectionalCenter.zip"
+	},
+	{
+		"name": "Striped Clothes",
+		"description": "Adds striped clothing: stockings. Сlothing for digitigrade feet. Sold in the laundry in the vendomat\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/Striped_Clothes.png]Click for preview[/url]",
+		"author": "Phobos",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Striped_Clothes.zip"
 	}
 	]
 }
