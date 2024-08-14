@@ -881,26 +881,6 @@
 			"preview": "datapack_previews/B-AY.png"
 		},
 		{
-			"id": "magduscompanions",
-			"name": "Magdu's Companions",
-			"author": "Magdu",
-			"version": "1.0",
-			"description": "Magdu's Companions and cherished ones.\nRequires Spiney Dragon penis, lycanrock, hyper, sylveon, male lactation",
-			"contains": "Contains: 3 characters",
-			"download": "datapacks/magduscompanions.res",
-			"lastedit": 1721632386,
-			"filesize": 22569,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-
-			]
-		},
-		{
 			"id": "femalealex",
 			"name": "GenderswapAlex",
 			"author": "AverageAce",
@@ -1393,26 +1373,6 @@
 			]
 		},
 		{
-			"id": "clarabelle",
-			"name": "Clarabelle",
-			"author": "Clarabelle",
-			"version": "1.0",
-			"description": "(Note: She's supposed to be a cow girl species, but \n1-I dont like the way the only cow girl species mod looks. \n2-Id rather it be vanilla so you dont need to hunt a specific mod down, and I dont need to hope and pray that its creator keeps it up to date. \nso for now just imagine she's a cow, untill a bovine species ie either put in vanilla BDCC, or added as a REALLY well made mod.) \n\nThis is the first time ive done something like this, and I did that first scene in a day. \nIm loving this scene creator, and im 100% gonna keep working on it.\n\nClarabelle is a large, kind (although she sometimes speaks her mind without thinking), motherly, cow girl who took up the art of witch craft, not to curse people, but to get as many of them (and herself) pregnant as she can. Im already working in a lore reason for her to exist, and Dr.Quinn not to be studying magic instead if what she already does. \nShe also has an oversized dong. she hasnt used any magic or surgery on her body, she just has that. \nClarabelle enjoys long walks on the beach, and litteraly anything that involves someone getting pregnant. She REALLY doesnt like anal, even if you have a woomb in it. She also doesnt really like men. she only really takes interest in someone if they can get pregnant, or if they are strong.\n\n\tNext I'm gonna add a roaming encounter for her, but i dont want it to play entierly like a normal encounter (i wnt to make sure she doesnt call the player a whore, slut, or generally be mean.), so itll be scripted. then ill work on her \"shop\" where you can pay her to do various things, like make you grow a penis, pussy breasts, make them larger, and other fun stuff.",
-			"contains": "Contains: 1 character, 3 scenes",
-			"download": "datapacks/clarabelle.res",
-			"lastedit": 1723359355,
-			"filesize": 118187,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-
-			]
-		},
-		{
 			"id": "ynb-extraalexscenes",
 			"name": "Extra alex scenes",
 			"author": "Ynb",
@@ -1454,6 +1414,52 @@
 				"BarbedEquinePenisVer1.1.zip"
 			],
 			"preview": "datapack_previews/kingdragonmod.PNG"
+		},
+		{
+			"id": "clarabelle",
+			"name": "Clarabelle",
+			"author": "Clarabelle",
+			"version": "1.1",
+			"description": "(Note: She's supposed to be a cow girl species, but \n1-I don't like the way the only cow girl species mod looks. \n2-Id rather it be vanilla so you don't need to hunt a specific mod down, and I don't need to hope and pray that its creator keeps it up to date. \nso for now just imagine she's a cow, until a bovine species ie either put in vanilla BDCC, or added as a REALLY well made mod.) \n\nThis is the first time ever done something like this, and I did the first scene in a day. \nI'm loving this scene creator, and I'm 100% gonna keep working on it.\n\nClarabelle is a large, kind (although she sometimes speaks her mind without thinking), motherly, cow girl who took up the art of witchcraft, not to curse people, but to get as many of them (and herself) pregnant as she can. I'm already working in a lore reason for her to exist, and Dr. Quinn not to be studying magic instead if what she already does. \nShe also has an oversized dong. She hasn't used any magic or surgery on her body, other than her precum, and cum, she just has that. \nClarabelle enjoys long walks on the beach, and literally anything that involves someone getting pregnant. She REALLY doesn't like anal, even if you have a woomb in it. She also doesn't really like men. She only really takes interest in someone if they can get pregnant, or if they are strong.\n\nV-1.1 Adds \nA roaming encounter for her. With a teleportation gambling mini game. \nA fight, and a hidden transformation shop for winning\nA sex scene for swapping from having a penis, to pussy\n-Fixes\nRemoves the collar I left on her (she was gonna be an inmate till I decided she should have a shop)\nChanges her dialogue in the EEEEEEEw scene to be (sort of) less mean \nChanges some parameters for accessing her shop(unfinished)\n\nNext ill work on her \"shop\" where you can pay her to do various things, like make you grow a penis, pussy and breasts, make them larger, and other fun stuff.",
+			"contains": "Contains: 1 character, 4 scenes",
+			"download": "datapacks/clarabelle.res",
+			"lastedit": 1723619616,
+			"filesize": 244563,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			]
+		},
+		{
+			"id": "magduscompanions",
+			"name": "Magdu's Companions",
+			"author": "Magdu",
+			"version": "1.1",
+			"description": "Magdu's Companions and cherished ones.",
+			"contains": "Contains: 3 characters",
+			"download": "datapacks/magduscompanions.res",
+			"lastedit": 1723619621,
+			"filesize": 23531,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"LycanrocSpeciesVer0.9.zip",
+				"MaleLactation.zip",
+				"SpinedDragonPenisVer1.zip",
+				"HypertusR5.zip",
+				"SylveonSpeciesVer1.zip",
+				"Clothes_Megapack.zip",
+				"MoreUniformsVer5.zip"
+			]
 		}
 	]
 }
