@@ -1439,15 +1439,36 @@
 			]
 		},
 		{
+			"id": "Samuel",
+			"name": "Samuel",
+			"author": "Dansky32",
+			"version": "1.0",
+			"description": "Just a shark",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/samuel.res",
+			"lastedit": 1723703910,
+			"filesize": 435316,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"AcesSharkSpeciesVer1.11.zip"
+			],
+			"preview": "datapack_previews/samuel.png"
+		},
+		{
 			"id": "kingdragonmod",
 			"name": "Dragon Slave",
 			"author": "Katz",
-			"version": "Alpha 0.7.5",
-			"description": "Now YOU can be the slave! Give yourself body and soul to Alexander Katzen, a powerful dragon who seems to be missing his collar and refuses to wear clothes. He takes nudity as an invitation, so be careful walking around nude where he can find you! Please note that a lot of content is unfinished and some is placeholder. Also, Katz is wildly overleveled for now. I'll balance him once I have more content prepared for it.\n\nWarning: This is an Alpha. May have really bad bugs. May break other quests and the portal panties.\n\nV: A0.7.5 I think we're finally stable. May still break the portal panties.",
+			"version": "Alpha 0.8",
+			"description": "Now YOU can be the slave! Give yourself body and soul to Alexander Katzen, a powerful dragon who seems to be missing his collar and refuses to wear clothes. He takes nudity as an invitation, so be careful walking around nude where he can find you! Please note that a lot of content is unfinished and some is placeholder. Also, Katz is wildly overleveled for now. I'll balance him once I have more content prepared for it.\n\nWarning: This is an Alpha. May have really bad bugs. May break other quests and the portal panties.\n\nV: A0.8 Neuter characters shouldn't break things anymore. I hope.",
 			"contains": "Contains: 1 character, 11 scenes",
 			"download": "datapacks/kingdragonmod.res",
-			"lastedit": 1723657985,
-			"filesize": 832690,
+			"lastedit": 1723703917,
+			"filesize": 840600,
 			"requiredDatapacks": [
 
 			],
