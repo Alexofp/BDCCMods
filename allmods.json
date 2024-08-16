@@ -1162,7 +1162,7 @@
 	},
 	{
 		"name": "Striped Clothes",
-		"description": "\nAdds striped clothing: \n - Stockings (only for digitigrade feet);\n - Long Gloves;\n - Panties.\nSold in the laundry in the vendomat.\n\nChangelog:\nMade aesthetic changes to the glove stripes: \nReduced gaps between stripes where needed (hard to see unless know where to look);\nRemoved extra stripes at hand joints.",
+		"description": "Adds striped clothing: \n - Stockings (only for digitigrade feet);\n - Long Gloves;\n - Panties.\nSold in the laundry in the vendomat.\n\nChangelog:\nMade aesthetic changes to the glove stripes: \nReduced gaps between stripes where needed (hard to see unless know where to look);\nRemoved extra stripes at hand joints.",
 		"author": "Phobos",
 		"modversion": "2.1",
 		"gameversion": "*",
