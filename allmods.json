@@ -1162,9 +1162,9 @@
 	},
 	{
 		"name": "Striped Clothes",
-		"description": "Adds striped clothing:\nStockings (only for digitigrade feet).\nLong Gloves;\nPanties.\n. Сlothing for digitigrade feet. Sold in the laundry in the vendomat\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/Striped_Clothes.png]Click for preview[/url]\nChangelog:\nMade aesthetic changes to the glove stripes: \nReduced gaps between stripes where needed (hard to see unless know where to look);\nRemoved extra stripes at hand joints.",
+		"description": "\nAdds striped clothing: \n - Stockings (only for digitigrade feet);\n - Long Gloves;\n - Panties.\nSold in the laundry in the vendomat.\n\nChangelog:\nMade aesthetic changes to the glove stripes: \nReduced gaps between stripes where needed (hard to see unless know where to look);\nRemoved extra stripes at hand joints.",
 		"author": "Phobos",
-		"modversion": "1.0",
+		"modversion": "2.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Striped_Clothes.zip"
 	}
