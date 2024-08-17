@@ -1481,6 +1481,27 @@
 				"BarbedEquinePenisVer1.1.zip"
 			],
 			"preview": "datapack_previews/kingdragonmod.PNG"
+		},
+		{
+			"id": "traxxstoryline",
+			"name": "Traxx Storyline",
+			"author": "TraxxTheFurry",
+			"version": "1.0",
+			"description": "Meet a former hero who has fallen far from freedom, befriend him or take advantage of his new found position at BDCC.",
+			"contains": "Contains: 1 character, 1 scene",
+			"download": "datapacks/traxxstoryline.res",
+			"lastedit": 1723894813,
+			"filesize": 73486,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/traxxstoryline.PNG"
 		}
 	]
 }
