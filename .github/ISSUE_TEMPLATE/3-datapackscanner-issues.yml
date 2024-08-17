@@ -1,0 +1,24 @@
+name: "DatapackScanner Issues"
+description: "Submitting issue on DatapackScanner"
+title: "[DatapackScanner Issue]: "
+body: 
+- type: markdown
+  attributes:
+    value: |
+      Thank you for interested in DatapackScanner and want to make it better by submitting bug report/request for it.
+
+- type: dropdown
+  attributes:
+    label: "Is this bug report or feature request?"
+    options: 
+      - Bug Report
+      - Feature Request
+    default: 0
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: "Text Area"
+    description: "Put in relevent data in here you see fit. If you do not provide enough information, we'll request you to provide more information."
+    
