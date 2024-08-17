@@ -1,0 +1,30 @@
+name: "Mod submission"
+description: "Submitting a mod on to the mod browser"
+title: "[Mod Submission]: "
+body: 
+- type: markdown
+  attributes:
+    value: |
+      Thank you for submitting a mod on the mod browser! Please note that we have easier submission portal inside our discord server.
+      Please put your mod name in the title of the issue before continuing filling the form.
+
+- type: checkboxes
+  attributes:
+    label: "Is this an update to existing mod?"
+    options:
+      - label: "Yes, this is an update to existing mod."
+
+- type: textarea
+  attributes:
+    label: "Mod Description"
+    description: "How would you like to describe your mod on the mod browser? If there are previews please include them in this text"
+    placeholder: "This is a pretty cool mod! It does X!"
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: "The Mod Itself"
+    description: "Either drag and drop the mod into this text area or paste link to hosted file here."
+  validations:
+    required: true
