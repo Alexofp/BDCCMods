@@ -1,0 +1,22 @@
+name: "Datapack submission"
+description: "Submitting a Datapack on to the datapack browser"
+title: "[Datapack Submission]: "
+body: 
+- type: markdown
+  attributes:
+    value: |
+      Thank you for submitting a datapack on the datapack browser! Please note that we have easier submission portal inside our discord server.
+      Please put your datapack name in the title of the issue before continuing filling the form.
+
+- type: checkboxes
+  attributes:
+    label: "Is this an update to existing datapack?"
+    options:
+      - label: "Yes, this is an update to existing datapack."
+
+- type: textarea
+  attributes:
+    label: "The Datapack Itself"
+    description: "Paste link to hosted file here. You can put the datapack on any third-party file hosting service like Google Drive, DropBox, etc."
+  validations:
+    required: true
