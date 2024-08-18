@@ -1486,12 +1486,12 @@
 			"id": "traxxstoryline",
 			"name": "Traxx Storyline",
 			"author": "TraxxTheFurry",
-			"version": "1.0",
+			"version": "1.2",
 			"description": "Meet a former hero who has fallen far from freedom, befriend him or take advantage of his new found position at BDCC.",
-			"contains": "Contains: 1 character, 1 scene",
+			"contains": "Contains: 1 character, 4 scenes",
 			"download": "datapacks/traxxstoryline.res",
-			"lastedit": 1723903076,
-			"filesize": 73486,
+			"lastedit": 1723961817,
+			"filesize": 161925,
 			"requiredDatapacks": [
 
 			],
