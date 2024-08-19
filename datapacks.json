@@ -1483,27 +1483,6 @@
 			"preview": "datapack_previews/kingdragonmod.PNG"
 		},
 		{
-			"id": "traxxstoryline",
-			"name": "Traxx Storyline",
-			"author": "TraxxTheFurry",
-			"version": "1.2",
-			"description": "Meet a former hero who has fallen far from freedom, befriend him or take advantage of his new found position at BDCC.",
-			"contains": "Contains: 1 character, 4 scenes",
-			"download": "datapacks/traxxstoryline.res",
-			"lastedit": 1723961817,
-			"filesize": 161925,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-
-			],
-			"preview": "datapack_previews/traxxstoryline.PNG"
-		},
-		{
 			"id": "thewhistler",
 			"name": "The Whistler",
 			"author": "fenfenscreescree",
@@ -1511,7 +1490,7 @@
 			"description": "There's a lot of talk going around the prison; word about a fighter in the pits, the first inmate at the BDCC, who's never once been defeated, inside or outside of the ring. Word is, he's a sight to behold, but hell to talk to. Maybe you should do both.",
 			"contains": "Contains: 2 characters, 2 scenes",
 			"download": "datapacks/thewhistler.res",
-			"lastedit": 1724031872,
+			"lastedit": 1724089649,
 			"filesize": 1382692,
 			"requiredDatapacks": [
 
@@ -1531,6 +1510,27 @@
 				"BovineSpeciesVer2.zip"
 			],
 			"preview": "datapack_previews/thewhistler.png"
+		},
+		{
+			"id": "traxxstoryline",
+			"name": "Jake's Story",
+			"author": "TraxxTheFurry",
+			"version": "2.0",
+			"description": "Meet a former hero who has fallen far from freedom, follow his story, set him free from his curse or take advantage of his new sex slave position at BDCC.",
+			"contains": "Contains: 2 characters, 8 scenes",
+			"download": "datapacks/traxxstoryline.res",
+			"lastedit": 1724089660,
+			"filesize": 265522,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/traxxstoryline.PNG"
 		}
 	]
 }
