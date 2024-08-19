@@ -1175,6 +1175,14 @@
 		"modversion": "2.0",
 		"gameversion": "0.1.5",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GooBondage.zip"
+	},
+	{
+		"name": "Sheathed Human Penis",
+		"description": "human penis with a sheath on.\nit doesnt spawn naturally on NPCs, but comes with a few skins\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SheathHumanPenis.png]Click for preview[/url]",
+		"author": "AverageAce",
+		"modversion": "1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SheathHumanPenisVer1.zip"
 	}
 	]
 }
