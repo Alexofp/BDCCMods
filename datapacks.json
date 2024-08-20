@@ -1531,6 +1531,27 @@
 
 			],
 			"preview": "datapack_previews/traxxstoryline.PNG"
+		},
+		{
+			"id": "H408",
+			"name": "Harlowe Pack",
+			"author": "Frick Frack",
+			"version": "1.0",
+			"description": "First go at making a Datapack, Hope you like it.",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/H408.res",
+			"lastedit": 1724134215,
+			"filesize": 7591,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/H408.png"
 		}
 	]
 }
