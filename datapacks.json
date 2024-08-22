@@ -1552,6 +1552,27 @@
 			"requiredMods": [
 
 			]
+		},
+		{
+			"id": "ruu",
+			"name": "Ruu",
+			"author": "Rexa",
+			"version": "1.0",
+			"description": "Adds 1 Nurse Character",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/ruu.res",
+			"lastedit": 1724346102,
+			"filesize": 6085,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/ruu.png"
 		}
 	]
 }
