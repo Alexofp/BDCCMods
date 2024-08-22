@@ -385,6 +385,14 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Humanlegsonly.zip"
 	},
 	{
+		"name": "More Drugs Mod",
+		"author": "ButNotTooGay/Makarov",
+		"description": "Adds new items that grant buffs but can also cause potentially undesirable side effects if abused.\b - Added Toughness Booster\n ↳ Improves block defense but lowers dodge chance\n ↳ Can cause side effect, Paralysis: Your body occasionally seizes up, leaving you vulnerable to being taken advantage of\n\nNote: This update is incomplete. The item is mechanically functional, but there is a scene that contains only placeholder text.",
+		"modversion": "v0.04a",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreDrugsMod-v0.04a.zip"
+	},
+	{
 		"name": "Boykisser Portraits",
 		"author": "AverageAce",
 		"description": "You like BDCC, Don't You?\nWorks with all vanilla character portraits (Alex, Avy, The Captain, Eliza, Ferri, Jacki, Kait, Nova, Rahi, Risha, and Tavi.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/kisserspreview.png]Click for preview[/url]",
@@ -961,14 +969,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CaninePussyVer1.0-C.zip"
 	},
 	{
-		"name": "The Flamehearts",
-		"author": "Bloxborne (aka Phoenix)",
-		"description": "What it adds?: This adds a Pathway, Similar to Tavi, where you help a Guard/Engineer, who supposedly has hidden themselves from the captain, And they need your help In trying to get them out of the Space Station, she will offer you a way out too if you help her. There is a Two Diverging Path system depending on what you do to access Phoenix's place. This also adds a few new floor locations allowing you to explore and access different things. It adds some new items and a small crafting system in one of the floors.\nSecrets?: Yes, One in each version of the game (Except V0.4Alpha Rn) And yes they do carry over to other versions of the game so it is worth playing the older versions, and yes it should remember your progress when you update the mods to a higher version.\nTLDR: New floors, new items new interaction, new escape path (Not Finished Obvi), and smei dynamic choices",
-		"modversion": "0.4Alpha",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/TheFlameheartsV0.4.Alpha1.zip"
-	},
-	{
 		"name": "Fenrir's Custom Console Commands (FensCCC)",
 		"author": "Fenrir",
 		"description": "This mod adds custom console commands.\n\nCurrent commands:\n- no_kids | Clears the nursery database\n- species_encounter_chance <default, none, number> | Sets the encounter chance for all species (0.0 -> 10.0)\n- gender_encounter_chance <male, female, shemale, herm, peachboy, all | default, none, number> | Sets the encounter rate for either a single gender, or all genders (0.0 -> 1.0)\nset_name <characterID | name> | Change the name if any given character within the game\n\nNotes:\nAdded the ability to change the name of any character (You need to know their ID first. Player's ID is 'pc')",
@@ -1183,6 +1183,14 @@
 		"modversion": "1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SheathHumanPenisVer1.zip"
+	},
+	{
+		"name": "The Flamehearts",
+		"description": "(This Mod was made with help from 'Zko12' as a Mod Tester) & (Thanks to Plasma Serval for the Cafe Addition to my Mod!): This Mod That Adds Phoenix and her Sister with now two more quests added~ Totaling 3 normal quests and 1 quest on both paths, the path is dictated from the Transmitter Quest\n\nChangelog:\nthe cafe is mostly complete, aside from the coffee machine being down for the player, the player can be a waiter/waitress! Now able to serve inmates, in both ways~ For some extra money~ be careful however as you may slide into the spotlight, and cause some unwanted attention to you~ (Note the system for the fame is half working just nothing happens when getting high levels of fame... for now ;3)",
+		"author": "Bloxborne (A.K.A Phoenix)",
+		"modversion": "v0.3.4",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/TheFlameheartsV0.4.Alpha1.2.zip"
 	}
 	]
 }
