@@ -1578,12 +1578,12 @@
 			"id": "natscharacters",
 			"name": "Nat's Character Pack",
 			"author": "NatRobloxian",
-			"version": "1.0",
+			"version": "1.1",
 			"description": "a Datapack that includes some of my OCs or joke/meme encounters (2 ocs and 2 joke/meme characters are in this pack atm)",
-			"contains": "Contains: 4 characters",
+			"contains": "Contains: 5 characters",
 			"download": "datapacks/natscharacters.res",
-			"lastedit": 1724395680,
-			"filesize": 996078,
+			"lastedit": 1724738533,
+			"filesize": 1134621,
 			"requiredDatapacks": [
 
 			],

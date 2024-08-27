@@ -953,22 +953,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EquinePussy-HyperableCompatR1.zip"
 	},
 	{
-		"name": "Canine Pussy",
-		"author": "Raznaak",
-		"description": "This adds the CaninePussy in the vagina parts available. There's no actual visible parts, but the descriptions are different, and it naturally handles smaller volumes, but it should be easier to stretch and stay stretched after some efforts, and is wetter (no effect on gameplay for now).\nPerhaps more stuff coming when I both get the motivation, the know-how and the inspiration.\nIf you find any bug of course notify me, and I'm listening to suggestions, numbers are a ballpark for now.\n\nThe base edition just adds the Canine Pussy option to what's available for you, while the -C edition also makes the random canine NPCs spawn with the part a bit less than half the time.\n[b]USE ONLY ONE, NOT BOTH![/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/caninepussy.png]Click for Preview[/url]",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CaninePussyVer1.0.zip"
-	},
-	{
-		"name": "Canine Pussy (C edition)",
-		"author": "Raznaak",
-		"description": "This adds the CaninePussy in the vagina parts available. There's no actual visible parts, but the descriptions are different, and it naturally handles smaller volumes, but it should be easier to stretch and stay stretched after some efforts, and is wetter (no effect on gameplay for now).\nPerhaps more stuff coming when I both get the motivation, the know-how and the inspiration.\nIf you find any bug of course notify me, and I'm listening to suggestions, numbers are a ballpark for now.\n\nThe base edition just adds the Canine Pussy option to what's available for you, while the -C edition also makes the random canine NPCs spawn with the part a bit less than half the time.\n[b]USE ONLY ONE, NOT BOTH![/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/caninepussy.png]Click for Preview[/url]",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CaninePussyVer1.0-C.zip"
-	},
-	{
 		"name": "Fenrir's Custom Console Commands (FensCCC)",
 		"author": "Fenrir",
 		"description": "This mod adds custom console commands.\n\nCurrent commands:\n- no_kids | Clears the nursery database\n- species_encounter_chance <default, none, number> | Sets the encounter chance for all species (0.0 -> 10.0)\n- gender_encounter_chance <male, female, shemale, herm, peachboy, all | default, none, number> | Sets the encounter rate for either a single gender, or all genders (0.0 -> 1.0)\nset_name <characterID | name> | Change the name if any given character within the game\n\nNotes:\nAdded the ability to change the name of any character (You need to know their ID first. Player's ID is 'pc')",
@@ -1199,6 +1183,22 @@
 		"modversion": "0.1.2",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NanoRevolutionMod_ver0.1.2.zip"
+	},
+	{
+		"name": "Bluespace Reality Alterator (BRA)",
+		"author": "Raznaak",
+		"description": "-Lore: One morning, you find a small device in the engineering section of the station, with a small screen, a keyboard and a standard memory connector, with the letters \"BRA\" stenciled on the back.\nRight now it seems empty of programmed modules, but looking a bit in the pile of junk, you find a memory stick with \"CaninePussy\" written on it, and after plugging it and fiddling a bit with the controls, you notice that your fellow Canine prisoners suddenly all have animalistic pussies instead of humanoid ones. Surprisingly, noone seems to notice the difference but you...\nAre... are you able to alter reality with this device? You must find other modules, stat!\n\n-Description: This is what I managed to hack together to make in-game options for mods possible, since having multiple versions of the same mod for different options is fucking annoying for the modders and for the users, and it's basically impossible to add custom options to the base game Options without releasing a custom build.\nAlone, this mod does nothing, but with mods using compatible scene files, more options are going to get added dynamically, for the users they just need to have this mod and the (future) compatible mods will add themselves to the options available (check the pictures for an example with the Canine Pussy mod).\nRight now only text boxes and scene buttons can be used to change mods, as I still haven't managed to include checkboxes and dropdown lists, but perhaps I'll manage one day.\n\nFor modders, check all the files in the following Canine Pussy mod to understand how to make one for your mod, I added comments to help you, and I will happily answer questions, it's both not hard and a bit finicky...\nWhat's important is using flags in your module.gd and you MUST have a [YourMod]/Scenes/ModsOptionsScenes folder with the scene inside for it to register. You don't have to name the scene as I did, but it will help with what shows in game.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ModsOptions.png]Click for Preview[/url]",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ModsOptions.zip"
+	},
+	{
+		"name": "Canine Pussy",
+		"author": "Raznaak",
+		"description": "This adds the CaninePussy in the vagina parts available. There's no actual visible parts, but the descriptions are different, and it naturally handles smaller volumes, but it should be easier to stretch and stay stretched after some efforts, and is wetter (no effect on gameplay for now).\n\nThis version have both normal and Hypertus-compatible parts, in addition to the new support for the BRA (Mods Options), meaning there is no need for more than one version of the mod if you want NPCs to have canine pussies, just change the percentage with the BRA, it even works with Hypertus for NPCs.\n\n[b]Delete all the old versions of the mod[/b], since now you can use the BRA to edit the percentage of Canine NPCs having canine pussies, by default it's 0% and it you don't use the BRA you can't easily change that proportion, but it's not necessary for this mod to work.\nTechnically you could change the flags manually, the important part is RealValue (CaninePercent is basically just to make it more readable for people), if you make RealValue \"1\" the percentage of Canine NPCs having a canine pussy is 50%, \"0.333\" is 25%, \"4\" is 75%, and a billion is ~100% (really), but just use the BRA...\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/caninepussy.png]Click for Preview[/url]",
+		"modversion": "2.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CaninePussy.zip"
 	}
 	]
 }
