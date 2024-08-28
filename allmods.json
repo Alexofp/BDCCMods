@@ -1105,14 +1105,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BrutalDreamsCorrectionalCenter.zip"
 	},
 	{
-		"name": "More BDSM stuff",
-		"description": "Adds more restraints and toys\n\nTechnically this is just a reskin of the clothes that exist. Everything is sold by Announcer. Suggestions and wishes are welcome.\nButt Plug\nPink vibrator\nLeather Blindfold\nLeather Bondage Mittens\nLeather Wrist Cuffs\nLeather Ankle Cuffs\nHarness\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreBDSMstuff.png]Click for preview[/url]",
-		"author": "DrDurka",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreBDSMstuff.zip"
-	},
-	{
 		"name": "Striped Clothes",
 		"description": "Adds striped clothing: \n - Stockings (only for digitigrade feet);\n - Long Gloves;\n - Panties.\nSold in the laundry in the vendomat.\n\nChangelog:\nMade aesthetic changes to the glove stripes: \nReduced gaps between stripes where needed (hard to see unless know where to look);\nRemoved extra stripes at hand joints.",
 		"author": "Phobos",
@@ -1183,6 +1175,14 @@
 		"modversion": "1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/LazyBulldogReplacer.zip"
+	},
+	{
+		"name": "More BDSM stuff",
+		"description": "Adds more restraints and toys\n\nTechnically this is just a reskin of the clothes that exist. Everything is sold by Announcer. Suggestions and wishes are welcome.\nButt Plug\nPink vibrator\nLeather Blindfold\nLeather Bondage Mittens\nLeather Wrist Cuffs\nLeather Ankle Cuffs\nHarness\nLatex Suit (ring slot!!) (new)\nLong Latex Mittens (new)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreBDSMstuff.png]Click for preview[/url]",
+		"author": "DrDurka",
+		"modversion": "0.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreBDSMstuff.zip"
 	}
 	]
 }
