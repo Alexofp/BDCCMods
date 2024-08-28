@@ -905,22 +905,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SkulldogSpeciesVer2.zip"
 	},
 	{
-		"name": "Equine Pussy (E)",
-		"author": "Raznaak",
-		"description": "This adds the Equine Pussy in the vagina parts available. There's no actual visible parts, but the descriptions are different, and it naturally handles bigger volumes and is easier to fit things in.\n\nThis version make equine NPC spawn with one",
-		"modversion": "1.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EquinePussyVer1.1-E.zip"
-	},
-	{
-		"name": "Equine Pussy",
-		"author": "Raznaak",
-		"description": "This adds the Equine Pussy in the vagina parts available. There's no actual visible parts, but the descriptions are different, and it naturally handles bigger volumes and is easier to fit things in.",
-		"modversion": "1.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EquinePussyVer1.1.zip"
-	},
-	{
 		"name": "Laquine Species (Breed Edition)",
 		"author": "Raznaak",
 		"description": "Rabbit-Horse hybrids.\nUpdated: has more mods compatblity (npc spawns with moddded bodyparts)\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/LaquineSpeciesPreview2.png]Click for Preview[/url]\n\n[b]Breed edition[/b]: Make all Laquine NPC spawn with anus womb.\n[b]DO NOT USE BOTH VERSION AT ONCE![/b] Please use one or the other!",
@@ -935,22 +919,6 @@
 		"modversion": "1.5",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Laquine_SpeciesVer1.5.zip"
-	},
-	{
-		"name": "Equine Pussy (E) - Hypertus Compatibility",
-		"author": "Raznaak | Conversion: CanInBad",
-		"description": "This mod is a addon for Hypertus mod and a POC for the new compatibility layers loading method, Add Hyperable Equine Pussy with a chance to spawn on equine natually..\nIf you do not want normal equine pussy in equine then do not use the E version of the normal mod.\n\n!!!DO NOT INSTALL BOTH VERSIONS, PICK ONE!!!",
-		"modversion": "R1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EquinePussyE-HyperableCompatR1.zip"
-	},
-	{
-		"name": "Equine Pussy - Hypertus Compatibility",
-		"author": "Raznaak | Conversion: CanInBad",
-		"description": "This mod is a addon for Hypertus mod and a POC for the new compatibility layers loading method, Add Hyperable Equine Pussy\nIf you do not want normal equine pussy in equine then do not use the E version of the normal mod.\n\n!!!DO NOT INSTALL BOTH VERSIONS, PICK ONE!!!",
-		"modversion": "R1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EquinePussy-HyperableCompatR1.zip"
 	},
 	{
 		"name": "Fenrir's Custom Console Commands (FensCCC)",
@@ -1199,6 +1167,22 @@
 		"modversion": "0.2",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ModsOptions.zip"
+	},
+	{
+		"name": "Equine Pussy",
+		"author": "Raznaak",
+		"description": "This adds the Equine Pussy in the vagina parts available. There's no actual visible parts, but the descriptions are different, and it naturally handles bigger volumes and is easier to fit things in.\nIf you find any bug of course notify me, and I'm listening to suggestions.\n\nThis version have both normal and Hypertus-compatible parts, in addition to the new support for the BRA (Mods Options), meaning there is no need for more than one version of the mod if you want NPCs to have equine pussies, just change the percentage with the BRA, it even works with Hypertus for NPCs.\n\n[b]Delete all the old versions of the mod[/b], since now you can use the BRA to edit the percentage of Equine NPCs having equine pussies, by default it's 0% and it you don't use the BRA you can't easily change that proportion, but it's not necessary for this mod to work.\nTechnically you could change the flags manually, the important part is RealValue (EquinePercent is basically just to make it more readable for people), if you make RealValue \"1\" the percentage of Equine NPCs having an equine pussy is 50%, \"0.333\" is 25%, \"4\" is 75%, and a billion is ~100%",
+		"modversion": "2.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EquinePussy.zip"
+	},
+	{
+		"name": "Bulldog Replacer",
+		"description": "Do you fucking hate the bulldog head like I do? Now its gone.\nDirectly edits the bulldog head .gd file to replace all instances of the bulldog head with the wolf head, meaning it works retroactively on any existing characters.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BulldogRemover.png]Click for preview[/url]",
+		"author": "AverageAce",
+		"modversion": "1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/LazyBulldogReplacer.zip"
 	}
 	]
 }
