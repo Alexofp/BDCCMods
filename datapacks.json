@@ -1593,6 +1593,27 @@
 			"requiredMods": [
 				"Clothes_Megapack.zip"
 			]
+		},
+		{
+			"id": "mikon_24",
+			"name": "Mikon the Breeder",
+			"author": "Pilot24",
+			"version": "1.0",
+			"description": "Add character and repeteable quest to train some skills",
+			"contains": "Contains: 1 character, 2 scenes, 1 quest",
+			"download": "datapacks/mikon_24.res",
+			"lastedit": 1724944152,
+			"filesize": 26724,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/mikon_24.png"
 		}
 	]
 }
