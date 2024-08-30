@@ -1614,6 +1614,27 @@
 
 			],
 			"preview": "datapack_previews/mikon_24.png"
+		},
+		{
+			"id": "aodragons",
+			"name": "AO by TF characters",
+			"author": "JokeMysterious",
+			"version": "1.0",
+			"description": "There is a racing team by the name of AO by TF. The current cars they have have names and dinosaur/dragon themes. So why don't I put them in BDCC?",
+			"contains": "Contains: 3 characters",
+			"download": "datapacks/aodragons.res",
+			"lastedit": 1725036687,
+			"filesize": 12884,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"LycanrocSpeciesVer0.9.zip"
+			],
+			"preview": "datapack_previews/aodragons.png"
 		}
 	]
 }
