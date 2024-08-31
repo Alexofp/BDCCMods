@@ -1575,26 +1575,6 @@
 			"preview": "datapack_previews/ruu.png"
 		},
 		{
-			"id": "natscharacters",
-			"name": "Nat's Character Pack",
-			"author": "NatRobloxian",
-			"version": "1.1",
-			"description": "a Datapack that includes some of my OCs or joke/meme encounters (2 ocs and 2 joke/meme characters are in this pack atm)",
-			"contains": "Contains: 5 characters",
-			"download": "datapacks/natscharacters.res",
-			"lastedit": 1724738533,
-			"filesize": 1134621,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-				"Clothes_Megapack.zip"
-			]
-		},
-		{
 			"id": "mikon_24",
 			"name": "Mikon the Breeder",
 			"author": "Pilot24",
@@ -1635,6 +1615,26 @@
 				"LycanrocSpeciesVer0.9.zip"
 			],
 			"preview": "datapack_previews/aodragons.png"
+		},
+		{
+			"id": "natscharacters",
+			"name": "Nat's Character Pack",
+			"author": "NatRobloxian",
+			"version": "1.2",
+			"description": "a Datapack that includes some of my OCs or joke/meme encounters (2 ocs and 3 joke/meme characters are in this pack atm)",
+			"contains": "Contains: 5 characters",
+			"download": "datapacks/natscharacters.res",
+			"lastedit": 1725085481,
+			"filesize": 1134615,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"Clothes_Megapack.zip"
+			]
 		}
 	]
 }
