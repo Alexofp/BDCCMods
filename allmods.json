@@ -1001,22 +1001,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HellhoundHyperable-R1.zip"
 	},
 	{
-		"name": "Hypertus Species Compatibility Layers",
-		"author": "CanInBad",
-		"modversion": "R1",
-		"gameversion": "*",
-		"description": "This mod requires Hypertus (if the name doesn't give it away)\nThis mod overwrite all species in the below list, now requires another mod if you want force breed edition\n - Ampwave Species\n - Avali Species\n - Aces Avairy Addon Species\n - Bovie Species\n - Deer Species\n - Espeon Species\n - Houndoom Species\n - Laquine Species\n - Lopunny Species\n - Lucario Species\n - Protogen Species\n - Rabbit Species\n - Racoon Species\n - Rat Species\n - Scalie Expansion Species\n - Seahorse Species\n - Sergal Species\n - Shark Species\n - Skullwolf Species\n - Squirrel Species\n - Sylveon Species\n - Synth Species\n\nPLEASE REMOVE THE OLD HYPERTUS SPECIES COMPATIBILITY LAYERS! this new version use things from newer version.",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusSpeciesCompat-R1.zip"
-	},
-	{
-		"name": "Hypertus",
-		"description": "\n[b]WARNING: This contains hyper stuff, if you dislike it then leave[/b]\n\nThis mods [b]adds[b] [i](not replace)[/i] new body parts that just are like the normal ones but you can upgrade them in a new skill tree that comes with this mod.\nSaid body parts are in form of breast, penises, vagina, and anus.\nThis mod also have capability layers that use the looks of your favorite body parts mod, including ones from species mod that add one of the 4 body part categories mentioned.\n\nYou can gain experience points of said skill tree by invest in vanilla perks and then sleep, each time you wake up you will be notified how much of them you get.\nYou can then spend those point to add ridiculous amount of perks to your body parts.\nPlease do note that some perks might be hidden due to not meeting the requirement for the perk.\n\nThere is a draft of the story but it isn't complete in anyway and some glimpse of it can be read in the perks' description.\n\nThere are compatibility layers that make all species including the modded one have hyperable version of them\n\nYou can transform your or your foe's parts to hyperable with Personal Bluespace Anomaly Emitter™️. You need to finish the Alex's portal quest to get one from his shop\n\nHas compatibility layer between these mods:\n  - Synth Bodyparts\n  - Fluffy Bodyparts\n  - Avali Species Bodyparts\n  - Ace's Aviary Addon Bodyparts\n  - Trans Scar Chest\n  - Crow Species Bodyparts\n  - Deer Species Bodyparts\n  - Knotted Horse Cock\n  - Barbed Equine Penis\n  - Spined Dragon Penis\n\nIf you have any feedback send it in #mods-discussion and ping me,\nor open an issue on [url]https://github.com/CanInBad/HypertusMod/issues[/url].\n\n# Changelog\n * Fixed crashing when selecting hyperable bodyparts inside datapack character creator\n * Made all penises to use floatinput in datapack creator\n * Now has \"configurable\" settings, end users need to install additional mod(s) to enable/configure them. This is due to limitation of options menu itself.\n * Upgrade to 0.1.4\n * Bump version to release 5\n## Backend stuff\n * Now supports species in the json. Please note that this is rushed and requires some tweaking. To learn more please see [url=https://github.com/CanInBad/HypertusMod/]how it works in repo[/url]",
-		"author": "CanInBad",
-		"modversion": "R5",
-		"gameversion": "0.1.4",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR5.zip"
-	},
-	{
 		"name": "More Uniforms",
 		"author": "AverageAce & Max-Maxou",
 		"description": "Adds a whole bunch of new Uniforms both to prisoners and vendomats\ncan't be damaged\nWhat was originally a patch became a full update\n\nList of new Uniforms, 3 per inmate type\n-Inmate Crop-Tops (Laundry Vendomat)\n-Upgraded Inmate Uniform (Laundry Vendomat)\n-Maternity Uniform (Medical Vendomat) (Patched)\n-Topless Uniform (General Vendomat)\n-Bottomless Uniform (General Vendomat) \n\n-Nipple Tape, Hopefully fixed this time (Laundry Vendomat)\n-Pussy Tape (Laundry Vendomat)\n-Cowprint Bra (Medical Vendomat) (NEW)\n-Chest wrappings (Medical Vendomat) (NEW)\n\nNew Harnesses, Sold by Announcer\n-Chest Harness\n-6-Point Harness\n-8-Point Harness\n-Full Harness\n-Maternity Harness\n-Max Harness\n-Restrictive Harness\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreUniformsPreview.png]Click for Preview[/url]",
@@ -1183,6 +1167,22 @@
 		"modversion": "0.2.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NanoRevolutionModv0.2.0.zip"
+	},
+	{
+		"name": "Hypertus Species Compatibility Layers",
+		"description": "Hypertus is required for this mod to function.\nThis mod will replace species based on installed mods.\nThis mod replaces the following species:\n\n# Vanilla  \n - Canine\n - Demon\n - Dragon\n - Equine\n - Feline\n - Human\n\n# Modded  \n - Ampwave\n - Avali\n - Avian\n - Bird\n - Bovine\n - Crow\n - Deer\n - Eastern Dragon\n - Espeon\n - Gryphon\n - Hippogriff\n - Houndoom\n - Kobold\n - Laquine\n - Leafeon\n - Lopunny\n - Lucario\n - Nightstalkers\n - Protogen\n - Rabbit\n - Racoon\n - Rat\n - Seahorse\n - Sergal\n - Shark\n - Skullwolf\n - Snake\n - Sylveon\n - Synth\n - Treenuts\n - Wickerbeast",
+		"author": "CanInBad",
+		"modversion": "R2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusSpeciesCompatibilityLayersR2.zip"
+	},
+	{
+		"name": "Hypertus",
+		"description": "\n[b]WARNING: This contains hyper stuff, if you dislike it then leave[/b]\n\nThis mods [b]adds[b] [i](not replace)[/i] new body parts that just are like the normal ones but you can upgrade them in a new skill tree that comes with this mod.\nSaid body parts are in form of breast, penises, vagina, and anus.\nThis mod also have capability layers that use the looks of your favorite body parts mod, including ones from species mod that add one of the 4 body part categories mentioned.\n\nYou can gain experience points of said skill tree by invest in vanilla perks and then sleep, each time you wake up you will be notified how much of them you get.\nYou can then spend those point to add ridiculous amount of perks to your body parts.\nPlease do note that some perks might be hidden due to not meeting the requirement for the perk.\n\nThere is a draft of the story but it isn't complete in anyway and some glimpse of it can be read in the perks' description.\n\nThere are compatibility layers that make all species including the modded one have hyperable version of them\n\nYou can transform your or your foe's parts to hyperable with Personal Bluespace Anomaly Emitter™️. You need to finish the Alex's portal quest to get one from his shop\n\nHas compatibility layer between these mods:\n  - Synth Bodyparts\n  - Fluffy Bodyparts\n  - Avali Species Bodyparts\n  - Ace's Aviary Addon Bodyparts\n  - Trans Scar Chest\n  - Crow Species Bodyparts\n  - Deer Species Bodyparts\n  - Knotted Horse Cock\n  - Barbed Equine Penis\n  - Spined Dragon Penis\n\nIf you have any feedback send it in #mods-discussion and ping me,\nor open an issue on [url]https://github.com/CanInBad/HypertusMod/issues[/url].\n\n# Changelog\n * Fixed penis tooltip when having a perk to see them\n * Minor adjustment to balancing skill tree\n * Supports toggling off breed edition inside the game with Raznaak's mod configuration mod\n## Backend\n * compatibility species key now support array, now you don't have to manually put in the id of the species",
+		"author": "CanInBad",
+		"modversion": "R5-1",
+		"gameversion": "0.1.5",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR5-1.zip"
 	}
 	]
 }
