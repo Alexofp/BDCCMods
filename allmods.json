@@ -1089,14 +1089,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BrutalDreamsCorrectionalCenter.zip"
 	},
 	{
-		"name": "Striped Clothes",
-		"description": "Adds striped clothing: \n - Stockings (only for digitigrade feet);\n - Long Gloves;\n - Panties.\nSold in the laundry in the vendomat.\n\nChangelog:\nMade aesthetic changes to the glove stripes: \nReduced gaps between stripes where needed (hard to see unless know where to look);\nRemoved extra stripes at hand joints.",
-		"author": "Phobos",
-		"modversion": "2.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Striped_Clothes.zip"
-	},
-	{
 		"name": "Goo Bondage",
 		"description": "Adds new restraints with custom effects. If you like weird and goopy bondage things, you might like this. These are added to the pool of NPC restraints and The Announcer's shop.\n\nMouth:\n- Goo Mask\nTorso:\n- Goo Boobs\n- Gooey Corset\nPenis:\n- Null Bulge (P)\nVagina:\n- Null Bulge (V)\nAnus:\n- Sentinel Plug\n\nVersion 2.0 adds the following:\n- Gooey Vest, a variant of the Gooey Corset that combines it with Goo Boobs\n- Gooey Lingerie, a Gooey Vest that includes crotchless panties\n- Latex Cups, a non-restraint version of Goo Boobs that's worn as a bra\n- Latex Funwear, a non-restraint version of Gooey Lingerie that's worn as outerwear\n- Crotchless Panties\n\nGoo Boobs and Goo Mask are designed to alter one of the character's body parts on equip and restore it when unequipped, but the on-equip code is only called if you manually \"Put On\" in the inventory or have it forced on you in sex. Debug commands (i.e. \"Force Smart Lock\") and the checkpoint guard won't call it. These items will be missing some effects/visuals in those cases, so I've excluded them from the checkpoint guard's available restraints. Could probably fix with an override, but I'm avoiding overrides with this mod.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GooBondage.png]Click for preview[/url]",
 		"author": "Jaycred",
@@ -1153,14 +1145,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/LazyBulldogReplacer.zip"
 	},
 	{
-		"name": "More BDSM stuff",
-		"description": "Adds more restraints and toys\n\nTechnically this is just a reskin of the clothes that exist. Everything is sold by Announcer. Suggestions and wishes are welcome.\nButt Plug\nPink vibrator\nLeather Blindfold\nLeather Bondage Mittens\nLeather Wrist Cuffs\nLeather Ankle Cuffs\nHarness\nLatex Suit (ring slot!!) (new)\nLong Latex Mittens (new)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreBDSMstuff.png]Click for preview[/url]",
-		"author": "DrDurka",
-		"modversion": "0.2",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreBDSMstuff.zip"
-	},
-	{
 		"name": "Nano Revolution",
 		"description": "CONTENT WARNING: This mod has some force transformation content. This will warn you when it is about to happen.\nSo this mod is inspired by one of the in-game scenes, where you check the unfinished nano android program, and Sentinel-X, the prototype trying to transform you into the nano android. Unfortunately, this program was stopped by Captain, and Sentinel-X lost its power before full transformation.\nNow, let's imagine what if Alex persuaded Captain to continue that program. Introducing Nano Revolution Mod, this mod realizes the nano android program.\n\nCurrent Features:\n-A new semi-playable specie, nano android. Usually, these androids are perfect guards, following every command and easy to manage. \n(You cannot choose this race in the start of the game, but maybe something terrible (or exciting for some people) could happen when entering a certain room in the engineering bay.)\n-A new dynamic npc type, the nano android. Will frisk you and force tougher punishment if you keep refusing their request. Be careful\n-A semi completed new skill tree that is closely related to confronting these nano guards.\n\nFuture plan (rank by priority):\nFully developed nano engineering skill tree. You can make something really powerful with this skill.\nMore nano android type. nano engineers, nurses, and even android sextoys, enrich the BDCC life.\nMature nano species side path. A new skill tree that is closely related to how to use your new body.\nSince Alex is in charge of this program, more story line and interaction with Alex when you accidentally turn into nano android.\n\nHave fun with these nano androids~ If you have any suggestions, bug reports, typo reports, and even story suggestions, feel free to send me these messages. They will be very helpful for my future development. XD\n\nv0.2.0 Update:\n-Added a GitHub page for this mod to submit issues. (DMing me is still a valid way to report bugs or share suggestions ~v~) : [url=https://github.com/Humoiww/BDCC_NanoRevolution_MOD]Github link[/url]\n-Added a new character to handle nano-android customization. This character will replace the first nano-android encounter and provide an options panel to adjust your preferences, including android gender, species outfit, body part size, and encounter frequency.\n-Nano Cores are now illegal items, so if you get any, make sure to hide them in your stash before the next guard encounter. \n-In the nano transformation scene, your transformation will follow the current nano-android spawning rules, meaning you might randomly change into a different gender and body part sizes during this process.\n-Fixed the nano transformation scene when the PC is wearing permanent chastity cage (or anything labeled as important). Now the assembly line should properly handle this condition. (Yeah, you can’t get rid of it~)\n-Fixed a large number of typos across different scenes. (Mostly nano transformation scene)\n-Fixed a condition when it is possible to craft an item with 0 nano core. Now you need at least 1 core to make something. \n-The next update plan is hidden in an unfinished scene within the new character interaction. owo\n\n-Once again, thanks to everyone for your support and suggestions. I’ll do my best to fulfill all reasonable requests. ^V^\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NanoRevolutionPoster.png]Click for preview[/url]",
 		"author": "Humoiww",
@@ -1183,6 +1167,22 @@
 		"modversion": "R5-1",
 		"gameversion": "0.1.5",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR5-1.zip"
+	},
+	{
+		"name": "Striped Clothes",
+		"description": "Add striped clothing:\n- Stockings (2 options) (only for digitigrade feet);\n- Long Gloves (2 options);\n- Panties.\nSold in the laundry in the vendomat.\n\nChangelog:\n- Added stockings without socks, gloves without fingers;\n- Stockings became narrower (I redrew them).\n\n[b][color=red]**Warning!**[/color][/b]\nOld clothes will be deleted, you can save them and change the values in the save file using Notepad++:\n1. Call the search (Ctrl+F);\n2. Select the `Replace` tab;\n3. Enter in the first line `\"id\": \"Phobos_Striped_Stockings\"` or `\"id\": \"Phobos_Striped_Long_Gloves\"` , in the bottom `\"id\": \"Phobos_Striped_Stockings_1\"`  or `\"id\": \"Phobos_Striped_Gloves_1\"` ;\n4. Click the `Replace All` button;\n5. Repeat with other items, if any.",
+		"author": "Phobos",
+		"modversion": "2.5",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Striped_Clothes.zip"
+	},
+	{
+		"name": "More BDSM stuff",
+		"description": "Adds more restraints and toys\n\nIcons and bug fix. Everything is sold by Announcer.\n\nButt Plug\nPink vibrator\nLeather Blindfold\nLeather Bondage Mittens\nLeather Wrist Cuffs\nLeather Ankle Cuffs\nHarness\nLatex Suit (ring slot!!)\nLong Latex Mittens\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreBDSMstuff.png]Click for preview[/url]",
+		"author": "DrDurka",
+		"modversion": "0.21",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreBDSMstuff.zip"
 	}
 	]
 }
