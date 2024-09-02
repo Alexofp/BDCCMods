@@ -1089,14 +1089,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BrutalDreamsCorrectionalCenter.zip"
 	},
 	{
-		"name": "Goo Bondage",
-		"description": "Adds new restraints with custom effects. If you like weird and goopy bondage things, you might like this. These are added to the pool of NPC restraints and The Announcer's shop.\n\nMouth:\n- Goo Mask\nTorso:\n- Goo Boobs\n- Gooey Corset\nPenis:\n- Null Bulge (P)\nVagina:\n- Null Bulge (V)\nAnus:\n- Sentinel Plug\n\nVersion 2.0 adds the following:\n- Gooey Vest, a variant of the Gooey Corset that combines it with Goo Boobs\n- Gooey Lingerie, a Gooey Vest that includes crotchless panties\n- Latex Cups, a non-restraint version of Goo Boobs that's worn as a bra\n- Latex Funwear, a non-restraint version of Gooey Lingerie that's worn as outerwear\n- Crotchless Panties\n\nGoo Boobs and Goo Mask are designed to alter one of the character's body parts on equip and restore it when unequipped, but the on-equip code is only called if you manually \"Put On\" in the inventory or have it forced on you in sex. Debug commands (i.e. \"Force Smart Lock\") and the checkpoint guard won't call it. These items will be missing some effects/visuals in those cases, so I've excluded them from the checkpoint guard's available restraints. Could probably fix with an override, but I'm avoiding overrides with this mod.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GooBondage.png]Click for preview[/url]",
-		"author": "Jaycred",
-		"modversion": "2.0",
-		"gameversion": "0.1.5",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GooBondage.zip"
-	},
-	{
 		"name": "Sheathed Human Penis",
 		"description": "human penis with a sheath on.\nit doesnt spawn naturally on NPCs, but comes with a few skins\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SheathHumanPenis.png]Click for preview[/url]",
 		"author": "AverageAce",
@@ -1183,6 +1175,22 @@
 		"modversion": "0.21",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreBDSMstuff.zip"
+	},
+	{
+		"name": "Goo Bondage",
+		"description": "Adds new restraints with custom effects. If you like weird and goopy bondage things, you might like this. These are added to the pool of NPC restraints and The Announcer's shop.\n\nMouth:\n- Goo Mask\nTorso:\n- Goo Boobs\n- Gooey Corset\nPenis:\n- Null Bulge (P)\nVagina:\n- Null Bulge (V)\nAnus:\n- Sentinel Plug\n\nVersion 2.0 adds the following:\n- Gooey Vest, a variant of the Gooey Corset that combines it with Goo Boobs\n- Gooey Lingerie, a Gooey Vest that includes crotchless panties\n- Latex Cups, a non-restraint version of Goo Boobs that's worn as a bra\n- Latex Funwear, a non-restraint version of Gooey Lingerie that's worn as outerwear\n- Crotchless Panties\n\nGoo Boobs and Goo Mask are designed to alter one of the character's body parts on equip and restore it when unequipped, but the on-equip code is only called if you manually \"Put On\" in the inventory or have it forced on you in sex. Debug commands (i.e. \"Force Smart Lock\") and the checkpoint guard won't call it. These items will be missing some effects/visuals in those cases, so I've excluded them from the checkpoint guard's available restraints. Could probably fix with an override, but I'm avoiding overrides with this mod.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GooBondage.png]Click for preview[/url]",
+		"author": "Jaycred",
+		"modversion": "2.0.1",
+		"gameversion": "0.1.5",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GooBondage.zip"
+	},
+	{
+		"name": "Body Writing (Skin)",
+		"description": "Added as a workaround to not seeing tally marks and body writings. (Works best on humans).\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BodyWriting.png]Click for preview[/url]",
+		"author": "Bursa",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BodyWriting.zip"
 	}
 	]
 }
