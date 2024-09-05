@@ -1635,6 +1635,30 @@
 			"requiredMods": [
 				"Clothes_Megapack.zip"
 			]
+		},
+		{
+			"id": "lightdragon",
+			"name": "Light Dragon NPC",
+			"author": "JokeMysterious",
+			"version": "1.0",
+			"description": "Adds an anthro version of the Light Dragon/Zelda from the Legend of Zelda: Tears of the Kingdom by Nintendo",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/lightdragon.res",
+			"lastedit": 1725517238,
+			"filesize": 110316,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"DragonsPlusVer0.9.zip",
+				"MoreBDSMstuff.zip",
+				"MoreUniformsVer5.zip",
+				"AcesAvairyAddonVer0.99.zip"
+			],
+			"preview": "datapack_previews/lightdragon.png"
 		}
 	]
 }
