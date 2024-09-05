@@ -1175,6 +1175,14 @@
 		"modversion": "R5-2",
 		"gameversion": "0.1.5",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR5-2.zip"
+	},
+	{
+		"name": "MedicalDBOverwrite",
+		"author": "CanInBad",
+		"description": "A mod that overwrite the vanilla nursery database with paged view for your children, there is another separated unrelated to another view.\nThis will likely break in the future if the nursery database is reworked\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MedicalDBOverwritePreview.png]Click for preview[/url]",
+		"modversion": "R1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MedicalDBOverwrite.zip"
 	}
 	]
 }
