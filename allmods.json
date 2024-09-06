@@ -1129,14 +1129,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NanoRevolutionModv0.2.0.zip"
 	},
 	{
-		"name": "Hypertus Species Compatibility Layers",
-		"description": "Hypertus is required for this mod to function.\nThis mod will replace species based on installed mods.\nThis mod replaces the following species:\n\n# Vanilla  \n - Canine\n - Demon\n - Dragon\n - Equine\n - Feline\n - Human\n\n# Modded  \n - Ampwave\n - Avali\n - Avian\n - Bird\n - Bovine\n - Crow\n - Deer\n - Eastern Dragon\n - Espeon\n - Gryphon\n - Hippogriff\n - Houndoom\n - Kobold\n - Laquine\n - Leafeon\n - Lopunny\n - Lucario\n - Nightstalkers\n - Protogen\n - Rabbit\n - Racoon\n - Rat\n - Seahorse\n - Sergal\n - Shark\n - Skullwolf\n - Snake\n - Sylveon\n - Synth\n - Treenuts\n - Wickerbeast",
-		"author": "CanInBad",
-		"modversion": "R2",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusSpeciesCompatibilityLayersR2.zip"
-	},
-	{
 		"name": "Striped Clothes",
 		"description": "Add striped clothing:\n- Stockings (2 options) (only for digitigrade feet);\n- Long Gloves (2 options);\n- Panties.\nSold in the laundry in the vendomat.\n\nChangelog:\n- Added stockings without socks, gloves without fingers;\n- Stockings became narrower (I redrew them).\n\n[b][color=red]**Warning!**[/color][/b]\nOld clothes will be deleted, you can save them and change the values in the save file using Notepad++:\n1. Call the search (Ctrl+F);\n2. Select the `Replace` tab;\n3. Enter in the first line `\"id\": \"Phobos_Striped_Stockings\"` or `\"id\": \"Phobos_Striped_Long_Gloves\"` , in the bottom `\"id\": \"Phobos_Striped_Stockings_1\"`  or `\"id\": \"Phobos_Striped_Gloves_1\"` ;\n4. Click the `Replace All` button;\n5. Repeat with other items, if any.",
 		"author": "Phobos",
@@ -1169,20 +1161,28 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BodyWriting.zip"
 	},
 	{
-		"name": "Hypertus",
-		"description": "[b]WARNING: This contains hyper stuff, if you dislike it then leave[/b]\n\nThis mods [b]adds[b] [i](not replace)[/i] new body parts that just are like the normal ones but you can upgrade them in a new skill tree that comes with this mod.\nSaid body parts are in form of breast, penises, vagina, and anus.\nThis mod also have capability layers that use the looks of your favorite body parts mod, including ones from species mod that add one of the 4 body part categories mentioned.\n\nYou can gain experience points of said skill tree by invest in vanilla perks and then sleep, each time you wake up you will be notified how much of them you get.\nYou can then spend those point to add ridiculous amount of perks to your body parts.\nPlease do note that some perks might be hidden due to not meeting the requirement for the perk.\n\nThere is a draft of the story but it isn't complete in anyway and some glimpse of it can be read in the perks' description.\n\nThere are compatibility layers that make all species including the modded one have hyperable version of them\n\nYou can transform your or your foe's parts to hyperable with Personal Bluespace Anomaly Emitter™️. You need to finish the Alex's portal quest to get one from his shop\n\nHas compatibility layer between these mods:\n - Synth Bodyparts\n - Fluffy Bodyparts\n - Avali Species Bodyparts\n - Ace's Aviary Addon Bodyparts\n - Trans Scar Chest\n - Crow Species Bodyparts\n - Deer Species Bodyparts\n - Knotted Horse Cock\n - Barbed Equine Penis\n - Spined Dragon Penis\n\nIf you have any feedback send it in #mods-discussion and ping me,\nor open an issue on [url]https://github.com/CanInBad/HypertusMod/issues[/url].\n\n# Changelog\n * attempt to fix datapack character not being able to create (just create mods yo)\n * removed legacy perks thats about increasing the PP size\n * fixed a typo with breast perk and making it unavailable\n * changed how XP is gained, now will always reliably grant XP reguardless of where you slept. One side effect is it will give it the moment a new day start even in middle of the scenes.\n * changed the experience required to gain a level of skill tree, it starts at being exponential then sqrt root and finally linearly. For more info please see this graph [url]https://www.desmos.com/calculator/ux5ausxblm[/url]\n * Fuck Toy I lube effect now has time scaled base on sexiness\n * Fuck Toy III will now make the effect of Fuck Toy I's lube last outside of SexEngine\n * minor perk description changes to make text rendering \"\"faster\"\"\n\n## Backend stuff\n * Added new trigger \"HypertusNewDay\", the Hyper prefix is here because I don't want to mess with others triggers that I didn't know about, It triggers when new day happen.\n * This is not a change but since the perks that responsible for resizing your pp very old version does not exist anymore, if you still have them please open an issue on github and send the save to me.",
-		"author": "CanInBad",
-		"modversion": "R5-2",
-		"gameversion": "0.1.5",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR5-2.zip"
-	},
-	{
 		"name": "MedicalDBOverwrite",
 		"author": "CanInBad",
 		"description": "A mod that overwrite the vanilla nursery database with paged view for your children, there is another separated unrelated to another view.\nThis will likely break in the future if the nursery database is reworked\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MedicalDBOverwritePreview.png]Click for preview[/url]",
 		"modversion": "R1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MedicalDBOverwrite.zip"
+	},
+	{
+		"name": "Hypertus Species Compatibility Layers",
+		"description": "Hypertus is required for this mod to function.\nThis mod will replace species based on installed mods.\nThis mod replaces the following species:\n\n# Vanilla  \n - Canine\n - Demon\n - Dragon\n - Equine\n - Feline\n - Human\n\n# Modded  \n - Ampwave\n - Avali\n - Avian\n - Bird\n - Bovine\n - Crow\n - Deer\n - Eastern Dragon\n - Espeon\n - Gryphon\n - Hippogriff\n - Houndoom\n - Kobold\n - Laquine\n - Leafeon\n - Lopunny\n - Lucario\n - Nightstalkers\n - Protogen\n - Rabbit\n - Racoon\n - Rat\n - Seahorse\n - Sergal\n - Shark\n - Skullwolf\n - Snake\n - Sylveon\n - Synth\n - Treenuts\n - Wickerbeast\n\n# Changelog\n * actually have crow species added in this time.",
+		"author": "CanInBad",
+		"modversion": "R3",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusSpeciesCompatibilityLayersR3.zip"
+	},
+	{
+		"name": "Hypertus",
+		"description": "[b]WARNING: This contains hyper stuff, if you dislike it then leave[/b]\n\nThis mods [b]adds[b] [i](not replace)[/i] new body parts that just are like the normal ones but you can upgrade them in a new skill tree that comes with this mod.\nSaid body parts are in form of breast, penises, vagina, and anus.\nThis mod also have capability layers that use the looks of your favorite body parts mod, including ones from species mod that add one of the 4 body part categories mentioned.\n\nYou can gain experience points of said skill tree by invest in vanilla perks and then sleep, each time you wake up you will be notified how much of them you get.\nYou can then spend those point to add ridiculous amount of perks to your body parts.\nPlease do note that some perks might be hidden due to not meeting the requirement for the perk.\n\nThere is a draft of the story but it isn't complete in anyway and some glimpse of it can be read in the perks' description.\n\nThere are compatibility layers that make all species including the modded one have hyperable version of them\n\nYou can transform your or your foe's parts to hyperable with Personal Bluespace Anomaly Emitter™️. You need to finish the Alex's portal quest to get one from his shop\n\nHas compatibility layer between these mods:\n - Synth Bodyparts\n - Fluffy Bodyparts\n - Avali Species Bodyparts\n - Ace's Aviary Addon Bodyparts\n - Trans Scar Chest\n - Crow Species Bodyparts\n - Deer Species Bodyparts\n - Knotted Horse Cock\n - Barbed Equine Penis\n - Spined Dragon Penis\n\nIf you have any feedback send it in #mods-discussion and ping me,\nor open an issue on [url]https://github.com/CanInBad/HypertusMod/issues[/url].\n\n# Changelog\n * fixed debug print\n * fixed trigger HypertusNewDay doesn't trigger if user doesn't have the skill tree in the first place\n * added warning about big bug in toggling breed edition in game",
+		"author": "CanInBad",
+		"modversion": "R5-3",
+		"gameversion": "0.1.5",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR5-3.zip"
 	}
 	]
 }
