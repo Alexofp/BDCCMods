@@ -1169,6 +1169,14 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MedicalDBOverwrite.zip"
 	},
 	{
+		"name": "RaceAndHeat",
+		"author": "Humoiww, Raznaak, Nathan_Ray",
+		"description": "Originally I wanted to adapt the mod by the author @Humoiww to my own preferences, but thanks to a few suggestions from users who I will mention by name later and the control work of @Raznaak, I would like to pass the idea on to others.\nThe mod aims, as by the author Humoiww, to give the individual races specific bonuses or debuffs with the addition of an additional buff for the heat state. Thanks to @Raznaak he was able to make the mod a little better so that it fits better with the base game\n\nI really don't want any credit for the little work I did, if there are any ideas for further buffs for races and heats, I'm happy to add them\n\nIf I did anything wrong here regarding posting, please tell me and adjust it",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RaceAndHeat.zip"
+	},
+	{
 		"name": "Hypertus Species Compatibility Layers",
 		"description": "Hypertus is required for this mod to function.\nThis mod will replace species based on installed mods.\nThis mod replaces the following species:\n\n# Vanilla  \n - Canine\n - Demon\n - Dragon\n - Equine\n - Feline\n - Human\n\n# Modded  \n - Ampwave\n - Avali\n - Avian\n - Bird\n - Bovine\n - Crow\n - Deer\n - Eastern Dragon\n - Espeon\n - Gryphon\n - Hippogriff\n - Houndoom\n - Kobold\n - Laquine\n - Leafeon\n - Lopunny\n - Lucario\n - Nightstalkers\n - Protogen\n - Rabbit\n - Racoon\n - Rat\n - Seahorse\n - Sergal\n - Shark\n - Skullwolf\n - Snake\n - Sylveon\n - Synth\n - Treenuts\n - Wickerbeast\n\n# Changelog\n * actually have crow species added in this time.",
 		"author": "CanInBad",
