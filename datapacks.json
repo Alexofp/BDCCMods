@@ -1659,6 +1659,32 @@
 				"AcesAvairyAddonVer0.99.zip"
 			],
 			"preview": "datapack_previews/lightdragon.png"
+		},
+		{
+			"id": "hypnotest",
+			"name": "Hypnosis Testing",
+			"author": "JokeMysterious",
+			"version": "Alpha v1",
+			"description": "An engineer is interested in the use of hypnosis visors and bdsm tech. Have fun!\n\nDevLog:\nAlpha v1 - Finished the induction storyline\n",
+			"contains": "Contains: 2 characters, 6 scenes",
+			"download": "datapacks/ht.res",
+			"lastedit": 1725688756,
+			"filesize": 179442,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"MoreBDSMstuff.zip",
+				"AcesProtogenMod-Ver1.1-BreedEdition.zip",
+				"MoreUniformsVer3.1.zip",
+				"AcesSharkSpeciesVer1.11.zip",
+				"DickSkinsBatch2.zip",
+				"GooBondage.zip",
+				"LopunnySpeciesVer1.zip"
+			]
 		}
 	]
 }
