@@ -1664,17 +1664,17 @@
 			"id": "hypnotest",
 			"name": "Hypnosis Testing",
 			"author": "JokeMysterious",
-			"version": "Alpha v1",
-			"description": "An engineer is interested in the use of hypnosis visors and bdsm tech. Have fun!\n\nDevLog:\nAlpha v1 - Finished the induction storyline\n",
-			"contains": "Contains: 2 characters, 6 scenes",
+			"version": "Alpha v2",
+			"description": "An engineer is interested in the use of hypnosis visors and bdsm tech. Have fun!\n\nDevLog:\nAlpha v1 - Finished the induction storyline\n\nAlpha v2 - Added some extra text (as not to seem nothing much was added in terms of dialogue), Fix the bug of the workshop start (thanks to @Moo Cow on the discord for bringing this to my attention)\n",
+			"contains": "Contains: 2 characters, 6 scenes, 1 quest",
 			"download": "datapacks/ht.res",
-			"lastedit": 1725688756,
-			"filesize": 179442,
+			"lastedit": 1725716726,
+			"filesize": 188910,
 			"requiredDatapacks": [
-
+				"lightdragon"
 			],
 			"reqDatapackToName": {
-
+				"lightdragon": "Light Dragon NPC"
 			},
 			"requiredMods": [
 				"MoreBDSMstuff.zip",
