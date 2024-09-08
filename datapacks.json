@@ -1661,32 +1661,6 @@
 			"preview": "datapack_previews/lightdragon.png"
 		},
 		{
-			"id": "hypnotest",
-			"name": "Hypnosis Testing",
-			"author": "JokeMysterious",
-			"version": "Alpha v2",
-			"description": "An engineer is interested in the use of hypnosis visors and bdsm tech. Have fun!\n\nDevLog:\nAlpha v1 - Finished the induction storyline\n\nAlpha v2 - Added some extra text (as not to seem nothing much was added in terms of dialogue), Fix the bug of the workshop start (thanks to @Moo Cow on the discord for bringing this to my attention)\n",
-			"contains": "Contains: 2 characters, 6 scenes, 1 quest",
-			"download": "datapacks/ht.res",
-			"lastedit": 1725716726,
-			"filesize": 188910,
-			"requiredDatapacks": [
-				"lightdragon"
-			],
-			"reqDatapackToName": {
-				"lightdragon": "Light Dragon NPC"
-			},
-			"requiredMods": [
-				"MoreBDSMstuff.zip",
-				"AcesProtogenMod-Ver1.1-BreedEdition.zip",
-				"MoreUniformsVer3.1.zip",
-				"AcesSharkSpeciesVer1.11.zip",
-				"DickSkinsBatch2.zip",
-				"GooBondage.zip",
-				"LopunnySpeciesVer1.zip"
-			]
-		},
-		{
 			"id": "shilohfemboy",
 			"name": "Shiloh The Femboy",
 			"author": "Maeve MoonBeam",
@@ -1706,6 +1680,57 @@
 
 			],
 			"preview": "datapack_previews/shilohfemboy.png"
+		},
+		{
+			"id": "hypnotest",
+			"name": "Hypnosis Testing",
+			"author": "JokeMysterious",
+			"version": "Alpha v3",
+			"description": "An engineer is interested in the use of hypnosis visors and bdsm tech. Have fun!\n\nDevLog:\nAlpha v1 - Finished the induction storyline\n\nAlpha v2 - Added some extra text (as not to seem nothing much was added in terms of dialogue), Fix the bug of the workshop start (thanks to @Moo Cow on the discord for bringing this to my attention)\n\nAlpha v3 - Heavy debug, should work flawlessly now | Experiments! Only one for now but more are coming!",
+			"contains": "Contains: 2 characters, 7 scenes, 1 quest",
+			"download": "datapacks/ht.res",
+			"lastedit": 1725827276,
+			"filesize": 189156,
+			"requiredDatapacks": [
+				"lightdragon",
+				"aodragons",
+				"htextrachr"
+			],
+			"reqDatapackToName": {
+				"lightdragon": "Light Dragon NPC",
+				"aodragons": "AO by TF characters",
+				"htextrachr": "Hypnosis Testing Extra Characters 1"
+			},
+			"requiredMods": [
+				"MoreBDSMstuff.zip",
+				"AcesProtogenMod-Ver1.1-BreedEdition.zip",
+				"AcesSharkSpeciesVer1.11.zip",
+				"DickSkinsBatch2.zip",
+				"GooBondage.zip",
+				"LopunnySpeciesVer1.zip",
+				"MoreUniformsVer5.zip",
+				"AcesAvairyAddonVer0.99.zip"
+			]
+		},
+		{
+			"id": "htextrachr",
+			"name": "Hypnosis Testing Extra Characters 1",
+			"author": "JokeMysterious",
+			"version": "1.0",
+			"description": "Extra characters for the datapack Hypnosis Testing\n\nUSE THE SAME MODS FROM HYPNOSIS TESTING! THIS IS REQUIRED FOR THAT AS WELL!",
+			"contains": "Contains: 2 characters",
+			"download": "datapacks/htextrachr1.res",
+			"lastedit": 1725827278,
+			"filesize": 8237,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			]
 		}
 	]
 }
