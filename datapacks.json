@@ -1685,6 +1685,27 @@
 				"GooBondage.zip",
 				"LopunnySpeciesVer1.zip"
 			]
+		},
+		{
+			"id": "shilohfemboy",
+			"name": "Shiloh The Femboy",
+			"author": "Maeve MoonBeam",
+			"version": "1.0",
+			"description": "A cute Femboy who loves to breed.",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/shilohfemboy.res",
+			"lastedit": 1725785881,
+			"filesize": 9442,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/shilohfemboy.png"
 		}
 	]
 }
