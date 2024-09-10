@@ -1773,6 +1773,48 @@
 
 			],
 			"preview": "datapack_previews/maevesbabes2.png"
+		},
+		{
+			"id": "kiriko",
+			"name": "Kiriko",
+			"author": "Makarov",
+			"version": "1.0",
+			"description": "No description provided",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/kiriko.res",
+			"lastedit": 1726001354,
+			"filesize": 5806,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/kiriko.png"
+		},
+		{
+			"id": "Leo",
+			"name": "Leo",
+			"author": "Makarov",
+			"version": "1.0",
+			"description": "No description provided",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/Leo.res",
+			"lastedit": 1726001357,
+			"filesize": 6400,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/Leo.png"
 		}
 	]
 }
