@@ -1191,6 +1191,14 @@
 		"modversion": "v0.4alpha1.3",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/TheFlameheartsV0.4.Alpha1.3.zip"
+	},
+	{
+		"name": "Breedable Alex",
+		"description": "This is a patch for the 1.5 update of the game because of a few changes to the game that are also somehow my fault. If you have any old version of this mod, delete it and replace it with this. I see all you people who don't delete old mods.\nNo Character Flair patch because that other mod is base game now.\nAnyway, does what it says in the title.\nGetting dommed by a pregnant fox twink is heaven for somebody\nNo Scene Changes",
+		"author": "AverageAce",
+		"modversion": "2.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BreedableAlexV2.zip"
 	}
 	]
 }
