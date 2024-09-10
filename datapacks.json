@@ -1731,6 +1731,48 @@
 			"requiredMods": [
 
 			]
+		},
+		{
+			"id": "maevesbabesophelia",
+			"name": "Ophelia",
+			"author": "Maeve MoonBeam",
+			"version": "1.0",
+			"description": "A cutie of a batty babe. Really Nice, and loves to breed.",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/maevesbabesophelia.res",
+			"lastedit": 1725965037,
+			"filesize": 10643,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/maevesbabesophelia.png"
+		},
+		{
+			"id": "maevesbabes2",
+			"name": "Maeve's Babes!",
+			"author": "Maeve MoonBeam",
+			"version": "1.0",
+			"description": "Hope you enjoy!",
+			"contains": "Contains: 4 characters",
+			"download": "datapacks/maevesbabes2.res",
+			"lastedit": 1725965150,
+			"filesize": 23400,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/maevesbabes2.png"
 		}
 	]
 }
