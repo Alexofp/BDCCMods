@@ -1393,32 +1393,6 @@
 			]
 		},
 		{
-			"id": "magduscompanions",
-			"name": "Magdu's Companions",
-			"author": "Magdu",
-			"version": "1.1",
-			"description": "Magdu's Companions and cherished ones.",
-			"contains": "Contains: 3 characters",
-			"download": "datapacks/magduscompanions.res",
-			"lastedit": 1723619621,
-			"filesize": 23531,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-				"LycanrocSpeciesVer0.9.zip",
-				"MaleLactation.zip",
-				"SpinedDragonPenisVer1.zip",
-				"HypertusR5.zip",
-				"SylveonSpeciesVer1.zip",
-				"Clothes_Megapack.zip",
-				"MoreUniformsVer5.zip"
-			]
-		},
-		{
 			"id": "Samuel",
 			"name": "Samuel",
 			"author": "Dansky32",
@@ -1815,6 +1789,34 @@
 
 			],
 			"preview": "datapack_previews/Leo.png"
+		},
+		{
+			"id": "magduscompanions",
+			"name": "Magdu's Companions",
+			"author": "Magdu",
+			"version": "1.2",
+			"description": "Magdu's Companions and cherished ones.",
+			"contains": "Contains: 4 characters",
+			"download": "datapacks/magduscompanions.res",
+			"lastedit": 1726208793,
+			"filesize": 30447,
+			"requiredDatapacks": [
+				"loona"
+			],
+			"reqDatapackToName": {
+				"loona": "Loona datapack"
+			},
+			"requiredMods": [
+				"LycanrocSpeciesVer0.9.zip",
+				"MaleLactation.zip",
+				"SpinedDragonPenisVer1.zip",
+				"SylveonSpeciesVer1.zip",
+				"Clothes_Megapack.zip",
+				"MoreUniformsVer5.zip",
+				"LucarioSpecies-Ver2.1.zip",
+				"LoonaMod.zip",
+				"HypertusR5-2.zip"
+			]
 		}
 	]
 }
