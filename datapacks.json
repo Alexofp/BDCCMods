@@ -1838,6 +1838,32 @@
 			"requiredMods": [
 
 			]
+		},
+		{
+			"id": "lmhypercar",
+			"name": "WEC LMHypercar Themed Characters",
+			"author": "JokeMysterious",
+			"version": "1",
+			"description": "No description provided",
+			"contains": "Contains: 5 characters",
+			"download": "datapacks/lmhypercar.res",
+			"lastedit": 1726400526,
+			"filesize": 17409,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"DragonsPlusVer0.9.zip",
+				"AcesAvairyAddonVer0.99.zip",
+				"DickSkinsBatch2.zip",
+				"AcesSharkSpeciesVer1.11.zip",
+				"MoreUniformsVer3.1.zip",
+				"ScalieExpansionVer2.1.zip",
+				"LycanrocSpeciesVer0.9.zip"
+			]
 		}
 	]
 }
