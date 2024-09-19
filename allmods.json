@@ -1121,14 +1121,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Striped_Clothes.zip"
 	},
 	{
-		"name": "More BDSM stuff",
-		"description": "Adds more restraints and toys\n\nIcons and bug fix. Everything is sold by Announcer.\n\nButt Plug\nPink vibrator\nLeather Blindfold\nLeather Bondage Mittens\nLeather Wrist Cuffs\nLeather Ankle Cuffs\nHarness\nLatex Suit (ring slot!!)\nLong Latex Mittens\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreBDSMstuff.png]Click for preview[/url]",
-		"author": "DrDurka",
-		"modversion": "0.21",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreBDSMstuff.zip"
-	},
-	{
 		"name": "Goo Bondage",
 		"description": "Adds new restraints with custom effects. If you like weird and goopy bondage things, you might like this. These are added to the pool of NPC restraints and The Announcer's shop.\n\nMouth:\n- Goo Mask\nTorso:\n- Goo Boobs\n- Gooey Corset\nPenis:\n- Null Bulge (P)\nVagina:\n- Null Bulge (V)\nAnus:\n- Sentinel Plug\n\nVersion 2.0 adds the following:\n- Gooey Vest, a variant of the Gooey Corset that combines it with Goo Boobs\n- Gooey Lingerie, a Gooey Vest that includes crotchless panties\n- Latex Cups, a non-restraint version of Goo Boobs that's worn as a bra\n- Latex Funwear, a non-restraint version of Gooey Lingerie that's worn as outerwear\n- Crotchless Panties\n\nGoo Boobs and Goo Mask are designed to alter one of the character's body parts on equip and restore it when unequipped, but the on-equip code is only called if you manually \"Put On\" in the inventory or have it forced on you in sex. Debug commands (i.e. \"Force Smart Lock\") and the checkpoint guard won't call it. These items will be missing some effects/visuals in those cases, so I've excluded them from the checkpoint guard's available restraints. Could probably fix with an override, but I'm avoiding overrides with this mod.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GooBondage.png]Click for preview[/url]",
 		"author": "Jaycred",
@@ -1145,28 +1137,12 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BodyWriting.zip"
 	},
 	{
-		"name": "MedicalDBOverwrite",
-		"author": "CanInBad",
-		"description": "A mod that overwrite the vanilla nursery database with paged view for your children, there is another separated unrelated to another view.\nThis will likely break in the future if the nursery database is reworked\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MedicalDBOverwritePreview.png]Click for preview[/url]",
-		"modversion": "R1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MedicalDBOverwrite.zip"
-	},
-	{
 		"name": "Hypertus Species Compatibility Layers",
 		"description": "Hypertus is required for this mod to function.\nThis mod will replace species based on installed mods.\nThis mod replaces the following species:\n\n# Vanilla  \n - Canine\n - Demon\n - Dragon\n - Equine\n - Feline\n - Human\n\n# Modded  \n - Ampwave\n - Avali\n - Avian\n - Bird\n - Bovine\n - Crow\n - Deer\n - Eastern Dragon\n - Espeon\n - Gryphon\n - Hippogriff\n - Houndoom\n - Kobold\n - Laquine\n - Leafeon\n - Lopunny\n - Lucario\n - Nightstalkers\n - Protogen\n - Rabbit\n - Racoon\n - Rat\n - Seahorse\n - Sergal\n - Shark\n - Skullwolf\n - Snake\n - Sylveon\n - Synth\n - Treenuts\n - Wickerbeast\n\n# Changelog\n * actually have crow species added in this time.",
 		"author": "CanInBad",
 		"modversion": "R3",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusSpeciesCompatibilityLayersR3.zip"
-	},
-	{
-		"name": "Hypertus",
-		"description": "[b]WARNING: This contains hyper stuff, if you dislike it then leave[/b]\n\nThis mods [b]adds[b] [i](not replace)[/i] new body parts that just are like the normal ones but you can upgrade them in a new skill tree that comes with this mod.\nSaid body parts are in form of breast, penises, vagina, and anus.\nThis mod also have capability layers that use the looks of your favorite body parts mod, including ones from species mod that add one of the 4 body part categories mentioned.\n\nYou can gain experience points of said skill tree by invest in vanilla perks and then sleep, each time you wake up you will be notified how much of them you get.\nYou can then spend those point to add ridiculous amount of perks to your body parts.\nPlease do note that some perks might be hidden due to not meeting the requirement for the perk.\n\nThere is a draft of the story but it isn't complete in anyway and some glimpse of it can be read in the perks' description.\n\nThere are compatibility layers that make all species including the modded one have hyperable version of them\n\nYou can transform your or your foe's parts to hyperable with Personal Bluespace Anomaly Emitter™️. You need to finish the Alex's portal quest to get one from his shop\n\nHas compatibility layer between these mods:\n - Synth Bodyparts\n - Fluffy Bodyparts\n - Avali Species Bodyparts\n - Ace's Aviary Addon Bodyparts\n - Trans Scar Chest\n - Crow Species Bodyparts\n - Deer Species Bodyparts\n - Knotted Horse Cock\n - Barbed Equine Penis\n - Spined Dragon Penis\n\nIf you have any feedback send it in #mods-discussion and ping me,\nor open an issue on [url]https://github.com/CanInBad/HypertusMod/issues[/url].\n\n# Changelog\n * fixed debug print\n * fixed trigger HypertusNewDay doesn't trigger if user doesn't have the skill tree in the first place\n * added warning about big bug in toggling breed edition in game",
-		"author": "CanInBad",
-		"modversion": "R5-3",
-		"gameversion": "0.1.5",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR5-3.zip"
 	},
 	{
 		"name": "RaceAndHeat",
@@ -1199,6 +1175,30 @@
 		"modversion": "0.3.2",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NanoRevolutionMod_v0.3.2.zip"
+	},
+	{
+		"name": "More BDSM stuff",
+		"description": "Adds more restraints and toys\n\nAdded a menu for styling leather mittens.\n3 types of sleeves, 6 types of mittens. Changed the cuffs visuals a bit.\nEverything is sold by Announcer.\n\nButt Plug\nPink vibrator\nLeather Blindfold\nLeather Bondage Mittens (extended)\nLeather Wrist Cuffs (fixed)\nLeather Ankle Cuffs\nHarness\nLatex Suit (ring slot!!)\nLong Latex Mittens\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreBDSMstuff.png]Click for preview[/url]",
+		"author": "DrDurka",
+		"modversion": "0.3",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreBDSMstuff.zip"
+	},
+	{
+		"name": "Hypertus",
+		"description": "[b]WARNING: This contains hyper stuff, if you dislike it then leave[/b]\n\nHypertus (AKA big numbers goes brrrr) adds new bodyparts that mirror the looks of bodyparts and have new features to play with.\n\nThese features includes:\n * New skill tree and perks for categories of bodyparts. Gain XP everyday!\n * Go beyond the limit vanilla gives.\n * Compatibility layers to add additional bodyparts and override species with easy JSON format!\n\nIf you want NPC to have those bodyparts then please install additional mod; Hypertus Species Compatibility Layers.\n\nHas compatibility layer between these mods:\n - Synth Bodyparts\n - Fluffy Bodyparts\n - Avali Species Bodyparts\n - Ace's Aviary Addon Bodyparts\n - Trans Scar Chest\n - Crow Species Bodyparts\n - Deer Species Bodypart\n - Knotted Horse Cock\n - Barbed Equine Penis\n - Spined Dragon Penis\n\nIf you have any feedback send it in #mods-discussion and ping me,\nor open an issue on [url]https://github.com/CanInBad/HypertusMod/issues[/url].\n\n# Changelog\n * fixed deer species using the wrong module id [url=https://github.com/CanInBad/HypertusMod/issues/8]#8[/url]\n * fixed skin path since it is case senstive [url=https://github.com/CanInBad/HypertusMod/issues/9]#9[/url]\n * bump version",
+		"author": "CanInBad",
+		"modversion": "R6",
+		"gameversion": "0.1.6",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR6.zip"
+	},
+	{
+		"name": "PartOrientPicker",
+		"description": "[url]https://github.com/CanInBad/OrientPartPicker[/url]\nThis one is for mod developers who wants parts of their bodypart or clothing to be only visible one side but not the other, read the README.md\n\nuser can install this no problem, it will be a requirement for later mods of mine. Adds OrientPartPicker instanced scene and OrientPart instanced scene Adds a console command (forgot to remove, will likely be remove in the future)",
+		"author": "CanInBad",
+		"modversion": "R1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PartOrientPicker.zip"
 	}
 	]
 }
