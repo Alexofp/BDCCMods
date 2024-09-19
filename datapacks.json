@@ -1864,6 +1864,26 @@
 
 			],
 			"preview": "datapack_previews/clarabelle.PNG"
+		},
+		{
+			"id": "Zyro_Blackjack",
+			"name": "zyro_blackjack_event",
+			"author": "Zyro",
+			"version": "1.0",
+			"description": "Play Blackjack, Win money, Lose Money.\n\nTo start, go to the tile to the left of the announcer.",
+			"contains": "Contains: 1 scene",
+			"download": "datapacks/zyro_blackjack.res",
+			"lastedit": 1726753804,
+			"filesize": 56627,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			]
 		}
 	]
 }
