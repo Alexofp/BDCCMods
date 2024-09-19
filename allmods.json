@@ -1137,14 +1137,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BodyWriting.zip"
 	},
 	{
-		"name": "MedicalDBOverwrite",
-		"author": "CanInBad",
-		"description": "A mod that overwrite the vanilla nursery database with paged view for your children, there is another separated unrelated to another view.\nThis will likely break in the future if the nursery database is reworked\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MedicalDBOverwritePreview.png]Click for preview[/url]",
-		"modversion": "R1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MedicalDBOverwrite.zip"
-	},
-	{
 		"name": "Hypertus Species Compatibility Layers",
 		"description": "Hypertus is required for this mod to function.\nThis mod will replace species based on installed mods.\nThis mod replaces the following species:\n\n# Vanilla  \n - Canine\n - Demon\n - Dragon\n - Equine\n - Feline\n - Human\n\n# Modded  \n - Ampwave\n - Avali\n - Avian\n - Bird\n - Bovine\n - Crow\n - Deer\n - Eastern Dragon\n - Espeon\n - Gryphon\n - Hippogriff\n - Houndoom\n - Kobold\n - Laquine\n - Leafeon\n - Lopunny\n - Lucario\n - Nightstalkers\n - Protogen\n - Rabbit\n - Racoon\n - Rat\n - Seahorse\n - Sergal\n - Shark\n - Skullwolf\n - Snake\n - Sylveon\n - Synth\n - Treenuts\n - Wickerbeast\n\n# Changelog\n * actually have crow species added in this time.",
 		"author": "CanInBad",
