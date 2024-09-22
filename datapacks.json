@@ -1437,35 +1437,6 @@
 			"preview": "datapack_previews/kingdragonmod.PNG"
 		},
 		{
-			"id": "thewhistler",
-			"name": "The Whistler",
-			"author": "fenfenscreescree",
-			"version": "0.1A spelling hotfix",
-			"description": "There's a lot of talk going around the prison; word about a fighter in the pits, the first inmate at the BDCC, who's never once been defeated, inside or outside of the ring. Word is, he's a sight to behold, but hell to talk to. Maybe you should do both.",
-			"contains": "Contains: 2 characters, 2 scenes",
-			"download": "datapacks/thewhistler.res",
-			"lastedit": 1724089649,
-			"filesize": 1382692,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-				"Inmate_Hoodie.zip",
-				"MoreDrugsMod-v0.04a.zip",
-				"Hair_v1_.20.zip",
-				"FluffbodypartsVer3.zip",
-				"Bodydrugs.zip",
-				"KnotFucking.zip",
-				"DickSkinsBatch2.zip",
-				"PlusCombat_1.0.zip",
-				"BovineSpeciesVer2.zip"
-			],
-			"preview": "datapack_previews/thewhistler.png"
-		},
-		{
 			"id": "traxxstoryline",
 			"name": "Jake's Story",
 			"author": "TraxxTheFurry",
