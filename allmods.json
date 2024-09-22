@@ -457,14 +457,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WhiteThighHighsVer2.zip"
 	},
 	{
-		"name": "Angular Converted",
-		"description": "This mod add AverageAce's Angular skin mod that is registered via Module system making it loadable in mod form without extraction",
-		"author": "Conversion: CanInBad & Skin Maker: AverageAce",
-		"modversion": "R1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AngularSkinConv.zip"
-	},
-	{
 		"name": "Industrial Skin Converted",
 		"description": "This mod add AverageAce's Industrial skin mod that is registered via Module system making it loadable in mod form without extraction",
 		"author": "Conversion: CanInBad & Skin Maker: AverageAce",
@@ -671,14 +663,6 @@
 		"modversion": "2.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BovineSpeciesVer2.zip"
-	},
-	{
-		"name": "Body Modification",
-		"author": "AR2000",
-		"description": "Adds a new scene at the medical bay (talk to the nurse) to change your body in exchange for some credits.\nNote: this update only changes the metadata to newer version. nothing has changed",
-		"modversion": "0.6-Beta",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BodyModif.zip"
 	},
 	{
 		"name": "Lopunny Species",
@@ -1193,12 +1177,28 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR6.zip"
 	},
 	{
-		"name": "PartOrientPicker",
-		"description": "[url]https://github.com/CanInBad/OrientPartPicker[/url]\nThis one is for mod developers who wants parts of their bodypart or clothing to be only visible one side but not the other, read the README.md\n\nuser can install this no problem, it will be a requirement for later mods of mine. Adds OrientPartPicker instanced scene and OrientPart instanced scene Adds a console command (forgot to remove, will likely be remove in the future)",
+		"name": "Big Boss",
+		"description": "Add headgear resembling Big Boss to the director in tavi's flashback\ndoes not require PartOrientPicker and phantom of the boss\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/bigbossPreview.png]Click for Preview[/url]\n\n\n\n\n",
 		"author": "CanInBad",
-		"modversion": "R1",
+		"modversion": "Large Executive",
 		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PartOrientPicker.zip"
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HugeShareholder.zip"
+	},
+	{
+		"name": "Body Modification",
+		"author": "AR2000",
+		"description": "Adds a new scene at the medical bay (talk to the nurse) to change your body in exchange for some credits.\nNote: this update only changes the metadata to newer version. nothing has changed\n\n(though the modder changes the version from 0.6-beta to 1.0 in their metadata)",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BodyModif.zip"
+	},
+	{
+		"name": "PartOrientPicker",
+		"description": "Mainly for mod developers but users are required to install this if there are mods require it (duh),\nAdds 2 instanced godot scenes for showing only on one side of bodypart/clothing. Will be useless when [url=https://github.com/Alexofp/BDCC/commit/7005248ac53f1217860a55628c409bc25e4e795b]this commit (7005248a)[/url] hits main build\n\n[url=https://github.com/CanInBad/OrientPartPicker]source for developers[/url]",
+		"author": "CanInBad",
+		"modversion": "R2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PartOrientPickerR2.zip"
 	}
 	]
 }
