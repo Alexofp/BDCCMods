@@ -1194,9 +1194,9 @@
 	},
 	{
 		"name": "Lorian Hair",
-		"description": "Currently contains only one hairstyle. More may be added in the near future. [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/LorianHair.png]Click for preview[/url]",
+		"description": "Currently contains 2 hairstyles. More may be added in the near future.\nNew stuff: Added a Short Hime hairstyle.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/LorianHair.png]Click for preview[/url]",
 		"author": "Master Lorian",
-		"modversion": "0.1",
+		"modversion": "0.11",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/LorianHair.zip"
 	}
