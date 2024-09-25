@@ -1193,11 +1193,19 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NanoRevolutionMod_v0.4.0.zip"
 	},
 	{
-		"name": "Lorian Hair",
-		"description": "Currently contains 2 hairstyles. More may be added in the near future.\nNew stuff: Added a Short Hime hairstyle.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/LorianHair.png]Click for preview[/url]",
-		"author": "Master Lorian",
-		"modversion": "0.11",
+		"name": "Equines+",
+		"description": "An attempt to improve the look of the horses and equines of the game by cleaning up and editing the various heads\n\nNOT A REPLACER!, the new heads are new bodyparts with a higher spawn rate. Any NPC with an old horse head will keep the old look, same for existing datapack NPCs **!**\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EquinesPlusPreview.png]Click for preview[/url]",
+		"author": "AverageAce",
+		"modversion": "0.9",
 		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Equines+%20Ver0.9.zip"
+	},
+	{
+		"name": "Lorian Hair",
+		"description": "Currently contains 3 hairstyles. More may be added in the near future.\nNew stuff: Added Pigtails.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/LorianHair.png]Click for preview[/url]",
+		"author": "Master Lorian",
+		"modversion": "0.12",
+		"gameversion": "0.1.6",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/LorianHair.zip"
 	}
 	]
