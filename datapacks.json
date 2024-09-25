@@ -1813,8 +1813,8 @@
 			"description": "An engineer is interested in the use of hypnosis visors and bdsm tech. Have fun!\n\nDevLog:\nAlpha v1 - Finished the induction storyline\n\nAlpha v2 - Added some extra text (as not to seem nothing much was added in terms of dialogue), Fix the bug of the workshop start (thanks to @Moo Cow on the discord for bringing this to my attention)\n\nAlpha v3 - Heavy debug, should work flawlessly now | Experiments! Only one for now but more are coming!\n\nAlpha v4: THE LOOPING ISSUE HAS BEEN RECTIFIED AT LONG LAST! | More experiments and a new engineer who's a little more ... dominant. Also with comes with her own experiments.",
 			"contains": "Contains: 2 characters, 10 scenes, 1 quest",
 			"download": "datapacks/ht.res",
-			"lastedit": 1727156442,
-			"filesize": 285390,
+			"lastedit": 1727234418,
+			"filesize": 287190,
 			"requiredDatapacks": [
 				"lightdragon",
 				"htextrachr"
@@ -1840,10 +1840,10 @@
 			"author": "JokeMysterious",
 			"version": "2",
 			"description": "Extra characters for the datapack Hypnosis Testing\n\nUSE THE SAME MODS FROM HYPNOSIS TESTING! THIS IS REQUIRED FOR THAT AS WELL!",
-			"contains": "Contains: 6 characters",
+			"contains": "Contains: 7 characters, 2 scenes",
 			"download": "datapacks/htextrachr1.res",
-			"lastedit": 1727156444,
-			"filesize": 30618,
+			"lastedit": 1727234436,
+			"filesize": 99191,
 			"requiredDatapacks": [
 
 			],
