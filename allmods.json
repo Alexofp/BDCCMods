@@ -1202,9 +1202,9 @@
 	},
 	{
 		"name": "Lorian Hair",
-		"description": "Currently contains 4 hairstyles. More may be added in the near future.\nNew stuff: Added Pigtails.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/LorianHair.png]Click for preview[/url]",
+		"description": "Currently contains 5 hairstyles. More may be added in the near future.\nNew stuff: Long Messy Hairstyle.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/LorianHair.png]Click for preview[/url]",
 		"author": "Master Lorian",
-		"modversion": "0.15",
+		"modversion": "0.2",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/LorianHair.zip"
 	}
