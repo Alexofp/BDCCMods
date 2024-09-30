@@ -1806,6 +1806,27 @@
 			]
 		},
 		{
+			"id": "htextrachr",
+			"name": "Hypnosis Testing Extra Characters 1",
+			"author": "JokeMysterious",
+			"version": "2",
+			"description": "Extra characters for the datapack Hypnosis Testing\n\nUSE THE SAME MODS FROM HYPNOSIS TESTING! THIS IS REQUIRED FOR THAT AS WELL!",
+			"contains": "Contains: 7 characters, 2 scenes",
+			"download": "datapacks/htextrachr1.res",
+			"lastedit": 1727370226,
+			"filesize": 99191,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"LopunnySpeciesVer1.zip",
+				"Straitjacketmod.zip"
+			]
+		},
+		{
 			"id": "hypnotest",
 			"name": "Hypnosis Testing",
 			"author": "JokeMysterious",
@@ -1813,7 +1834,7 @@
 			"description": "An engineer is interested in the use of hypnosis visors and bdsm tech. Have fun!\n\nDevLog:\nAlpha v1 - Finished the induction storyline\n\nAlpha v2 - Added some extra text (as not to seem nothing much was added in terms of dialogue), Fix the bug of the workshop start (thanks to @Moo Cow on the discord for bringing this to my attention)\n\nAlpha v3 - Heavy debug, should work flawlessly now | Experiments! Only one for now but more are coming!\n\nAlpha v4: THE LOOPING ISSUE HAS BEEN RECTIFIED AT LONG LAST! | More experiments and a new engineer who's a little more ... dominant. Also with comes with her own experiments.",
 			"contains": "Contains: 2 characters, 10 scenes, 1 quest",
 			"download": "datapacks/ht.res",
-			"lastedit": 1727234418,
+			"lastedit": 1727370399,
 			"filesize": 287190,
 			"requiredDatapacks": [
 				"lightdragon",
@@ -1835,15 +1856,15 @@
 			]
 		},
 		{
-			"id": "htextrachr",
-			"name": "Hypnosis Testing Extra Characters 1",
-			"author": "JokeMysterious",
-			"version": "2",
-			"description": "Extra characters for the datapack Hypnosis Testing\n\nUSE THE SAME MODS FROM HYPNOSIS TESTING! THIS IS REQUIRED FOR THAT AS WELL!",
-			"contains": "Contains: 7 characters, 2 scenes",
-			"download": "datapacks/htextrachr1.res",
-			"lastedit": 1727234436,
-			"filesize": 99191,
+			"id": "elena",
+			"name": "Elena",
+			"author": "Makarov",
+			"version": "1.0",
+			"description": "No description provided",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/elena.res",
+			"lastedit": 1727677666,
+			"filesize": 6854,
 			"requiredDatapacks": [
 
 			],
@@ -1851,9 +1872,74 @@
 
 			},
 			"requiredMods": [
-				"LopunnySpeciesVer1.zip",
-				"Straitjacketmod.zip"
-			]
+
+			],
+			"preview": "datapack_previews/elena.png"
+		},
+		{
+			"id": "Kyle",
+			"name": "Kyle",
+			"author": "Makarov",
+			"version": "1.0",
+			"description": "No description provided",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/Kyle.res",
+			"lastedit": 1727677683,
+			"filesize": 7579,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"BatSpeciesVer0.9.zip",
+				"Newdrugsv2.zip",
+				"FluffbodypartsVer3.zip"
+			],
+			"preview": "datapack_previews/Kyle.png"
+		},
+		{
+			"id": "fenneko",
+			"name": "Fenneko",
+			"author": "MakoDaShark",
+			"version": "1.0",
+			"description": "No description provided",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/fenneko.res",
+			"lastedit": 1727677694,
+			"filesize": 7747,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"FluffbodypartsVer3.zip"
+			],
+			"preview": "datapack_previews/fenneko.png"
+		},
+		{
+			"id": "spike",
+			"name": "Spike",
+			"author": "MakoDaShark",
+			"version": "1.0",
+			"description": "No description provided",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/spike.res",
+			"lastedit": 1727677703,
+			"filesize": 6780,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"SheathHumanPenisVer1.zip"
+			],
+			"preview": "datapack_previews/spike.png"
 		}
 	]
 }

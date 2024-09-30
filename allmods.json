@@ -1207,6 +1207,14 @@
 		"modversion": "0.2",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/LorianHair.zip"
+	},
+	{
+		"name": "Hair Replacer",
+		"description": "Replaces 4 of the hair types I dislike.\nCombed back is bald.\nCool Hair and Long hair is Ferri hair\nPonytail 2 is ponytail 1 hair.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HairRemoval.png]Click for preview[/url]",
+		"author": "MakoDaShark",
+		"modversion": "0.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HairRemoval.zip"
 	}
 	]
 }
