@@ -1940,6 +1940,29 @@
 				"SheathHumanPenisVer1.zip"
 			],
 			"preview": "datapack_previews/spike.png"
+		},
+		{
+			"id": "scpinmates",
+			"name": "SCPInmates",
+			"author": "Random Person",
+			"version": "1.0 (Release)",
+			"description": "SCPInmates introduces SCP's into the BDCC as inmates. This pack includes:\n\nGenSec:\n   - SCP-1471-A (MalO) [Skulldog]\n   - SCP-7333 (Business Lizard)\n   - SCP-1530-2 (The Cat)\n   - SCP-1530-3 (The Dog)\n   - SCP-148-DE (Blue Slime)\n   - SCP-3008-2 (Infinite KIEA)\n   - SCP-113 (The Gender-Switcher)\n\nSexDev:\n   - SCP-079 (Old AI) [Protogen]\n   - SCP-953 (Polymorphic Humanoid)\n   - SCP-4960 (Kedesh-Nanaya)\n\nHiSec:\n   - SCP-682 (The Lizard)\n   - SCP-173-F (The Fur Statue)\n   - SCP-939 (With Many Voices)\n   - SCP-966-2-F (Sleep Killer)\n   - SCP-426 (The Toaster) [Protogen]\n   - SCP-323 (Wendigo Skull) [Skulldog]\n   - SCP-096-F (Shy Gal)",
+			"contains": "Contains: 17 characters, 2 skins",
+			"download": "datapacks/scpinmates.res",
+			"lastedit": 1727874494,
+			"filesize": 1790947,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"SkulldogSpeciesVer2.zip",
+				"AcesProtogenMod-Ver1.1.zip",
+				"MoreUniformsVer5.zip"
+			],
+			"preview": "datapack_previews/scpinmates.png"
 		}
 	]
 }
