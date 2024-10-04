@@ -985,14 +985,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HellhoundHyperable-R1.zip"
 	},
 	{
-		"name": "More Uniforms",
-		"author": "AverageAce & Max-Maxou",
-		"description": "Adds a whole bunch of new Uniforms both to prisoners and vendomats\ncan't be damaged\nWhat was originally a patch became a full update\n\nList of new Uniforms, 3 per inmate type\n-Inmate Crop-Tops (Laundry Vendomat)\n-Upgraded Inmate Uniform (Laundry Vendomat)\n-Maternity Uniform (Medical Vendomat) (Patched)\n-Topless Uniform (General Vendomat)\n-Bottomless Uniform (General Vendomat) \n\n-Nipple Tape, Hopefully fixed this time (Laundry Vendomat)\n-Pussy Tape (Laundry Vendomat)\n-Cowprint Bra (Medical Vendomat) (NEW)\n-Chest wrappings (Medical Vendomat) (NEW)\n\nNew Harnesses, Sold by Announcer\n-Chest Harness\n-6-Point Harness\n-8-Point Harness\n-Full Harness\n-Maternity Harness\n-Max Harness\n-Restrictive Harness\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreUniformsPreview.png]Click for Preview[/url]",
-		"modversion": "5.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreUniformsVer5.zip"
-	},
-	{
 		"name": "Bat Species",
 		"description": "The flying thing idk\nIve done like 30 of these what else could I even put here\nthey are BATS\nComes with 6 heads, 5 ears, and 2 tails and species\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BatCover.png]Click for preview[/url]",
 		"author": "AverageAce",
@@ -1215,6 +1207,30 @@
 		"modversion": "0.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HairRemoval.zip"
+	},
+	{
+		"name": "More Uniforms",
+		"author": "AverageAce & Max-Maxou",
+		"description": "-Ver 6 adds clothing damage as well as various changes or fixes I made a while ago so I forgot what they were.\nAdds a whole bunch of new Uniforms both to prisoners and vendomats\n\nList of Everything Added in the MoreUniforms Mod for BDCC.\n\nUniforms, 3 per Inmate type. Spawns on Inmates. All Uniforms can be Damaged.\n-Inmate Crop-Tops (Laundry Vendomat)\n-Upgraded Inmate Uniform (Laundry Vendomat)\n-Maternity Uniform (Medical Vendomat) (Patched)\n-Topless Uniform (General Vendomat)\n-Bottomless Uniform (General Vendomat) \n\nMisc. Clothing Items.\n-Nipple Tape (Laundry Vendomat) (Ver 6: Can now be Dyed) (I've just given up trying to fix it, doesnt work on flat chests)\n-Pussy Tape (Laundry Vendomat) (Ver 6: Can now be Dyed)\n-Cowprint Bra (Medical Vendomat) (Ver6: Can now bye Dyed)\n-Chest wrappings (Medical Vendomat)\n\nHarnesses, Sold by Announcer\n-Chest Harness\n-6-Point Harness\n-8-Point Harness\n-Full Harness\n-Maternity Harness\n-Max Harness\n-Restrictive Harness\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreUniformsPreview.png]Click for Preview[/url]",
+		"modversion": "6.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreUniformsVer6.zip"
+	},
+	{
+		"name": "FoxLib",
+		"description": "Library (Aka. used by mods, don't add content on it's own)\nModding enhancer for BDCC\n\nAdd many features and abilities for BDCC mods such as:\n-Adding custom CrotchBlock for datapacks\n-Adding new perks level tiers\n-Controling more game UI elements\n-Saving NPC Skills/Perk data\n-Handling fatal errors via GUI\n\nFoxLib also additionaly expose more capabilities to datapacks too, please check the in-game editor to see the new blocks FoxLib adds! :D\n\nNote: This is an initial version to get feedback, please do request more features.\nIf you failed to Mod something into BDCC, I can make it possible in FoxLib, just ask.\n\nFor more info about the FoxLib API, please check the bundled documentation by extracting the zip file!\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FoxLib_v0.1.0.png]Click for preview[/url]",
+		"author": "Fox2Code",
+		"modversion": "0.1.0",
+		"gameversion": "1.6.0",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxLib_v0.1.0.zip"
+	},
+	{
+		"name": "FoxedBDCC",
+		"description": "Add more feature to BDCC using FoxLib (Note: Don't forget to download FoxLib to use this mod)\n\nFor now it only add one end game skills in the fertility tab\n\nThis mod is the reason why I made FoxLib, and felt bad uploading FoxLib without a mod that uses it too",
+		"author": "Fox2Code",
+		"modversion": "0.1.0",
+		"gameversion": "1.6.0",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxedBDCC_v0.1.0.zip"
 	}
 	]
 }
