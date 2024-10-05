@@ -1945,12 +1945,12 @@
 			"id": "scpinmates",
 			"name": "SCPInmates",
 			"author": "Random Person",
-			"version": "1.0 (Release)",
-			"description": "SCPInmates introduces SCP's into the BDCC as inmates. This pack includes:\n\nGenSec:\n   - SCP-1471-A (MalO) [Skulldog]\n   - SCP-7333 (Business Lizard)\n   - SCP-1530-2 (The Cat)\n   - SCP-1530-3 (The Dog)\n   - SCP-148-DE (Blue Slime)\n   - SCP-3008-2 (Infinite KIEA)\n   - SCP-113 (The Gender-Switcher)\n\nSexDev:\n   - SCP-079 (Old AI) [Protogen]\n   - SCP-953 (Polymorphic Humanoid)\n   - SCP-4960 (Kedesh-Nanaya)\n\nHiSec:\n   - SCP-682 (The Lizard)\n   - SCP-173-F (The Fur Statue)\n   - SCP-939 (With Many Voices)\n   - SCP-966-2-F (Sleep Killer)\n   - SCP-426 (The Toaster) [Protogen]\n   - SCP-323 (Wendigo Skull) [Skulldog]\n   - SCP-096-F (Shy Gal)",
+			"version": "1.1 (Tweaks)",
+			"description": "SCPInmates introduces SCP's into the BDCC as inmates. This pack includes:\n\nGenSec:\n   - SCP-1471-A (MalO) [Skulldog]\n   - SCP-7333 (Business Lizard)\n   - SCP-1530-2 (The Cat)\n   - SCP-1530-3 (The Dog)\n   - SCP-148-DE (Blue Slime)\n   - SCP-3008-2 (Infinite KIEA)\n   - SCP-113 (The Gender-Switcher)\n\nSexDev:\n   - SCP-079 (Old AI) [Protogen]\n   - SCP-953 (Polymorphic Humanoid)\n   - SCP-4960 (Kedesh-Nanaya)\n\nHiSec:\n   - SCP-682 (The Lizard)\n   - SCP-173-F (The Fur Statue)\n   - SCP-939 (With Many Voices)\n   - SCP-966-2-F (Sleep Killer)\n   - SCP-426 (The Toaster) [Protogen]\n   - SCP-323 (Wendigo Skull) [Skulldog]\n   - SCP-096-F (Shy Gal)\n\nCredit to the original authors in the SCP community for these characters.",
 			"contains": "Contains: 17 characters, 2 skins",
 			"download": "datapacks/scpinmates.res",
-			"lastedit": 1727874494,
-			"filesize": 1790947,
+			"lastedit": 1728121272,
+			"filesize": 1791083,
 			"requiredDatapacks": [
 
 			],
@@ -1960,9 +1960,55 @@
 			"requiredMods": [
 				"SkulldogSpeciesVer2.zip",
 				"AcesProtogenMod-Ver1.1.zip",
-				"MoreUniformsVer5.zip"
+				"MoreUniformsVer6.zip"
 			],
 			"preview": "datapack_previews/scpinmates.png"
+		},
+		{
+			"id": "Vexipc",
+			"name": "Vexi",
+			"author": "PC",
+			"version": "Vex",
+			"description": "All a mf need in they life is a hot dom gaurd gf",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/vexipc.res",
+			"lastedit": 1728121348,
+			"filesize": 7916,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/vexipc.png"
+		},
+		{
+			"id": "Nova",
+			"name": "Nova",
+			"author": "Nova",
+			"version": "1.0",
+			"description": "adds nova",
+			"contains": "Contains: 1 character, 1 quest",
+			"download": "datapacks/Nova.res",
+			"lastedit": 1728121352,
+			"filesize": 943640,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"BodyModif.zip",
+				"EditedPawsVer1.zip",
+				"FluffbodypartsVer3.zip",
+				"MoreUniformsVer6.zip",
+				"HypertusR6.zip"
+			],
+			"preview": "datapack_previews/Nova.png"
 		}
 	]
 }
