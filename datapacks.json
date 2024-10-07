@@ -1786,26 +1786,6 @@
 			]
 		},
 		{
-			"id": "natscharacters",
-			"name": "Nat's Character Pack",
-			"author": "NatRobloxian",
-			"version": "1.3",
-			"description": "a Datapack that includes some of my OCs or joke/meme encounters (3 ocs and 4 joke/meme characters are in this pack atm)",
-			"contains": "Contains: 7 characters",
-			"download": "datapacks/natscharacters.res",
-			"lastedit": 1727156439,
-			"filesize": 1967911,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-				"Clothes_Megapack.zip"
-			]
-		},
-		{
 			"id": "htextrachr",
 			"name": "Hypnosis Testing Extra Characters 1",
 			"author": "JokeMysterious",
@@ -2009,6 +1989,26 @@
 				"HypertusR6.zip"
 			],
 			"preview": "datapack_previews/Nova.png"
+		},
+		{
+			"id": "natscharacters",
+			"name": "Nat's Character Pack",
+			"author": "NatRobloxian",
+			"version": "1.3",
+			"description": "a Datapack that includes some of my OCs or joke/meme encounters (3 ocs and 4 joke/meme characters are in this pack atm)",
+			"contains": "Contains: 7 characters",
+			"download": "datapacks/natscharacters.res",
+			"lastedit": 1728285639,
+			"filesize": 1967980,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"Clothes_Megapack.zip"
+			]
 		}
 	]
 }

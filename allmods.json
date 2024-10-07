@@ -1041,14 +1041,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/KnotFucking.zip"
 	},
 	{
-		"name": "Brutal Dreams Correctional Center",
-		"description": "Makes the game more difficult!\n\nInmate Encounters:\n- Chance raised dramaticly\n- Event cooldown reduced\n- Exposure requirement removed\n- Enemy level cap removed\n\nSex:\n- If a Dom undresses a Sub the item is deleted\n\nHard Struggling:\n- Time to complete the minigame halved\n- Stamina cost to play the minigame quintupled (5x!!)\n- Blindfold hint disabled\n- Extra time to complete the minigame when blindfolded removed\n\nThanks to aaron1218 for the idea!\n\nthis entire update is just bug fixes and balance adjustments,",
-		"author": "Mindstormsman",
-		"modversion": "1.0",
-		"gameversion": "0.1.5",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BrutalDreamsCorrectionalCenter.zip"
-	},
-	{
 		"name": "Sheathed Human Penis",
 		"description": "human penis with a sheath on.\nit doesnt spawn naturally on NPCs, but comes with a few skins\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SheathHumanPenis.png]Click for preview[/url]",
 		"author": "AverageAce",
@@ -1231,6 +1223,14 @@
 		"modversion": "v0.4",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/TheFlameheartsV0.4.zip"
+	},
+	{
+		"name": "Brutal Dreams Correctional Center",
+		"description": "Makes the game more difficult!\n\nInmate Encounters:\n- Chance raised dramaticly\n- Event cooldown reduced\n- Exposure requirement removed\n- Enemy level cap removed\n\nSex:\n- If a Dom undresses a Sub the item is deleted\n\nHard Struggling:\n- Time to complete the minigame halved\n- Stamina cost to play the minigame quintupled (5x!!)\n- Blindfold hint disabled\n- Extra time to complete the minigame when blindfolded removed\n\nThanks to aaron1218 for the idea!\n\nUpdated for the Pawn system!\nInmates you encounter are more likely to attack:\nReds are a 50/50\nLilacs have a 50% chance to consider attacking based on your exposure\nGenerals attack based on their lust, don't blue ball them!",
+		"author": "Mindstormsman",
+		"modversion": "1.4",
+		"gameversion": "0.1.6",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BrutalDreamsCorrectionalCenter.zip"
 	}
 	]
 }
