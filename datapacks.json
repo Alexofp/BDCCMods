@@ -2009,6 +2009,26 @@
 			"requiredMods": [
 				"Clothes_Megapack.zip"
 			]
+		},
+		{
+			"id": "The_Dangens",
+			"name": "The Dangens",
+			"author": "Gura",
+			"version": "0.2",
+			"description": "Adds Six Characters That Look the same but have one differance.\n[Only Two Avalible Currently]",
+			"contains": "Contains: 2 characters",
+			"download": "datapacks/The_Dangen_V0.2.res",
+			"lastedit": 1728367213,
+			"filesize": 14711,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"AcesProtogenMod-Ver1.1.zip"
+			]
 		}
 	]
 }

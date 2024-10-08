@@ -1225,20 +1225,28 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/TheFlameheartsV0.4.zip"
 	},
 	{
-		"name": "Brutal Dreams Correctional Center",
-		"description": "Makes the game more difficult!\n\nInmate Encounters:\n- Chance raised dramaticly\n- Event cooldown reduced\n- Exposure requirement removed\n- Enemy level cap removed\n\nSex:\n- If a Dom undresses a Sub the item is deleted\n\nHard Struggling:\n- Time to complete the minigame halved\n- Stamina cost to play the minigame quintupled (5x!!)\n- Blindfold hint disabled\n- Extra time to complete the minigame when blindfolded removed\n\nThanks to aaron1218 for the idea!\n\nUpdated for the Pawn system!\nInmates you encounter are more likely to attack:\nReds are a 50/50\nLilacs have a 50% chance to consider attacking based on your exposure\nGenerals attack based on their lust, don't blue ball them!",
-		"author": "Mindstormsman",
-		"modversion": "1.4",
-		"gameversion": "0.1.6",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BrutalDreamsCorrectionalCenter.zip"
-	},
-	{
 		"name": "Sniffing Mod",
 		"description": "Initial version of the sniffing fetish mod. Adds new sniffing sex category, fetishes, and sex goals.\nCurrently, only anus sniffing is available and uses the same animations as rimming. Plans to add taint, balls, and vagina sniffing.\nCurrent descriptions are basic and subject to change, and I am not the best at writing descriptions, so if anyone wants to help out please reach out!\nAlso special thanks to Fox2Code for his modding tools and helping out!",
 		"author": "c1charge",
 		"modversion": "0.0.5",
 		"gameversion": "0.1.6",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Sniffing_mod_v0.0.5.zip"
+	},
+	{
+		"name": "Brutal Dreams Correctional Center",
+		"description": "Makes the game more difficult!\n\nInmates you encounter have a 5% chance to attack you\n-    down from what felt like 100%, even on the default 30 pawns\n-    on higher pawn counts you will have more encounters because you encounter more pawns\n\nAn Inmate will chase you down to attack\n-    I am well aware that that Inmate can be an absolute Bastard and attack you again immediately after kicking your ass\n-    just beat their ass harder, it's Brutal Dreams and this is annoying at best\n-    Trust me, it can be so much worse than even what the last version was\n\nCharacters that lose their clothes will go to the Laundry room to replace them!\n-    they do this by checking if they have all of their default equipment\n-    so if your modded/datapack character loses their Triple XL Bra with built in coffee maker they will get a new one at the laundry!\n\nThis mod requires Modular Dialogue Patch to load some of the text\n-    if you see something like BrutalDreamsAttack MISSING that's the problem",
+		"author": "Mindstormsman",
+		"modversion": "1.5",
+		"gameversion": "0.1.6",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BrutalDreamsCorrectionalCenter.zip"
+	},
+	{
+		"name": "Modular Dialogue Patch",
+		"description": "The new Modular Dialogue system readies too early for mods to add dialogue through it.\nThis mod adds code to MainMenu.gd to clear and re-register the form banks after mod loading",
+		"author": "Mindstormsman",
+		"modversion": "1.0",
+		"gameversion": "0.1.6",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ModularDialoguePatch.zip"
 	}
 	]
 }
