@@ -1201,22 +1201,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreUniformsVer6.zip"
 	},
 	{
-		"name": "FoxLib",
-		"description": "[center][color=#00FFFF][b][shake rate=5 level=7][[[[/shake] Modding enhancer for BDCC [shake rate=5 level=7]]]][/shake][/b][/color] [/center]\n[center][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img] [/center]\n[center][color=#FF8000][u]/!\\[/u] Don't forget to delete old versions of the mod when updating [u]/!\\[/u][/color] [/center]\n\nAdd many features and abilities for BDCC mods such as:\n- Adding custom CrotchBlock for datapacks\n- Adding new perks level tiers\n- Controling more game UI elements\n- Saving NPC Skills/Perk data\n- Gracefully handling fatal errors\n\nFoxLib also additionaly expose more capabilities to datapacks too, please check the in-game editor to see the new blocks FoxLib adds! [wave amp=10 freq=4]:D[/wave]\n\nFoxLib will also use code generation instead of replacing game code for maximum compatibility with your existing mods, you can see in the file list that FoxLib doesn't replace any game files!\n\nFor more info about the FoxLib API, please check the bundled documentation!\n[center][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img] [/center]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FoxLib_v0.1.0.png]Click for preview[/url]",
-		"author": "Fox2Code",
-		"modversion": "0.1.0",
-		"gameversion": "0.1.6",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxLib_v0.1.0.zip"
-	},
-	{
-		"name": "FoxedBDCC",
-		"description": "Add more feature to BDCC using FoxLib (Note: Don't forget to download FoxLib to use this mod)\n\nFor now it only add one end game skills in the fertility tab\n\nThis mod is the reason why I made FoxLib, and felt bad uploading FoxLib without a mod that uses it too",
-		"author": "Fox2Code",
-		"modversion": "0.1.0",
-		"gameversion": "0.1.6",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxedBDCC_v0.1.0.zip"
-	},
-	{
 		"name": "The Flamehearts",
 		"description": "(This Mod was made with help from 'Zko12' as a Mod Tester) & (Thanks to Plasma Serval for the Cafe Addition to my Mod!): This Mod That Adds Phoenix and her Sister with now two more quests added~ Totaling 3 normal quests and 1 quest on both paths, the path is dictated from the Transmitter Quest\n\nChangelog:\nthe cafe is mostly complete, aside from the coffee machine being down for the player, the player can be a waiter/waitress! Now able to serve inmates, in both ways~ For some extra money~ be careful however as you may slide into the spotlight, and cause some unwanted attention to you~ (Note the system for the fame is half working just nothing happens when getting high levels of fame... for now ;3)\n\nThis seems like a semi-final update for the cafe, a bit of it still needs to be either added or changed but for now here are the drinks that y'all have been waiting for :3 hopefully y'all enjoy them and, what's this? you get some sort of scrap after drinking the coffee? how peculiar...\n\nAside from that i have replied to an older post so y'all can post jump to my older version if y'all wanna try to get the secret item w/o cheating it in lol and the next update should be 0.5 :3, DM me any bugs or issues or atleast @ me so I can try to help~",
 		"author": "Bloxborne (A.K.A Phoenix)",
@@ -1233,20 +1217,36 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Sniffing_mod_v0.0.5.zip"
 	},
 	{
-		"name": "Brutal Dreams Correctional Center",
-		"description": "Makes the game more difficult!\n\nInmates you encounter have a 5% chance to attack you\n-    down from what felt like 100%, even on the default 30 pawns\n-    on higher pawn counts you will have more encounters because you encounter more pawns\n\nAn Inmate will chase you down to attack\n-    I am well aware that that Inmate can be an absolute Bastard and attack you again immediately after kicking your ass\n-    just beat their ass harder, it's Brutal Dreams and this is annoying at best\n-    Trust me, it can be so much worse than even what the last version was\n\nCharacters that lose their clothes will go to the Laundry room to replace them!\n-    they do this by checking if they have all of their default equipment\n-    so if your modded/datapack character loses their Triple XL Bra with built in coffee maker they will get a new one at the laundry!\n\nThis mod requires Modular Dialogue Patch to load some of the text\n-    if you see something like BrutalDreamsAttack MISSING that's the problem",
-		"author": "Mindstormsman",
-		"modversion": "1.5",
-		"gameversion": "0.1.6",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BrutalDreamsCorrectionalCenter.zip"
-	},
-	{
 		"name": "Modular Dialogue Patch",
 		"description": "The new Modular Dialogue system readies too early for mods to add dialogue through it.\nThis mod adds code to MainMenu.gd to clear and re-register the form banks after mod loading",
 		"author": "Mindstormsman",
 		"modversion": "1.0",
 		"gameversion": "0.1.6",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ModularDialoguePatch.zip"
+	},
+	{
+		"name": "Brutal Dreams Correctional Center",
+		"description": "Makes the game more difficult!\n\nInmates you encounter have a 5% chance to attack you\n-    down from what felt like 100%, even on the default 30 pawns\n-    on higher pawn counts you will have more encounters because you encounter more pawns\n\nAn Inmate will chase you down to attack\n-    I am well aware that that Inmate can be an absolute Bastard and attack you again immediately after kicking your ass\n-    just beat their ass harder, it's Brutal Dreams and this is annoying at best\n-    Trust me, it can be so much worse than even what the last version was\n\nCharacters that lose their clothes will go to the Laundry room to replace them!\n-    they do this by checking if they have all of their default equipment\n-    so if your modded/datapack character loses their Triple XL Bra with built in coffee maker they will get a new one at the laundry!\n\nThis mod requires Modular Dialogue Patch to load some of the text\n-    if you see something like BrutalDreamsAttack MISSING that's the problem",
+		"author": "Mindstormsman",
+		"modversion": "1.6",
+		"gameversion": "0.1.6",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BrutalDreamsCorrectionalCenter.zip"
+	},
+	{
+		"name": "FoxLib",
+		"description": "[center][color=#00FFFF][b][shake rate=5 level=7][[[[/shake] Modding enhancer for BDCC [shake rate=5 level=7]]]][/shake][/b][/color] [/center]\n[center][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img] [/center]\n[center][color=#FF8000][u]/!\\[/u] Don't forget to delete old versions of the mod when updating [u]/!\\[/u][/color] [/center]\n\nAdd many features and abilities for BDCC mods such as:\n- Adding custom CrotchBlock for datapacks\n- Adding new perks level tiers\n- Controling more game UI elements\n- Saving NPC Skills/Perk data\n- Gracefully handling fatal errors\n\nFoxLib also additionaly expose more capabilities to datapacks too, please check the in-game editor to see the new blocks FoxLib adds! [wave amp=10 freq=4]:D[/wave]\n\nFoxLib will also use code generation instead of replacing game code for maximum compatibility with your existing mods, you can see in the file list that FoxLib doesn't replace any game files!\n\nFor more info about the FoxLib API, please check the bundled documentation!\n[center][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img] [/center]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FoxLib_v0.1.0.png]Click for preview[/url]",
+		"author": "Fox2Code",
+		"modversion": "0.1.0",
+		"gameversion": "0.1.6",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxLib_v0.1.0.zip"
+	},
+	{
+		"name": "FoxedBDCC",
+		"description": "Modding enhancer for BDCC\n\nNew features in FoxLib 0.2.0 compared to FoxLib 0.1.0:\n-Added mainmenu/ingame Mods Options Menu with API for developers (Thanks CanInBad for suggesting the ingame button)\n-Added FoxModule API to register ModularDialogue formBanks/fillers/adders (Thanks Mindstormsman for the code and inspiration)\n-Now Bundle FoxLib ModHelper (Aka. FLMH.py) for mod developers to ease mod development. (Thanks c1charge for testing the tool and helping me to improve it by giving me inspiration)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FoxLib.png]Click for Preview[/url]",
+		"author": "Fox2Code",
+		"modversion": "0.2.0",
+		"gameversion": "0.1.6",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxLib_v0.2.0.zip"
 	}
 	]
 }
