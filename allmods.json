@@ -1225,14 +1225,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ModularDialoguePatch.zip"
 	},
 	{
-		"name": "Brutal Dreams Correctional Center",
-		"description": "Makes the game more difficult!\n\nInmates you encounter have a 5% chance to attack you\n-    down from what felt like 100%, even on the default 30 pawns\n-    on higher pawn counts you will have more encounters because you encounter more pawns\n\nAn Inmate will chase you down to attack\n-    I am well aware that that Inmate can be an absolute Bastard and attack you again immediately after kicking your ass\n-    just beat their ass harder, it's Brutal Dreams and this is annoying at best\n-    Trust me, it can be so much worse than even what the last version was\n\nCharacters that lose their clothes will go to the Laundry room to replace them!\n-    they do this by checking if they have all of their default equipment\n-    so if your modded/datapack character loses their Triple XL Bra with built in coffee maker they will get a new one at the laundry!\n\nThis mod requires Modular Dialogue Patch to load some of the text\n-    if you see something like BrutalDreamsAttack MISSING that's the problem",
-		"author": "Mindstormsman",
-		"modversion": "1.6",
-		"gameversion": "0.1.6",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BrutalDreamsCorrectionalCenter.zip"
-	},
-	{
 		"name": "FoxLib",
 		"description": "[center][color=#00FFFF][b][shake rate=5 level=7][[[[/shake] Modding enhancer for BDCC [shake rate=5 level=7]]]][/shake][/b][/color] [/center]\n[center][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img] [/center]\n[center][color=#FF8000][u]/!\\[/u] Don't forget to delete old versions of the mod when updating [u]/!\\[/u][/color] [/center]\n\nAdd many features and abilities for BDCC mods such as:\n- Adding custom CrotchBlock for datapacks\n- Adding new perks level tiers\n- Controling more game UI elements\n- Saving NPC Skills/Perk data\n- Gracefully handling fatal errors\n\nFoxLib also additionaly expose more capabilities to datapacks too, please check the in-game editor to see the new blocks FoxLib adds! [wave amp=10 freq=4]:D[/wave]\n\nFoxLib will also use code generation instead of replacing game code for maximum compatibility with your existing mods, you can see in the file list that FoxLib doesn't replace any game files!\n\nFor more info about the FoxLib API, please check the bundled documentation!\n[center][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img] [/center]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FoxLib_v0.1.0.png]Click for preview[/url]",
 		"author": "Fox2Code",
@@ -1247,6 +1239,14 @@
 		"modversion": "0.1.0",
 		"gameversion": "0.1.6",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxedBDCC_v0.1.0.zip"
+	},
+	{
+		"name": "Brutal Dreams Correctional Center",
+		"description": "Makes the game more difficult!\n\nInmates you encounter have a 5% chance to attack you\n-    down from what felt like 100%, even on the default 30 pawns\n-    on higher pawn counts you will have more encounters because you encounter more pawns\n\nAn Inmate will chase you down to attack\n-    I am well aware that that Inmate can be an absolute Bastard and attack you again immediately after kicking your ass\n-    just beat their ass harder, it's Brutal Dreams and this is annoying at best\n-    Trust me, it can be so much worse than even what the last version was\n\nCharacters that lose their clothes will go to the Laundry room to replace them!\n-    they do this by checking if they have all of their default equipment\n-    so if your modded/datapack character loses their Triple XL Bra with built in coffee maker they will get a new one at the laundry!\n\nThis mod [b]No longer requires[/b] Modular Dialogue Patch",
+		"author": "Mindstormsman",
+		"modversion": "1.7",
+		"gameversion": "0.1.6",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BrutalDreamsCorrectionalCenter.zip"
 	}
 	]
 }
