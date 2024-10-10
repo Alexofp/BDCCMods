@@ -2137,6 +2137,27 @@
 				"BatSpeciesVer0.9.zip"
 			],
 			"preview": "datapack_previews/Rat Pack.png"
+		},
+		{
+			"id": "dumbpuppy",
+			"name": "Pipipi",
+			"author": "Niaon",
+			"version": "1.0",
+			"description": "No description provided",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/Pipipi.res",
+			"lastedit": 1728578475,
+			"filesize": 6997,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/dumbpuppy.png"
 		}
 	]
 }
