@@ -2112,6 +2112,31 @@
 
 			],
 			"preview": "datapack_previews/alieninmates.png"
+		},
+		{
+			"id": "Rat Pack",
+			"name": "Rat Pack",
+			"author": "MakoDaShark",
+			"version": "1.1",
+			"description": "The Rat Pack but only one is a rat, and all of them are hot.",
+			"contains": "Contains: 3 characters",
+			"download": "datapacks/Rat Pack.res",
+			"lastedit": 1728547603,
+			"filesize": 21047,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"SheathHumanPenisVer1.zip",
+				"LoonaMod.zip",
+				"LorianHair.zip",
+				"PossumSpeciesVer0.9.zip",
+				"BatSpeciesVer0.9.zip"
+			],
+			"preview": "datapack_previews/Rat Pack.png"
 		}
 	]
 }
