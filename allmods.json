@@ -1250,11 +1250,11 @@
 	},
 	{
 		"name": "Nudity Police",
-		"description": "[b]Nudity will not go unpunished![/b]\n\nMod Features:\n• Guards will approach you if they see you walking around naked\n• Defeat or Surrender will result in a special uniform being equipped on the player\n• This new uniform is also a piece of bondage gear\n• It will be difficult to remove and also block any perks that require you to be 'Completely Naked'\n• Yes, I am specifically targeting Exhibitionism perks 🙂\n\nI recommend using this along side the 'Brutal Dreams' mod. Otherwise, there's no way for you to lose your clothes unless you unequip it.\nPing me for bug reports or typos.\n\nKnown Issues:\n-Straitjacket disappears during scenes, like Showering or Sleeping\nBase game issue. This also happens with the Latex Straitjacket you get from Eliza's experiments. Ping me if you have any ideas on how to fix it.\n-Does not trigger in off-limits areas, Guard escorts you out instead\nExpected behavior. There's currently no way to prioritize Interactions that use the same conditions\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/nudepolice.png]Click for preview[/url]",
+		"description": "[b]Nudity will not go unpunished![/b]\n\nMod Features:\n• Guards will approach you if they see you walking around naked\n• Defeat or Surrender will result in a special uniform being equipped on the player\n• This new uniform is also a piece of bondage gear\n• It will be difficult to remove and also block any perks that require you to be 'Completely Naked'\n• Yes, I am specifically targeting Exhibitionism perks 🙂\n\nI recommend using this along side the 'Brutal Dreams' mod. Otherwise, there's no way for you to lose your clothes unless you unequip it.\nPing me for bug reports or typos.\n\nKnown Issues:\n-Does not trigger in off-limits areas, Guard escorts you out instead\nExpected behavior. There's currently no way to prioritize Interactions that use the same conditions\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/nudepolice.png]Click for preview[/url]",
 		"author": "Lucci",
-		"modversion": "1.0.2",
+		"modversion": "1.0.3",
 		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NudityPolice-v1.0.2.zip"
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NudityPoliceVer1.0.3.zip"
 	}
 	]
 }
