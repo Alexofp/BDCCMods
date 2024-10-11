@@ -1981,26 +1981,6 @@
 			]
 		},
 		{
-			"id": "bdzg_characters",
-			"name": "Gura's Character  Bundle",
-			"author": "Gura",
-			"version": "0.3",
-			"description": "Adds Characters That I And/or the community Wants.\n\nIf You have sugestions on what characters I should Add, Email Me At {bdzg.protogen@gmail.com}\n\n[So far there is 3 Characters]",
-			"contains": "Contains: 3 characters",
-			"download": "datapacks/bdzg_characters.res",
-			"lastedit": 1728452269,
-			"filesize": 21541,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-				"AcesProtogenMod-Ver1.1.zip"
-			]
-		},
-		{
 			"id": "irisdatapack",
 			"name": "Iris",
 			"author": "JokeMysterious",
@@ -2158,6 +2138,49 @@
 
 			],
 			"preview": "datapack_previews/dumbpuppy.png"
+		},
+		{
+			"id": "BDZG_Voidcast",
+			"name": "bdzg_voidcast_event",
+			"author": "Author: Zyro | Modified: BDZG",
+			"version": "1.0",
+			"description": "Play Voidcast, Win money, Lose Money.\n\nTo start, go to the tile to the left of the announcer.\n\n/>| DISCLAIMER |<\\\nI am not the creator of this datapack and I don't claim any credit to it's creation, I only Modified it to my likings.",
+			"contains": "Contains: 1 scene",
+			"download": "datapacks/bdzg_voidcast_event.res",
+			"lastedit": 1728629624,
+			"filesize": 70227,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			]
+		},
+		{
+			"id": "bdzg_characters",
+			"name": "Gura's Character Bundle",
+			"author": "Gura",
+			"version": "0.3.1",
+			"description": "Adds Characters That I And/or the community Wants.\n\nIf You have sugestions on what characters I should Add, Email Me At {bdzg.protogen@gmail.com}\n\n[So far there is 4ish Characters]",
+			"contains": "Contains: 4 characters, 1 scene",
+			"download": "datapacks/bdzg_characters.res",
+			"lastedit": 1728629635,
+			"filesize": 43407,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"AcesProtogenMod-Ver1.1.zip",
+				"SynthModVer1.3.zip",
+				"BarbedandKnottedEquinePenis.zip"
+			],
+			"preview": "datapack_previews/bdzg_characters.png"
 		}
 	]
 }
