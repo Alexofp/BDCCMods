@@ -1255,6 +1255,22 @@
 		"modversion": "1.0.3",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NudityPoliceVer1.0.3.zip"
+	},
+	{
+		"name": "Tighter Holes",
+		"description": "Make your holes tighter!\n\nCurrently only adjustable from the debug menu\nIf you don't set the tightness_mult flag calculations that use it default to 2\nas in twice as tight\n\nvalues less than one and greater than 0 should make your holes looser if you want that too\n\nThanks to ChaoticSaint for the idea!",
+		"author": "Mindstormsman",
+		"modversion": "0.1",
+		"gameversion": "0.1.6",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/TighterHoles.zip"
+	},
+	{
+		"name": "Expanded Plastic Bottle",
+		"description": "An upgraded plastic bottle. The special bottle lining expands, allowing it to store more than the normal plastic bottle could have otherwise. Selling price depends on the contents.\n\nYou can find it in the same place where the plastic bottle is sold at, the medical vendomatts\n\nFuture plans: May add a new sprite or icon to help differentiate this new version of the bottle.\nSuggestion: The mod can help with the extra fluids created from Hypertus mod.",
+		"author": "Justtry123",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ExpandedPlasticBottle.zip"
 	}
 	]
 }
