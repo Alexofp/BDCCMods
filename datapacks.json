@@ -2179,6 +2179,29 @@
 				"MoreUniformsVer6.zip"
 			],
 			"preview": "datapack_previews/Nova.png"
+		},
+		{
+			"id": "afbdccpack",
+			"name": "aF's BDCC Character Pack",
+			"author": "aF",
+			"version": "0.1",
+			"description": "Just some characters so far. Zero thought has been put into balancing them to make them actually fun (one of the characters is level 430+). Cheating and savescumming is reccomended, as that particular character WILL fuck you up. Will be adding to this as I get inspired, may include some characters from older mods, idk.",
+			"contains": "Contains: 2 characters",
+			"download": "datapacks/afbdccpack.res",
+			"lastedit": 1728885136,
+			"filesize": 17304,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"AcesProtogenMod-Ver1.1.zip",
+				"DragonsPlusVer0.9.zip",
+				"FluffbodypartsVer3.zip",
+				"SpinedDragonPenisVer1.zip"
+			]
 		}
 	]
 }
