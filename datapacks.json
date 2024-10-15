@@ -2202,6 +2202,27 @@
 				"FluffbodypartsVer3.zip",
 				"SpinedDragonPenisVer1.zip"
 			]
+		},
+		{
+			"id": "Kai",
+			"name": "Kai the Femboy",
+			"author": "Hyper",
+			"version": "1.0",
+			"description": "No description provided",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/Kai_(1)-1.res",
+			"lastedit": 1728969189,
+			"filesize": 86844,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/Kai.png"
 		}
 	]
 }
