@@ -2223,6 +2223,26 @@
 
 			],
 			"preview": "datapack_previews/Kai.png"
+		},
+		{
+			"id": "angel",
+			"name": "Angel",
+			"author": "Owari",
+			"version": "1.0",
+			"description": "The universal goddess of destruction, bored, she decides to stay at the lewdest prison in the universe, can you best the destroyer? or will she make you her toy?",
+			"contains": "Contains: 2 characters, 3 scenes",
+			"download": "datapacks/angel.res",
+			"lastedit": 1729082537,
+			"filesize": 138956,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			]
 		}
 	]
 }
