@@ -401,14 +401,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BoykisserArtVer1.zip"
 	},
 	{
-		"name": "Max-Maxou weapon vender",
-		"description": "Adds Max to the game as a weapons vender, He'll sell shivs, pipes and upgrade shock batons, There is a quest to get an armor. (update: remade the portraits)\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/maxpreview.png]Click for Preview[/url]",
-		"author": "Fantos (Code), Max-Maxou (Idea/Graphics), Zaxon Rapial (Scenes)",
-		"modversion": "1.2",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Max_mod.zip"
-	},
-	{
 		"name": "Synth Species",
 		"description": "The robot lizard species, Originally made by Vader-San. Comes with a new species and a whole lot of new bodyparts. 3 penis types, 6 tail types, 6 arm types and more.\n[b]Updated for the Alex Update, fixes some new things added, and the return of bald synths[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SynthSpeciesPreview.png]Click for Preview[/url]",
 		"author": "AverageAce",
@@ -1193,14 +1185,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HairRemoval.zip"
 	},
 	{
-		"name": "More Uniforms",
-		"description": "-Ver 6 adds clothing damage as well as various changes or fixes I made a while ago so I forgot what they were.\nAdds a whole bunch of new Uniforms both to prisoners and vendomats\n\nList of Everything Added in the MoreUniforms Mod for BDCC.\n\nUniforms, 3 per Inmate type. Spawns on Inmates. All Uniforms can be Damaged.\n-Inmate Crop-Tops (Laundry Vendomat)\n-Upgraded Inmate Uniform (Laundry Vendomat)\n-Maternity Uniform (Medical Vendomat) (Patched)\n-Topless Uniform (General Vendomat)\n-Bottomless Uniform (General Vendomat) \n\nMisc. Clothing Items.\n-Nipple Tape (Laundry Vendomat) (Ver 6: Can now be Dyed) (I've just given up trying to fix it, doesnt work on flat chests)\n-Pussy Tape (Laundry Vendomat) (Ver 6: Can now be Dyed)\n-Cowprint Bra (Medical Vendomat) (Ver6: Can now bye Dyed)\n-Chest wrappings (Medical Vendomat)\n\nHarnesses, Sold by Announcer\n-Chest Harness\n-6-Point Harness\n-8-Point Harness\n-Full Harness\n-Maternity Harness\n-Max Harness\n-Restrictive Harness\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreUniformsPreview.png]Click for Preview[/url]",
-		"author": "AverageAce & Max-Maxou",
-		"modversion": "6.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreUniformsVer6.zip"
-	},
-	{
 		"name": "The Flamehearts",
 		"description": "(This Mod was made with help from 'Zko12' as a Mod Tester) & (Thanks to Plasma Serval for the Cafe Addition to my Mod!): This Mod That Adds Phoenix and her Sister with now two more quests added~ Totaling 3 normal quests and 1 quest on both paths, the path is dictated from the Transmitter Quest\n\nChangelog:\nthe cafe is mostly complete, aside from the coffee machine being down for the player, the player can be a waiter/waitress! Now able to serve inmates, in both ways~ For some extra money~ be careful however as you may slide into the spotlight, and cause some unwanted attention to you~ (Note the system for the fame is half working just nothing happens when getting high levels of fame... for now ;3)\n\nThis seems like a semi-final update for the cafe, a bit of it still needs to be either added or changed but for now here are the drinks that y'all have been waiting for :3 hopefully y'all enjoy them and, what's this? you get some sort of scrap after drinking the coffee? how peculiar...\n\nAside from that i have replied to an older post so y'all can post jump to my older version if y'all wanna try to get the secret item w/o cheating it in lol and the next update should be 0.5 :3, DM me any bugs or issues or atleast @ me so I can try to help~",
 		"author": "Bloxborne (A.K.A Phoenix)",
@@ -1271,6 +1255,22 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ExpandedPlasticBottle.zip"
+	},
+	{
+		"name": "More Uniforms",
+		"description": "-Ver 6.1: Patched the Topless Uniform conflicting with underwear\n\n-Ver 6 adds clothing damage as well as various changes or fixes I made a while ago so I forgot what they were.\nAdds a whole bunch of new Uniforms both to prisoners and vendomats\n\nList of Everything Added in the MoreUniforms Mod for BDCC.\n\nUniforms, 3 per Inmate type. Spawns on Inmates. All Uniforms can be Damaged.\n-Inmate Crop-Tops (Laundry Vendomat)\n-Upgraded Inmate Uniform (Laundry Vendomat)\n-Maternity Uniform (Medical Vendomat) (Patched)\n-Topless Uniform (General Vendomat)\n-Bottomless Uniform (General Vendomat) \n\nMisc. Clothing Items.\n-Nipple Tape (Laundry Vendomat) (Ver 6: Can now be Dyed) (I've just given up trying to fix it, doesnt work on flat chests)\n-Pussy Tape (Laundry Vendomat) (Ver 6: Can now be Dyed)\n-Cowprint Bra (Medical Vendomat) (Ver6: Can now bye Dyed)\n-Chest wrappings (Medical Vendomat)\n\nHarnesses, Sold by Announcer\n-Chest Harness\n-6-Point Harness\n-8-Point Harness\n-Full Harness\n-Maternity Harness\n-Max Harness\n-Restrictive Harness\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreUniformsPreview.png]Click for Preview[/url]",
+		"author": "AverageAce & Max-Maxou",
+		"modversion": "6.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreUniformsVer6.1.zip"
+	},
+	{
+		"name": "Max Mod",
+		"description": "My Plan for World Domination continues and today we have another updated mod from old times.\nIf you've played Max Mod before all of that is the same, but now with a new look and more sex.\n\nVersion 2 update comes with a major looks overhaul for Max and his Uniform (Check out the More Uniforms Mod btw). \nYou can now also have The Sex with Max (5 different scenes worth).\n\nBe sure to yell at me for all the typos and bugs I missed. And make sure it's the scenes I wrote.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/maxpreview.png]Click for Preview[/url]",
+		"author": "AverageAce",
+		"modversion": "2.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MaxModV2.1.zip"
 	}
 	]
 }
