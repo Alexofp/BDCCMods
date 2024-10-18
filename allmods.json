@@ -1257,20 +1257,28 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreUniformsVer6.1.zip"
 	},
 	{
-		"name": "Max Mod",
-		"description": "My Plan for World Domination continues and today we have another updated mod from old times.\nIf you've played Max Mod before all of that is the same, but now with a new look and more sex.\n\nVersion 2 update comes with a major looks overhaul for Max and his Uniform (Check out the More Uniforms Mod btw). \nYou can now also have The Sex with Max (5 different scenes worth).\n\nBe sure to yell at me for all the typos and bugs I missed. And make sure it's the scenes I wrote.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/maxpreview.png]Click for Preview[/url]",
-		"author": "AverageAce",
-		"modversion": "2.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MaxModV2.1.zip"
-	},
-	{
 		"name": "Nudity Police",
 		"description": "[b]Nudity will not go unpunished![/b]\nA mod focused on adding risk to being nude. Includes new ways to lose and regain your clothes.\n\nMod Features:\n• Guards will approach any inmate walking around naked\n• Defeat or Surrender will result in a special uniform being equipped\nThis new inmate uniform is also a piece of bondage gear\nIt will be hard to remove and block any Exhibitionism perks that require full nudity 🙂\nThe new uniform will NOT block access to your dick/pussy/butt, so you can still have sex while wearing it\n• Random events that make the Player and NPCs lose clothes\n• Punch inmates and take their clothes if you are naked\n\nUPDATE\nNEW:\n• NPC support!\n• Events that force nudity!\n• Steal an inmate's clothes!\n\nCHANGES:\n• New uniform no longer visually hides dicks\nWas having issues during sex scenes where you would be at full Lust and actively railing someone but your penis was still invisible. Schlongs will now be fully visible and accessible while wearing the new equipment. Buttholes and vaginas will be hidden and blocked from sex unless you are horny (Lust > 50)\n• Reduced the chance for a Guard encounter while naked\nPreviously, Guards will always approach you if you were naked. It is now chance-based and increases with high Exposure\n\nFIXED:\n• Extra arms no longer appear when wearing modded gloves\nSupports the following mods:\nStriped Clothing - by Phobos\nMore BDSM Stuff - by DrDurka\n\nI recommend you play with the 'Brutal Dreams' mod as well. It includes more opportunities for inmates to strip each other, therefore you'll be seeing guards apprehend naked inmates more often.\nPing me for bugs and typos\n\nThanks to Mindstormsman, Inmates will now \"try\" to get new clothes from the Laundry Vendomat if they're naked.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/nudepolice.png]Click for preview[/url]",
 		"author": "Lucci",
 		"modversion": "1.2.3",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NudityPoliceVer1.2.3.zip"
+	},
+	{
+		"name": "Max Mod",
+		"description": "My Plan for World Domination continues and today we have another updated mod from old times.\nIf you've played Max Mod before all of that is the same, but now with a new look and more sex.\n\nVersion 2 update comes with a major looks overhaul for Max and his Uniform (Check out the More Uniforms Mod btw). \nYou can now also have The Sex with Max (5 different scenes worth).\n\nBe sure to yell at me for all the typos and bugs I missed. And make sure it's the scenes I wrote.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/maxpreview.png]Click for Preview[/url]",
+		"author": "AverageAce",
+		"modversion": "2.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MaxModV2.2.zip"
+	},
+	{
+		"name": "Affection Check",
+		"description": "Sidebar now displays Affection Level, as well as if the character is a Guard/Nurse/Engineer.\n\nAffection Levels:\nAlly : higher than 50%\nFriend : between 50% to 20%\nNone : between 20% to -20%\nRival : between -20% to -50%\nNemesis : lower than -50%\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AffectionCheck.png]Click for Preview[/url]",
+		"author": "Lucci",
+		"modversion": "1.0.0",
+		"gameversion": "0.1.6",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AffectionCheck.zip"
 	}
 	]
 }
