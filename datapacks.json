@@ -2115,49 +2115,6 @@
 			"preview": "datapack_previews/dumbpuppy.png"
 		},
 		{
-			"id": "BDZG_Voidcast",
-			"name": "bdzg_voidcast_event",
-			"author": "Author: Zyro | Modified: BDZG",
-			"version": "1.0",
-			"description": "Play Voidcast, Win money, Lose Money.\n\nTo start, go to the tile to the left of the announcer.\n\n/>| DISCLAIMER |<\\\nI am not the creator of this datapack and I don't claim any credit to it's creation, I only Modified it to my likings.",
-			"contains": "Contains: 1 scene",
-			"download": "datapacks/bdzg_voidcast_event.res",
-			"lastedit": 1728629624,
-			"filesize": 70227,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-
-			]
-		},
-		{
-			"id": "bdzg_characters",
-			"name": "Gura's Character Bundle",
-			"author": "Gura",
-			"version": "0.3.1",
-			"description": "Adds Characters That I And/or the community Wants.\n\nIf You have sugestions on what characters I should Add, Email Me At {bdzg.protogen@gmail.com}\n\n[So far there is 4ish Characters]",
-			"contains": "Contains: 4 characters, 1 scene",
-			"download": "datapacks/bdzg_characters.res",
-			"lastedit": 1728629635,
-			"filesize": 43407,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-				"AcesProtogenMod-Ver1.1.zip",
-				"SynthModVer1.3.zip",
-				"BarbedandKnottedEquinePenis.zip"
-			],
-			"preview": "datapack_previews/bdzg_characters.png"
-		},
-		{
 			"id": "nova",
 			"name": "New pack",
 			"author": "No author",
@@ -2243,6 +2200,49 @@
 			"requiredMods": [
 
 			]
+		},
+		{
+			"id": "BDZG_Voidcast",
+			"name": "bdzg_voidcast_event",
+			"author": "Author: Zyro | Modified: BDZG",
+			"version": "1.1",
+			"description": "Play Voidcast, Win money, Lose Money.\n\nTo start, go to the tile to the left of the announcer.\n\n/>| DISCLAIMER |<\\\nI am not the creator of this datapack and I don't claim any credit to it's creation, I only Modified it to my likings.",
+			"contains": "Contains: 1 scene",
+			"download": "datapacks/bdzg_voidcast_event.res",
+			"lastedit": 1729230678,
+			"filesize": 91057,
+			"requiredDatapacks": [
+				"bdzg_characters"
+			],
+			"reqDatapackToName": {
+				"bdzg_characters": "Gura's Character Bundle"
+			},
+			"requiredMods": [
+
+			]
+		},
+		{
+			"id": "bdzg_characters",
+			"name": "Gura's Character Bundle",
+			"author": "Gura",
+			"version": "1.4.1 [Main | Sub version | Beta]",
+			"description": "Adds Characters That I And/or the community Wants.\n\nIf You have sugestions on what characters I should Add, Email Me At {bdzg.protogen@gmail.com}\n\n[So far there is 5 Characters]",
+			"contains": "Contains: 5 characters, 1 scene",
+			"download": "datapacks/bdzg_characters.res",
+			"lastedit": 1729230681,
+			"filesize": 91185,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"AcesProtogenMod-Ver1.1.zip",
+				"SynthModVer1.3.zip",
+				"BarbedandKnottedEquinePenis.zip"
+			],
+			"preview": "datapack_previews/bdzg_characters.png"
 		}
 	]
 }
