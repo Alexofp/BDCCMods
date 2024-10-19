@@ -2225,12 +2225,12 @@
 			"id": "bdzg_characters",
 			"name": "Gura's Character Bundle",
 			"author": "Gura",
-			"version": "1.4.1 [Main | Sub version | Beta]",
-			"description": "Adds Characters That I And/or the community Wants.\n\nIf You have sugestions on what characters I should Add, Email Me At {bdzg.protogen@gmail.com}\n\n[So far there is 5 Characters]",
-			"contains": "Contains: 5 characters, 1 scene",
+			"version": "1.5.2 [Main | Sub version | Beta]",
+			"description": "Adds Characters That I And/or the community Wants.\n\nIf You have sugestions on what characters I should Add, Email Me At {bdzg.protogen@gmail.com}\n\n[So far there is 6 Characters and 6 Scenes]\n\nContributions:\nHyppotheticallyHyper",
+			"contains": "Contains: 6 characters, 7 scenes",
 			"download": "datapacks/bdzg_characters.res",
-			"lastedit": 1729230681,
-			"filesize": 91185,
+			"lastedit": 1729328050,
+			"filesize": 234615,
 			"requiredDatapacks": [
 
 			],
