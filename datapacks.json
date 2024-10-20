@@ -2243,6 +2243,27 @@
 				"BarbedandKnottedEquinePenis.zip"
 			],
 			"preview": "datapack_previews/bdzg_characters.png"
+		},
+		{
+			"id": "waffle_dnd_characters",
+			"name": "Waffle's DnD Character",
+			"author": "AbusiveWaffle",
+			"version": "1.0",
+			"description": "Figured I'd make one of my DnD characters. Why? I was bored. Plus he's got a story that I think fits into this game pretty decently.\n\nI'll add scenes where he reveals his story if I can find the time to learn the scene creator, don't expect good writing if I'm able to learn it lmao",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/waffle_dnd_characters.res",
+			"lastedit": 1729400910,
+			"filesize": 7286,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"MoreUniformsVer6.1.zip"
+			],
+			"preview": "datapack_previews/waffle_dnd_characters.png"
 		}
 	]
 }
