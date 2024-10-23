@@ -1049,14 +1049,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ModsOptions.zip"
 	},
 	{
-		"name": "Equine Pussy",
-		"description": "This adds the Equine Pussy in the vagina parts available. There's no actual visible parts, but the descriptions are different, and it naturally handles bigger volumes and is easier to fit things in.\nIf you find any bug of course notify me, and I'm listening to suggestions.\n\nThis version have both normal and Hypertus-compatible parts, in addition to the new support for the BRA (Mods Options), meaning there is no need for more than one version of the mod if you want NPCs to have equine pussies, just change the percentage with the BRA, it even works with Hypertus for NPCs.\n\n[b]Delete all the old versions of the mod[/b], since now you can use the BRA to edit the percentage of Equine NPCs having equine pussies, by default it's 0% and it you don't use the BRA you can't easily change that proportion, but it's not necessary for this mod to work.\nTechnically you could change the flags manually, the important part is RealValue (EquinePercent is basically just to make it more readable for people), if you make RealValue \"1\" the percentage of Equine NPCs having an equine pussy is 50%, \"0.333\" is 25%, \"4\" is 75%, and a billion is ~100%",
-		"author": "Raznaak",
-		"modversion": "2.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EquinePussy.zip"
-	},
-	{
 		"name": "Bulldog Replacer",
 		"description": "Do you fucking hate the bulldog head like I do? Now its gone.\nDirectly edits the bulldog head .gd file to replace all instances of the bulldog head with the wolf head, meaning it works retroactively on any existing characters.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BulldogRemover.png]Click for preview[/url]",
 		"author": "AverageAce",
@@ -1295,6 +1287,14 @@
 		"modversion": "2.2",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CaninePussy_v2.2.zip"
+	},
+	{
+		"name": "Equine Pussy",
+		"description": "[b]Required mod: FoxLib, this is mandatory!!![/b]\nDescription: This adds the Equine Pussy in the vagina parts available. There's no actual visible parts, but the descriptions are different, and it naturally handles bigger volumes and is easier to fit things in.\nIf you find any bug of course notify me, and I'm listening to suggestions.\n\nSame changes as the Canine pussy, go see it for the details.\n\nImportant Note: If a species has access to both the Canine and the Equine pussies (nominally the Hellhound and the Laquine as of right now), with how the code behind the percentages works it's better if you use one or the other (or both at 100% for a 50/50 chance ultimately).\n\nIf you want to do some maths and perfectly balance them, the formula for each of my mod is chance = (100/(100-percentage))-1, but if the percentage is 100% the chance becomes 99,999,999,999 because of how the weighted options work in the game...\nSo, with the normal vagina's chance being always 1, add the chance of all three and look at the chance compared to the total.\n\nLike, if you put one of them at 100% and the other at 50%, the 50% will be mostly ignored (1 chances in a hundred billions...); if you put both at 50% the chances are going to be 33% chance of each of the three available vaginas right now (normal at 1, canine at 1, and equine at 1, so 1 chance on three for each of them); at 75% chance both there's 14% chance of the normal vagina still spawning (normal at 1, canine at 3, equine at 3); if you put 95% in canine and 25% in the other, the canine with have 19 chances (93% real chance), the equine 0.333 chances (1.6% real chance...) and the normal 1 (5% real chance), etc.\n\nPerhaps I'll make them take the other pussies into account, but for now only two species are affected so just choose one pussy or the other, or put them both at 100% for a 50/50 chance...\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EquinePussy.png]Click for Preview[/url]",
+		"author": "Raznaak",
+		"modversion": "2.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EquinePussy_v2.2.zip"
 	}
 	]
 }
