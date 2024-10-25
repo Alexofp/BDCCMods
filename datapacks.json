@@ -2130,29 +2130,6 @@
 			]
 		},
 		{
-			"id": "bdzg_characters",
-			"name": "Gura's Character Bundle",
-			"author": "Gura",
-			"version": "1.5.2 [Main | Sub version | Beta]",
-			"description": "Adds Characters That I And/or the community Wants.\n\nIf You have sugestions on what characters I should Add, Email Me At {bdzg.protogen@gmail.com}\n\n[So far there is 6 Characters and 6 Scenes]\n\nContributions:\nHyppotheticallyHyper",
-			"contains": "Contains: 6 characters, 7 scenes",
-			"download": "datapacks/bdzg_characters.res",
-			"lastedit": 1729328050,
-			"filesize": 234615,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-				"AcesProtogenMod-Ver1.1.zip",
-				"SynthModVer1.3.zip",
-				"BarbedandKnottedEquinePenis.zip"
-			],
-			"preview": "datapack_previews/bdzg_characters.png"
-		},
-		{
 			"id": "waffle_dnd_characters",
 			"name": "Waffle's DnD Character",
 			"author": "AbusiveWaffle",
@@ -2268,6 +2245,32 @@
 				"rueshairskin.zip"
 			],
 			"preview": "datapack_previews/ruelanesra.png"
+		},
+		{
+			"id": "bdzg_characters",
+			"name": "Gura's Character Bundle",
+			"author": "Gura",
+			"version": "1.6.2 [Main | Sub version | Beta]",
+			"description": "Adds Characters That I And/or the community Wants.\n\nIf You have sugestions on what characters I should Add, Email Me At {bdzg.protogen@gmail.com}\n\n[So far there is 7 Characters and 7 Scenes]\n\nContributions:\nHyppotheticallyHyper {Kai}\nFluck Lynk {Scenes}\nNiaon {Pipipi}",
+			"contains": "Contains: 7 characters, 8 scenes",
+			"download": "datapacks/bdzg_characters.res",
+			"lastedit": 1729840885,
+			"filesize": 246323,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"AcesProtogenMod-Ver1.1.zip",
+				"SynthModVer1.3.zip",
+				"BarbedandKnottedEquinePenis.zip",
+				"HyenaParts.zip",
+				"FluffbodypartsVer3.zip",
+				"AvaliSpeciesVer2.zip"
+			],
+			"preview": "datapack_previews/bdzg_characters.png"
 		}
 	]
 }
