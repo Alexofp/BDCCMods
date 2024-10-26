@@ -2271,6 +2271,29 @@
 				"AvaliSpeciesVer2.zip"
 			],
 			"preview": "datapack_previews/bdzg_characters.png"
+		},
+		{
+			"id": "maevesbabeswillow",
+			"name": "Maeve's Babes Willow",
+			"author": "Maeve MoonBeam",
+			"version": "1.0",
+			"description": "I'm not entirely sure what all mods or datapacks are needed at this point, tried to list what I could remember.",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/maevesbabeswillow.res",
+			"lastedit": 1729961069,
+			"filesize": 11817,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"PossumSpeciesVer0.9.zip",
+				"HypertusR6.zip",
+				"HypertusSpeciesCompatibilityLayersR3.zip"
+			],
+			"preview": "datapack_previews/maevesbabeswillow.png"
 		}
 	]
 }
