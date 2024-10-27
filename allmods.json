@@ -1193,22 +1193,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ModularDialoguePatch.zip"
 	},
 	{
-		"name": "FoxLib",
-		"description": "\n[center][color=#00FFFF][b][shake rate=5 level=7][[[[/shake] Modding enhancer for BDCC [shake rate=5 level=7]]]][/shake][/b][/color] [/center]\n[center][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img] [/center]\n[center][color=#FF8000][u]/!\\[/u] Don't forget to delete old versions of the mod when updating [u]/!\\[/u][/color] [/center]\n\nAdd many features and abilities for BDCC mods such as:\n- Adding custom CrotchBlock for datapacks\n- Adding new perks level tiers\n- Controling more game UI elements\n- Saving NPC Skills/Perk data\n- Handling fatal errors via GUI\n- Configuring mods via in game Menu\n- Registering custom entries to the ModularDialogue system\n\nFoxLib also additionaly expose more capabilities to datapacks too, please check the in-game editor to see the new blocks FoxLib adds! [wave amp=10 freq=4]:D[/wave]\n\nFoxLib will also use code generation instead of replacing game code for maximum compatibility with your existing mods, you can see in the file list that FoxLib doesn't replace any game files!\n\n[color=#00FFFF]F[/color]ox[color=#00FFFF]L[/color]ib [color=#00FFFF]M[/color]od[color=#00FFFF]H[/color]elper (Aka. [color=#00FFFF]FLMH[/color].py) is a build tool for developers to ease development of FoxLib mods. It provide warnings to improve your mods code and is the current tool used to package FoxLib!\n\nFor more info on how to use FoxLib API or FoxLib ModHelper, please check the bundled documentation!\n(Or you can read FoxLib source-code by extracting it)\n[center][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img] [/center]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FoxLib.png]Click for preview[/url]",
-		"author": "Fox2Code",
-		"modversion": "0.2.1",
-		"gameversion": "0.1.6",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxLib_v0.2.1.zip"
-	},
-	{
-		"name": "FoxedBDCC",
-		"description": "Add more feature to BDCC using FoxLib (Note: Don't forget to download FoxLib to use this mod)\n\nFor now it only add one end game skills in the fertility tab\n\nThis mod is the reason why I made FoxLib, and felt bad uploading FoxLib without a mod that uses it too",
-		"author": "Fox2Code",
-		"modversion": "0.1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxedBDCC_v0.1.0.zip"
-	},
-	{
 		"name": "Brutal Dreams Correctional Center",
 		"description": "Makes the game more difficult!\n\nInmates you encounter have a 5% chance to attack you\n-    down from what felt like 100%, even on the default 30 pawns\n-    on higher pawn counts you will have more encounters because you encounter more pawns\n\nAn Inmate will chase you down to attack\n-    I am well aware that that Inmate can be an absolute Bastard and attack you again immediately after kicking your ass\n-    just beat their ass harder, it's Brutal Dreams and this is annoying at best\n-    Trust me, it can be so much worse than even what the last version was\n\nCharacters that lose their clothes will go to the Laundry room to replace them!\n-    they do this by checking if they have all of their default equipment\n-    so if your modded/datapack character loses their Triple XL Bra with built in coffee maker they will get a new one at the laundry!\n\nThis mod [b]No longer requires[/b] Modular Dialogue Patch",
 		"author": "Mindstormsman",
@@ -1303,6 +1287,22 @@
 		"modversion": "1.3.2",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NudityPoliceVer1.3.2.zip"
+	},
+	{
+		"name": "FoxLib",
+		"description": "Modding enhancer for BDCC\n\nThis new release contain the following new features:\nAdd Undo Button in mod options (Thanks Raznaak for the suggestion)\nAdd \"Show advanced mod options\" in options\nMake mod options categories collapsible (Thanks Raznaak for the suggestion)\nAdd API to prevent your mod from being loaded twice\nAdd FoxLibDatapackUpdate trigger for datapacks\nAdd new datapack blocks so you can add/remove perks to PC/NPCs  (Thanks Wulfgar7847 for the suggestion)\nAdd new datapack blocks so you can register custom items in datapacks (Very basic for now, will be developed over time)\nFLMH now support the new FLMH_rahi_preview build option, to make it easier for Rahi to add your mods into the online mod list.\nMisc fixes to FoxLib and FLMH\n\nFoxLib ModHelper is continuously improving, the ./FLMH.py trace0 command should be stable enough now for general debug use.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FoxLib.png]Click for preview[/url]",
+		"author": "Fox2Code",
+		"modversion": "0.2.1",
+		"gameversion": "0.1.6",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxLib_v0.3.0.zip"
+	},
+	{
+		"name": "FoxedBDCC",
+		"description": "Add more feature to BDCC using FoxLib (Note: Don't forget to download FoxLib to use this mod)\n\nFor now it only add one end game skills in the fertility tab\n\nThis mod is the reason why I made FoxLib, and felt bad uploading FoxLib without a mod that uses it too",
+		"author": "Fox2Code",
+		"modversion": "0.1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxedBDCC_v0.1.0.zip"
 	}
 	]
 }

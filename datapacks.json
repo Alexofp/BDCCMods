@@ -2294,6 +2294,27 @@
 				"HypertusSpeciesCompatibilityLayersR3.zip"
 			],
 			"preview": "datapack_previews/maevesbabeswillow.png"
+		},
+		{
+			"id": "foxlibtest",
+			"name": "FoxLib Test Datapack",
+			"author": "Fox2code",
+			"version": "1.0",
+			"description": "Test Datapack for FoxLib features",
+			"contains": "Contains: 2 scenes, 1 quest",
+			"download": "datapacks/foxlibtest.res",
+			"lastedit": 1730059804,
+			"filesize": 9009,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"FoxLib"
+			],
+			"preview": "datapack_previews/foxlibtest.png"
 		}
 	]
 }
