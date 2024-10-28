@@ -1292,7 +1292,7 @@
 		"name": "FoxLib",
 		"description": "Modding enhancer for BDCC\n\nThis new release contain the following new features:\nAdd Undo Button in mod options (Thanks Raznaak for the suggestion)\nAdd \"Show advanced mod options\" in options\nMake mod options categories collapsible (Thanks Raznaak for the suggestion)\nAdd API to prevent your mod from being loaded twice\nAdd FoxLibDatapackUpdate trigger for datapacks\nAdd new datapack blocks so you can add/remove perks to PC/NPCs  (Thanks Wulfgar7847 for the suggestion)\nAdd new datapack blocks so you can register custom items in datapacks (Very basic for now, will be developed over time)\nFLMH now support the new FLMH_rahi_preview build option, to make it easier for Rahi to add your mods into the online mod list.\nMisc fixes to FoxLib and FLMH\n\nFoxLib ModHelper is continuously improving, the ./FLMH.py trace0 command should be stable enough now for general debug use.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FoxLib.png]Click for preview[/url]",
 		"author": "Fox2Code",
-		"modversion": "0.2.1",
+		"modversion": "0.3.0",
 		"gameversion": "0.1.6",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxLib_v0.3.0.zip"
 	},
