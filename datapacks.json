@@ -2315,6 +2315,26 @@
 				"FoxLib"
 			],
 			"preview": "datapack_previews/foxlibtest.png"
+		},
+		{
+			"id": "irisdatapack",
+			"name": "Iris",
+			"author": "JokeMysterious",
+			"version": "Any",
+			"description": "Just a datapack for a (hopefully) upcoming mod",
+			"contains": "Contains: 1 character, 1 scene, 1 quest",
+			"download": "datapacks/irisdatapack.res",
+			"lastedit": 1730178537,
+			"filesize": 8468,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"AcesAvairyAddonVer0.99.zip"
+			]
 		}
 	]
 }
