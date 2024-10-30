@@ -2335,6 +2335,29 @@
 			"requiredMods": [
 				"AcesAvairyAddonVer0.99.zip"
 			]
+		},
+		{
+			"id": "Aaron",
+			"name": "My oc (adding more when i get bored again)",
+			"author": "Korumaki",
+			"version": "1.0",
+			"description": "Just wanted to add my oc",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/aaron.res",
+			"lastedit": 1730265884,
+			"filesize": 6552,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"FluffbodypartsVer3.zip",
+				"MoreUniformsVer6.1.zip",
+				"LycanrocSpeciesVer0.9.zip"
+			],
+			"preview": "datapack_previews/aaron.png"
 		}
 	]
 }

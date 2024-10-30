@@ -1303,6 +1303,14 @@
 		"modversion": "0.1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxedBDCC_v0.1.0.zip"
+	},
+	{
+		"name": "Inconvenient Showers",
+		"description": "A small, simple mod focused on making bodywritings more inconvenient to remove.\nGenerally makes the game harder.\n\nA basic shower now costs 1 workcredit, and only restores stamina and removes bodyfluids.\nUsing soap costs an extra 3 credits in order to remove bodywritings.\n\n\nThis mod overwrites TakingAShowerScene, so it will have compatibility problems with anything that also overwrites it...\n\nMod Features:\n• expensive ass soap.",
+		"author": "Calumny",
+		"modversion": "0.1",
+		"gameversion": "0.1.6",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/InconvenientShowers.zip"
 	}
 	]
 }
