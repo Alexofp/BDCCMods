@@ -1311,6 +1311,14 @@
 		"modversion": "0.1",
 		"gameversion": "0.1.6",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/InconvenientShowers.zip"
+	},
+	{
+		"name": "Intimidate",
+		"description": "First quick draft of something that I wanted for a long time (and I'm sure I'm far from the only one): to remove an NPC from the game after an encounter, without needing to go through the habitual hassle.\nThis first version is more of a proof of concept, it adds an \"Intimidate\" button when you talk to someone or after you defeat them (it's in the first spot for some reason, I'll check if I can put it elsewhere in a future version), and after a confirmation the NPC runs away and never is seen again.\n\nThe dialogs are practically nonexistent right now and you always succeed, but I plan to add to this mod eventually (I just wanted to share it right now for those who want something like that, then expand it as I get used with the systems I'm not yet used to):\n\nThe next versions will be taking into account your relevant reputation versus theirs (Alpha and Inmate/Staff) to make things have more or less chance to work depending on the difference, the relation between you two (an Ally wouldn't want to lose you and a Nemesis would want to take revenge, people inbetween care less), and you'd have more chance to make them flee after you've won a fight than just by talking. Perhaps even bribing or other less aggressive methods for people who don't plan to be dominant in their playthrough.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/Intimidate.png]Click for preview[/url]",
+		"author": "Raznaak",
+		"modversion": "0.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Intimidate_v0.1.zip"
 	}
 	]
 }
