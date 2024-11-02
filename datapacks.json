@@ -2382,6 +2382,30 @@
 				"PossumSpeciesVer0.9.zip"
 			],
 			"preview": "datapack_previews/Some Hotties.png"
+		},
+		{
+			"id": "mauw",
+			"name": "Popopo",
+			"author": "Niaon",
+			"version": "1.0",
+			"description": "No description provided",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/popopo.res",
+			"lastedit": 1730536026,
+			"filesize": 5770,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"AvaliSpeciesVer2.zip",
+				"Hair_v1_.20.zip",
+				"FluffbodypartsVer3.zip",
+				"HypertusSpeciesCompatibilityLayersR3.zip"
+			],
+			"preview": "datapack_previews/mauw.png"
 		}
 	]
 }
