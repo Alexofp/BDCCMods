@@ -2359,6 +2359,29 @@
 				"NudityPoliceVer1.3.2.zip"
 			],
 			"preview": "datapack_previews/bdzg_characters.png"
+		},
+		{
+			"id": "Some Hotties",
+			"name": "Some Hotties",
+			"author": "MakoDaShark",
+			"version": "1.0",
+			"description": "No description provided",
+			"contains": "Contains: 3 characters",
+			"download": "datapacks/mackenzie.res",
+			"lastedit": 1730525520,
+			"filesize": 19856,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"HairSkinsBatch1.zip",
+				"FluffbodypartsVer3.zip",
+				"PossumSpeciesVer0.9.zip"
+			],
+			"preview": "datapack_previews/Some Hotties.png"
 		}
 	]
 }
