@@ -1895,27 +1895,6 @@
 			"preview": "datapack_previews/scpinmates.png"
 		},
 		{
-			"id": "Vexipc",
-			"name": "Vexi",
-			"author": "PC",
-			"version": "Vex",
-			"description": "All a mf need in they life is a hot dom gaurd gf",
-			"contains": "Contains: 1 character",
-			"download": "datapacks/vexipc.res",
-			"lastedit": 1728121348,
-			"filesize": 7916,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-
-			],
-			"preview": "datapack_previews/vexipc.png"
-		},
-		{
 			"id": "natscharacters",
 			"name": "Nat's Character Pack",
 			"author": "NatRobloxian",
@@ -2406,6 +2385,27 @@
 				"HypertusSpeciesCompatibilityLayersR3.zip"
 			],
 			"preview": "datapack_previews/mauw.png"
+		},
+		{
+			"id": "pc_characters",
+			"name": "PC Characters",
+			"author": "Pointless_Circle",
+			"version": "2econd",
+			"description": "Adds 2 Characters.\n\nVexi - A Lynx guard - LV. 42\nAmirah - A Tiger engineer - LV. 46\n\nRequires the \"Clothes_Megapack\" mod.",
+			"contains": "Contains: 2 characters",
+			"download": "datapacks/vexipc.res",
+			"lastedit": 1730715181,
+			"filesize": 14966,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"Clothes_Megapack.zip"
+			],
+			"preview": "datapack_previews/pc_characters.png"
 		}
 	]
 }
