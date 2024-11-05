@@ -1105,14 +1105,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BreedableAlexV2.zip"
 	},
 	{
-		"name": "More BDSM stuff",
-		"description": "Adds more restraints and toys\n\nAdded a menu for styling leather mittens.\n3 types of sleeves, 6 types of mittens. Changed the cuffs visuals a bit.\nEverything is sold by Announcer.\n\nButt Plug\nPink vibrator\nLeather Blindfold\nLeather Bondage Mittens (extended)\nLeather Wrist Cuffs (fixed)\nLeather Ankle Cuffs\nHarness\nLatex Suit (ring slot!!)\nLong Latex Mittens\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreBDSMstuff.png]Click for preview[/url]",
-		"author": "DrDurka",
-		"modversion": "0.3",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreBDSMstuff.zip"
-	},
-	{
 		"name": "Hypertus",
 		"description": "[b]WARNING: This contains hyper stuff, if you dislike it then leave[/b]\n\nHypertus (AKA big numbers goes brrrr) adds new bodyparts that mirror the looks of bodyparts and have new features to play with.\n\nThese features includes:\n * New skill tree and perks for categories of bodyparts. Gain XP everyday!\n * Go beyond the limit vanilla gives.\n * Compatibility layers to add additional bodyparts and override species with easy JSON format!\n\nIf you want NPC to have those bodyparts then please install additional mod; Hypertus Species Compatibility Layers.\n\nHas compatibility layer between these mods:\n - Synth Bodyparts\n - Fluffy Bodyparts\n - Avali Species Bodyparts\n - Ace's Aviary Addon Bodyparts\n - Trans Scar Chest\n - Crow Species Bodyparts\n - Deer Species Bodypart\n - Knotted Horse Cock\n - Barbed Equine Penis\n - Spined Dragon Penis\n\nIf you have any feedback send it in #mods-discussion and ping me,\nor open an issue on [url]https://github.com/CanInBad/HypertusMod/issues[/url].\n\n# Changelog\n * fixed deer species using the wrong module id [url=https://github.com/CanInBad/HypertusMod/issues/8]#8[/url]\n * fixed skin path since it is case senstive [url=https://github.com/CanInBad/HypertusMod/issues/9]#9[/url]\n * bump version",
 		"author": "CanInBad",
@@ -1319,6 +1311,14 @@
 		"modversion": "0.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Intimidate_v0.1.zip"
+	},
+	{
+		"name": "More BDSM stuff",
+		"description": "Adds more restraints and toys\n\nRedesigned the menu for items.\nFirst, it is now a full-fledged code that can be used in any items (I hope you don't need more than a two-dimensional array).\nSecondly, now such items keep their appearance and on the npcs, BUT for now the item needs to be customized in your inventory. (for leather gloves made the text in the description. the others are not so branchy and I'm lazy).\n\nMade a small plug for leg models to less conflict with mods for species\n\nRedrew the latex suit, and added 2 derivative items from it.\n\nBugs, ideas, suggestions via ping please, I'm always happy to feedback.\n\nEverything is sold by Announcer.\n\nButt Plug\nPink vibrator\nLeather Blindfold\nLeather Bondage Mittens (extended)\nLeather Wrist Cuffs\nLeather Ankle Cuffs\nHarness (fixed)\nLatex Suit (ring slot!!) (redraw)\nLatex Mittens (extended) (new)\nLatex Gloves (extended) (new)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreBDSMstuff.png]Click for preview[/url]",
+		"author": "DrDurka",
+		"modversion": "0.31",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreBDSMstuff.zip"
 	}
 	]
 }
