@@ -2002,29 +2002,6 @@
 			"preview": "datapack_previews/dumbpuppy.png"
 		},
 		{
-			"id": "nova",
-			"name": "New pack",
-			"author": "No author",
-			"version": "0.2",
-			"description": "No description provided",
-			"contains": "Contains: 5 characters, 1 scene",
-			"download": "datapacks/nova.res",
-			"lastedit": 1728797690,
-			"filesize": 1212976,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-				"EditedPawsVer1.zip",
-				"FluffyBodypartsVer2.zip",
-				"MoreUniformsVer6.zip"
-			],
-			"preview": "datapack_previews/Nova.png"
-		},
-		{
 			"id": "afbdccpack",
 			"name": "aF's BDCC Character Pack",
 			"author": "aF",
@@ -2406,6 +2383,29 @@
 				"Clothes_Megapack.zip"
 			],
 			"preview": "datapack_previews/pc_characters.png"
+		},
+		{
+			"id": "nova",
+			"name": "haunting",
+			"author": "No author",
+			"version": "0.2",
+			"description": "No description provided",
+			"contains": "Contains: 5 characters, 3 scenes",
+			"download": "datapacks/nova.res",
+			"lastedit": 1730959531,
+			"filesize": 1216217,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"EditedPawsVer1.zip",
+				"FluffyBodypartsVer2.zip",
+				"MoreUniformsVer6.zip"
+			],
+			"preview": "datapack_previews/Nova.png"
 		}
 	]
 }
