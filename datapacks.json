@@ -1895,26 +1895,6 @@
 			"preview": "datapack_previews/scpinmates.png"
 		},
 		{
-			"id": "natscharacters",
-			"name": "Nat's Character Pack",
-			"author": "NatRobloxian",
-			"version": "1.3",
-			"description": "a Datapack that includes some of my OCs or joke/meme encounters (3 ocs and 4 joke/meme characters are in this pack atm)",
-			"contains": "Contains: 7 characters",
-			"download": "datapacks/natscharacters.res",
-			"lastedit": 1728285639,
-			"filesize": 1967980,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-				"Clothes_Megapack.zip"
-			]
-		},
-		{
 			"id": "The_Dangens",
 			"name": "The Dangens",
 			"author": "Gura",
@@ -2406,6 +2386,27 @@
 				"MoreUniformsVer6.zip"
 			],
 			"preview": "datapack_previews/Nova.png"
+		},
+		{
+			"id": "natscharacters",
+			"name": "Nat's Character Pack",
+			"author": "NatRobloxian",
+			"version": "1.4",
+			"description": "a Datapack that includes some of my OCs or joke/meme encounters (4 ocs and 5 joke/meme characters are in this pack atm)",
+			"contains": "Contains: 9 characters",
+			"download": "datapacks/natscharacters.res",
+			"lastedit": 1731132219,
+			"filesize": 2349583,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"Clothes_Megapack.zip",
+				"LorianHair.zip"
+			]
 		}
 	]
 }
