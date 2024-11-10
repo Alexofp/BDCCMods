@@ -1305,20 +1305,20 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Intimidate_v0.1.zip"
 	},
 	{
-		"name": "More BDSM stuff",
-		"description": "Adds more restraints and toys\n\nRedesigned the menu for items.\nFirst, it is now a full-fledged code that can be used in any items (I hope you don't need more than a two-dimensional array).\nSecondly, now such items keep their appearance and on the npcs, BUT for now the item needs to be customized in your inventory. (for leather gloves made the text in the description. the others are not so branchy and I'm lazy).\n\nMade a small plug for leg models to less conflict with mods for species\n\nRedrew the latex suit, and added 2 derivative items from it.\n\nBugs, ideas, suggestions via ping please, I'm always happy to feedback.\n\nEverything is sold by Announcer.\n\nButt Plug\nPink vibrator\nLeather Blindfold\nLeather Bondage Mittens (extended)\nLeather Wrist Cuffs\nLeather Ankle Cuffs\nHarness (fixed)\nLatex Suit (ring slot!!) (redraw)\nLatex Mittens (extended) (new)\nLatex Gloves (extended) (new)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreBDSMstuff.png]Click for preview[/url]",
-		"author": "DrDurka",
-		"modversion": "0.31",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreBDSMstuff.zip"
-	},
-	{
 		"name": "Nudity Police",
 		"description": "[b]Nudity will not go unpunished![/b]\nA mod focused on adding risk to being nude. Includes new ways to lose and regain your clothes.\n\n[b]Update: 2024-NOV-03[/b]\nAdded: Proper Resist/Fight option during first encounter with Guards\nfor more roleplay options (Suggested by panzertigre)\nAdded: Confront the inmate that steals your clothes when you wake up\nAdded: Mod Compatibility - Inconvenient Showers - by Calumny\ncheck the Dressing Room near the Gym\nChanged: straitjacket restraint difficulty\nChanged: Clothing Damage after fights\n\n[b]Mod Features:[/b]\nGuards will approach inmates walking around naked\nDefeat or Surrender will result in a special uniform being equipped \nThis new inmate uniform is also a piece of bondage gear\nIt will be hard to remove and block any Exhibitionism perks that require full nudity 🙂\nThe new uniform will NOT fully block access to your dick/pussy/butt/boobs\nParts become accessible when Lust>50, or if new uniform is damaged\nNew events that make the Player and NPCs lose all clothing\nAbility to steal another inmate's clothes \nAvailable after a fight, or when an inmate is incapacitated\nClothing damage after combat\nNaked inmates will try to get new clothes from the Laundry Vendomat (Thanks to Mindstormsman)\n\nPing me for bugs and typos\n\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/nudepolice.png]Click for preview[/url]",
 		"author": "Lucci",
 		"modversion": "1.3.5",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NudityPoliceVer1.3.5.zip"
+	},
+	{
+		"name": "More BDSM stuff",
+		"description": "Adds more restraints and toys.\n\nFixed everything I could find.\n \nI rewrote the code of the menu, now it saves the settings and allows to change them from inventory.\n\nAdjusted the compatibility with Nudity Police mod.\n\nBasic customization for latex gloves and mittens now with stockings.\n\nSpecial thanks to @ralanost for the bug report .\n\nEverything is sold by Announcer.\n\nButt Plug\nPink vibrator\nLeather Blindfold\nLeather Bondage Mittens (extended)\nLeather Wrist Cuffs (fix)\nLeather Ankle Cuffs (fix)\nHarness\nLatex Suit (ring slot!!) (fix)\nLatex Mittens (extended) (fix)\nLatex Gloves (extended) (fix)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreBDSMstuff.png]Click for preview[/url]",
+		"author": "DrDurka",
+		"modversion": "0.32",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreBDSMstuff.zip"
 	}
 	]
 }

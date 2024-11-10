@@ -2395,7 +2395,7 @@
 			"description": "a Datapack that includes some of my OCs or joke/meme encounters (4 ocs and 5 joke/meme characters are in this pack atm)",
 			"contains": "Contains: 9 characters",
 			"download": "datapacks/natscharacters.res",
-			"lastedit": 1731132219,
+			"lastedit": 1731132520,
 			"filesize": 2349583,
 			"requiredDatapacks": [
 
@@ -2407,6 +2407,31 @@
 				"Clothes_Megapack.zip",
 				"LorianHair.zip"
 			]
+		},
+		{
+			"id": "yourkoboldsfnaf",
+			"name": "Five Night's At Freddy's: Your Kobold Edition",
+			"author": "YourKobold",
+			"version": "1.0",
+			"description": "A mod with the Fnaf Characters and multiple involved scenes with them. This is very heavily leaned towards submissive male boykissers. Oh and the characters fuck hard and mulitple times. \n\nYou can find the one and only... YourKobold, hanging out between the stairs by the cellblocks, and he can give information on the animatronics that do get a bit quirky at night. I made this kind of for myself, and also out of light frustration that there wasn't any other fnaf packs. It has Foxy, Freddy, Chica, Bonnie, and me as an informant, and maybe as a quest giver in the future.\n\nI'm a little stupid so the mods might be an issue. Check the characters, you might need to replace a part or two.    ",
+			"contains": "Contains: 5 characters, 6 scenes",
+			"download": "datapacks/yourkoboldsfnaf.res",
+			"lastedit": 1731222587,
+			"filesize": 134579,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"Rabbit_Species.zip",
+				"Rat_Species_2.1.zip",
+				"AcesAvairyAddonVer0.99.zip",
+				"HypertusR6.zip",
+				"SynthModVer1.3-B.zip"
+			],
+			"preview": "datapack_previews/yourkoboldsfnaf.png"
 		}
 	]
 }
