@@ -1217,14 +1217,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreUniformsVer6.1.zip"
 	},
 	{
-		"name": "Max Mod",
-		"description": "My Plan for World Domination continues and today we have another updated mod from old times.\nIf you've played Max Mod before all of that is the same, but now with a new look and more sex.\n\nVersion 2 update comes with a major looks overhaul for Max and his Uniform (Check out the More Uniforms Mod btw). \nYou can now also have The Sex with Max (5 different scenes worth).\n\nBe sure to yell at me for all the typos and bugs I missed. And make sure it's the scenes I wrote.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/maxpreview.png]Click for Preview[/url]",
-		"author": "AverageAce",
-		"modversion": "2.2",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MaxModV2.2.zip"
-	},
-	{
 		"name": "Affection Check",
 		"description": "Sidebar now displays Affection Level, as well as if the character is a Guard/Nurse/Engineer.\n\nAffection Levels:\nAlly : higher than 50%\nFriend : between 50% to 20%\nNone : between 20% to -20%\nRival : between -20% to -50%\nNemesis : lower than -50%\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AffectionCheck.png]Click for Preview[/url]",
 		"author": "Lucci",
@@ -1319,6 +1311,22 @@
 		"modversion": "1.3.6",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NudityPoliceVer1.3.6.zip"
+	},
+	{
+		"name": "Max Mod",
+		"description": "My Plan for World Domination continues and today we have another updated mod from old times.\nIf you've played Max Mod before all of that is the same, but now with a new look and more sex.\n\nVersion 2 update comes with a major looks overhaul for Max and his Uniform (Check out the More Uniforms Mod btw). \nYou can now also have The Sex with Max (5 different scenes worth).\n\nBe sure to yell at me for all the typos and bugs I missed. And make sure it's the scenes I wrote. \n[b]Fixed some more outdated code causing crashes[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/maxpreview.png]Click for Preview[/url]",
+		"author": "AverageAce",
+		"modversion": "2.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MaxModV2.2.zip"
+	},
+	{
+		"name": "Plantigrade Paw replacer",
+		"description": "In my on-going effort to just flat out remove humans from the game, I have gone ahead and replaced the terrible human feet legs with paws.\nThis is a replacer, so any existing NPC will use the new legs. You should also probably disable humans from your spawn lists and datapacks.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PlantigradePawReplacer.png]Click for Preview[/url]",
+		"author": "AverageAce",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PlantigradePawReplacer.zip"
 	}
 	]
 }
