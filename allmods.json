@@ -1327,6 +1327,30 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PlantigradePawReplacer.zip"
+	},
+	{
+		"name": "NPC Anus Womb",
+		"description": "This adds a copy of the anus womb to the dynamic NPC generation so that approximately half the boys (any NPC without a vagina) and about a quarter of the girls (any NPC with a vagina) spawn with one\nNote: it shows up in character creation and I dont have time to fix it.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NPCAnalWomb.png]Click for Preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NPCAnalWomb.zip"
+	},
+	{
+		"name": "Equine Penis Collection",
+		"description": "A grouped mod for the various equine penis mods in a single file with skin support for almost all skins on each option. Will create a duplicate entry of the deer penis if using the deer mod shrug\n\nAdditionally thanks to @Raznaak will no longer add cocks to NPC's that shouldnt have them. (also Raznaak this should be the most up to date copy of the various dicks for any tweaks you were gonna make to them)\n\nalso @AverageAce, Unofficial HeadAdmin your mods are dope so i packaged them for my own use, (you wanted to be alerted for Ego boosts <3)\n\nNote: mostly just posting this in case Raznaak is gonna be tweaking this shit in case it helps reduce their workload, otherwise this is intended for my use so the ID's are probably different from the individual mods which might fuck with Hyper mod...\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EquineCollection.png]Click for Preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EquineCollection.zip"
+	},
+	{
+		"name": "Water Pistol",
+		"description": "A water gun - water not included\n\nAdds a new weapon that can store and shoot fluids.\nFunctionally, a Plastic Bottle with a multi-use Throw Condom attack.\n\nNew attack listed under Special when in combat.\n\nVisit/talk to the Nurse in the Nursery to get one for free.\n-- Randomly drops from defeated Nurses\n-- Randomly appears when you loot Medical Storage\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WaterPistol.png]Click for Preview[/url]",
+		"author": "Lucci",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WaterPistolVer1.0.0.zip"
 	}
 	]
 }

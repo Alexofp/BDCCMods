@@ -2432,6 +2432,26 @@
 				"SynthModVer1.3-B.zip"
 			],
 			"preview": "datapack_previews/yourkoboldsfnaf.png"
+		},
+		{
+			"id": "cosmeticmorphs",
+			"name": "Cosmetic Morphs",
+			"author": "aradinfinity",
+			"version": "0.1",
+			"description": "WIP. Inspired by (and steals some code from) Brevman's cosmetic changing datapack, but I wanted more. Note: will lose custom skins on body parts due to how it works.\nSupports, but does not require: bat species, deer species, laquine/rabbit species, Ace's Protogen mod, Synthmod, Scalie Expansion, fluffy body parts, sabertooth heads, jackal parts, and prosthetic parts.\nFor genitals, supports Hypertus, and a number of hybrid cocks.\nHospital scene working.\nMechanic scene working.",
+			"contains": "Contains: 2 characters, 2 scenes",
+			"download": "datapacks/cosmeticmorphs.res",
+			"lastedit": 1731647888,
+			"filesize": 622589,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			]
 		}
 	]
 }
