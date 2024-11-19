@@ -2452,6 +2452,27 @@
 			"requiredMods": [
 
 			]
+		},
+		{
+			"id": "kinseycharacter",
+			"name": "Kinsey's Character!",
+			"author": "Khineda",
+			"version": "1.0",
+			"description": "Just a little datapack with my character!",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/kinseycharacter.res",
+			"lastedit": 1731997786,
+			"filesize": 7820,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/kinseycharacter.png"
 		}
 	]
 }
