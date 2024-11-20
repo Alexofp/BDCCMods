@@ -1359,6 +1359,14 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ForceAnusWomb_v1.0.zip"
+	},
+	{
+		"name": "BallsExtra",
+		"description": "Adds extra settings for balls in character creation that have actual impact and tweaks the dynamic npcs to also have varied balls settings.\n\nIncompatible with Hyperus.\nIf you want to use a custom dick, make sure their script extends \"res://Modules/BallsExtraModule/Base/BodypartBetterPenis.gd\" instead of BodypartPenis.\nYou can edit this yourself or beg a dev to add it for you.",
+		"author": "NatiM6",
+		"modversion": "1.0.0",
+		"gameversion": "0.1.6",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BallsExtra.zip"
 	}
 	]
 }
