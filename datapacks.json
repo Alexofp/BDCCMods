@@ -2473,6 +2473,26 @@
 
 			],
 			"preview": "datapack_previews/kinseycharacter.png"
+		},
+		{
+			"id": "juno",
+			"name": "Juno",
+			"author": "TenTen",
+			"version": "1.0",
+			"description": "No description provided",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/juno.res",
+			"lastedit": 1732163837,
+			"filesize": 8233,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			]
 		}
 	]
 }
