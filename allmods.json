@@ -1375,6 +1375,14 @@
 		"modversion": "1.0",
 		"gameversion": "0.1.6",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RockysBar.zip"
+	},
+	{
+		"name": "CumSpill",
+		"description": "Adds cum-through to the generic sex scenes when cumming inside during anal. (Fluid transfer not implemented yet, purely visual)",
+		"author": "NatiM6",
+		"modversion": "0.1.0",
+		"gameversion": "0.1.6",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CumSpill.zip"
 	}
 	]
 }
