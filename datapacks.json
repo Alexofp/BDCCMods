@@ -2493,6 +2493,26 @@
 			"requiredMods": [
 
 			]
+		},
+		{
+			"id": "mearthspack",
+			"name": "thepack",
+			"author": "mearth",
+			"version": "alpha test",
+			"description": "currently in extremely early alpha, a small test and show of complexity that i have planned for the pack, there is planned to be 6 pack members in total each with a different fetish\nif people like it i will flesh it out more and improve the writing and length of scenes",
+			"contains": "Contains: 1 character, 2 scenes",
+			"download": "datapacks/mearthspack.res",
+			"lastedit": 1732339954,
+			"filesize": 32024,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			]
 		}
 	]
 }
