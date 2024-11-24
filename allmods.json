@@ -401,22 +401,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BoykisserArtVer1.zip"
 	},
 	{
-		"name": "Synth Species",
-		"description": "The robot lizard species, Originally made by Vader-San. Comes with a new species and a whole lot of new bodyparts. 3 penis types, 6 tail types, 6 arm types and more.\n[b]Updated for the Alex Update, fixes some new things added, and the return of bald synths[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SynthSpeciesPreview.png]Click for Preview[/url]",
-		"author": "AverageAce",
-		"modversion": "1.3",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SynthModVer1.3.zip"
-	},
-	{
-		"name": "Synth Species (Breed Edition)",
-		"description": "The robot lizard species, Originally made by Vader-San. Comes with a new species and a whole lot of new bodyparts. 3 penis types, 6 tail types, 6 arm types and more.\n[b]Updated for the Alex Update, fixes some new things added, and the return of bald synths[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SynthSpeciesPreview.png]Click for Preview[/url]\nBreed Edition: Lets Male/Shemale npcs spawn with asswombs",
-		"author": "AverageAce",
-		"modversion": "1.3",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SynthModVer1.3-B.zip"
-	},
-	{
 		"name": "Stock Events",
 		"description": "(Requires Rat Species mod!) This is a mod where you can find different characters randomly in the main hall public punishment area. So far there is only one character but planning to expand it, and if you are interested to help expanding the mod, please DM me. It comes in two version, one come with Rat Species module included since the mod depend on it, but if you have it just use the other version.",
 		"author": "Fantos (Code), Zaxon Rapial (Scenes)",
@@ -1383,6 +1367,14 @@
 		"modversion": "0.1.0",
 		"gameversion": "0.1.6",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CumSpill.zip"
+	},
+	{
+		"name": "Synth Species",
+		"description": "The robot lizard species, Originally made by Vader-San. Comes with a new species and a whole lot of new bodyparts.\n\n[b]Version 2[/b]: Added a whole bunch of new things over the last few months. Dick Skins, New parts, and some other stuff.\n-Synths have been divided into 2 separate species in an attempt to decrease the amount of NPCS that look like complete shit, one with set parts and another with custom parts. A bit messy but whatever. Rip Hypertus compatibility once again.\n-Various under the hood fixes as well as more attempts to decrease NPCs looking like shit\n-If my notes are correct, all the various synth dicks should have a variety of skins now\n-New Bodyparts: Broken synth head, Synth Hooves, Industrial Synth Legs, and a few more im forgetting, probably...\n-Lore:  I tried out something new, I added a quick little lore scene somewhere in the game. The first species mod to have lore in game I believe.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SynthMod.png]Click for Preview[/url]",
+		"author": "AverageAce",
+		"modversion": "2.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SynthModVer2.zip"
 	}
 	]
 }

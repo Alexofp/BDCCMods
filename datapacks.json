@@ -2513,6 +2513,49 @@
 			"requiredMods": [
 
 			]
+		},
+		{
+			"id": "aip",
+			"name": "Apollo's inmate pack",
+			"author": "Apollo",
+			"version": "1.0",
+			"description": "adds two dynamic inmates based off Dead Flora's lore",
+			"contains": "Contains: 2 characters",
+			"download": "datapacks/aip.res",
+			"lastedit": 1732424541,
+			"filesize": 13203,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			]
+		},
+		{
+			"id": "chama_pack",
+			"name": "Chama Pack",
+			"author": "Resident Kobold",
+			"version": "1.0",
+			"description": "A very simple datapack adding one submissive Herm dragon with a bit of a bratty quality to him.  No scenes",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/chama_pack.res",
+			"lastedit": 1732424549,
+			"filesize": 7405,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"LycanrocSpeciesVer0.9.zip",
+				"DragonsPlusVer0.9.zip",
+				"SpinedDragonPenisVer1.zip"
+			],
+			"preview": "datapack_previews/chama_pack.png"
 		}
 	]
 }
