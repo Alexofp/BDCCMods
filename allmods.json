@@ -1353,14 +1353,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BallsExtra.zip"
 	},
 	{
-		"name": "Rocky's Bar",
-		"description": "This is Rocky's Bar a little scie-... I mean a nice little bar to enjoy yourself at with other Inmates! With a variety of alcohols you should be able to find yourself at the bottom of a barrel... or in someone else's cell, who knows! For now there is just the bar and the drink that are served there, but in the next version will be a blackout system and eventually a form of drunken mastery skill!\n\nAs always DM me or @ me on this server with any issues and I will gladly make my way to fix the issues and suggestions to add let me know as well as this is more of a community mod for anyone wanting to add something.",
-		"author": "Phoenix",
-		"modversion": "1.0",
-		"gameversion": "0.1.6",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RockysBar.zip"
-	},
-	{
 		"name": "CumSpill",
 		"description": "Adds cum-through to the generic sex scenes when cumming inside during anal. (Fluid transfer not implemented yet, purely visual)",
 		"author": "NatiM6",
@@ -1383,6 +1375,14 @@
 		"modversion": "1.0",
 		"gameversion": "0.1.6",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HumanReplacer.zip"
+	},
+	{
+		"name": "Rocky's Bar",
+		"description": "This is Rocky's Bar a little scie-... I mean a nice little bar to enjoy yourself at with other Inmates! With a variety of alcohols you should be able to find yourself at the bottom of a barrel... or in someone else's cell, who knows! For now there is just the bar and the drink that are served there, but in the next version will be a blackout system and eventually a form of drunken mastery skill!\n\nAs always DM me or @ me on this server with any issues and I will gladly make my way to fix the issues and suggestions to add let me know as well as this is more of a community mod for anyone wanting to add something \n\nWhat's new?: Now you can have a chance to black out once over 100% intoxication! So be careful about over using energydrinks and pills :3 or drinking too much at the bar! so far things only happen when you are between 100% and 150% so be careful yall ;3",
+		"author": "Phoenix",
+		"modversion": "1.1",
+		"gameversion": "0.1.6",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RockysBar.zip"
 	}
 	]
 }
