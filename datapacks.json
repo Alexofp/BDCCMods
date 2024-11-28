@@ -2579,6 +2579,29 @@
 				"BarbedandKnottedEquinePenis.zip"
 			],
 			"preview": "datapack_previews/DragonSlave.png"
+		},
+		{
+			"id": "junomfp",
+			"name": "Juno the Protogen (My Furry Protogen)",
+			"author": "NatRobloxian",
+			"version": "1.0",
+			"description": "Adds Juno from the game, My furry protogen",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/junomfp.res",
+			"lastedit": 1732771212,
+			"filesize": 518290,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"AcesProtogenMod-Ver1.1.zip",
+				"Clothes_Megapack.zip",
+				"LycanrocSpeciesVer0.9.zip"
+			],
+			"preview": "datapack_previews/junomfp.PNG"
 		}
 	]
 }
