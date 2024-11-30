@@ -1383,6 +1383,14 @@
 		"modversion": "1.1",
 		"gameversion": "0.1.6",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RockysBar.zip"
+	},
+	{
+		"name": "Nekomimi",
+		"description": "Simply replaces all base heads with the human model, while leaving all other furry bits as-is. \nI furry faces unappealing, so made this as an alternative to forcing only human encounters. For those who play Lilith's Throne, this makes it more like the lesser furry option in that. This should retroactively change all existing NPCs, as well as any datapacks which use the vanilla faces.\n\nThis does not support any modded races, as I do not use them, but I may make a patch if there is interest in it.\n\nThank you to @AverageAce, Unofficial HeadAdmin for inspiring me to make this, as I didn't realize it was so easily done.",
+		"author": "Karenb",
+		"modversion": "1.0",
+		"gameversion": "0.1.6",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Nekomimi.zip"
 	}
 	]
 }
