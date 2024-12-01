@@ -2602,6 +2602,29 @@
 				"LycanrocSpeciesVer0.9.zip"
 			],
 			"preview": "datapack_previews/junomfp.PNG"
+		},
+		{
+			"id": "maintwo",
+			"name": "My Main Two",
+			"author": "FennyFenFen",
+			"version": "1.0",
+			"description": "Just my main 2 fursonas in the game",
+			"contains": "Contains: 2 characters",
+			"download": "datapacks/maintwo.res",
+			"lastedit": 1733027497,
+			"filesize": 16529,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"PossumSpeciesVer0.9.zip",
+				"Clothes_Megapack.zip",
+				"MoreUniformsVer6.1.zip"
+			],
+			"preview": "datapack_previews/maintwo.png"
 		}
 	]
 }
