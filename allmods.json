@@ -1377,14 +1377,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HumanReplacer.zip"
 	},
 	{
-		"name": "Rocky's Bar",
-		"description": "This is Rocky's Bar a little scie-... I mean a nice little bar to enjoy yourself at with other Inmates! With a variety of alcohols you should be able to find yourself at the bottom of a barrel... or in someone else's cell, who knows! For now there is just the bar and the drink that are served there, but in the next version will be a blackout system and eventually a form of drunken mastery skill!\n\nAs always DM me or @ me on this server with any issues and I will gladly make my way to fix the issues and suggestions to add let me know as well as this is more of a community mod for anyone wanting to add something \n\nWhat's new?: Now you can have a chance to black out once over 100% intoxication! So be careful about over using energydrinks and pills :3 or drinking too much at the bar! so far things only happen when you are between 100% and 150% so be careful yall ;3",
-		"author": "Phoenix",
-		"modversion": "1.1",
-		"gameversion": "0.1.6",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RockysBar.zip"
-	},
-	{
 		"name": "Nekomimi",
 		"description": "Simply replaces all base heads with the human model, while leaving all other furry bits as-is. \nI furry faces unappealing, so made this as an alternative to forcing only human encounters. For those who play Lilith's Throne, this makes it more like the lesser furry option in that. This should retroactively change all existing NPCs, as well as any datapacks which use the vanilla faces.\n\nThis does not support any modded races, as I do not use them, but I may make a patch if there is interest in it.\n\nThank you to @AverageAce, Unofficial HeadAdmin for inspiring me to make this, as I didn't realize it was so easily done.",
 		"author": "Karenb",
@@ -1407,6 +1399,14 @@
 		"modversion": "R1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WingStaticR1.zip"
+	},
+	{
+		"name": "Rocky's Bar",
+		"description": "This is Rocky's Bar a little scie-... I mean a nice little bar to enjoy yourself at with other Inmates! With a variety of alcohols you should be able to find yourself at the bottom of a barrel... or in someone else's cell, who knows! For now there is just the bar and the drink that are served there, but in the next version will  a form of drunken mastery skill (Hopefully) or a revision of the blackout system.. or both, tbh idk myself lol.\n\nAs always DM me or @ me on this server with any issues and I will gladly make my way to fix the issues and suggestions to add let me know as well as this is more of a community mod for anyone wanting to add something \n\nWhat's new?: Now the blackout ranges anywhere from 100% - 200% so do be careful, the higher the intox the more likely you are to blackout. and finally after you come back from a blackout you will be given a debuff in the form of a hangover.",
+		"author": "Phoenix",
+		"modversion": "1.2",
+		"gameversion": "0.1.6",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RockysBar.zip"
 	}
 	]
 }
