@@ -1402,9 +1402,9 @@
 	},
 	{
 		"name": "Rocky's Bar",
-		"description": "This is Rocky's Bar a little scie-... I mean a nice little bar to enjoy yourself at with other Inmates! With a variety of alcohols you should be able to find yourself at the bottom of a barrel... or in someone else's cell, who knows! For now there is just the bar and the drink that are served there, but in the next version will  a form of drunken mastery skill (Hopefully) or a revision of the blackout system.. or both, tbh idk myself lol.\n\nAs always DM me or @ me on this server with any issues and I will gladly make my way to fix the issues and suggestions to add let me know as well as this is more of a community mod for anyone wanting to add something \n\nWhat's new?: Now the blackout ranges anywhere from 100% - 200% so do be careful, the higher the intox the more likely you are to blackout. and finally after you come back from a blackout you will be given a debuff in the form of a hangover.",
+		"description": "This is Rocky's Bar a little scie-... I mean a nice little bar to enjoy yourself at with other Inmates! With a variety of alcohols you should be able to find yourself at the bottom of a barrel... or in someone else's cell, who knows! For now there is just the bar and the drink that are served there, but in the next version will be a blackout system and eventually a form of drunken mastery skill!\n\nAs always DM me or @ me on this server with any issues and I will gladly make my way to fix the issues and suggestions to add let me know as well as this is more of a community mod for anyone wanting to add something \n\nWhat's new?: Now (Hopefully without game breaking bugs) You can blackout at any intox level, the higher the worse it becomes, afterwards you will be hit with a hangover that matches the blackout, the worse the longer, there is now a small cooldown so you won't chain blackout, and I think that is it for the most part. (Lets hope this is actually fixed qwq)",
 		"author": "Phoenix",
-		"modversion": "1.2",
+		"modversion": "1.2.1",
 		"gameversion": "0.1.6",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RockysBar.zip"
 	}
