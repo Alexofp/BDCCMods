@@ -1289,14 +1289,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreBDSMstuff.zip"
 	},
 	{
-		"name": "Nudity Police",
-		"description": "[b]Nudity will not go unpunished![/b]\nA mod focused on adding risk to being nude. Includes new ways to lose and regain your clothes.\n\n[b]Update: 2024-NOV-03[/b]\nAdded: Proper Resist/Fight option during first encounter with Guards\nfor more roleplay options (Suggested by panzertigre)\nAdded: Confront the inmate that steals your clothes when you wake up\nAdded: Mod Compatibility - Inconvenient Showers - by Calumny\ncheck the Dressing Room near the Gym\nChanged: straitjacket restraint difficulty\nChanged: Clothing Damage after fights\n\n[b]Mod Features:[/b]\nGuards will approach inmates walking around naked\nDefeat or Surrender will result in a special uniform being equipped \nThis new inmate uniform is also a piece of bondage gear\nIt will be hard to remove and block any Exhibitionism perks that require full nudity 🙂\nThe new uniform will NOT fully block access to your dick/pussy/butt/boobs\nParts become accessible when Lust>50, or if new uniform is damaged\nNew events that make the Player and NPCs lose all clothing\nAbility to steal another inmate's clothes \nAvailable after a fight, or when an inmate is incapacitated\nClothing damage after combat\nNaked inmates will try to get new clothes from the Laundry Vendomat (Thanks to Mindstormsman)\n\nPing me for bugs and typos\n\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/nudepolice.png]Click for preview[/url]",
-		"author": "Lucci",
-		"modversion": "1.3.6",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NudityPoliceVer1.3.6.zip"
-	},
-	{
 		"name": "Max Mod",
 		"description": "My Plan for World Domination continues and today we have another updated mod from old times.\nIf you've played Max Mod before all of that is the same, but now with a new look and more sex.\n\nVersion 2 update comes with a major looks overhaul for Max and his Uniform (Check out the More Uniforms Mod btw). \nYou can now also have The Sex with Max (5 different scenes worth).\n\nBe sure to yell at me for all the typos and bugs I missed. And make sure it's the scenes I wrote. \n[b]Fixed some more outdated code causing crashes[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/maxpreview.png]Click for Preview[/url]",
 		"author": "AverageAce",
@@ -1319,14 +1311,6 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NPCAnalWomb.zip"
-	},
-	{
-		"name": "Equine Penis Collection",
-		"description": "A grouped mod for the various equine penis mods in a single file with skin support for almost all skins on each option. Will create a duplicate entry of the deer penis if using the deer mod shrug\n\nAdditionally thanks to @Raznaak will no longer add cocks to NPC's that shouldnt have them. (also Raznaak this should be the most up to date copy of the various dicks for any tweaks you were gonna make to them)\n\nalso @AverageAce, Unofficial HeadAdmin your mods are dope so i packaged them for my own use, (you wanted to be alerted for Ego boosts <3)\n\nNote: mostly just posting this in case Raznaak is gonna be tweaking this shit in case it helps reduce their workload, otherwise this is intended for my use so the ID's are probably different from the individual mods which might fuck with Hyper mod...\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EquineCollection.png]Click for Preview[/url]",
-		"author": "Avery Winters",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EquineCollection.zip"
 	},
 	{
 		"name": "Water Pistol",
@@ -1407,6 +1391,22 @@
 		"modversion": "1.2.1",
 		"gameversion": "0.1.6",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RockysBar.zip"
+	},
+	{
+		"name": "Nudity Police",
+		"description": "[b]Nudity will not go unpunished![/b]\nA mod focused on adding risk to being nude. Includes new ways to lose and regain your clothes.\n\n[b]Update: 2024-DEC-08[/b]\nADDED: New Perks!\nCHANGED: Straitjacket balance changes\nCHANGED: Sleep/Shower Thief event base chance reduced\n\nIf you have FoxLib installed:\n-- Mod Options! Allows you to adjust Sleep/Shower Thief event frequency\n\n[b]Mod Features:[/b]\n-- Guards will approach inmates walking around naked \n-- Defeat or Surrender will result in a special uniform being equipped \n    -- This new inmate uniform is also a piece of bondage gear \n    -- It will be hard to remove and block any Exhibitionism perks that require full nudity 🙂\n    -- The new uniform will NOT fully block access to your dick/pussy/butt/boobs \n    -- Parts become accessible when Lust>50, or if new uniform is damaged \n-- New events that make the Player and NPCs lose all clothing \n-- Ability to steal another inmate's clothes \n    -- Available after a fight, or when an inmate is incapacitated \n-- Clothing damage after combat\n-- Naked inmates will try to get new clothes from the Laundry Vendomat (Thanks to Mindstormsman)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/nudepolice.png]Click for preview[/url]",
+		"author": "Lucci",
+		"modversion": "1.3.7",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NudityPoliceVer1.3.7.zip"
+	},
+	{
+		"name": "Equine Penis Collection (With BallsExtra Compatability)",
+		"description": "A grouped mod for the various equine penis mods in a single file with skin support for almost all skins on each option. \n\nShould spawn with dynamic NPC generation on most Modded races and thanks to Raznaak's research should only spawn on the correct genders. \n\nShould auto patch itself to work alongside BallsExtra by NatiM6 (will need to be loaded after BallsExtra) and work fine without. \n\nNote: Will currently create a duplicated Deer Penis if used alongside Ace's Deer Race.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EquineCollection.png]Click for Preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersEquineCollectionV1.0.zip"
 	}
 	]
 }
