@@ -1404,9 +1404,9 @@
 		"name": "Equine Penis Collection (With BallsExtra Compatability)",
 		"description": "A grouped mod for the various equine penis mods in a single file with skin support for almost all skins on each option. \n\nShould spawn with dynamic NPC generation on most Modded races and thanks to Raznaak's research should only spawn on the correct genders. \n\nShould auto patch itself to work alongside BallsExtra by NatiM6 (will need to be loaded after BallsExtra) and work fine without. \n\nNote: Will currently create a duplicated Deer Penis if used alongside Ace's Deer Race.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EquineCollection.png]Click for Preview[/url]",
 		"author": "Avery Winters",
-		"modversion": "1.0",
+		"modversion": "1.1",
 		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersEquineCollectionV1.0.zip"
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersEquineCollectionV1.1.zip"
 	}
 	]
 }

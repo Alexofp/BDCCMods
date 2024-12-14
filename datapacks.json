@@ -2270,33 +2270,6 @@
 			"preview": "datapack_previews/aaron.png"
 		},
 		{
-			"id": "bdzg_characters",
-			"name": "Gura's Character Bundle",
-			"author": "Gura",
-			"version": "1.7.3 [Main | Sub version | Beta]",
-			"description": "Adds Characters That I And/or the community Wants.\n\nIf You have sugestions on what characters I should Add, Join My Group.\n\nChanges In 1.7.3: \n[Gave Gura Puroto Void Cloth Clothing]\n[Enjin Portal Panties Button Not Showin]\n[Fixed Redstrikes pronouns]\n[Added Dirudo]\n\n[So far there is 8 Characters and 8 Scenes]\n\nContributions:\nHyppotheticallyHyper {Kai}\nFluck Lynk {Scenes}\nNiaon {Pipipi}",
-			"contains": "Contains: 8 characters, 9 scenes",
-			"download": "datapacks/bdzg_characters.res",
-			"lastedit": 1730346441,
-			"filesize": 265748,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-				"AcesProtogenMod-Ver1.1.zip",
-				"SynthModVer1.3.zip",
-				"BarbedandKnottedEquinePenis.zip",
-				"HyenaParts.zip",
-				"FluffbodypartsVer3.zip",
-				"AvaliSpeciesVer2.zip",
-				"NudityPoliceVer1.3.2.zip"
-			],
-			"preview": "datapack_previews/bdzg_characters.png"
-		},
-		{
 			"id": "Some Hotties",
 			"name": "Some Hotties",
 			"author": "MakoDaShark",
@@ -2626,6 +2599,38 @@
 				"FluffbodypartsVer3.zip"
 			],
 			"preview": "datapack_previews/maintwo.png"
+		},
+		{
+			"id": "bdzg_characters",
+			"name": "Gura's Character Bundle",
+			"author": "Gura",
+			"version": "1.8.3 [Main | Sub version | Beta]",
+			"description": "Adds Characters That I And/or the community Wants.\n\nIf You have sugestions on what characters I should Add, Join My Group.\n\nChanges In 1.8.3: \n[Added Fern]\n[Added Fern Portal Panties Toggle]\n[Updated mod list]\n[Temporarily Put toggle for Gura to be on Cum Stealing until I can get help to make my known toggle]\n\n[So far there is 9 Characters and 9 Scenes]\n\nContributions:\nHyppotheticallyHyper {Kai}\nFluck Lynk {Scenes}\nNiaon {Pipipi}",
+			"contains": "Contains: 9 characters, 10 scenes",
+			"download": "datapacks/bdzg_characters.res",
+			"lastedit": 1734149837,
+			"filesize": 179614,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"AcesProtogenMod-Ver1.1.zip",
+				"BarbedandKnottedEquinePenis.zip",
+				"HyenaParts.zip",
+				"FluffbodypartsVer3.zip",
+				"AvaliSpeciesVer2.zip",
+				"FoxLib",
+				"EquinePussy_v2.2.zip",
+				"CaninePussy_v2.2.zip",
+				"SynthModVer2.zip",
+				"Clothes_Megapack.zip",
+				"LycanrocSpeciesVer0.9.zip",
+				"NudityPoliceVer1.3.7.zip"
+			],
+			"preview": "datapack_previews/bdzg_characters.png"
 		}
 	]
 }
