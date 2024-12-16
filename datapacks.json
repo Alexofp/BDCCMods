@@ -2631,6 +2631,32 @@
 				"NudityPoliceVer1.3.7.zip"
 			],
 			"preview": "datapack_previews/bdzg_characters.png"
+		},
+		{
+			"id": "hmmm",
+			"name": "Hmmm",
+			"author": "Niaon",
+			"version": "1.0",
+			"description": "No description provided",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/hmmm.res",
+			"lastedit": 1734323722,
+			"filesize": 4511,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"AvaliSpeciesVer2-BreederEdition.zip",
+				"AvaliSpeciesVer2.zip",
+				"AcesProtogenMod-Ver1.1.zip",
+				"furskinV1.zip",
+				"DeerSpeciesVer2.1.zip",
+				"Hair_v1_.20.zip"
+			],
+			"preview": "datapack_previews/hmmm.png"
 		}
 	]
 }
