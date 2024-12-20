@@ -2206,27 +2206,6 @@
 			"preview": "datapack_previews/maevesbabeswillow.png"
 		},
 		{
-			"id": "foxlibtest",
-			"name": "FoxLib Test Datapack",
-			"author": "Fox2code",
-			"version": "1.0",
-			"description": "Test Datapack for FoxLib features",
-			"contains": "Contains: 2 scenes, 1 quest",
-			"download": "datapacks/foxlibtest.res",
-			"lastedit": 1730059804,
-			"filesize": 9009,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-				"FoxLib"
-			],
-			"preview": "datapack_previews/foxlibtest.png"
-		},
-		{
 			"id": "irisdatapack",
 			"name": "Iris",
 			"author": "JokeMysterious",
@@ -2657,6 +2636,27 @@
 				"Hair_v1_.20.zip"
 			],
 			"preview": "datapack_previews/hmmm.png"
+		},
+		{
+			"id": "foxlibtest",
+			"name": "FoxLib Test Datapack",
+			"author": "Fox2code",
+			"version": "1.0",
+			"description": "Test Datapack for FoxLib features",
+			"contains": "Contains: 1 character, 2 scenes, 1 quest",
+			"download": "datapacks/foxlibtest.res",
+			"lastedit": 1734670129,
+			"filesize": 15058,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"FoxLib"
+			],
+			"preview": "datapack_previews/foxlibtest.png"
 		}
 	]
 }
