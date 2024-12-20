@@ -1353,14 +1353,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WingStaticR1.zip"
 	},
 	{
-		"name": "Rocky's Bar",
-		"description": "This is Rocky's Bar a little scie-... I mean a nice little bar to enjoy yourself at with other Inmates! With a variety of alcohols you should be able to find yourself at the bottom of a barrel... or in someone else's cell, who knows! For now there is just the bar and the drink that are served there, but in the next version will be a blackout system and eventually a form of drunken mastery skill!\n\nAs always DM me or @ me on this server with any issues and I will gladly make my way to fix the issues and suggestions to add let me know as well as this is more of a community mod for anyone wanting to add something \n\nWhat's new?: Now (Hopefully without game breaking bugs) You can blackout at any intox level, the higher the worse it becomes, afterwards you will be hit with a hangover that matches the blackout, the worse the longer, there is now a small cooldown so you won't chain blackout, and I think that is it for the most part. (Lets hope this is actually fixed qwq)",
-		"author": "Phoenix",
-		"modversion": "1.2.1",
-		"gameversion": "0.1.6",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RockysBar.zip"
-	},
-	{
 		"name": "Nudity Police",
 		"description": "[b]Nudity will not go unpunished![/b]\nA mod focused on adding risk to being nude. Includes new ways to lose and regain your clothes.\n\n[b]Update: 2024-DEC-08[/b]\nADDED: New Perks!\nCHANGED: Straitjacket balance changes\nCHANGED: Sleep/Shower Thief event base chance reduced\n\nIf you have FoxLib installed:\n-- Mod Options! Allows you to adjust Sleep/Shower Thief event frequency\n\n[b]Mod Features:[/b]\n-- Guards will approach inmates walking around naked \n-- Defeat or Surrender will result in a special uniform being equipped \n    -- This new inmate uniform is also a piece of bondage gear \n    -- It will be hard to remove and block any Exhibitionism perks that require full nudity 🙂\n    -- The new uniform will NOT fully block access to your dick/pussy/butt/boobs \n    -- Parts become accessible when Lust>50, or if new uniform is damaged \n-- New events that make the Player and NPCs lose all clothing \n-- Ability to steal another inmate's clothes \n    -- Available after a fight, or when an inmate is incapacitated \n-- Clothing damage after combat\n-- Naked inmates will try to get new clothes from the Laundry Vendomat (Thanks to Mindstormsman)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/nudepolice.png]Click for preview[/url]",
 		"author": "Lucci",
@@ -1407,6 +1399,14 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ChastityCageFlat.zip"
+	},
+	{
+		"name": "Rocky's Bar",
+		"description": "This is Rocky's Bar a little scie-... I mean a nice little bar to enjoy yourself at with other Inmates! With a variety of alcohols you should be able to find yourself at the bottom of a barrel... or in someone else's cell, who knows! For now there is just the bar and the drink that are served there, but in the next version will be a blackout system and eventually a form of drunken mastery skill!\n\nAs always DM me or @ me on this server with any issues and I will gladly make my way to fix the issues and suggestions to add let me know as well as this is more of a community mod for anyone wanting to add something \n\nDisclaimer: This will be edited and modified depending on how the community sees fit I.E More exp gain or cheaper perk costs or higher/lower stats\n\nWhat's new?: Now there are the long awaited Perks! There are a number of perks going from drunken damage to straight up enchanted reproductive organs when drunk~ So drink up but be careful without the booster you run the risk of blacking out in exchange for the rewards of drunk powers~ (Earn drunk EXP at the bar or blacking out, the more drunk you are the less exp you earn at the bar)",
+		"author": "Phoenix",
+		"modversion": "1.2.1",
+		"gameversion": "0.1.7",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RockysBar.zip"
 	}
 	]
 }
