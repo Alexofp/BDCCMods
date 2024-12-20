@@ -185,14 +185,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GardevoirSpeciesVer0.1.zip"
 	},
 	{
-		"name": "Non-permanent, Flat Chastity Cage",
-		"description": "Adds a non-permanent, flat chastity cage as a separate item. NPC usage not tested; spawnable with the debug menu.",
-		"author": "AlexVSharp",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ChastityCageFlat.zip"
-	},
-	{
 		"name": "Jackal Parts v2",
 		"description": "Updated version of the Jackal Parts mod, now with compatibility with skins. Comes with 2 ears and a tail in the canine species.\n[url=https://media.discordapp.net/attachments/1021686418512289792/1139340255124795422/image.png]Click for Preview[/url]",
 		"author": "AverageAce",
@@ -1407,6 +1399,14 @@
 		"modversion": "0.1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxedBDCC_v0.1.0.zip"
+	},
+	{
+		"name": "Non-permanent, Flat Chastity Cage",
+		"description": "Adds a removable flat chastity cage as a separate item (item_id ChastityCageFlat).",
+		"author": "AlexVSharp",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ChastityCageFlat.zip"
 	}
 	]
 }
