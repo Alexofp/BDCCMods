@@ -1369,14 +1369,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersEquineCollectionV1.1.zip"
 	},
 	{
-		"name": "Hypertus",
-		"description": "[b]WARNING: This contains hyper stuff, if you dislike it then leave[/b]\n\nHypertus (AKA big numbers goes brrrr) adds new bodyparts that mirror the looks of bodyparts and have new features to play with.\n\nThese features includes:\n * New skill tree and perks for categories of bodyparts. Gain XP everyday!\n * Go beyond the limit vanilla gives.\n * Compatibility layers to add additional bodyparts and override species with easy JSON format!\n\nIf you want NPC to have those bodyparts then please install additional mod; Hypertus Species Compatibility Layers.\n\nHas compatibility layer between these mods:\n - Synth Bodyparts\n - Fluffy Bodyparts\n - Avali Species Bodyparts\n - Ace's Aviary Addon Bodyparts\n - Trans Scar Chest\n - Crow Species Bodyparts\n - Deer Species Bodypart\n - Knotted Horse Cock\n - Barbed Equine Penis\n - Spined Dragon Penis\n\nIf you have any feedback send it in #mods-discussion and ping me,\nor open an issue on [url]https://github.com/CanInBad/HypertusMod/issues[/url].\n\n# Changelog\n * fixed debug hyperable breast sizes to not appear [url=https://github.com/CanInBad/HypertusMod/issues/11 ](#11)[/url]\n * fixed first stage of gaining XP to be impossible [url=https://github.com/CanInBad/HypertusMod/issues/13 ](#13)[/url]\n * added tutorial based on install date instead of in game day [url=https://github.com/CanInBad/HypertusMod/issues/12 ](#12)[/url]\n - removed Raznaak's breed edition ingame configuration [url=https://github.com/CanInBad/HypertusMod/commit/b106d7e10d0a5e18ac119427992942e7e15d8b21 ](b106d7e)[/url]",
-		"author": "CanInBad",
-		"modversion": "R6-1",
-		"gameversion": "0.1.6",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR6-1.zip"
-	},
-	{
 		"name": "Non-permanent, Flat Chastity Cage",
 		"description": "Adds a removable flat chastity cage as a separate item (item_id ChastityCageFlat).",
 		"author": "AlexVSharp",
@@ -1407,6 +1399,14 @@
 		"modversion": "0.1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxedBDCC_v0.1.0.zip"
+	},
+	{
+		"name": "Hypertus",
+		"description": "[b]WARNING: This contains hyper stuff, if you dislike it then leave[/b]\n\nHypertus (AKA big numbers goes brrrr) adds new bodyparts that mirror the looks of bodyparts and have new features to play with.\n\nThese features includes:\n * New skill tree and perks for categories of bodyparts. Gain XP everyday!\n * Go beyond the limit vanilla gives.\n * Compatibility layers to add additional bodyparts and override species with easy JSON format!\n\nIf you want NPC to have those bodyparts then please install additional mod; Hypertus Species Compatibility Layers.\n\nHas compatibility layer between these mods:\n - Synth Bodyparts\n - Fluffy Bodyparts\n - Avali Species Bodyparts\n - Ace's Aviary Addon Bodyparts\n - Trans Scar Chest\n - Crow Species Bodyparts\n - Deer Species Bodypart\n - Knotted Horse Cock\n - Barbed Equine Penis\n - Spined Dragon Penis\n\nIf you have any feedback send it in #mods-discussion and ping me,\nor open an issue on [url]https://github.com/CanInBad/HypertusMod/issues[/url].\n\n# Changelog\n * fixed debug hyperable breast sizes to not appear [url=https://github.com/CanInBad/HypertusMod/issues/11 ](#11)[/url]\n * fixed first stage of gaining XP to be impossible [url=https://github.com/CanInBad/HypertusMod/issues/13 ](#13)[/url]\n * added tutorial based on install date instead of in game day [url=https://github.com/CanInBad/HypertusMod/issues/12 ](#12)[/url]\n - removed Raznaak's breed edition ingame configuration [url=https://github.com/CanInBad/HypertusMod/commit/b106d7e10d0a5e18ac119427992942e7e15d8b21 ](b106d7e)[/url]\n\n * fixed [url=https://github.com/CanInBad/HypertusMod/issues/14 ] (#14)[/url]",
+		"author": "CanInBad",
+		"modversion": "R6-2",
+		"gameversion": "0.1.7",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR6-2.zip"
 	}
 	]
 }
