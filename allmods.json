@@ -1407,6 +1407,14 @@
 		"modversion": "R6-2",
 		"gameversion": "0.1.7",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR6-2.zip"
+	},
+	{
+		"name": "Non-permanent, Flat Chastity Cage",
+		"description": "Adds a removable flat chastity cage as a separate item.\n\nThis is a remix of AlexVSharps's flat chatity cage mod that doesn't get removed by the debug menu and is a bit harder to remove.\nThanks fenrir for the code",
+		"author": "AlexVSharp / slightly femboy",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ChastityCageFlatRemix.zip"
 	}
 	]
 }
