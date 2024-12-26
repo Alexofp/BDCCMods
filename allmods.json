@@ -1057,14 +1057,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BodyWriting.zip"
 	},
 	{
-		"name": "Hypertus Species Compatibility Layers",
-		"description": "Hypertus is required for this mod to function.\nThis mod will replace species based on installed mods.\nThis mod replaces the following species:\n\n# Vanilla  \n - Canine\n - Demon\n - Dragon\n - Equine\n - Feline\n - Human\n\n# Modded  \n - Ampwave\n - Avali\n - Avian\n - Bird\n - Bovine\n - Crow\n - Deer\n - Eastern Dragon\n - Espeon\n - Gryphon\n - Hippogriff\n - Houndoom\n - Kobold\n - Laquine\n - Leafeon\n - Lopunny\n - Lucario\n - Nightstalkers\n - Protogen\n - Rabbit\n - Racoon\n - Rat\n - Seahorse\n - Sergal\n - Shark\n - Skullwolf\n - Snake\n - Sylveon\n - Synth\n - Treenuts\n - Wickerbeast\n\n# Changelog\n * actually have crow species added in this time.",
-		"author": "CanInBad",
-		"modversion": "R3",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusSpeciesCompatibilityLayersR3.zip"
-	},
-	{
 		"name": "RaceAndHeat",
 		"description": "Originally I wanted to adapt the mod by the author @Humoiww to my own preferences, but thanks to a few suggestions from users who I will mention by name later and the control work of @Raznaak, I would like to pass the idea on to others.\nThe mod aims, as by the author Humoiww, to give the individual races specific bonuses or debuffs with the addition of an additional buff for the heat state. Thanks to @Raznaak he was able to make the mod a little better so that it fits better with the base game\n\nI really don't want any credit for the little work I did, if there are any ideas for further buffs for races and heats, I'm happy to add them\n\nIf I did anything wrong here regarding posting, please tell me and adjust it",
 		"author": "Humoiww, Raznaak, Nathan_Ray",
@@ -1385,14 +1377,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RockysBar.zip"
 	},
 	{
-		"name": "Hypertus",
-		"description": "[b]WARNING: This contains hyper stuff, if you dislike it then leave[/b]\n\nHypertus (AKA big numbers goes brrrr) adds new bodyparts that mirror the looks of bodyparts and have new features to play with.\n\nThese features includes:\n * New skill tree and perks for categories of bodyparts. Gain XP everyday!\n * Go beyond the limit vanilla gives.\n * Compatibility layers to add additional bodyparts and override species with easy JSON format!\n\nIf you want NPC to have those bodyparts then please install additional mod; Hypertus Species Compatibility Layers.\n\nHas compatibility layer between these mods:\n - Synth Bodyparts\n - Fluffy Bodyparts\n - Avali Species Bodyparts\n - Ace's Aviary Addon Bodyparts\n - Trans Scar Chest\n - Crow Species Bodyparts\n - Deer Species Bodypart\n - Knotted Horse Cock\n - Barbed Equine Penis\n - Spined Dragon Penis\n\nIf you have any feedback send it in #mods-discussion and ping me,\nor open an issue on [url]https://github.com/CanInBad/HypertusMod/issues[/url].\n\n# Changelog\n * fixed debug hyperable breast sizes to not appear [url=https://github.com/CanInBad/HypertusMod/issues/11 ](#11)[/url]\n * fixed first stage of gaining XP to be impossible [url=https://github.com/CanInBad/HypertusMod/issues/13 ](#13)[/url]\n * added tutorial based on install date instead of in game day [url=https://github.com/CanInBad/HypertusMod/issues/12 ](#12)[/url]\n - removed Raznaak's breed edition ingame configuration [url=https://github.com/CanInBad/HypertusMod/commit/b106d7e10d0a5e18ac119427992942e7e15d8b21 ](b106d7e)[/url]\n\n * fixed [url=https://github.com/CanInBad/HypertusMod/issues/14 ] (#14)[/url]",
-		"author": "CanInBad",
-		"modversion": "R6-2",
-		"gameversion": "0.1.7",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR6-2.zip"
-	},
-	{
 		"name": "Non-permanent, Flat Chastity Cage",
 		"description": "Adds a removable flat chastity cage as a separate item.\n\nThis is a remix of AlexVSharps's flat chatity cage mod that doesn't get removed by the debug menu and is a bit harder to remove.\nThanks fenrir for the code",
 		"author": "AlexVSharp / slightly femboy",
@@ -1415,6 +1399,22 @@
 		"modversion": "0.1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxedBDCC_v0.1.0.zip"
+	},
+	{
+		"name": "Hypertus Species Compatibility Layers",
+		"description": "Hypertus is required for this mod to function.\nThis mod will replace species based on installed mods.\nThis mod replaces the following species:\n\n# Vanilla  \n - Canine\n - Demon\n - Dragon\n - Equine\n - Feline\n - Human\n\n# Modded  \n - Ampwave\n - Avali\n - Avian\n - Bird\n - Bovine\n - Crow\n - Deer\n - Eastern Dragon\n - Espeon\n - Gryphon\n - Hippogriff\n - Houndoom\n - Kobold\n - Laquine\n - Leafeon\n - Lopunny\n - Lucario\n - Nightstalkers\n - Protogen\n - Rabbit\n - Racoon\n - Rat\n - Seahorse\n - Sergal\n - Shark\n - Skullwolf\n - Snake\n - Sylveon\n - Synth\n - Treenuts\n - Wickerbeast\n\n# Changelog\n * changed allowed skins for hyperable human.",
+		"author": "CanInBad",
+		"modversion": "R3-1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusSpeciesCompatibilityLayersR3-1.zip"
+	},
+	{
+		"name": "Hypertus",
+    	"description": "\n[b]WARNING: This contains hyper stuff, if you dislike it then leave[/b]\n\nHypertus adds new bodyparts that mirror the looks of bodyparts and have new features to play with.\n\nThese features includes:\n * New skill tree and perks for categories of bodyparts. Gain XP everyday!\n * Go beyond the limit vanilla gives.\n * Compatibility layers to add additional bodyparts and override species with easy JSON format!\n\nIf you want NPC to have those bodyparts then please install additional mod; Hypertus Species Compatibility Layers.\n\nHas compatibility layer between these mods:\n - Synth Bodyparts\n - Fluffy Bodyparts\n - Avali Species Bodyparts\n - Ace's Aviary Addon Bodyparts\n - Trans Scar Chest\n - Crow Species Bodyparts\n - Deer Species Bodypart\n - Knotted Horse Cock\n - Barbed Equine Penis\n - Spined Dragon Penis\n\nIf you have any feedback send it in #mods-discussion and ping me,\nor open an issue on [url]https://github.com/CanInBad/HypertusMod/issues[/url].\n\n# Changelog\n * fixed debug hyperable breast sizes to not appear [url=https://github.com/CanInBad/HypertusMod/issues/11 ](#11)[/url]\n * fixed first stage of gaining XP to be impossible [url=https://github.com/CanInBad/HypertusMod/issues/13 ](#13)[/url]\n * added tutorial based on install date instead of in game day [url=https://github.com/CanInBad/HypertusMod/issues/12 ](#12)[/url]\n - removed Raznaak's breed edition ingame configuration [url=https://github.com/CanInBad/HypertusMod/commit/b106d7e10d0a5e18ac119427992942e7e15d8b21 ](b106d7e)[/url]\n * fixed bodyparts compatibility layers not working [url=https://github.com/CanInBad/HypertusMod/commit/d01f72b58dee6e4a64ad9075c18a09fe0169125c ](d01f72b)[/url] * add an extra check before throwing out error when checking if player has max level on the skill tree (hides the \"Hyper tree is null???? send save file to the dev -CanInBad\" error) [url=https://github.com/CanInBad/HypertusMod/issues/19 ](#19)[/url]",
+    	"author": "CanInBad",
+    	"modversion": "R6-3",
+    	"gameversion": "0.1.7",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR6-3.zip"
 	}
 	]
 }
