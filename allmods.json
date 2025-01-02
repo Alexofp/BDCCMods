@@ -1439,6 +1439,14 @@
 		"modversion": "0.1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxedBDCC_v0.1.0.zip"
+	},
+	{
+		"name": "MorePenisPump",
+		"description": "Add 2 more penis pumps. The first one is PenisPumpMK3, you can buy it at a Medical Vendomat. And a second one is PenisPumpGold, you can get it from the debug menu only. (I just want to try modding, That's all.)",
+		"author": "N",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MorePenisPump.zip"
 	}
 	]
 }
