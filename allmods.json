@@ -1409,22 +1409,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ForceAnusWomb_v1.1.zip"
 	},
 	{
-		"name": "FoxLib",
-		"description": "\n[center][color=#00FFFF][b][shake rate=5 level=7][[[[/shake] Modding enhancer for BDCC [shake rate=5 level=7]]]][/shake][/b][/color] [/center]\n[center][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img] [/center]\n[center][color=#FF8000][u]/!\\[/u] Don't forget to delete old versions of the mod when updating [u]/!\\[/u][/color] [/center]\n\nAdd many features and abilities for BDCC mods such as:\n- Adding custom CrotchBlock for datapacks\n- Adding new perks level tiers\n- Controling more game UI elements\n- Saving NPC Skills/Perk data\n- Handling fatal errors via GUI\n- Configuring mods via in game Menu\n- Registering custom entries to the ModularDialogue system\n- Preventing your mod from being loaded twice\n\nFoxLib also additionaly expose more capabilities to datapacks too, please check the in-game editor to see the new blocks FoxLib adds! [wave amp=10 freq=4]:D[/wave]\n\nFoxLib will also use code generation instead of replacing game code for maximum compatibility with your existing mods, you can see in the file list that FoxLib doesn't replace any game files!\n\n[color=#00FFFF]F[/color]ox[color=#00FFFF]L[/color]ib [color=#00FFFF]M[/color]od[color=#00FFFF]H[/color]elper (Aka. [color=#00FFFF]FLMH[/color].py) is a build tool for developers to ease development of FoxLib mods. It provide warnings to improve your mods code and is the current tool used to package FoxLib!\n\nFor more info on how to use FoxLib API or FoxLib ModHelper, please check the bundled documentation!\n(Or you can read FoxLib source-code by extracting it)\n[center][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][/center]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FoxLib.png]Click for preview[/url]",
-		"author": "Fox2Code",
-		"modversion": "0.5.2",
-		"gameversion": "0.1.7",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxLib_v0.5.2.zip"
-	},
-	{
-		"name": "FoxedBDCC",
-		"description": "Add more feature to BDCC using FoxLib (Note: Don't forget to download FoxLib to use this mod)\n\nFor now it only add one end game skills in the fertility tab\n\nThis mod is the reason why I made FoxLib, and felt bad uploading FoxLib without a mod that uses it too",
-		"author": "Fox2Code",
-		"modversion": "0.1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxedBDCC_v0.1.0.zip"
-	},
-	{
 		"name": "ForceFuck",
 		"description": "Adds forced fucking (and more forceful deepthroating), and improved Knot Fucking (including when riding a sub), based on Mindstormsman's KnotFucking mod\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ForceAnusWomb.png]Click for Preview[/url]",
 		"author": "Raknar",
@@ -1439,6 +1423,22 @@
 		"modversion": "1.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersNPCAnalWombV1.1.zip"
+	},
+	{
+		"name": "FoxLib",
+		"description": "\n[center][color=#00FFFF][b][shake rate=5 level=7][[[[/shake] Modding enhancer for BDCC [shake rate=5 level=7]]]][/shake][/b][/color] [/center]\n[center][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img] [/center]\n[center][color=#FF8000][u]/!\\[/u] Don't forget to delete old versions of the mod when updating [u]/!\\[/u][/color] [/center]\n\nAdd many features and abilities for BDCC mods such as:\n- Adding custom CrotchBlock for datapacks\n- Adding new perks level tiers\n- Controling more game UI elements\n- Saving NPC Skills/Perk data\n- Handling fatal errors via GUI\n- Configuring mods via in game Menu\n- Registering custom entries to the ModularDialogue system\n- Preventing your mod from being loaded twice\n\nFoxLib also additionaly expose more capabilities to datapacks too, please check the in-game editor to see the new blocks FoxLib adds! [wave amp=10 freq=4]:D[/wave]\n\nFoxLib will also use code generation instead of replacing game code for maximum compatibility with your existing mods, you can see in the file list that FoxLib doesn't replace any game files!\n\n[color=#00FFFF]F[/color]ox[color=#00FFFF]L[/color]ib [color=#00FFFF]M[/color]od[color=#00FFFF]H[/color]elper (Aka. [color=#00FFFF]FLMH[/color].py) is a build tool for developers to ease development of FoxLib mods. It provide warnings to improve your mods code and is the current tool used to package FoxLib!\n\nFor more info on how to use FoxLib API or FoxLib ModHelper, please check the bundled documentation!\n(Or you can read FoxLib source-code by extracting it)\n[center][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][/center]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FoxLib.png]Click for preview[/url]",
+		"author": "Fox2Code",
+		"modversion": "0.5.3",
+		"gameversion": "0.1.7",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxLib_v0.5.3.zip"
+	},
+	{
+		"name": "FoxedBDCC",
+		"description": "Add more feature to BDCC using FoxLib (Note: Don't forget to download FoxLib to use this mod)\n\nFor now it only add one end game skills in the fertility tab\n\nThis mod is the reason why I made FoxLib, and felt bad uploading FoxLib without a mod that uses it too",
+		"author": "Fox2Code",
+		"modversion": "0.1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxedBDCC_v0.1.0.zip"
 	}
 	]
 }
