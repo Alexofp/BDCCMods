@@ -2087,80 +2087,6 @@
 			"preview": "datapack_previews/waffle_dnd_characters.png"
 		},
 		{
-			"id": "htextrachr",
-			"name": "Hypnosis Testing Extra Characters 1 & Pelara's Shop",
-			"author": "JokeMysterious",
-			"version": "3",
-			"description": "Extra characters for the datapack Hypnosis Testing\nAlso includes Pelara's Slave Lot.\n\nUSE THE SAME MODS FROM HYPNOSIS TESTING! THIS IS REQUIRED FOR THAT AS WELL!",
-			"contains": "Contains: 9 characters, 1 skin, 2 scenes",
-			"download": "datapacks/htextrachr1.res",
-			"lastedit": 1729486406,
-			"filesize": 1135866,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-				"LopunnySpeciesVer1.zip",
-				"Straitjacketmod.zip"
-			]
-		},
-		{
-			"id": "htexrachr2",
-			"name": "Hypnosis Testing Extra Characters 2",
-			"author": "JokeMysterious",
-			"version": "1",
-			"description": "Second set of  extra characters for the datapack Hypnosis Testing\n\nUSE THE SAME MODS FROM HYPNOSIS TESTING! THIS IS REQUIRED FOR THAT AS WELL!",
-			"contains": "Contains: 10 characters, 2 skins",
-			"download": "datapacks/htextrachr2.res",
-			"lastedit": 1729486409,
-			"filesize": 732928,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-				"SynthModVer1.3-B.zip"
-			]
-		},
-		{
-			"id": "hypnotest",
-			"name": "Hypnosis Testing",
-			"author": "JokeMysterious",
-			"version": "Alpha v6",
-			"description": "An engineer is interested in the use of hypnosis visors and bdsm tech. Have fun!\n\nDevLog:\nAlpha v1 - Finished the induction storyline\n\nAlpha v2 - Added some extra text (as not to seem nothing much was added in terms of dialogue), Fix the bug of the workshop start (thanks to @Moo Cow on the discord for bringing this to my attention)\n\nAlpha v3 - Heavy debug, should work flawlessly now | Experiments! Only one for now but more are coming!\n\nAlpha v4: THE LOOPING ISSUE HAS BEEN RECTIFIED AT LONG LAST! | More experiments and a new engineer who's a little more ... dominant. Also with comes with her own experiments.\n\nAlpha v5: Experiments! Aurora has got some too! (Still more to come). | Kona's sensitve topic is done! Find out what she's keeping from you! (100 trust)\n\nAlpha v6: More experiments! And... WIP is in debug menus. Almost done!",
-			"contains": "Contains: 3 characters, 20 scenes, 1 quest",
-			"download": "datapacks/ht.res",
-			"lastedit": 1729575628,
-			"filesize": 2383630,
-			"requiredDatapacks": [
-				"htextrachr",
-				"htexrachr2",
-				"irisdatapack"
-			],
-			"reqDatapackToName": {
-				"htextrachr": "Hypnosis Testing Extra Characters 1",
-				"htexrachr2": "Hypnosis Testing Extra Characters 2",
-				"irisdatapack": "Iris"
-			},
-			"requiredMods": [
-				"MoreBDSMstuff.zip",
-				"AcesProtogenMod-Ver1.1-BreedEdition.zip",
-				"AcesSharkSpeciesVer1.11.zip",
-				"DickSkinsBatch2.zip",
-				"LopunnySpeciesVer1.zip",
-				"AcesAvairyAddonVer0.99.zip",
-				"AvaliSpeciesVer2.zip",
-				"MoreUniformsVer6.zip",
-				"ScalieExpansionVer2.1.zip",
-				"ChastityCageFlat.zip"
-			]
-		},
-		{
 			"id": "ruelanesra",
 			"name": "Rue lanesra",
 			"author": "Pokey",
@@ -2204,26 +2130,6 @@
 				"HypertusSpeciesCompatibilityLayersR3.zip"
 			],
 			"preview": "datapack_previews/maevesbabeswillow.png"
-		},
-		{
-			"id": "irisdatapack",
-			"name": "Iris",
-			"author": "JokeMysterious",
-			"version": "Any",
-			"description": "Just a datapack for a (hopefully) upcoming mod",
-			"contains": "Contains: 1 character, 1 scene, 1 quest",
-			"download": "datapacks/irisdatapack.res",
-			"lastedit": 1730178537,
-			"filesize": 8468,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-				"AcesAvairyAddonVer0.99.zip"
-			]
 		},
 		{
 			"id": "Aaron",
@@ -2785,6 +2691,129 @@
 
 			],
 			"preview": "datapack_previews/Hermaphroditejaylin.png"
+		},
+		{
+			"id": "hypnotest",
+			"name": "Hypnosis Testing",
+			"author": "JokeMysterious",
+			"version": "Alpha v7",
+			"description": "An engineer is interested in the use of hypnosis visors and bdsm tech. Have fun!\n\nDevLog:\nAlpha v1 - Finished the induction storyline\n\nAlpha v2 - Added some extra text (as not to seem nothing much was added in terms of dialogue), Fix the bug of the workshop start (thanks to @Moo Cow on the discord for bringing this to my attention)\n\nAlpha v3 - Heavy debug, should work flawlessly now | Experiments! Only one for now but more are coming!\n\nAlpha v4: THE LOOPING ISSUE HAS BEEN RECTIFIED AT LONG LAST! | More experiments and a new engineer who's a little more ... dominant. Also with comes with her own experiments.\n\nAlpha v5: Experiments! Aurora has got some too! (Still more to come). | Kona's sensitve topic is done! Find out what she's keeping from you! (100 trust)\n\nAlpha v6: More experiments! And... WIP is in debug menus. Almost done!\n\nAlpha v7: Overhaul of data and scenes. More experiments and a new Engineer into the mix.",
+			"contains": "Contains: 4 characters, 21 scenes, 1 quest",
+			"download": "datapacks/ht.res",
+			"lastedit": 1735966953,
+			"filesize": 2489948,
+			"requiredDatapacks": [
+				"htextrachr",
+				"htexrachr2",
+				"irisdatapack",
+				"htextrascenes"
+			],
+			"reqDatapackToName": {
+				"htextrachr": "Hypnosis Testing Extra Characters 1 & Pelara's Shop",
+				"htexrachr2": "Hypnosis Testing Extra Characters 2",
+				"irisdatapack": "Iris",
+				"htextrascenes": "Hypnosis Testing Extra Scenes"
+			},
+			"requiredMods": [
+				"MoreBDSMstuff.zip",
+				"AcesProtogenMod-Ver1.1-BreedEdition.zip",
+				"AcesSharkSpeciesVer1.11.zip",
+				"DickSkinsBatch2.zip",
+				"LopunnySpeciesVer1.zip",
+				"AcesAvairyAddonVer0.99.zip",
+				"AvaliSpeciesVer2.zip",
+				"MoreUniformsVer6.zip",
+				"ScalieExpansionVer2.1.zip",
+				"ChastityCageFlat.zip",
+				"MorePenisPump.zip"
+			]
+		},
+		{
+			"id": "irisdatapack",
+			"name": "Iris",
+			"author": "JokeMysterious",
+			"version": "Any",
+			"description": "Just a datapack for a (hopefully) upcoming mod",
+			"contains": "Contains: 2 characters",
+			"download": "datapacks/irisdatapack.res",
+			"lastedit": 1735966956,
+			"filesize": 11904,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"AcesAvairyAddonVer0.99.zip"
+			]
+		},
+		{
+			"id": "htextrachr",
+			"name": "Hypnosis Testing Extra Characters 1 & Pelara's Shop",
+			"author": "JokeMysterious",
+			"version": "3",
+			"description": "Extra characters for the datapack Hypnosis Testing\nAlso includes Pelara's Slave Lot.\n\nUSE THE SAME MODS FROM HYPNOSIS TESTING! THIS IS REQUIRED FOR THAT AS WELL!",
+			"contains": "Contains: 9 characters, 1 skin, 2 scenes",
+			"download": "datapacks/htextrachr1.res",
+			"lastedit": 1735966958,
+			"filesize": 1135870,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"LopunnySpeciesVer1.zip",
+				"Straitjacketmod.zip"
+			]
+		},
+		{
+			"id": "htexrachr2",
+			"name": "Hypnosis Testing Extra Characters 2",
+			"author": "JokeMysterious",
+			"version": "2",
+			"description": "Second set of  extra characters for the datapack Hypnosis Testing\n\nUSE THE SAME MODS FROM HYPNOSIS TESTING! THIS IS REQUIRED FOR THAT AS WELL!",
+			"contains": "Contains: 11 characters, 2 skins, 1 scene",
+			"download": "datapacks/htextrachr2.res",
+			"lastedit": 1735966960,
+			"filesize": 752108,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"SynthModVer1.3-B.zip"
+			]
+		},
+		{
+			"id": "htextrascenes",
+			"name": "Hypnosis Testing Extra Scenes",
+			"author": "JokeMysterious",
+			"version": "Version 1",
+			"description": "Extra Scenes for Hypnosis Testing. Noting story related here.",
+			"contains": "Contains: 1 character, 2 scenes",
+			"download": "datapacks/htextrascenes.res",
+			"lastedit": 1735966962,
+			"filesize": 21160,
+			"requiredDatapacks": [
+				"irisdatapack",
+				"hypnotest",
+				"htextrachr",
+				"htexrachr2"
+			],
+			"reqDatapackToName": {
+				"irisdatapack": "Iris",
+				"hypnotest": "Hypnosis Testing",
+				"htextrachr": "Hypnosis Testing Extra Characters 1 & Pelara's Shop",
+				"htexrachr2": "Hypnosis Testing Extra Characters 2"
+			},
+			"requiredMods": [
+
+			]
 		}
 	]
 }
