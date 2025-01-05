@@ -1447,6 +1447,14 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MorePenisPump.zip"
+	},
+	{
+		"name": "Casino (DEMO)",
+		"description": "This is the first demo of the casino mod, and for now, there is only one game to play, which is the slot machine, and you can play it in your cell. (Cool, right?)\n\nOf course, there will be more to fix, so please feel free to let me know what you think.\n\n(the slot machine game details are already in the help menu.)",
+		"author": "N",
+		"modversion": "0.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CasinoDemo.zip"
 	}
 	]
 }
