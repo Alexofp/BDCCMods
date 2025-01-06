@@ -2416,29 +2416,6 @@
 			"preview": "datapack_previews/pc_characters.png"
 		},
 		{
-			"id": "DragonSlave",
-			"name": "Dragon Slave",
-			"author": "Katz",
-			"version": "Beta 0.01-D",
-			"description": "Now YOU can be the slave! Give yourself body and soul to Alexander Katzen, a powerful dragon who seems to be missing his collar and refuses to wear clothes. He takes nudity as an invitation, so be careful walking around nude where he can find you! Please note that a lot of content is unfinished and some is placeholder. Also, Katz is wildly overleveled for now. I'll balance him once I have more content prepared for it.\n\nWarning: This is a Beta. May have really bad bugs. May break other quests and the portal panties.\n\nChangelog: Added a scene that lets you get cucked if Rahi is your wife, or slave. Mostly works. Fixed a few bugs",
-			"contains": "Contains: 1 character, 11 scenes",
-			"download": "datapacks/DragonSlave.res",
-			"lastedit": 1732682467,
-			"filesize": 796745,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-				"ScalieExpansionVer2.1.zip",
-				"DragonsPlusVer0.9.zip",
-				"BarbedandKnottedEquinePenis.zip"
-			],
-			"preview": "datapack_previews/DragonSlave.png"
-		},
-		{
 			"id": "junomfp",
 			"name": "Juno the Protogen (My Furry Protogen)",
 			"author": "NatRobloxian",
@@ -2814,6 +2791,29 @@
 			"requiredMods": [
 
 			]
+		},
+		{
+			"id": "DragonSlave",
+			"name": "Dragon Slave",
+			"author": "Katz",
+			"version": "Beta 0.02",
+			"description": "Now YOU can be the slave! Give yourself body and soul to Alexander Katzen, a powerful dragon who seems to be missing his collar and refuses to wear clothes. He takes nudity as an invitation, so be careful walking around nude where he can find you! Please note that a lot of content is unfinished and some is placeholder. Also, Katz is wildly overleveled for now. I'll balance him once I have more content prepared for it.\n\nWarning: This is a Beta. May have really bad bugs. May break other quests and the portal panties.\n\nChangelog: Added a new character!",
+			"contains": "Contains: 2 characters, 13 scenes",
+			"download": "datapacks/DragonSlave.res",
+			"lastedit": 1736142408,
+			"filesize": 830438,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"ScalieExpansionVer2.1.zip",
+				"DragonsPlusVer0.9.zip",
+				"BarbedandKnottedEquinePenis.zip"
+			],
+			"preview": "datapack_previews/DragonSlave.PNG"
 		}
 	]
 }
