@@ -1455,6 +1455,14 @@
 		"modversion": "0.2",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ForceFuck.zip"
+	},
+	{
+		"name": "More Starting Perks",
+		"description": "Adds new starting parks to choose from during character creation. Don't take them all at once, or do, I'm a description, not a cop.",
+		"author": "Raknar",
+		"modversion": "0.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreStartingPerks.zip"
 	}
 	]
 }
