@@ -1241,14 +1241,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Intimidate_v0.1.zip"
 	},
 	{
-		"name": "More BDSM stuff",
-		"description": "Adds more restraints and toys.\n\nFixed everything I could find.\n \nI rewrote the code of the menu, now it saves the settings and allows to change them from inventory.\n\nAdjusted the compatibility with Nudity Police mod.\n\nBasic customization for latex gloves and mittens now with stockings.\n\nSpecial thanks to @ralanost for the bug report .\n\nEverything is sold by Announcer.\n\nButt Plug\nPink vibrator\nLeather Blindfold\nLeather Bondage Mittens (extended)\nLeather Wrist Cuffs (fix)\nLeather Ankle Cuffs (fix)\nHarness\nLatex Suit (ring slot!!) (fix)\nLatex Mittens (extended) (fix)\nLatex Gloves (extended) (fix)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreBDSMstuff.png]Click for preview[/url]",
-		"author": "DrDurka",
-		"modversion": "0.32",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreBDSMstuff.zip"
-	},
-	{
 		"name": "Max Mod",
 		"description": "My Plan for World Domination continues and today we have another updated mod from old times.\nIf you've played Max Mod before all of that is the same, but now with a new look and more sex.\n\nVersion 2 update comes with a major looks overhaul for Max and his Uniform (Check out the More Uniforms Mod btw). \nYou can now also have The Sex with Max (5 different scenes worth).\n\nBe sure to yell at me for all the typos and bugs I missed. And make sure it's the scenes I wrote. \n[b]Fixed some more outdated code causing crashes[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/maxpreview.png]Click for Preview[/url]",
 		"author": "AverageAce",
@@ -1463,6 +1455,14 @@
 		"modversion": "0.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreStartingPerks.zip"
+	},
+	{
+		"name": "More BDSM stuff",
+		"description": "Adds more restraints and toys.\n\nThe update is mostly technical, so there will be bugs and inconsistencies. \n\nLet's start with the important stuff: \n\nItem settings will reset. I've changed the save data for items, reduced and unified them, so they're easier to work with now. \n\nAgain tried to tighten compatibility with mods on species and, in general, if the mod does not change the legs somehow too radical, everything should work. If not - write here:  ⁠MoreBDSMstuff corner .\n\nOn items:\n\nI added a hood for the suit and a separate one as a bondage. For all the original species models are there, with mods.... well, it shouldn't be too bad.\n\nAdd the cock ring(?), does pretty much what it says in the description - keeps you from cumming. More of a test item, but the problem is more in the textures, too many dicks in the game.\n\nI want to do a little digging with the toys, but it's going to take a long time.\nI'll list the rest of the little things.\n\nEverything is sold by Announcer.\n\nButt Plug\nPlug L2 (new)\nPink vibrator\nLeather Blindfold\nLeather Bondage Mittens (extended)\nLeather Wrist Cuffs\nLeather Ankle Cuffs\nHarness\nLatex Suit (ring slot!!) (extended) (new)\nLatex Mittens (extended)\nLatex Gloves (extended) (new style)\nBondage hood (new)\nCock ring (new)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreBDSMstuff.png]Click for preview[/url]",
+		"author": "DrDurka",
+		"modversion": "0.33",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreBDSMstuff.zip"
 	}
 	]
 }
