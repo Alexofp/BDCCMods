@@ -2796,12 +2796,12 @@
 			"id": "DragonSlave",
 			"name": "Dragon Slave",
 			"author": "Katz",
-			"version": "Beta 0.04D",
-			"description": "Now YOU can be the slave! Give yourself body and soul to Alexander Katzen, a powerful dragon who seems to be missing his collar and refuses to wear clothes. He takes nudity as an invitation, so be careful walking around nude where he can find you! Please note that a lot of content is unfinished and some is placeholder. Also, Katz is wildly overleveled for now. I'll balance him once I have more content prepared for it.\n\nWarning: This is a Beta. Save your game before using. Do not attempt while doing the portal panties quest.\n\nChangelog: Reverts a scene to a previous and more stable version.\n\nContact: Visit the BDCC Discord and hunt me down if you have any questions or requests.",
+			"version": "Beta 0.05",
+			"description": "Now YOU can be the slave! Give yourself body and soul to Alexander Katzen, a powerful dragon who seems to be missing his collar and refuses to wear clothes. He takes nudity as an invitation, so be careful walking around nude where he can find you! Please note that a lot of content is unfinished and some is placeholder. Also, Katz is wildly overleveled for now. I'll balance him once I have more content prepared for it.\n\nWarning: This is a Beta. Save your game before using. Do not attempt while doing the portal panties quest.\n\nChangelog: You can now rescue Rahi! Meeting Katz in a random encounter should no longer soft-lock.\n\nContact: Visit the BDCC Discord and hunt me down if you have any questions or requests.",
 			"contains": "Contains: 2 characters, 14 scenes",
 			"download": "datapacks/DragonSlave.res",
-			"lastedit": 1736658832,
-			"filesize": 940410,
+			"lastedit": 1736743504,
+			"filesize": 969366,
 			"requiredDatapacks": [
 
 			],
