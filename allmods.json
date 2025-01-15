@@ -1463,6 +1463,14 @@
 		"modversion": "2.1",
 		"gameversion": "0.1.7",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Bodydrugs.zip"
+	},
+	{
+		"name": "More Scenes",
+		"description": "This mod adds a new scene to be used in modding/datapack building. This version is just one scene with five character's standing together with the same options as the solo or duo animations.\n\nBig thanks to everyone who helped me get this figured out along the way.",
+		"author": "FurWolfriex",
+		"modversion": "1.0",
+		"gameversion": "0.1.7",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreScenes.zip"
 	}
 	]
 }
