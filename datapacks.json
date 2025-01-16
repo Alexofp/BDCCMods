@@ -2814,6 +2814,48 @@
 				"BarbedandKnottedEquinePenis.zip"
 			],
 			"preview": "datapack_previews/DragonSlave.PNG"
+		},
+		{
+			"id": "trixie",
+			"name": "Trixie",
+			"author": "Jack",
+			"version": "1.0",
+			"description": "No description provided",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/trixie.res",
+			"lastedit": 1737006018,
+			"filesize": 9909,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/trixie.png"
+		},
+		{
+			"id": "lust_demon",
+			"name": "Lusty demons ",
+			"author": "Tenten",
+			"version": "1.0",
+			"description": "No description provided",
+			"contains": "Contains: 2 characters",
+			"download": "datapacks/lust_demon.res",
+			"lastedit": 1737006166,
+			"filesize": 14497,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"HoundoomSpeciesVer1.zip"
+			],
+			"preview": "datapack_previews/lust_demon.png"
 		}
 	]
 }
