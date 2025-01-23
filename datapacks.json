@@ -2861,12 +2861,12 @@
 			"id": "AnytimeBodyTransformation",
 			"name": "Body Transformation",
 			"author": "Reserve",
-			"version": "1.1",
-			"description": "Adds the ability to change your character at any time without using debug/cheat panel by talking to Eliza.\nSkin and part colors will need to be changed at bathroom mirror afterwards.\nCurrently doesn't have options for infertility modifiers.",
+			"version": "1.2",
+			"description": "Adds the ability to change your character at any time without using debug/cheat panel by talking to Eliza.\nCurrently doesn't have options for infertility modifiers.\nCan't change skin/colors.",
 			"contains": "Contains: 1 scene",
 			"download": "datapacks/AnytimeBodyTransformation.res",
-			"lastedit": 1737175489,
-			"filesize": 89183,
+			"lastedit": 1737607259,
+			"filesize": 97502,
 			"requiredDatapacks": [
 
 			],
@@ -2881,12 +2881,12 @@
 			"id": "appearancesave",
 			"name": "AppearanceSaver",
 			"author": "Reserve",
-			"version": "1.0",
+			"version": "1.1",
 			"description": "Allows you to save up to 3 character transformations and swap between them by talking to eliza.\nDoes not save colors, currently can't save thickness attribute.\n",
 			"contains": "Contains: 1 scene",
 			"download": "datapacks/AppearanceSave.res",
-			"lastedit": 1737175492,
-			"filesize": 119908,
+			"lastedit": 1737607261,
+			"filesize": 127772,
 			"requiredDatapacks": [
 				"AnytimeBodyTransformation"
 			],
