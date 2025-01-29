@@ -1425,14 +1425,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreStartingPerks.zip"
 	},
 	{
-		"name": "More BDSM stuff",
-		"description": "Adds more restraints and toys.\n\nThe update is mostly technical, so there will be bugs and inconsistencies. \n\nLet's start with the important stuff: \n\nItem settings will reset. I've changed the save data for items, reduced and unified them, so they're easier to work with now. \n\nAgain tried to tighten compatibility with mods on species and, in general, if the mod does not change the legs somehow too radical, everything should work. If not - write here:  ⁠MoreBDSMstuff corner .\n\nOn items:\n\nI added a hood for the suit and a separate one as a bondage. For all the original species models are there, with mods.... well, it shouldn't be too bad.\n\nAdd the cock ring(?), does pretty much what it says in the description - keeps you from cumming. More of a test item, but the problem is more in the textures, too many dicks in the game.\n\nI want to do a little digging with the toys, but it's going to take a long time.\nI'll list the rest of the little things.\n\nEverything is sold by Announcer.\n\nButt Plug\nPlug L2 (new)\nPink vibrator\nLeather Blindfold\nLeather Bondage Mittens (extended)\nLeather Wrist Cuffs\nLeather Ankle Cuffs\nHarness\nLatex Suit (ring slot!!) (extended) (new)\nLatex Mittens (extended)\nLatex Gloves (extended) (new style)\nBondage hood (new)\nCock ring (new)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreBDSMstuff.png]Click for preview[/url]",
-		"author": "DrDurka",
-		"modversion": "0.33",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreBDSMstuff.zip"
-	},
-	{
 		"name": "ForceFuck",
 		"description": "Adds forced fucking (and more forceful deepthroating), and improved Knot Fucking (including when riding a sub), based on Mindstormsman's KnotFucking mod.\nAlso functions as a patch to fix an issue with sensitivity .Edits Sex activity, so compatibility is your luck. Not compatible with Mindstormsman's KnotFucking, or my Sensitivity bugfix.\nFixed: AI getting caught in a knotfucking loop (fingers crossed this time).",
 		"author": "Raknar",
@@ -1487,6 +1479,14 @@
 		"modversion": "0.1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxedBDCC_v0.1.0.zip"
+	},
+	{
+		"name": "More BDSM stuff",
+		"description": "Fix again, legs problems again. Attempts to track the player's state with items (customize toys) still fail. Slightly corrected the blindfold model, and yes, I added a description for switching to gloves..\n\nEverything is sold by Announcer.\n\nButt Plug\nPlug L2 (new)\nPink vibrator\nLeather Blindfold\nLeather Bondage Mittens (extended)\nLeather Wrist Cuffs\nLeather Ankle Cuffs\nHarness\nLatex Suit (ring slot!!) (extended) (new)\nLatex Mittens (extended)\nLatex Gloves (extended) (new style)\nBondage hood (new)\nCock ring (new)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreBDSMstuff.png]Click for preview[/url]",
+		"author": "DrDurka",
+		"modversion": "0.33fix3",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreBDSMstuff.zip"
 	}
 	]
 }
