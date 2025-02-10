@@ -1457,14 +1457,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AutoLubeMod.zip"
 	},
 	{
-		"name": "More BDSM stuff",
-		"description": "Fix again, legs problems again. Attempts to track the player's state with items (customize toys) still fail. Slightly corrected the blindfold model, and yes, I added a description for switching to gloves..\n\nEverything is sold by Announcer.\n\nButt Plug\nPlug L2 (new)\nPink vibrator\nLeather Blindfold\nLeather Bondage Mittens (extended)\nLeather Wrist Cuffs\nLeather Ankle Cuffs\nHarness\nLatex Suit (ring slot!!) (extended) (new)\nLatex Mittens (extended)\nLatex Gloves (extended) (new style)\nBondage hood (new)\nCock ring (new)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreBDSMstuff.png]Click for preview[/url]",
-		"author": "DrDurka",
-		"modversion": "0.33fix3",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreBDSMstuff.zip"
-	},
-	{
 		"name": "Nano Revolution",
 		"description": "CONTENT WARNING: This mod has some force transformation content. This will warn you when it is about to happen.\nSo this mod is inspired by one of the in-game scenes, where you check the unfinished nano android program, and Sentinel-X, the prototype trying to transform you into the nano android. Unfortunately, this program was stopped by Captain, and Sentinel-X lost its power before full transformation.\nNow, let's imagine what if Alex persuaded Captain to continue that program. Introducing Nano Revolution Mod, this mod realizes the nano android program.\n\nCurrent Features:\n-A new semi-playable specie, nano android. Usually, these androids are perfect guards, following every command and easy to manage. \n(You cannot choose this race in the start of the game, but maybe something terrible (or exciting for some people) could happen when entering a certain room in the engineering bay.)\n-A new dynamic npc type, the nano android. Will frisk you and force tougher punishment if you keep refusing their request. Be careful\n-A semi completed new skill tree that is closely related to confronting these nano guards.\n\nFuture plan (rank by priority):\nFully developed nano engineering skill tree. You can make something really powerful with this skill.\nMore nano android type. nano engineers, nurses, and even android sextoys, enrich the BDCC life.\nMature nano species side path. A new skill tree that is closely related to how to use your new body.\nSince Alex is in charge of this program, more story line and interaction with Alex when you accidentally turn into nano android.\n\nHave fun with these nano androids~ If you have any suggestions, bug reports, typo reports, and even story suggestions, feel free to send me these messages. They will be very helpful for my future development. XD\n\nvHi! Sorry for such a long time after the last update. I've finally got some time to continue this work. \n\nv0.5.0 Update - Nano Interaction Continued:\n-Fully make use of the new interaction system. Two new pawn types!  Nano sex doll and guard. They will randomly spawn in BDCC, interact with other inmates and NPCs. Specifically Sex doll will offer sex, and the nano guard will frisk the inmate once per day.\n\n-New skill tree unlocked! Once you activate your nano transformation, you'll gain access to some truly fascinating abilities—including the power to convert others into nano-androids. But be warned: this process will fully erase target identity. The choice is yours.\n\n-Humoi can now offer you some hints to help you progress your nano journey! “Talk” with her and check her “Suggestion”.\n\n-Add a small perk to Nano Engineering Skill\n\n-Temporarily remove some old scenes, will add back in the future.\n\nFuture plan (rank by priority):\n-Since Alex is in charge of this program, more story line and interaction with Alex when you accidentally turn into nano android. \n\n-Fully matured nano skill trees. You can make something really powerful with these skills.\n\n-Even More nano android types. nano engineers, nurses, and servers fully under your command , enrich the BDCC life. \n\n-Mature nano species side path. Extend a new skill tree that is closely related to how to use your new body.\n\nSome Extra Stuff:\nYea, finally figuring out how to work with Rahi’s excellent interaction system. To be honest, this system has really high potential. So, I want to use this update to show how we can use this new system to create a more dynamic BDCC environment. \n\nBug Report, Suggestion? Always welcome!\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NanoRevolutionPoster.png]Click for preview[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NanoRevolutionPoster2.png]Preview 2[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NanoRevolutionPoster3.png]Preview 3[/url]",
 		"author": "Humoiww",
@@ -1487,6 +1479,14 @@
 		"modversion": "0.1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxedBDCC_v0.1.0.zip"
+	},
+	{
+		"name": "More BDSM stuff",
+		"description": "Adds more restraints and toys.\n\nNow the ring works. And yes, fixes again, but now I have a +- sane bug test, so hopefully there will be less of this sort of thing. \n+ improved the visuals a little bit\n\nEverything is sold by Announcer.\n\nButt Plug\nPlug L2\nPink vibrator\nLeather Blindfold\nLeather Bondage Mittens (extended)\nLeather Wrist Cuffs\nLeather Ankle Cuffs\nHarness\nLatex Suit (ring slot!!) (extended)\nLatex Mittens (extended)\nLatex Gloves (extended)\nBondage hood\nCock ring (new)(fixed)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreBDSMstuff.png]Click for preview[/url]",
+		"author": "DrDurka",
+		"modversion": "0.34",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreBDSMstuff.zip"
 	}
 	]
 }
