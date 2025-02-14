@@ -1482,9 +1482,9 @@
 	},
 	{
 		"name": "More BDSM stuff",
-		"description": "Adds more restraints and toys.\n\nNow the ring works. And yes, fixes again, but now I have a +- sane bug test, so hopefully there will be less of this sort of thing. \n+ improved the visuals a little bit\n\nEverything is sold by Announcer.\n\nButt Plug\nPlug L2\nPink vibrator\nLeather Blindfold\nLeather Bondage Mittens (extended)\nLeather Wrist Cuffs\nLeather Ankle Cuffs\nHarness\nLatex Suit (ring slot!!) (extended)\nLatex Mittens (extended)\nLatex Gloves (extended)\nBondage hood\nCock ring (new)(fixed)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreBDSMstuff.png]Click for preview[/url]",
+		"description": "Fix1: Fixed the crashes in some Avy events and with npcs, and raised the arousal threshold a bit\n\nAdds more restraints and toys.\n\nNow the ring works. And yes, fixes again, but now I have a +- sane bug test, so hopefully there will be less of this sort of thing. \n+ improved the visuals a little bit\n\nEverything is sold by Announcer.\n\nButt Plug\nPlug L2\nPink vibrator\nLeather Blindfold\nLeather Bondage Mittens (extended)\nLeather Wrist Cuffs\nLeather Ankle Cuffs\nHarness\nLatex Suit (ring slot!!) (extended)\nLatex Mittens (extended)\nLatex Gloves (extended)\nBondage hood\nCock ring (new)(fixed)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreBDSMstuff.png]Click for preview[/url]",
 		"author": "DrDurka",
-		"modversion": "0.34",
+		"modversion": "0.34 fix1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreBDSMstuff.zip"
 	}
