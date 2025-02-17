@@ -1487,6 +1487,14 @@
 		"modversion": "0.34 fix1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreBDSMstuff.zip"
+	},
+	{
+		"name": "Winters Pokemon Collection (EEVEE ONLY)",
+		"description": "Was originally intended to be a grouped mod for all the eeveelutions updated for skins and colours but pending crashing project has to be started over from scratch and will be updated as each species is finished. @ me in mods discussion if anything is broken.\nIncluded: Eevee\nCredit: Original Mods by Eurygrey\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersPokemonCollection.png]Click for Preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "0.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersPokemonCollectionV0.1.zip"
 	}
 	]
 }
