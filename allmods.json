@@ -1465,12 +1465,20 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NanoRevolutionMod_v0.5.0.zip"
 	},
 	{
+		"name": "More BDSM stuff",
+		"description": "Fix1: Fixed the crashes in some Avy events and with npcs, and raised the arousal threshold a bit\n\nAdds more restraints and toys.\n\nNow the ring works. And yes, fixes again, but now I have a +- sane bug test, so hopefully there will be less of this sort of thing. \n+ improved the visuals a little bit\n\nEverything is sold by Announcer.\n\nButt Plug\nPlug L2\nPink vibrator\nLeather Blindfold\nLeather Bondage Mittens (extended)\nLeather Wrist Cuffs\nLeather Ankle Cuffs\nHarness\nLatex Suit (ring slot!!) (extended)\nLatex Mittens (extended)\nLatex Gloves (extended)\nBondage hood\nCock ring (new)(fixed)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreBDSMstuff.png]Click for preview[/url]",
+		"author": "DrDurka",
+		"modversion": "0.34 fix1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreBDSMstuff.zip"
+	},
+	{
 		"name": "FoxLib",
 		"description": "\n[center][color=#00FFFF][b][shake rate=5 level=7][[[[/shake] Modding enhancer for BDCC [shake rate=5 level=7]]]][/shake][/b][/color] [/center]\n[center][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img] [/center]\n[center][color=#FF8000][u]/!\\[/u] Don't forget to delete old versions of the mod when updating [u]/!\\[/u][/color] [/center]\n\nAdd cool features for users:\n- A mod configuration menu\n- A custom theme engine\n- Dynamic mod hotfixes\n- GameTest engine to test the integrity of the loaded mod list\n\nBut mainly add many features and abilities for BDCC mods such as:\n- Adding custom CrotchBlock for datapacks\n- Adding new perks level tiers\n- Controling more game UI elements\n- Saving NPC Skills/Perk data\n- Handling fatal errors via GUI\n- Configuring mods via in game Menu\n- Registering custom entries to the ModularDialogue system\n- Preventing your mod from being loaded twice\n\nFoxLib also additionaly expose more capabilities to datapacks too, please check the in-game editor to see the new blocks FoxLib adds! [wave amp=10 freq=4]:D[/wave]\n\nFoxLib will also use code generation instead of replacing game code for maximum compatibility with your existing mods, you can see in the file list that FoxLib doesn't replace any game files!\n\n[color=#00FFFF]F[/color]ox[color=#00FFFF]L[/color]ib [color=#00FFFF]M[/color]od[color=#00FFFF]H[/color]elper (Aka. [color=#00FFFF]FLMH[/color].py) is a build tool for developers to ease development of FoxLib mods. It provide warnings to improve your mods code and is the current tool used to package FoxLib!\n\nFor more info on how to use FoxLib API or FoxLib ModHelper, please check the bundled documentation!\n(Or you can read FoxLib source-code by extracting it)\n[center][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][/center]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FoxLib.png]Click for preview[/url]",
 		"author": "Fox2Code",
-		"modversion": "0.7.0",
+		"modversion": "0.7.1",
 		"gameversion": "0.1.7",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxLib_v0.7.0.zip"
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxLib_v0.7.1.zip"
 	},
 	{
 		"name": "FoxedBDCC",
@@ -1481,20 +1489,12 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxedBDCC_v0.1.0.zip"
 	},
 	{
-		"name": "More BDSM stuff",
-		"description": "Fix1: Fixed the crashes in some Avy events and with npcs, and raised the arousal threshold a bit\n\nAdds more restraints and toys.\n\nNow the ring works. And yes, fixes again, but now I have a +- sane bug test, so hopefully there will be less of this sort of thing. \n+ improved the visuals a little bit\n\nEverything is sold by Announcer.\n\nButt Plug\nPlug L2\nPink vibrator\nLeather Blindfold\nLeather Bondage Mittens (extended)\nLeather Wrist Cuffs\nLeather Ankle Cuffs\nHarness\nLatex Suit (ring slot!!) (extended)\nLatex Mittens (extended)\nLatex Gloves (extended)\nBondage hood\nCock ring (new)(fixed)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreBDSMstuff.png]Click for preview[/url]",
-		"author": "DrDurka",
-		"modversion": "0.34 fix1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreBDSMstuff.zip"
-	},
-	{
-		"name": "Winters Pokemon Collection (EEVEE ONLY)",
-		"description": "Was originally intended to be a grouped mod for all the eeveelutions updated for skins and colours but pending crashing project has to be started over from scratch and will be updated as each species is finished. @ me in mods discussion if anything is broken.\nIncluded: Eevee\nCredit: Original Mods by Eurygrey\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersPokemonCollection.png]Click for Preview[/url]",
+		"name": "Winters Pokemon Collection (Eevee & Jolteon)",
+		"description": "Was originally intended to be a grouped mod for all the eeveelutions updated for skins and colours but pending crashing project has to be started over from scratch and will be updated as each species is finished.\nIncluded: Eevee & Jolteon\nCredit: Original Mods by Eurygrey\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersPokemonCollection.png]Click for Preview[/url]",
 		"author": "Avery Winters",
-		"modversion": "0.1",
+		"modversion": "0.2",
 		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersPokemonCollectionV0.1.zip"
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersPokemonCollectionV0.2.zip"
 	}
 	]
 }
