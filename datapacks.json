@@ -2772,29 +2772,6 @@
 			]
 		},
 		{
-			"id": "DragonSlave",
-			"name": "Dragon Slave",
-			"author": "Katz",
-			"version": "Beta 0.06",
-			"description": "Now YOU can be the slave! Give yourself body and soul to Alexander Katzen, a powerful dragon who seems to be missing his collar and refuses to wear clothes. He takes nudity as an invitation, so be careful walking around nude where he can find you! Please note that a lot of content is unfinished and some is placeholder. Also, Katz is wildly overleveled for now. I'll balance him once I have more content prepared for it.\n\nWarning: This is a Beta. Save your game before using. Do not attempt while doing the portal panties quest. Will make Artica's quest harder.\n\nChangelog: You can now have sex with both Star and Rahi as slaves! Also fixed a bug nobody noticed. Tee hee.\n\nContact: Visit the BDCC Discord and hunt me down if you have any questions or requests.",
-			"contains": "Contains: 2 characters, 14 scenes",
-			"download": "datapacks/DragonSlave.res",
-			"lastedit": 1736915206,
-			"filesize": 1035748,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-				"ScalieExpansionVer2.1.zip",
-				"DragonsPlusVer0.9.zip",
-				"BarbedandKnottedEquinePenis.zip"
-			],
-			"preview": "datapack_previews/DragonSlave.PNG"
-		},
-		{
 			"id": "trixie",
 			"name": "Trixie",
 			"author": "Jack",
@@ -2896,6 +2873,30 @@
 			"requiredMods": [
 
 			]
+		},
+		{
+			"id": "DragonSlave",
+			"name": "Dragon Slave",
+			"author": "Katz",
+			"version": "Beta 0.07B",
+			"description": "Now YOU can be the slave! Give yourself body and soul to Alexander Katzen, a powerful dragon who seems to be missing his collar and refuses to wear clothes. He takes nudity as an invitation, so be careful walking around nude where he can find you! Please note that a lot of content is unfinished and some is placeholder. Also, Katz is wildly overleveled for now. I'll balance him once I have more content prepared for it.\n\nWarning: This is a Beta. Save your game before using. Do not attempt while doing the portal panties quest. Will make Artica's quest harder.\n\nChangelog: Now includes a little bit of Rope Bunny content for good slaves, a WIP portal panty function, body modification (One of the sex options), and probably a ton of weird bugs! Pardon my dust!\n\nContact: Visit the BDCC Discord and hunt me down if you have any questions or requests.\n\nCredits: MooCow for the very nice art.",
+			"contains": "Contains: 3 characters, 19 scenes",
+			"download": "datapacks/DragonSlave.res",
+			"lastedit": 1739942569,
+			"filesize": 1640562,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"ScalieExpansionVer2.1.zip",
+				"DragonsPlusVer0.9.zip",
+				"BarbedandKnottedEquinePenis.zip",
+				"Equines+Ver0.9.zip"
+			],
+			"preview": "datapack_previews/DragonSlave.PNG"
 		}
 	]
 }
