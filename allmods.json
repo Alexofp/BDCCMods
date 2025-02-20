@@ -1489,12 +1489,12 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxedBDCC_v0.1.0.zip"
 	},
 	{
-		"name": "Winters Pokemon Collection (Eevee, Jolteon & Flareon)",
-		"description": "Was originally intended to be a grouped mod for all the eeveelutions updated for skins and colours but pending crashing project has to be started over from scratch and will be updated as each species is finished.\nIncluded: Eevee & Jolteon & Flareon\nCredit: Original Mods by Eurygrey\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersPokemonCollection.png]Click for Preview[/url]",
+		"name": "Winters Pokemon Collection (WIP)",
+		"description": "Was originally intended to be a grouped mod for all the eeveelutions updated for skins and colours but pending crashing project has to be started over from scratch and will be updated as each species is finished.\nIncluded: Eevee, Jolteon, Flareon & Glaceon\nCredit: Original Mods by Eurygrey\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersPokemonCollection.png]Click for Preview[/url]",
 		"author": "Avery Winters",
-		"modversion": "0.3",
+		"modversion": "0.4",
 		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersPokeCollectionV0.3.zip"
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersPokeCollectionV0.4.zip"
 	}
 	]
 }
