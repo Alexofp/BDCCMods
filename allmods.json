@@ -1489,20 +1489,20 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxedBDCC_v0.1.0.zip"
 	},
 	{
-		"name": "Winters Pokemon Collection (WIP)",
-		"description": "Was originally intended to be a grouped mod for all the eeveelutions updated for skins and colours but pending crashing project has to be started over from scratch and will be updated as each species is finished.\nIncluded: Eevee, Jolteon, Flareon & Glaceon\nCredit: Original Mods by Eurygrey\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersPokemonCollection.png]Click for Preview[/url]",
-		"author": "Avery Winters",
-		"modversion": "0.4",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersPokeCollectionV0.4.zip"
-	},
-	{
 		"name": "Suzanne",
 		"description": "im feeling depressed so have this monkey cosmetic, colorable with baked in shadow\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SuzanneHeadCosmetic.png]Click for Preview[/url]",
 		"author": "CanInBad",
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SuzanneHeadCosmetic.zip"
+	},
+	{
+		"name": "Winters Pokemon Collection (WIP)",
+		"description": "Was originally intended to be a grouped mod for all the eeveelutions updated for skins and colours but pending crashing project has to be started over from scratch and will be updated as each species is finished.\nIncluded: Eevee, Jolteon, Flareon, Glaceon & Vaporeon\nCredit: Original Mods by Eurygrey\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersPokemonCollection.png]Click for Preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "0.5",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersPokeCollectionV0.5.zip"
 	}
 	]
 }
