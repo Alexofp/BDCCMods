@@ -2897,6 +2897,27 @@
 				"Equines+Ver0.9.zip"
 			],
 			"preview": "datapack_previews/DragonSlave.PNG"
+		},
+		{
+			"id": "coccharacters",
+			"name": "Corruption of Champions 1 Characters",
+			"author": "AverageAce",
+			"version": "1.0",
+			"description": "Many Characters from CoC1 in BDCC as generic characters. Credit to Fenoxo team and the respective writers of the original characters.",
+			"contains": "Contains: 5 characters",
+			"download": "datapacks/coccharacters.res",
+			"lastedit": 1741152592,
+			"filesize": 33556,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"Rat_Species.zip",
+				"Shark_Species.zip"
+			]
 		}
 	]
 }
