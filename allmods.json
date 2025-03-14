@@ -1505,20 +1505,20 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxedBDCC_v0.1.0.zip"
 	},
 	{
-		"name": "SneakUpTease",
-		"description": "Adds an alternate interaction upon meeting a guard, engineer or a nurse in an off-limits cell. In this diverging outcome, the trespassing inmate is not immediately detected, and is presented with an opportunity to sneak up on staff. Occasionally, while exploring the space prison, you may also find yourself on the receiving end of this encounter.\n\n- Wearing loud restraints increases the detection rate. On the other paw, wearing staff uniform may trick pawns that have low perception.\n\n- Explicit interactions require successfully enticing the creature into submission. Failing that, available options are limited to playful teasing (which is valid).\n\n- You may edit the files to sidestep consent play, it's fiction and I'm not here to police it. Do note that it's a core mechanic and an intended way to experience the mod.\n\n- There are some branching paths as well as modular dialogues, with the hope to keep each encounter a little more distinct and tailored to some of the character attributes.\n\nCompatibility\n`/Game/InteractionSystem/Interactions/CaughtOffLimits.gd` is overridden to allow a detour into the alternate interaction, and to include two methods to compute its chances. Any other file is a new addition and shouldn't cause conflicts as long as the filenames are unique.",
-		"author": "keerifox",
-		"modversion": "0.3.0",
-		"gameversion": "0.1.7",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SneakUpTease.zip"
-	},
-	{
 		"name": "Issix Mod",
     	"description": "I've posted extensive changelog over [url=https://git.frisk.space/Frisk/Issix-mod/src/tag/0.9.5/CHANGELOG.md]here[/url], [url=https://git.frisk.space/Frisk/Issix-mod/src/branch/master/README.md]my Git page[/url] has more information what the mod is about. I still do not consider the mod to be complete, and likely crashes in few places even though it has been tested by at least 4 people. It's getting big.\nSummarized change log:\nAdded 3 scenes for Hiisi's story line, added 1 \"final\" scene for Azazel's story line (corruption)\nPartially implemented non-con mode with two alternate scenes for introducing player into it\nReworked skill/progression system to be dependent on in-game skill system, some pet characteristics are now perks\nAdded system for punishment/reward, currently only 1 reward and 1 punishment scenes implemented\nAdded mechanic for donating extra BDSM gear to Issix in case you have too much of it laying around every 10 donations there is a reward with 50 donations allowing you to apply random slut locks onto an item\nAdded tasks (ways to improve Issix's mood)\nAdded protection mechanism when player is forced into a fight by dynamic inmate NPC if player is enslaved by Issix. Hiisi can now interrupt a fight and take it over\nAdded walks to Pasture\nAdded fertility training (in addition to existing combat training)\nAdded soft FoxLib dependency if you want some customization and better dialogues in 2 places\nMany game design improvements based on feedback from previous version\nAdded trash can inside harem to take care of all empty condoms in your inventory\nCurrently: 51 scene files (+29 compared to last update), 1 skill tree, 1 quest, 4 new characters\nHaven't counted for this update but its gotta be way more than 50k+ words in this mod.\n\nContributions from writers and artists always welcome at [url=https://github.com/Friskygote/Issix-mod]https://github.com/Friskygote/Issix-mod[/url]. ",
     	"author": "bawdy_goat",
     	"modversion": "0.9.5",
     	"gameversion": "0.1.7",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/IssixMod.zip"
+	},
+	{
+		"name": "SneakUpTease",
+		"description": "Adds an alternate interaction upon meeting a guard, engineer or a nurse in an off-limits cell. In this diverging outcome, the trespassing inmate is not immediately detected, and is presented with an opportunity to sneak up on staff. Occasionally, while exploring the space prison, you may also find yourself on the receiving end of this encounter.\n\n- Wearing loud restraints increases the detection rate. On the other paw, wearing staff uniform may trick pawns that have low perception.\n\n- Explicit interactions require successfully enticing the creature into submission. Failing that, available options are limited to playful teasing (which is valid).\n\n- You may edit the files to sidestep consent play, it's fiction and I'm not here to police it. Do note that it's a core mechanic and an intended way to experience the mod.\n\n- There are some branching paths as well as modular dialogues, with the hope to keep each encounter a little more distinct and tailored to some of the character attributes.\n\nCompatibility\n`/Game/InteractionSystem/Interactions/CaughtOffLimits.gd` is overridden to allow a detour into the alternate interaction, and to include two methods to compute its chances. Any other file is a new addition and shouldn't cause conflicts as long as the filenames are unique.",
+		"author": "keerifox",
+		"modversion": "0.3.1",
+		"gameversion": "0.1.7",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SneakUpTease.zip"
 	}
 	]
 }
