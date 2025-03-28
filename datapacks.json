@@ -2918,6 +2918,27 @@
 				"Rat_Species.zip",
 				"Shark_Species.zip"
 			]
+		},
+		{
+			"id": "sammi",
+			"name": "Sammi_Doe",
+			"author": "Explorer",
+			"version": "1.7.1",
+			"description": "Adds one of my characters: Sammi",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/sammi.res",
+			"lastedit": 1743137117,
+			"filesize": 5890,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"DeerSpeciesVer2.1.zip"
+			],
+			"preview": "datapack_previews/sammi.png"
 		}
 	]
 }
