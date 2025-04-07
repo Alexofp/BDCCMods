@@ -2939,6 +2939,32 @@
 				"DeerSpeciesVer2.1.zip"
 			],
 			"preview": "datapack_previews/sammi.png"
+		},
+		{
+			"id": "dogtales",
+			"name": "Dog Tales",
+			"author": "How Do We Scream",
+			"version": "1.0",
+			"description": "No description provided",
+			"contains": "Contains: 7 characters, 1 scene",
+			"download": "datapacks/dogtales.res",
+			"lastedit": 1744001539,
+			"filesize": 38283,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"Clothes_Megapack.zip",
+				"CorsetMod.zip",
+				"Hair_v1_.20.zip",
+				"MoreUniformsVer6.1.zip",
+				"LorianHair.zip",
+				"DeerSpeciesVer2.1.zip"
+			],
+			"preview": "datapack_previews/dogtales.png"
 		}
 	]
 }
