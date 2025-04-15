@@ -2965,6 +2965,50 @@
 				"DeerSpeciesVer2.1.zip"
 			],
 			"preview": "datapack_previews/dogtales.png"
+		},
+		{
+			"id": "bts",
+			"name": "BlackTail Stables",
+			"author": "Joke Mysterious",
+			"version": "1.0",
+			"description": "Addition to Hypnosis Testing (INTEGRATION COMING SOON)\n\nWelcome to the BlackTail Stables! Come... Join us.\nWith a variety of roles to choose from, fill Lori's desire to have a ranch of equines and other live stock of her own, and Xaro's incredible hypnosis and genetic surgery expertice!",
+			"contains": "Contains: 6 characters, 1 scene",
+			"download": "datapacks/bts.res",
+			"lastedit": 1744688698,
+			"filesize": 122075,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"AcesAvairyAddonVer0.99.zip",
+				"ChastityCageFlatRemix.zip",
+				"MoreBDSMstuff.zip",
+				"MorePenisPump.zip"
+			]
+		},
+		{
+			"id": "e1a5other_stories",
+			"name": "Other Stories",
+			"author": "Elhumanist",
+			"version": "1.1",
+			"description": "This datapack aims to add new special npcs with indepth stories and actions for you to play with.",
+			"contains": "Contains: 1 character, 4 scenes, 1 quest",
+			"download": "datapacks/e1a5other_stories.res",
+			"lastedit": 1744688708,
+			"filesize": 699819,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/e1a5other_stories.png"
 		}
 	]
 }
