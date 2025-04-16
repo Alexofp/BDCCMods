@@ -2970,12 +2970,12 @@
 			"id": "bts",
 			"name": "BlackTail Stables",
 			"author": "Joke Mysterious",
-			"version": "1.0",
-			"description": "Addition to Hypnosis Testing (INTEGRATION COMING SOON)\n\nWelcome to the BlackTail Stables! Come... Join us.\nWith a variety of roles to choose from, fill Lori's desire to have a ranch of equines and other live stock of her own, and Xaro's incredible hypnosis and genetic surgery expertice!",
-			"contains": "Contains: 6 characters, 1 scene",
+			"version": "1 - Patch: 1",
+			"description": "Addition to Hypnosis Testing (INTEGRATION COMING SOON)\n\nWelcome to the BlackTail Stables! Come... Join us.\nWith a variety of roles to choose from, fill Lori's desire to have a ranch of equines and other live stock of her own, and Xaro's incredible hypnosis and genetic surgery expertice!\n\nPATCH 1:\nThanks to the discord, some minor issues were fixed as well as some new and updated content!",
+			"contains": "Contains: 6 characters, 2 scenes",
 			"download": "datapacks/bts.res",
-			"lastedit": 1744688698,
-			"filesize": 122075,
+			"lastedit": 1744776305,
+			"filesize": 148949,
 			"requiredDatapacks": [
 
 			],
@@ -2986,19 +2986,20 @@
 				"AcesAvairyAddonVer0.99.zip",
 				"ChastityCageFlatRemix.zip",
 				"MoreBDSMstuff.zip",
-				"MorePenisPump.zip"
+				"MorePenisPump.zip",
+				"CrowSpeciesVer2.zip"
 			]
 		},
 		{
 			"id": "e1a5other_stories",
 			"name": "Other Stories",
 			"author": "Elhumanist",
-			"version": "1.1",
+			"version": "1.2",
 			"description": "This datapack aims to add new special npcs with indepth stories and actions for you to play with.",
-			"contains": "Contains: 1 character, 4 scenes, 1 quest",
+			"contains": "Contains: 2 characters, 7 scenes, 1 quest",
 			"download": "datapacks/e1a5other_stories.res",
-			"lastedit": 1744688708,
-			"filesize": 699819,
+			"lastedit": 1744776308,
+			"filesize": 767749,
 			"requiredDatapacks": [
 
 			],
@@ -3009,6 +3010,26 @@
 
 			],
 			"preview": "datapack_previews/e1a5other_stories.png"
+		},
+		{
+			"id": "BattleintheVoid",
+			"name": "The Battle in the Void",
+			"author": "Sumobear50",
+			"version": "1.0",
+			"description": "This datapack contains probably one of the hardest fights you'll face. This isn't for anyone with fresh characters. Come prepared.",
+			"contains": "Contains: 1 scene",
+			"download": "datapacks/BattleintheVoid.res",
+			"lastedit": 1744776311,
+			"filesize": 9995,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"Gavin the Void Boss.pck"
+			]
 		}
 	]
 }

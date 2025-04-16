@@ -1519,6 +1519,14 @@
 		"modversion": "0.6",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/B.O.O.P.zip"
+	},
+	{
+		"name": "Gavin the Void Boss",
+		"description": "Character and his moveset required for the \"Battle in The Void\" datapack.",
+		"author": "Sumobear50",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GavinTheVoidBoss.pck"
 	}
 	]
 }
