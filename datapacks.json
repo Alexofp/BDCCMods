@@ -2991,27 +2991,6 @@
 			]
 		},
 		{
-			"id": "e1a5other_stories",
-			"name": "Other Stories",
-			"author": "Elhumanist",
-			"version": "1.2",
-			"description": "This datapack aims to add new special npcs with indepth stories and actions for you to play with.",
-			"contains": "Contains: 2 characters, 7 scenes, 1 quest",
-			"download": "datapacks/e1a5other_stories.res",
-			"lastedit": 1744776308,
-			"filesize": 767749,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-
-			],
-			"preview": "datapack_previews/e1a5other_stories.png"
-		},
-		{
 			"id": "BattleintheVoid",
 			"name": "The Battle in the Void",
 			"author": "Sumobear50",
@@ -3030,6 +3009,27 @@
 			"requiredMods": [
 				"Gavin the Void Boss.pck"
 			]
+		},
+		{
+			"id": "e1a5other_stories",
+			"name": "Other Stories",
+			"author": "Elhumanist",
+			"version": "1.2",
+			"description": "This datapack aims to add new special npcs with indepth stories and actions for you to play with.",
+			"contains": "Contains: 2 characters, 10 scenes, 1 quest",
+			"download": "datapacks/e1a5other_stories.res",
+			"lastedit": 1745034883,
+			"filesize": 864878,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/e1a5other_stories.png"
 		}
 	]
 }
