@@ -3060,6 +3060,27 @@
 				"FoxLib"
 			],
 			"preview": "datapack_previews/foxlibtest.png"
+		},
+		{
+			"id": "bdccdd",
+			"name": "Broken Dreams Correctional Center: Dark Days",
+			"author": "Sumobear50",
+			"version": "1.0",
+			"description": "Ever wonder what it'd be like if its world took an entirely different direction? If it became a truly dark and dystopian world where death is a very real possibility?\n\nWell, you don't have to anymore. I hope you're ready, as this is going to be one brutal story.",
+			"contains": "Contains: 19 scenes",
+			"download": "datapacks/bdccdd.res",
+			"lastedit": 1745472962,
+			"filesize": 549948,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"FoxLib",
+				"BDCC Dark Days - Prologue & Chapter 1.pck"
+			]
 		}
 	]
 }

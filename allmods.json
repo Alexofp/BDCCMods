@@ -1535,6 +1535,14 @@
 		"modversion": "0.1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxedBDCC_v0.1.0.zip"
+	},
+	{
+		"name": "BDCC Dark Days - Prologue & Chapter 1",
+		"description": "The content produced for, and required by, the BDCC: Dark Days Datapack.",
+		"author": "Sumobear50",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BDCC Dark Days - Prologue & Chapter 1.pck"
 	}
 	]
 }
