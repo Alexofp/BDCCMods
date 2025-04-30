@@ -1545,20 +1545,28 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxedBDCC_v0.1.0.zip"
 	},
 	{
+		"name": "Tavi Dom Plus Demo",
+		"description": "A little Addition for Tavi, starts when you get her Corruption to 200% or 0%~ And then she will give you a nice little rewards for \"Fixing\" her.\nWhat it adds: Adds a few encounters with Tavi, after doing the above mentioned thing currently you can find her in the Canteen as you eat, in the yard while you wander about, and the greenhouse for a little teasing minigame~.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/TaviDomPlus.png]Click for Preview[/url]",
+		"author": "Phoenix",
+		"modversion": "0.5fixed2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/TaviDomPlus.zip"
+	},
+	{
+		"name": "Bubble Butt body",
+		"description": "Adds a body that has a huge ass. Good only for being a naked human, as tails and clothing breaks with it.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BubbleButtBody.png]Click for Preview[/url]",
+		"author": "Amewsing",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BubbleButtBody.zip"
+	},
+	{
 		"name": "Hypnosis Testing - NeuroJammer",
 		"description": "First mod! Adds an intense version of a hypnovisor that isn't a clear glass screen (just Socket's visor down)",
 		"author": "JokeMysterious",
 		"modversion": "1",
 		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Hypnosis%20Testing%20-%20NeuroJammer.zip"
-	},
-	{
-		"name": "Tavi Dom Plus Demo",
-		"description": "A little Addition for Tavi, starts when you get her Corruption to 200% or 0%~ And then she will give you a nice little rewards for \"Fixing\" her.\nWhat it adds: Adds a few encounters with Tavi, after doing the above mentioned thing currently you can find her in the Canteen as you eat, in the yard while you wander about, and the greenhouse for a little teasing minigame~.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/TaviDomPlus.png]Click for Preview[/url]",
-		"author": "Phoenix",
-		"modversion": "0.5fixed",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/TaviDomPlus.zip"
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NeuroJammerModule.zip"
 	}
 	]
 }
