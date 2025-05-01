@@ -1564,7 +1564,7 @@
 		"name": "Hypnosis Testing - NeuroJammer",
 		"description": "First mod! Adds an intense version of a hypnovisor that isn't a clear glass screen (just Socket's visor down)",
 		"author": "JokeMysterious",
-		"modversion": "1",
+		"modversion": "1fixed1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NeuroJammerModule.zip"
 	}
