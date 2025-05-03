@@ -3081,6 +3081,27 @@
 				"FoxLib",
 				"BDCC Dark Days - Prologue & Chapter 1.pck"
 			]
+		},
+		{
+			"id": "gardevoir101",
+			"name": "Gardevoir Skin",
+			"author": "Amewsing",
+			"version": "1.0",
+			"description": "Add for the Gardevoir skin and a NPC.",
+			"contains": "Contains: 1 character, 1 skin",
+			"download": "datapacks/gardevoir101.res",
+			"lastedit": 1746250041,
+			"filesize": 32120,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"Gardevoir1.01.zip"
+			],
+			"preview": "datapack_previews/gardevoir101.png"
 		}
 	]
 }
