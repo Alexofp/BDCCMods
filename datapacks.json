@@ -2884,32 +2884,6 @@
 			"preview": "datapack_previews/e1a5other_stories.png"
 		},
 		{
-			"id": "bts",
-			"name": "BlackTail Stables",
-			"author": "Joke Mysterious",
-			"version": "1 - Patch: 2",
-			"description": "Addition to Hypnosis Testing (INTEGRATION COMING SOON)\n\nWelcome to the BlackTail Stables! Come... Join us.\nWith a variety of roles to choose from, fill Lori's desire to have a ranch of equines and other live stock of her own, and Xaro's incredible hypnosis and genetic surgery expertice!\n\nPATCH 1:\nThanks to the discord, some minor issues were fixed as well as some new and updated content!\n\nPATCH 2:\nFixed some issues and added enhancements, as well as updating the mod requirement list.",
-			"contains": "Contains: 6 characters, 2 scenes",
-			"download": "datapacks/bts.res",
-			"lastedit": 1745295830,
-			"filesize": 156195,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-				"AcesAvairyAddonVer0.99.zip",
-				"MoreBDSMstuff.zip",
-				"MorePenisPump.zip",
-				"CrowSpeciesVer2.zip",
-				"ChastityCageFlat.zip",
-				"FoxLib"
-			],
-			"preview": "datapack_previews/bts.png"
-		},
-		{
 			"id": "htextrascenes",
 			"name": "Hypnosis Testing Extra Scenes",
 			"author": "JokeMysterious",
@@ -3102,6 +3076,84 @@
 				"Gardevoir1.01.zip"
 			],
 			"preview": "datapack_previews/gardevoir101.png"
+		},
+		{
+			"id": "bts",
+			"name": "BlackTail Stables",
+			"author": "Joke Mysterious",
+			"version": "1 - Patch: 3",
+			"description": "Addition to Hypnosis Testing \n\nWelcome to the BlackTail Stables! Come... Join us.\nWith a variety of roles to choose from, fill Lori's desire to have a ranch of equines and other live stock of her own, and Xaro's incredible hypnosis and genetic surgery expertice!\n\nPATCH 1:\nThanks to the discord, some minor issues were fixed as well as some new and updated content!\n\nPATCH 2:\nFixed some issues and added enhancements, as well as updating the mod requirement list.\n\nPATCH 3: \nLast one I swear! Updates Xaro's outfit (requires newest version to work)",
+			"contains": "Contains: 6 characters, 2 scenes",
+			"download": "datapacks/bts.res",
+			"lastedit": 1746423707,
+			"filesize": 156107,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"AcesAvairyAddonVer0.99.zip",
+				"MoreBDSMstuff.zip",
+				"MorePenisPump.zip",
+				"CrowSpeciesVer2.zip",
+				"ChastityCageFlat.zip",
+				"FoxLib"
+			],
+			"preview": "datapack_previews/bts.png"
+		},
+		{
+			"id": "mitzuscharactergallery",
+			"name": "Mitzu's Characters collection",
+			"author": "Mitzushi",
+			"version": "1.0",
+			"description": "A collection from various characters i made across BDCC and other game, features 2 Guards, 5 inmmates, 2 Engineers and 1 Nurse, all with customized levels, abilities and stats.",
+			"contains": "Contains: 10 characters",
+			"download": "datapacks/mitzuscharactergallery.res",
+			"lastedit": 1746423711,
+			"filesize": 60243,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"AcesAvairyAddonVer0.99.zip",
+				"Clothes_Megapack.zip",
+				"FluffbodypartsVer3.zip",
+				"MoreUniformsVer6.1.zip",
+				"ScalieExpansionVer2.1.zip",
+				"DragonsPlusVer0.9.zip",
+				"SergalSpeciesVer0.9.zip",
+				"AvaliSpeciesVer2.zip"
+			]
+		},
+		{
+			"id": "pokemoncc",
+			"name": "Pokemon",
+			"author": "No author",
+			"version": "1.0",
+			"description": "Pokemon characters with canon colors.",
+			"contains": "Contains: 22 characters",
+			"download": "datapacks/canonpokemoncolors.res",
+			"lastedit": 1746423714,
+			"filesize": 67925,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"HoundoomSpeciesVer1.zip",
+				"LeafeonSpeciesVers1.1.zip",
+				"LopunnySpeciesVer1.zip",
+				"SylveonSpeciesVer0.9.zip",
+				"WintersPokeCollectionV0.6.zip",
+				"LycanrocSpeciesVer0.9.zip"
+			]
 		}
 	]
 }
