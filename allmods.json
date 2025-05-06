@@ -1583,6 +1583,22 @@
 		"modversion": "0.35",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreBDSMstuff.zip"
+	},
+	{
+		"name": "Southern Sergal",
+		"description": "The southern flavor of Sergals. This will 100% look fucked up with any eye-covering apparel\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SouthernSergal.png]Click for preview[/url]",
+		"author": "Amewsing",
+		"modversion": "0.5",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SouthernSergal.5.zip"
+	},
+	{
+		"name": "Bad Apples",
+		"description": "Makes Aggressive prisoners more likely to target other inmates and the player. Trigger chance is influenced by personality, level, exposure, and relationship. You'll need to choose whether to befriend them, avoid them, or grow strong enough to turn the tables.\n\nThe impact can range from minimal to fairly substantial, depending on the strength and temperament of the inmates present. \nIt does not alter any core game files so it should be compatible with everything (hopefully).",
+		"author": "Master Lorian",
+		"modversion": "0.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BadApples.zip"
 	}
 	]
 }
