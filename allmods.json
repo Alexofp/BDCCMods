@@ -1599,6 +1599,14 @@
 		"modversion": "0.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BadApples.zip"
+	},
+	{
+		"name": "JunkieRehabilitation",
+		"description": "Adds a new drug which allows to rehabilitate defeated Drug Den junkies into cellblock inmates, in case you wish to meet them again.\n\nThe pill can sometimes be found as loot. Alternatively, you can purchase it for 100 credits from the Med Lobby's vendomat.\n\nCompatibility\n`/Modules/DrugDenModule/DrugDen/DrugDenEncounterTemplateScene.gd` is overridden to allow all of this to happen.\n\n`DrugDenEncounterBossScene.gd`, `DrugDenEncounterFirstScene.gd` and `DrugDenEncounterInstantFightScene.gd` are overridden to modify path to the class they inherit. No other lines are affected besides line 44 in the boss scene.",
+		"author": "keerifox",
+		"modversion": "0.3.0",
+		"gameversion": "0.1.8",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/JunkieRehabilitation.zip"
 	}
 	]
 }
