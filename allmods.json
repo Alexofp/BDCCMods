@@ -1599,6 +1599,14 @@
 		"modversion": "0.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BadApples.zip"
+	},
+	{
+		"name": "Manga Head",
+		"description": "Adds a Manga style version of the human head with Colorable Eyes (red: Skin, green: Sclera, blue: Iris).\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MangaHead.png]Click for preview[/url]",
+		"author": "Master Lorian",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MangaHead.zip"
 	}
 	]
 }

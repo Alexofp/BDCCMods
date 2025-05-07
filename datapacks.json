@@ -2993,28 +2993,6 @@
 			]
 		},
 		{
-			"id": "birdservicesdatapack",
-			"name": "Bird Services",
-			"author": "JokeMysterious",
-			"version": "1 - Patch 1",
-			"description": "Update on the Iris Datatpack, now servers a more important integration for Hypnosis Testing",
-			"contains": "Contains: 3 characters, 3 scenes",
-			"download": "datapacks/birdservices.res",
-			"lastedit": 1745295846,
-			"filesize": 132683,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-				"AcesAvairyAddonVer0.99.zip",
-				"CrowSpeciesVer2.zip",
-				"FoxLib"
-			]
-		},
-		{
 			"id": "foxlibtest",
 			"name": "FoxLib Test Datapack",
 			"author": "Fox2code",
@@ -3153,6 +3131,28 @@
 				"SylveonSpeciesVer0.9.zip",
 				"WintersPokeCollectionV0.6.zip",
 				"LycanrocSpeciesVer0.9.zip"
+			]
+		},
+		{
+			"id": "birdservicesdatapack",
+			"name": "Bird Services",
+			"author": "JokeMysterious",
+			"version": "2 Patch 1",
+			"description": "Update on the Iris Datatpack, now servers a more important integration for Hypnosis Testing",
+			"contains": "Contains: 6 characters, 4 scenes",
+			"download": "datapacks/birdservices.res",
+			"lastedit": 1746595338,
+			"filesize": 143206,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"AcesAvairyAddonVer0.99.zip",
+				"CrowSpeciesVer2.zip",
+				"FoxLib"
 			]
 		}
 	]
