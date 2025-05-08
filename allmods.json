@@ -1089,14 +1089,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Equines+Ver0.9.zip"
 	},
 	{
-		"name": "Lorian Hair",
-		"description": "Currently contains 5 hairstyles. More may be added in the near future.\nNew stuff: Long Messy Hairstyle.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/LorianHair.png]Click for preview[/url]",
-		"author": "Master Lorian",
-		"modversion": "0.2",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/LorianHair.zip"
-	},
-	{
 		"name": "Hair Replacer",
 		"description": "Replaces 4 of the hair types I dislike.\nCombed back is bald.\nCool Hair and Long hair is Ferri hair\nPonytail 2 is ponytail 1 hair.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HairRemoval.png]Click for preview[/url]",
 		"author": "MakoDaShark",
@@ -1577,14 +1569,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxedBDCC_v0.1.0.zip"
 	},
 	{
-		"name": "More BDSM stuff",
-		"description": "Adds more restraints and toys.\n\nThe big one: finished a small system for toys. Currently overclocking sensitivity (this... will happen a bit abruptly at scene transitions), raising arousal and lust over time. If you leave them on on the slave, they will still work, but arousal will only go up to 90. Can be switched either from inventory or with the remote.\n\nStill in test mode, I want to prescribe some scenes and events, but it's long, so I need to make sure it works correctly for the most part.\n\nTo items:\nYou can now add a tail for a suit.\nAdded 6 more variations to the harness.\nAdded a small animation for the bag\nAll items except toys, ring and suit can now be forced on you. (They are quite durable and hard to take off, so if you think this is unnecessary, let me know)\n\n4 new items:\nLeather muzzle  gag\nLatex muzzle ring gag\nBreast massager\nToys remote\n\nEverything is sold by Announcer.\n\nButt Plug (extended)(new)\nPlug L2 (extended)(new)\nPink vibrator (extended)(new)\nLeather Blindfold\nLeather Bondage Mittens (extended)\nLeather Wrist Cuffs\nLeather Ankle Cuffs\nLeather muzzle  gag (new)\nHarness (extended)(new)\nLatex Suit (ring slot!!) (extended)(new)\nLatex Mittens (extended)\nLatex Gloves (extended)\nLatex muzzle ring gag (new)\nBondage hood (fix)\nCock ring \nBreast massager (new)\nToys remote (new)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreBDSMstuff.png]Click for preview[/url]",
-		"author": "DrDurka",
-		"modversion": "0.35",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreBDSMstuff.zip"
-	},
-	{
 		"name": "Southern Sergal",
 		"description": "The southern flavor of Sergals. This will 100% look fucked up with any eye-covering apparel\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SouthernSergal.png]Click for preview[/url]",
 		"author": "Amewsing",
@@ -1615,6 +1599,22 @@
 		"modversion": "0.3.1",
 		"gameversion": "0.1.8",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/JunkieRehabilitation.zip"
+	},
+	{
+		"name": "Lorian Hair",
+		"description": "Adds 5 Hairstryles\nv0.25 changelog:\nJust updated the json for 0.1.8, removed useless files, and adjusted some of the hairstyles to be a bit closer to vanilla.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/LorianHair.png]Click for preview[/url]",
+		"author": "Master Lorian",
+		"modversion": "0.25",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/LorianHair.zip"
+	},
+	{
+		"name": "More BDSM stuff",
+		"description": "Adds more restraints and toys.\n\nThe big one: finished a small system for toys. Currently overclocking sensitivity (this... will happen a bit abruptly at scene transitions), raising arousal and lust over time. If you leave them on on the slave, they will still work, but arousal will only go up to 90. Can be switched either from inventory or with the remote.\n\nStill in test mode, I want to prescribe some scenes and events, but it's long, so I need to make sure it works correctly for the most part.\n\nTo items:\nYou can now add a tail for a suit.\nAdded 6 more variations to the harness.\nAdded a small animation for the bag\nAll items except toys, ring and suit can now be forced on you. (They are quite durable and hard to take off, so if you think this is unnecessary, let me know)\n\n4 new items:\nLeather muzzle  gag\nLatex muzzle ring gag\nBreast massager\nToys remote\n\nEverything is sold by Announcer.\n\nButt Plug (extended)(new)\nPlug L2 (extended)(new)\nPink vibrator (extended)(new)\nLeather Blindfold\nLeather Bondage Mittens (extended)\nLeather Wrist Cuffs\nLeather Ankle Cuffs\nLeather muzzle  gag (new)\nHarness (extended)(new)\nLatex Suit (ring slot!!) (extended)(new)\nLatex Mittens (extended)\nLatex Gloves (extended)\nLatex muzzle ring gag (new)\nBondage hood (fix)\nCock ring \nBreast massager (new)\nToys remote (new)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreBDSMstuff.png]Click for preview[/url]",
+		"author": "DrDurka",
+		"modversion": "0.35fix1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreBDSMstuff.zip"
 	}
 	]
 }
