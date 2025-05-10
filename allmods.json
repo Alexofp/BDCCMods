@@ -1473,14 +1473,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/IssixMod.zip"
 	},
 	{
-		"name": "SneakUpTease",
-		"description": "Adds an alternate interaction upon meeting a guard, engineer or a nurse in an off-limits cell. In this diverging outcome, the trespassing inmate is not immediately detected, and is presented with an opportunity to sneak up on staff. Occasionally, while exploring the space prison, you may also find yourself on the receiving end of this encounter.\n\n- Wearing loud restraints increases the detection rate. On the other paw, wearing staff uniform may trick pawns that have low perception.\n\n- Explicit interactions require successfully enticing the creature into submission. Failing that, available options are limited to playful teasing (which is valid).\n\n- You may edit the files to sidestep consent play, it's fiction and I'm not here to police it. Do note that it's a core mechanic and an intended way to experience the mod.\n\n- There are some branching paths as well as modular dialogues, with the hope to keep each encounter a little more distinct and tailored to some of the character attributes.\n\nCompatibility\n`/Game/InteractionSystem/Interactions/CaughtOffLimits.gd` is overridden to allow a detour into the alternate interaction, and to include two methods to compute its chances. Any other file is a new addition and shouldn't cause conflicts as long as the filenames are unique.",
-		"author": "keerifox",
-		"modversion": "0.3.2",
-		"gameversion": "0.1.7",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SneakUpTease.zip"
-	},
-	{
 		"name": "B.O.O.P",
 		"description": "Behold! The B.O.O.P. (body operational optimization pult). For only for ♂️300 bucks♂️ , allows you to change npcs body. (be honest, it's a rewritten character creator). \n\nIt works simply: put it on the target character, take it back and press a button. Since it's considered as BDSM item, there are no restrictions on npcs, but in the case of static and key characters there may be problems, which I can't vouch for (please don't).\n\nAnd a few technical points: there are no species bindings for body parts here, and neither is resetting them to standard after changing species. And no, personality, fetishes, etc. cannot be overwritten (yet).\n\nSmall update due to a bug found.\nChanged the way to use it, as the old one broke a lot . Now all you have to do is put the pult on yourself, talk to the npc and voila. Now the editor works stably with static npcs, but unfortunately can not change the thickness and femininity (it is statically built into the character, extra thick ginger cat canceled).\n\nSold by Alex Rynard.",
 		"author": "DrDurka",
@@ -1615,6 +1607,14 @@
 		"modversion": "0.35fix1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreBDSMstuff.zip"
+	},
+	{
+		"name": "SneakUpTease",
+		"description": "Adds an alternate interaction upon meeting a guard, engineer or a nurse in an off-limits cell. In this diverging outcome, the trespassing inmate is not immediately detected, and is presented with an opportunity to sneak up on staff. Occasionally, while exploring the space prison, you may also find yourself on the receiving end of this encounter.\n\n- Wearing loud restraints increases the detection rate. On the other paw, wearing staff uniform may trick pawns that have low perception.\n\n- Explicit interactions require successfully enticing the creature into submission. Failing that, available options are limited to playful teasing (which is valid).\n\n- You may edit the files to sidestep consent play, it's fiction and I'm not here to police it. Do note that it's a core mechanic and an intended way to experience the mod.\n\n- There are some branching paths as well as modular dialogues, with the hope to keep each encounter a little more distinct and tailored to some of the character attributes.\n\nCompatibility\n`/Game/InteractionSystem/Interactions/CaughtOffLimits.gd` is overridden to allow a detour into the alternate interaction, and to include two methods to compute its chances. Any other file is a new addition and shouldn't cause conflicts as long as the filenames are unique.",
+		"author": "keerifox",
+		"modversion": "0.3.3",
+		"gameversion": "0.1.8",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SneakUpTease.zip"
 	}
 	]
 }
