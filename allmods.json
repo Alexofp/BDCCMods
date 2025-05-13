@@ -1569,14 +1569,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/LorianHair.zip"
 	},
 	{
-		"name": "More BDSM stuff",
-		"description": "Adds more restraints and toys.\n\nThe big one: finished a small system for toys. Currently overclocking sensitivity (this... will happen a bit abruptly at scene transitions), raising arousal and lust over time. If you leave them on on the slave, they will still work, but arousal will only go up to 90. Can be switched either from inventory or with the remote.\n\nStill in test mode, I want to prescribe some scenes and events, but it's long, so I need to make sure it works correctly for the most part.\n\nTo items:\nYou can now add a tail for a suit.\nAdded 6 more variations to the harness.\nAdded a small animation for the bag\nAll items except toys, ring and suit can now be forced on you. (They are quite durable and hard to take off, so if you think this is unnecessary, let me know)\n\n4 new items:\nLeather muzzle  gag\nLatex muzzle ring gag\nBreast massager\nToys remote\n\nEverything is sold by Announcer.\n\nButt Plug (extended)(new)\nPlug L2 (extended)(new)\nPink vibrator (extended)(new)\nLeather Blindfold\nLeather Bondage Mittens (extended)\nLeather Wrist Cuffs\nLeather Ankle Cuffs\nLeather muzzle  gag (new)\nHarness (extended)(new)\nLatex Suit (ring slot!!) (extended)(new)\nLatex Mittens (extended)\nLatex Gloves (extended)\nLatex muzzle ring gag (new)\nBondage hood (fix)\nCock ring \nBreast massager (new)\nToys remote (new)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreBDSMstuff.png]Click for preview[/url]",
-		"author": "DrDurka",
-		"modversion": "0.35fix1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreBDSMstuff.zip"
-	},
-	{
 		"name": "SneakUpTease",
 		"description": "Adds an alternate interaction upon meeting a guard, engineer or a nurse in an off-limits cell. In this diverging outcome, the trespassing inmate is not immediately detected, and is presented with an opportunity to sneak up on staff. Occasionally, while exploring the space prison, you may also find yourself on the receiving end of this encounter.\n\n- Wearing loud restraints increases the detection rate. On the other paw, wearing staff uniform may trick pawns that have low perception.\n\n- Explicit interactions require successfully enticing the creature into submission. Failing that, available options are limited to playful teasing (which is valid).\n\n- You may edit the files to sidestep consent play, it's fiction and I'm not here to police it. Do note that it's a core mechanic and an intended way to experience the mod.\n\n- There are some branching paths as well as modular dialogues, with the hope to keep each encounter a little more distinct and tailored to some of the character attributes.\n\nCompatibility\n`/Game/InteractionSystem/Interactions/CaughtOffLimits.gd` is overridden to allow a detour into the alternate interaction, and to include two methods to compute its chances. Any other file is a new addition and shouldn't cause conflicts as long as the filenames are unique.",
 		"author": "keerifox",
@@ -1599,6 +1591,14 @@
 		"modversion": "1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HumanoidEars1.zip"
+	},
+	{
+		"name": "More BDSM stuff",
+		"description": "Adds more restraints and toys.\n\nThe big one: finished a small system for toys. Currently overclocking sensitivity (this... will happen a bit abruptly at scene transitions), raising arousal and lust over time. If you leave them on on the slave, they will still work, but arousal will only go up to 90. Can be switched either from inventory or with the remote.\n\nStill in test mode, I want to prescribe some scenes and events, but it's long, so I need to make sure it works correctly for the most part.\n\nTo items:\nYou can now add a tail for a suit.\nAdded 6 more variations to the harness.\nAdded a small animation for the bag\nAll items except toys, ring and suit can now be forced on you. (They are quite durable and hard to take off, so if you think this is unnecessary, let me know)\n\n4 new items:\nLeather muzzle  gag\nLatex muzzle ring gag\nBreast massager\nToys remote\n\nEverything is sold by Announcer.\n\nButt Plug (extended)(new)\nPlug L2 (extended)(new)\nPink vibrator (extended)(new)\nLeather Blindfold\nLeather Bondage Mittens (extended)\nLeather Wrist Cuffs\nLeather Ankle Cuffs\nLeather muzzle  gag (new)\nHarness (extended)(new)\nLatex Suit (ring slot!!) (extended)(new)\nLatex Mittens (extended)\nLatex Gloves (extended)\nLatex muzzle ring gag (new)\nBondage hood (fix)\nCock ring \nBreast massager (new)\nToys remote (new)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreBDSMstuff.png]Click for preview[/url]",
+		"author": "DrDurka",
+		"modversion": "0.35fix2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreBDSMstuff.zip"
 	}
 	]
 }
