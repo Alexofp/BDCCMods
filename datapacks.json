@@ -3154,6 +3154,47 @@
 				"CrowSpeciesVer2.zip",
 				"FoxLib"
 			]
+		},
+		{
+			"id": "raichuskina",
+			"name": "Raichu Skin",
+			"author": "Amewsing",
+			"version": "1.0",
+			"description": "No description provided",
+			"contains": "Contains: 2 skins",
+			"download": "datapacks/raichuskina.res",
+			"lastedit": 1747200374,
+			"filesize": 441351,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/raichuskina.png"
+		},
+		{
+			"id": "subtraining",
+			"name": "Sub Training",
+			"author": "Jake James",
+			"version": "1.0",
+			"description": "No description provided",
+			"contains": "Contains: 5 scenes",
+			"download": "datapacks/subtraining.res",
+			"lastedit": 1747372662,
+			"filesize": 388059,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			]
 		}
 	]
 }
