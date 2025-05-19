@@ -3195,6 +3195,27 @@
 			"requiredMods": [
 
 			]
+		},
+		{
+			"id": "umbreonskin",
+			"name": "Umbreon Skins",
+			"author": "Amewsing",
+			"version": "1.0",
+			"description": "Skins resembling a certain monster. Fur havers generate with it rarely.",
+			"contains": "Contains: 2 skins",
+			"download": "datapacks/umbreonskin.res",
+			"lastedit": 1747631756,
+			"filesize": 128680,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/umbreonskin.png"
 		}
 	]
 }
