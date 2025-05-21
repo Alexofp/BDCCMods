@@ -3109,31 +3109,6 @@
 			]
 		},
 		{
-			"id": "pokemoncc",
-			"name": "Pokemon",
-			"author": "No author",
-			"version": "1.0",
-			"description": "Pokemon characters with canon colors.",
-			"contains": "Contains: 22 characters",
-			"download": "datapacks/canonpokemoncolors.res",
-			"lastedit": 1746423714,
-			"filesize": 67925,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-				"HoundoomSpeciesVer1.zip",
-				"LeafeonSpeciesVers1.1.zip",
-				"LopunnySpeciesVer1.zip",
-				"SylveonSpeciesVer0.9.zip",
-				"WintersPokeCollectionV0.6.zip",
-				"LycanrocSpeciesVer0.9.zip"
-			]
-		},
-		{
 			"id": "birdservicesdatapack",
 			"name": "Bird Services",
 			"author": "JokeMysterious",
