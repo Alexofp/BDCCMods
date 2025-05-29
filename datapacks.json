@@ -3196,12 +3196,12 @@
 			"id": "valeriya_shop",
 			"name": "Valeriya The Smuggler",
 			"author": "ScarTheWerewolf",
-			"version": "1.0",
+			"version": "1.1",
 			"description": "Adds Valeriya to the game, she's a smuggler who stays inside the prison to fulfill the inmate's supply and demands.",
 			"contains": "Contains: 2 characters, 5 scenes, 2 quests",
 			"download": "datapacks/valeriya_shop.res",
-			"lastedit": 1747975587,
-			"filesize": 123776,
+			"lastedit": 1747975834,
+			"filesize": 123784,
 			"requiredDatapacks": [
 
 			],
@@ -3212,6 +3212,50 @@
 				"HyenaParts.zip",
 				"FluffbodypartsVer3.zip",
 				"Clothes_Megapack.zip"
+			]
+		},
+		{
+			"id": "fenn",
+			"name": "Ultimia",
+			"author": "Fenn",
+			"version": "1.0",
+			"description": "death\n",
+			"contains": "Contains: 2 characters",
+			"download": "datapacks/fenn.res",
+			"lastedit": 1748493762,
+			"filesize": 74099,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"Clothes_Megapack.zip",
+				"collar_newtown76.zip",
+				"DragonsPlusVer0.9.zip",
+				"ScalieExpansionVer2.1.zip",
+				"FluffbodypartsVer3.zip"
+			]
+		},
+		{
+			"id": "fawkesocs",
+			"name": "Fawkes's OCs - Dynamic NPC",
+			"author": "Dexter Fawkes",
+			"version": "1.0",
+			"description": "A very submissive and breedable wolfgirl and a dom wolfman.",
+			"contains": "Contains: 2 characters",
+			"download": "datapacks/fawkesocs.res",
+			"lastedit": 1748493764,
+			"filesize": 13348,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"HumanoidEars1.zip"
 			]
 		}
 	]
