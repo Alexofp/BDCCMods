@@ -3257,6 +3257,26 @@
 			"requiredMods": [
 				"HumanoidEars1.zip"
 			]
+		},
+		{
+			"id": "Warp_remote",
+			"name": "NPC Manipulation",
+			"author": "Wulfgar7847",
+			"version": "1.0",
+			"description": "Adds a remote control to the nursery that lets you make any basegame static NPC that has a character model fuck any basegame static NPC that has a character model.\nStarted as me modding Valeriya's shop, turned into its own thing.",
+			"contains": "Contains: 1 scene",
+			"download": "datapacks/NPC_Manipulation.res",
+			"lastedit": 1748929582,
+			"filesize": 213646,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			]
 		}
 	]
 }
