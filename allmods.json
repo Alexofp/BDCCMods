@@ -1607,6 +1607,14 @@
 		"modversion": "0.1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxedBDCC_v0.1.0.zip"
+	},
+	{
+		"name": "Absols",
+		"description": "Adds absols as a playable species. Hair and horns can be used separately. Arms and legs can use the included pattern, or the universal skins.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/Absols.png]Click for Preview[/url]",
+		"author": "Amewsing",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Absols.zip"
 	}
 	]
 }

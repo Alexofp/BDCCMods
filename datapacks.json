@@ -3277,6 +3277,27 @@
 			"requiredMods": [
 
 			]
+		},
+		{
+			"id": "LovelyBrothers",
+			"name": "LovelyBrothers",
+			"author": "GbvGP",
+			"version": "1.0",
+			"description": "Brothers who love each other and learn to love others.",
+			"contains": "Contains: 3 characters, 3 scenes, 1 quest",
+			"download": "datapacks/LovelyBrothers.res",
+			"lastedit": 1749101426,
+			"filesize": 92913,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/LovelyBrothers.png"
 		}
 	]
 }
