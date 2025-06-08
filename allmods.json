@@ -1615,6 +1615,14 @@
 		"modversion": "0.8",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersPokemonCollectionV0.8.zip"
+	},
+	{
+		"name": "Barbed Knot",
+		"description": "First and probably last time posting, This terrible edit I made using AVERAGE ACE's Knotted equine Mod where I just changed the sprite and the name it works fine and even has the condom sprite it dose not work with the original mod because I did not want to have to change all the names.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BarbedKnot.png]Click for Preview[/url]",
+		"author": "Sket",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BarbedKnot.zip"
 	}
 	]
 }
