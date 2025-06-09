@@ -1609,20 +1609,36 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Absols.zip"
 	},
 	{
-		"name": "Winters Pokemon Collection (WIP)",
-		"description": "Was originally intended to be a grouped mod for all the eeveelutions updated for skins and colours but pending crashing project has to be started over from scratch and will be updated as each species is finished.\nIncluded: Eevee, Jolteon, Flareon, Glaceon, Vaporeon, Espeon, Umbreon\nCredit: Original Mods by Eurygrey\nChangelog: Changed the skin system to use actual skins not built in part skins so that the skin can be changed as desired. Credit to Amewsing for including a skin in his mod so i could go look at the format for doing it.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersPokemonCollection.png]Click for Preview[/url]",
-		"author": "Avery Winters",
-		"modversion": "0.8",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersPokemonCollectionV0.8.zip"
-	},
-	{
 		"name": "Barbed Knot",
 		"description": "First and probably last time posting, This terrible edit I made using AVERAGE ACE's Knotted equine Mod where I just changed the sprite and the name it works fine and even has the condom sprite it dose not work with the original mod because I did not want to have to change all the names.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BarbedKnot.png]Click for Preview[/url]",
 		"author": "Sket",
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BarbedKnot.zip"
+	},
+	{
+		"name": "Winters Pokemon Collection (WIP)",
+		"description": "Was originally intended to be a grouped mod for all the eeveelutions updated for skins and colours but pending crashing project has to be started over from scratch and will be updated as each species is finished.\nIncluded: Eevee, Espeon, Flareon, Glaceon, Jolteon, Leafeon, Umbreon, Vaporeon\nCredit: Original Mods by Eurygrey\nChangelog: Cleaned up some skin spots accross the board and added leafeon.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersPokemonCollection.png]Click for Preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "0.9",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersPokemonCollectionV0.9.zip"
+	},
+	{
+		"name": "Winters Canine Barbed Penis",
+		"description": "A canine variant penis with barbs ideal for a canine/feline hybrid.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersCanineBarbedPenis.png]Click for Preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersCanineBarbedPenis.zip"
+	},
+	{
+		"name": "Sheep Species",
+		"description": "This mod adds the sheep species. The mod isn't amazing, but it's okay... I think XD\nDesigns by The Galtor\nCode by Avery Winters.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/TheGaltorSheepSpecies.png]Click for Preview[/url]",
+		"author": "The Galtor",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/TheGaltorSheepSpecies.zip"
 	}
 	]
 }
