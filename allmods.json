@@ -985,14 +985,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/KnotFucking.zip"
 	},
 	{
-		"name": "Sheathed Human Penis",
-		"description": "human penis with a sheath on.\nit doesnt spawn naturally on NPCs, but comes with a few skins\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SheathHumanPenis.png]Click for preview[/url]",
-		"author": "AverageAce",
-		"modversion": "1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SheathHumanPenisVer1.zip"
-	},
-	{
 		"name": "Bluespace Reality Alterator (BRA)",
 		"description": "-Lore: One morning, you find a small device in the engineering section of the station, with a small screen, a keyboard and a standard memory connector, with the letters \"BRA\" stenciled on the back.\nRight now it seems empty of programmed modules, but looking a bit in the pile of junk, you find a memory stick with \"CaninePussy\" written on it, and after plugging it and fiddling a bit with the controls, you notice that your fellow Canine prisoners suddenly all have animalistic pussies instead of humanoid ones. Surprisingly, noone seems to notice the difference but you...\nAre... are you able to alter reality with this device? You must find other modules, stat!\n\n-Description: This is what I managed to hack together to make in-game options for mods possible, since having multiple versions of the same mod for different options is fucking annoying for the modders and for the users, and it's basically impossible to add custom options to the base game Options without releasing a custom build.\nAlone, this mod does nothing, but with mods using compatible scene files, more options are going to get added dynamically, for the users they just need to have this mod and the (future) compatible mods will add themselves to the options available (check the pictures for an example with the Canine Pussy mod).\nRight now only text boxes and scene buttons can be used to change mods, as I still haven't managed to include checkboxes and dropdown lists, but perhaps I'll manage one day.\n\nFor modders, check all the files in the following Canine Pussy mod to understand how to make one for your mod, I added comments to help you, and I will happily answer questions, it's both not hard and a bit finicky...\nWhat's important is using flags in your module.gd and you MUST have a [YourMod]/Scenes/ModsOptionsScenes folder with the scene inside for it to register. You don't have to name the scene as I did, but it will help with what shows in game.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ModsOptions.png]Click for Preview[/url]",
 		"author": "Raznaak",
@@ -1639,6 +1631,14 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/TheGaltorSheepSpecies.zip"
+	},
+	{
+		"name": "Sheathed Human Penis",
+		"description": "Helping Ace in their continued effort to remove humanity from the game, I edited the sheathed human penis\n\"It does exactly what you think it do, human penis with a sheath on it\" -Average Ace\nNow replaces the normal human one entirely\nOriginal by: Average Ace \nCode change by: Me and a ton of help from Avery Winters\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SheathHumanPenis.png]Click for preview[/url]",
+		"author": "Winter 'Eira",
+		"modversion": "2.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SheathHumanPenisVer2.zip"
 	}
 	]
 }
