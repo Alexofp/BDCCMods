@@ -3259,26 +3259,6 @@
 			]
 		},
 		{
-			"id": "Warp_remote",
-			"name": "NPC Manipulation",
-			"author": "Wulfgar7847",
-			"version": "1.0",
-			"description": "Adds a remote control to the nursery that lets you make any basegame static NPC that has a character model fuck any basegame static NPC that has a character model.\nStarted as me modding Valeriya's shop, turned into its own thing.",
-			"contains": "Contains: 1 scene",
-			"download": "datapacks/NPC_Manipulation.res",
-			"lastedit": 1748929582,
-			"filesize": 213646,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-
-			]
-		},
-		{
 			"id": "LovelyBrothers",
 			"name": "LovelyBrothers",
 			"author": "GbvGP",
@@ -3298,6 +3278,26 @@
 
 			],
 			"preview": "datapack_previews/LovelyBrothers.png"
+		},
+		{
+			"id": "Warp_remote",
+			"name": "NPC Manipulation",
+			"author": "Wulfgar7847",
+			"version": "2.5",
+			"description": "Adds a remote control to the nursery that lets you make any basegame static NPC that has a character model fuck any basegame static NPC that has a character model.\nStarted as me modding Valeriya's shop, turned into its own thing.",
+			"contains": "Contains: 1 character, 1 scene",
+			"download": "datapacks/NPC_Manipulation.res",
+			"lastedit": 1749701664,
+			"filesize": 459438,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"FoxLib"
+			]
 		}
 	]
 }

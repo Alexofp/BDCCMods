@@ -41,14 +41,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Dildo.zip"
 	},
 	{
-		"name": "Hairs!",
-		"description": "Adds a several new hair styles to the game to try out.",
-		"author": "Sority Arikua",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Hair_v1_.20.zip"
-	},
-	{
 		"name": "Horny Bat",
 		"description": "Adds a new hidden bat to the game for people to find and use. The bat can be used on self or opponent to remove lust and add some pain.",
 		"author": "Sority Arikua",
@@ -1639,6 +1631,14 @@
 		"modversion": "2.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SheathHumanPenisVer2.zip"
+	},
+	{
+		"name": "Hairs!",
+		"description": "Original mod by Sority. Adds hairs to the game. Updated to use the new skin(pattern) system.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/hair.png]Click for preview[/url]",
+		"author": "Amewsing",
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Hair1.1.zip"
 	}
 	]
 }
