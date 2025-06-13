@@ -3283,12 +3283,12 @@
 			"id": "Warp_remote",
 			"name": "NPC Manipulation",
 			"author": "Wulfgar7847",
-			"version": "2.5",
+			"version": "2.61",
 			"description": "Adds a remote control to the nursery that lets you make any basegame static NPC that has a character model fuck any basegame static NPC that has a character model.\nStarted as me modding Valeriya's shop, turned into its own thing.",
-			"contains": "Contains: 1 character, 1 scene",
+			"contains": "Contains: 1 character, 3 scenes",
 			"download": "datapacks/NPC_Manipulation.res",
-			"lastedit": 1749701664,
-			"filesize": 459438,
+			"lastedit": 1749790406,
+			"filesize": 535987,
 			"requiredDatapacks": [
 
 			],
@@ -3298,6 +3298,27 @@
 			"requiredMods": [
 				"FoxLib"
 			]
+		},
+		{
+			"id": "beepbeepimasheep",
+			"name": "Sheep Oc's",
+			"author": "TenTen",
+			"version": "1.0",
+			"description": "random sheep Oc's",
+			"contains": "Contains: 2 characters",
+			"download": "datapacks/beepbeepimasheep.res",
+			"lastedit": 1749790409,
+			"filesize": 13241,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"TheGaltorSheepSpecies.zip"
+			],
+			"preview": "datapack_previews/beepbeepimasheep.png"
 		}
 	]
 }
