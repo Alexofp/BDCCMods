@@ -3319,6 +3319,28 @@
 				"TheGaltorSheepSpecies.zip"
 			],
 			"preview": "datapack_previews/beepbeepimasheep.png"
+		},
+		{
+			"id": "livingshadows",
+			"name": "THE SHADOWS ARE ALIVE",
+			"author": "Tenten",
+			"version": "1.0",
+			"description": "made after playing beholder series and boredom",
+			"contains": "Contains: 3 characters",
+			"download": "datapacks/livingshadows.res",
+			"lastedit": 1749964619,
+			"filesize": 18871,
+			"requiredDatapacks": [
+				"krystalpack"
+			],
+			"reqDatapackToName": {
+				"krystalpack": "KrystalPack"
+			},
+			"requiredMods": [
+				"DragonsPlusVer0.9.zip",
+				"SpinedDragonPenisVer1.zip"
+			],
+			"preview": "datapack_previews/livingshadows.png"
 		}
 	]
 }
