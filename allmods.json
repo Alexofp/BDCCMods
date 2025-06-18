@@ -473,14 +473,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/hyperspeciesHCLO.zip"
 	},
 	{
-		"name": "Rabbit Species",
-		"description": "Add The Jumping Animal for all the lola and bugs bunny lovers. It has 3 Ears Variant type and 2 Tails variant. Work with skin system, with default patterns, and custom pattern variants for ears, head and tails\n\nFixed issues with skins/patterns on legs\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/RabbitPreview.png]Click for Preview[/url]",
-		"author": "Fantos (Code), Max-Maxou (Graphics)",
-		"modversion": "2.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Rabbit_Species.zip"
-	},
-	{
 		"name": "Edited Paws",
 		"description": "Replaces the vanilla digileg with a new one. Why? Who cares!\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EditedPawsPreview.png]Click for Preview[/url]",
 		"author": "AverageAce",
@@ -1639,6 +1631,30 @@
 		"modversion": "1.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Hair1.1.zip"
+	},
+	{
+		"name": "Rabbit Species",
+		"description": "Add The Jumping Animal for all the lola and bugs bunny lovers. It has 3 Ears Variant type and 2 Tails variant. Work with skin system, with default patterns, and custom pattern variants for ears, head and tails\n\nFixed issues with skins/patterns on legs\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/RabbitPreview.png]Click for Preview[/url]",
+		"author": "Fantos (Code), Max-Maxou (Graphics)",
+		"modversion": "2.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Rabbit_Species.zip"
+	},
+	{
+		"name": "Winters Rabbit Penis Patch",
+		"description": "Requirements: Fantos' Rabbit Species\nA patch for the Rabbit Species to change the default penis for Dynamic Rabbit NPCs to the Barbed & Knotted Equine Penis. Should default to the base equine penis if you dont have the expanded equine penis mod. Created in response to Johnvic's continued efforts to erase humanity.\n\nProbably needs to be loaded after rabbits.",
+		"author": "Avery Winters",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersRabbitPenisPatch.zip"
+	},
+	{
+		"name": "QuickStart",
+		"description": "Skip the introductory scenes and go straight to the cellblock after character creation.\n\nAs a bonus, you're given the option to set your encounter preferences before the first batch of NPC pawns generate. No need to prune unwanted character types from your list after the fact!\n\nTested on BDCC 0.1.8, down to 0.1.1. Compatibility on other versions is not guaranteed.\n\nFYI: You miss out on 20-50 XP you can earn by fighting Risha in the opening. This mod assumes you chose not to fight her during intake; if you were trying to start the game as quickly as possible, you probably would have done that anyway.",
+		"author": "MOONHALO",
+		"modversion": "1.03",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/QuickStart_v1.03.zip"
 	}
 	]
 }

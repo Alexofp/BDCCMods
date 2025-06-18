@@ -3341,6 +3341,27 @@
 				"SpinedDragonPenisVer1.zip"
 			],
 			"preview": "datapack_previews/livingshadows.png"
+		},
+		{
+			"id": "puenose",
+			"name": "naevis ",
+			"author": "naevis",
+			"version": "1.0",
+			"description": "No description provided",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/puenose.res",
+			"lastedit": 1750222482,
+			"filesize": 8225,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/puenose.png"
 		}
 	]
 }
