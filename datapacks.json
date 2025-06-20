@@ -22,27 +22,6 @@
 			"preview": "datapack_previews/pandaskin.PNG"
 		},
 		{
-			"id": "fenrircharacter",
-			"name": "Fenrir Character",
-			"author": "AverageAce",
-			"version": "1.0",
-			"description": "Test Datapack with a good boy in it",
-			"contains": "Contains: 1 character",
-			"download": "datapacks/fenrircharacter.res",
-			"lastedit": 1719869006,
-			"filesize": 6472,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-
-			],
-			"preview": "datapack_previews/fenrircharacter.png"
-		},
-		{
 			"id": "luciodemonicsindustriesclassified",
 			"name": "Luc....no idea why",
 			"author": "Luc",
@@ -190,48 +169,6 @@
 			"preview": "datapack_previews/kisa.png"
 		},
 		{
-			"id": "acesunreleasedskinspack",
-			"name": "Ace'sUnreleasedSkinsPack",
-			"author": "AverageAce",
-			"version": "1.0",
-			"description": "All the skins I've made for the game that haven't been added to the base game for whatever reason.\nSome have variants.",
-			"contains": "Contains: 9 skins",
-			"download": "datapacks/acesunreleasedskinspack.res",
-			"lastedit": 1719987523,
-			"filesize": 1462641,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-
-			],
-			"preview": "datapack_previews/acesunreleasedskinspack.png"
-		},
-		{
-			"id": "futarahi",
-			"name": "Futa Rahi",
-			"author": "AverageAce",
-			"version": "1.0",
-			"description": "Rahi but with more COCK",
-			"contains": "Contains: 1 character",
-			"download": "datapacks/futarahi.res",
-			"lastedit": 1719987585,
-			"filesize": 7294,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-
-			],
-			"preview": "datapack_previews/futarahi.png"
-		},
-		{
 			"id": "Straight girls",
 			"name": "My first bit of characters",
 			"author": "Kuran",
@@ -271,27 +208,6 @@
 
 			],
 			"preview": "datapack_previews/brevmanscharacterpack1.png"
-		},
-		{
-			"id": "inmatenova",
-			"name": "InmateNova",
-			"author": "AverageAce",
-			"version": "1.0",
-			"description": "!SPOILERS!\nIf you've done enough content you'll notice that Nova isnt actually a guard, She's technically an inmate.\nSo this pack is a what if scenario of what if you came into the prison before all that. Or clone shenanigans.\nCan't remove the *actual* Nova as a character so feel free to come with a solution on your own.\nAlso Inmate Nova will be a standard Generic Inmate, so no special scenes.",
-			"contains": "Contains: 1 character",
-			"download": "datapacks/inmatenova.res",
-			"lastedit": 1719987666,
-			"filesize": 7714,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-
-			],
-			"preview": "datapack_previews/inmatenova.png"
 		},
 		{
 			"id": "wintereira",
@@ -650,48 +566,6 @@
 			"preview": "datapack_previews/tastyicecream.png"
 		},
 		{
-			"id": "rockstarskins",
-			"name": "RockStarSkins",
-			"author": "AverageAce",
-			"version": "1.0",
-			"description": "Series of skins based on a certain wolf",
-			"contains": "Contains: 3 skins",
-			"download": "datapacks/rockstarskins.res",
-			"lastedit": 1720425639,
-			"filesize": 345998,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-
-			],
-			"preview": "datapack_previews/rockstarskins.png"
-		},
-		{
-			"id": "culticskins",
-			"name": "RunicSkin",
-			"author": "AverageAce",
-			"version": "1.0",
-			"description": "Shattarak Isvrum Viva, Lohk Fass Ris Khra Xata Vome",
-			"contains": "Contains: 1 skin",
-			"download": "datapacks/culticskins.res",
-			"lastedit": 1720427502,
-			"filesize": 123850,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-
-			],
-			"preview": "datapack_previews/culticskins.png"
-		},
-		{
 			"id": "loona",
 			"name": "Loona datapack",
 			"author": "SurrealDeal",
@@ -879,48 +753,6 @@
 
 			],
 			"preview": "datapack_previews/B-AY.png"
-		},
-		{
-			"id": "femalealex",
-			"name": "GenderswapAlex",
-			"author": "AverageAce",
-			"version": "1.0",
-			"description": "Genderswapped Alex as a regular engineer.",
-			"contains": "Contains: 1 character",
-			"download": "datapacks/femalealex.res",
-			"lastedit": 1721778065,
-			"filesize": 8204,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-
-			],
-			"preview": "datapack_previews/femalealex.png"
-		},
-		{
-			"id": "femmax",
-			"name": "GenderswappedMax",
-			"author": "AverageAce",
-			"version": "1.0",
-			"description": "Female Version of Max from the MaxMod.\nRequires Max Mod.\nInspired from recent Max art on the BDCC discord.",
-			"contains": "Contains: 1 character",
-			"download": "datapacks/femmax.res",
-			"lastedit": 1721807158,
-			"filesize": 7680,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-
-			],
-			"preview": "datapack_previews/femmax.png"
 		},
 		{
 			"id": "fennysocs",
@@ -2773,27 +2605,6 @@
 				"Equines+Ver0.9.zip"
 			],
 			"preview": "datapack_previews/DragonSlave.PNG"
-		},
-		{
-			"id": "coccharacters",
-			"name": "Corruption of Champions 1 Characters",
-			"author": "AverageAce",
-			"version": "1.0",
-			"description": "Many Characters from CoC1 in BDCC as generic characters. Credit to Fenoxo team and the respective writers of the original characters.",
-			"contains": "Contains: 5 characters",
-			"download": "datapacks/coccharacters.res",
-			"lastedit": 1741152592,
-			"filesize": 33556,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-				"Rat_Species.zip",
-				"Shark_Species.zip"
-			]
 		},
 		{
 			"id": "sammi",

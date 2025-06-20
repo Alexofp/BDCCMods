@@ -177,30 +177,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GardevoirSpeciesVer0.1.zip"
 	},
 	{
-		"name": "Jackal Parts v2",
-		"description": "Updated version of the Jackal Parts mod, now with compatibility with skins. Comes with 2 ears and a tail in the canine species.\n[url=https://media.discordapp.net/attachments/1021686418512289792/1139340255124795422/image.png]Click for Preview[/url]",
-		"author": "AverageAce",
-		"modversion": "2.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/JackalPartsVer2.zip"
-	},
-	{
-		"name": "Leafeon Species",
-		"description": "Further continuing the eeveelutions mods, Leafeon. Comes with an entire species, skin compatibility, and some alt bodyparts.\nUpdated to fix your skin coming off if you gave oral sex. Freaky stuff. Remember to save your files when you quit the editor...\n[url=https://media.discordapp.net/attachments/1021686418512289792/1140880173814792222/Showcase.png]Click for Preview[/url]",
-		"author": "AverageAce",
-		"modversion": "1.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/LeafeonSpeciesVers1.1.zip"
-	},
-	{
-		"name": "Espeon Species",
-		"description": "Updated version of the Espeon Mod to have compatibility with skins. We still dont have mind bullets in game though. Comes with a full species, skin compatibility, and an alternate head without eyes.\n[url=https://media.discordapp.net/attachments/1021686418512289792/1140883543044657272/Showcase.jpg]Click for Preview[/url]",
-		"author": "AverageAce",
-		"modversion": "2.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EspeonSpeciesVer2.zip"
-	},
-	{
 		"name": "Newtown76 collar",
 		"description": "Replaces the collar with the one based on newtown76's style\n[url=https://media.discordapp.net/attachments/1021686418512289792/1141409251684782140/collar_preview.png]Click for Preview[/url]",
 		"author": "panzertigre",
@@ -223,14 +199,6 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HologlassV1.zip"
-	},
-	{
-		"name": "Fluffy Bodyparts",
-		"description": "The old mod updated and actually functioning this time. totally brand new compatibility with skins and the addition of the fluffy flat chest. NPC generation not guaranteed.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FluffPreview.png]Click for Preview[/url]",
-		"author": "AverageAce & Max-Maxou",
-		"modversion": "3.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FluffbodypartsVer3.zip"
 	},
 	{
 		"name": "Inmate Hoodie",
@@ -257,54 +225,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RNGPerksv0.5.zip"
 	},
 	{
-		"name": "Ace's Protogen Mod",
-		"description": "The Fluffy Cyborg species has been added, based off the original mod from EuryGrey.\nFair warning that when I went to do my usual skins setup, it somehow caused a massive mess. Should be fixed but if you spot something you can find me on the game's discord.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/aceprotogen.png]Click for Preview[/url]\n\nPatched to fix a missing head under the right circumstances. Thanks kiwwaqween",
-		"author": "AverageAce",
-		"modversion": "1.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AcesProtogenMod-Ver1.1.zip"
-	},
-	{
-		"name": "Ace's Protogen Mod (Breed Edition)",
-		"description": "The Fluffy Cyborg species has been added, based off the original mod from EuryGrey.\nFair warning that when I went to do my usual skins setup, it somehow caused a massive mess. Should be fixed but if you spot something you can find me on the game's discord.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/aceprotogen.png]Click for Preview[/url]\n\nBreed Edition: All NPCs have a 50/50 chance to spawn with anal wombs.",
-		"author": "AverageAce",
-		"modversion": "1.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AcesProtogenMod-Ver1.1-BreedEdition.zip"
-	},
-	{
-		"name": "Lucario Species",
-		"description": "The most sexualized pokemon.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/Lucario.png]Click for Preview[/url]",
-		"author": "AverageAce",
-		"modversion": "2.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/LucarioSpecies-Ver2.1.zip"
-	},
-	{
-		"name": "Prosthetic Parts",
-		"description": "A bundle of prosthetic bits for your character creation needs. (Npc generation is disabled because it was broken)\nalso includes some tail bandages\nFair Warning that this will clutter your character creator tabs with all the variants\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ProstheticParts.png]Click for Preview[/url]",
-		"author": "AverageAce",
-		"modversion": "0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ProstheticPartsVer0.zip"
-	},
-	{
-		"name": "Avali Species",
-		"description": "The funny sci-fi birds.\n[b]Updated to add 2 new parts, and fix some NPC generation[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AvaliPreview1.png]Preview 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AvaliPreview2.png]Preview 2[/url]",
-		"author": "AverageAce",
-		"modversion": "2.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AvaliSpeciesVer2.zip"
-	},
-	{
-		"name": "Avali Species Breed Edition",
-		"description": "The funny sci-fi birds.\n[b]Updated to add 2 new parts, and fix some NPC generation[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AvaliPreview1.png]Preview 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AvaliPreview2.png]Preview 2[/url]\n\nBreeder Edition - Allows Npcs to spawn with ass wombs, use regular zip file or the breed edition, not both. (download one or the other)",
-		"author": "AverageAce",
-		"modversion": "2.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AvaliSpeciesVer2-BreederEdition.zip"
-	},
-	{
 		"name": "Straitjacket woc",
 		"description": "Just the straitjacket but without the chasity (woc) bc someone asked me to do x3\n\nYou only can get it through the debug menu; A buyable version coming later\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/straitjacket.png]Click for preview[/url]",
 		"author": "Red Tiger",
@@ -321,44 +241,12 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Chasitybeltmod.zip"
 	},
 	{
-		"name": "Ace's Aviary Addon",
-		"description": "4 new species added, Avians, Birds, Gryphons, and Hippogriffs.[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AviaryPreview.png]Click for preview[/url]\n\n[b]A small fix that corrects the fact the module was using a blatanly incorrect file to tag the author and filename[/b]",
-		"author": "AverageAce",
-		"modversion": "0.99",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AcesAvairyAddonVer0.99.zip"
-	},
-	{
-		"name": "Dragons+",
-		"description": "Adds various bodyparts to the vanilla dragon species, 2 heads, 2 horns, a tail, and the option to be earless.\nBoth heads spawn more often than the vanilla dragon head.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/dragonPreview.png]Click for preview[/url]",
-		"author": "AverageAce",
-		"modversion": "0.9",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DragonsPlusVer0.9.zip"
-	},
-	{
-		"name": "Sylveon Species",
-		"description": "The last of the Eeveelution mods. Sylveon comes with a new species and a few alt bodyparts.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/sylPreview1.png]Preview 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/sylPreview2.png]Preview 2[/url]\n[b]Updated with a few more alternate parts[/b]",
-		"author": "AverageAce",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SylveonSpeciesVer1.zip"
-	},
-	{
 		"name": "Portal Expansion Mod",
 		"description": "Adds additional portal equipment and new content based around portals. Currently on an early test version, so please give feedback. More is planned to be added.\n\nChangelog:\n0.0.1: Fixed crash when attempting to 'lose' the improved portal panties, fixed portal rings so they should now stack when taken off. Fixed crash when retrieving portals. Added a couple more scenes.\n\n0.0.2: Fixed softlock when attempting certain actions.\n\n0.0.3: Fixed crashes when attempting rollback. Fixed portal ring variations being obtainable when not intended. Added some messages when attaching portal rings. Added differing effects when multiple linked rings are attached. Fixed incorrectly triggering sleeping and shower scenes when no portal items were equipped.\n\n0.0.4: Added conditions to various buttons so that you should no longer be able to view scenes for bodyparts that you don't have.\n\n0.0.5: Fixed portal panties so they should now show random scenes correctly.\n\n0.0.6: Fixed some scenes not working correctly.\n\n0.1.0: Fixed crash when attempting to access vendomat (again), added more scenes.\n\n0.1.1: Fixed crash when attempting to attach portal rings.\n\n0.1.2: Fixed crash when attempting to attach portal rings (again).",
 		"author": "ranchar",
 		"modversion": "0.1.2",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PortalExpansionMod.zip"
-	},
-	{
-		"name": "Transgender Flat Chest",
-		"description": "Flat Chest with a mastectomy scar on it, for transgender purposes.\nNPCs wont generate with it, sadly. working on that.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/transchestpreview.png]Click for preview[/url]",
-		"author": "AverageAce",
-		"modversion": "0.9",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/TransChestVer0.9.zip"
 	},
 	{
 		"name": "Human legs only",
@@ -375,14 +263,6 @@
 		"modversion": "v0.04a",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreDrugsMod-v0.04a.zip"
-	},
-	{
-		"name": "Boykisser Portraits",
-		"description": "You like BDCC, Don't You?\nWorks with all vanilla character portraits (Alex, Avy, The Captain, Eliza, Ferri, Jacki, Kait, Nova, Rahi, Risha, and Tavi.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/kisserspreview.png]Click for preview[/url]",
-		"author": "AverageAce",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BoykisserArtVer1.zip"
 	},
 	{
 		"name": "Stock Events",
@@ -409,38 +289,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Humancocksandlegsonlyv2.zip"
 	},
 	{
-		"name": "White Thigh Highs",
-		"description": "A bundle of thigh highs, this time in white\nThey can be printed from the laundromat uniform vendor, with a special bonus awkwardly jammed into the underwear vendor\n[b]Updated to fix the special something to be wearable[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/tighsPreview.png]Click for Preview[/url]",
-		"author": "AverageAce",
-		"modversion": "2.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WhiteThighHighsVer2.zip"
-	},
-	{
-		"name": "Industrial Skin Converted",
-		"description": "This mod add AverageAce's Industrial skin mod that is registered via Module system making it loadable in mod form without extraction",
-		"author": "Conversion: CanInBad & Skin Maker: AverageAce",
-		"modversion": "R1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/IndustrialSkinConv.zip"
-	},
-	{
-		"name": "LayeredSkin Converted",
-		"description": "This mod add AverageAce's LayeredSkin mod that is registered via Module system making it loadable in mod form without extraction",
-		"author": "Conversion: CanInBad & Skin Maker: AverageAce",
-		"modversion": "R1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/LayeredSkinConv.zip"
-	},
-	{
-		"name": "Sabertooth Heads",
-		"description": "A version of the feline and wolf heads with extra teeth, if you're into that. lower spawn rates on NPCs\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SabertoothHeadsPreview.png]Click for Preview[/url]",
-		"author": "AverageAce",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SabertoothHeadsVer1.zip"
-	},
-	{
 		"name": "Toilet slave mod",
 		"description": "[b]!!!!THIS MOD CONTAINS WATERSPORTS CONTENT!!!![/b]\n\nLittle mod what add a event to toilets like slutwall or stocks.",
 		"author": "Reggie",
@@ -457,68 +305,12 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Clothes_Megapack.zip"
 	},
 	{
-		"name": "Ace's Shark Species",
-		"description": "[b]f i s h[/b]\n\nMade teeth unaffected by colors\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AceSharkPreview.png]Click for Preview[/url]",
-		"author": "AverageAce",
-		"modversion": "1.11",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AcesSharkSpeciesVer1.11.zip"
-	},
-	{
 		"name": "Hypertus Species Compat Layers but only human cocks and legs",
 		"description": "a modified verison of CanInBad's Hypertus Species Compat Layers that only allows to generated characters to have human cocks and legs",
 		"author": "NatRobloxian",
 		"modversion": "1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/hyperspeciesHCLO.zip"
-	},
-	{
-		"name": "Edited Paws",
-		"description": "Replaces the vanilla digileg with a new one. Why? Who cares!\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EditedPawsPreview.png]Click for Preview[/url]",
-		"author": "AverageAce",
-		"modversion": "1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EditedPawsVer1.zip"
-	},
-	{
-		"name": "Edited Sheath",
-		"description": "This mod will replace the non-erected sprite of canine, feline, and dragon sheaths, and any species that uses their dicks\nI got bored and started drawing whatever. this is one of the things I actually finished\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EditedSheathPreview.png]Click for Preview[/url]",
-		"author": "AverageAce",
-		"modversion": "1.11",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EditedSheathVer1.11.zip"
-	},
-	{
-		"name": "Piercings Mod",
-		"description": "Adds 4 various piercings to the ears bodyparts\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PiercingsEarsCover.png]Click for Preview[/url]\n\n - removed Risha's piercings because thats becoming a different mod",
-		"author": "AverageAce",
-		"modversion": "1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PiercingsVer1.zip"
-	},
-	{
-		"name": "Dick Skins, Batch 2",
-		"description": "Even more looks for your wiggly bits.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/DickSkinsBatch2Preview.png]Click for Preview[/url]",
-		"author": "AverageAce",
-		"modversion": "1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DickSkinsBatch2.zip"
-	},
-	{
-		"name": "Squirrel Species (Breed Edition)",
-		"description": "Adds the funny tree nuts species. Comes with a species, a head, and two tails.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NightstalkerPreview.png]Click for preview[/url]\n\n[b]Bonus: Breed edition[/b]: a version of this mod with a single change, Male and Shemale NPCs will always spawn with anus womb.\n[b]DO NOT USE BOTH VERSION AT ONCE![/b] Please use one or the other!",
-		"author": "AverageAce",
-		"modversion": "0.9",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SquirrelSpeciesVer0.9-B.zip"
-	},
-	{
-		"name": "Squirrel Species",
-		"description": "Adds the funny tree nuts species. Comes with a species, a head, and two tails.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NightstalkerPreview.png]Click for preview[/url]",
-		"author": "AverageAce",
-		"modversion": "0.9",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SquirrelSpeciesVer0.9.zip"
 	},
 	{
 		"name": "More Drugs V2",
@@ -553,132 +345,12 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Pillowprincess.zip"
 	},
 	{
-		"name": "Barbed Equine Penis",
-		"description": "a small mod because its been too long since I posted a mod and pulled out my 'oh shit' list and picked something.\nComes with a unique penis, available to all player chracters, and spawning rarely on felines, equines, and demons. also compatilbe with a few skins\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BarbedEquinePenisPrev.png]Click for preview[/url]",
-		"author": "AverageAce",
-		"modversion": "0.2",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BarbedEquinePenisVer1.1.zip"
-	},
-	{
-		"name": "Demon-Hellhound Conversion",
-		"description": "Are you like me and you hate humanoids and are cripplingly addicted to anthros beyond reason? Do you wish there was some kind of hellhound in the game? Do you wish the demon species in game wasn't so god-damn worthless because they are just humans with horns?\n[b]Then this is the mod for you![/b]\n\nThis mod right here alters the base demon species into something more furry, with the removal of all human features and replaced with canine variants.\nThey still have the unique demon bits, such as the tail, horns, and hooves, but with additional paws, tails and heads, all of which are from the base game, no additional parts. NPCs will spawn with all of them.\n\n[i]This is a conversion and any new demons will spawn with the different parts, existing demons in your save file before downloading (shouldnt) be affected, they will be renamed though[/i]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/demonhoundspreview.png]Click for preview[/url]",
-		"author": "AverageAce",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DemonHoundConversionVer1.zip"
-	},
-	{
-		"name": "Spined Dragon Penis",
-		"description": "Dragon dick but more violent. They are named spines but functionally, far as the game is concerned, they function the same as feline barbs.\nIf you like dragons, this combines a knot, ridges, and barbs into one schmeat tube.\n\nImma be real, I dont know if I set up NPC generation up correctly on this one, but if I did, they should spawn very rarely on dragons.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/spineddragoncockpreview.png]Click for preview[/url]",
-		"author": "AverageAce",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SpinedDragonPenisVer1.zip"
-	},
-	{
-		"name": "Seahorse Species",
-		"description": "Fish 2. The Sequel\nComes with a new species, 2 heads, 4 tails, and all the other bits.\n[b]They are 'accurate', Male NPCs can get pregnant[/b].\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/seahorseprev.png]Click for preview[/url]",
-		"author": "AverageAce",
-		"modversion": "0.9",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SeahorseSpeciesVer0.9.zip"
-	},
-	{
-		"name": "Deer Species",
-		"description": "Add the Majestic forest Dwelling race\nOriginally made by Fantos and Max-Maxou. Updated with skin support by AverageAce.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/deerpreview.png]Click for preview[/url]",
-		"author": "AverageAce/Fantos/Max-Maxou",
-		"modversion": "2.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DeerSpeciesVer2.1.zip"
-	},
-	{
-		"name": "Deer Species (Horsecock)",
-		"description": "Add the Majestic forest Dwelling race\nOriginally made by Fantos and Max-Maxou. Updated with skin support by AverageAce.\nalso have a bonus version where equine penis has been added to the npc generation (Download one or the other)\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/deerpreview.png]Click for preview[/url]",
-		"author": "AverageAce/Fantos/Max-Maxou",
-		"modversion": "2.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DeerSpeciesVer2.1-HORSECOCK.zip"
-	},
-	{
-		"name": "Crow Species",
-		"description": "Another old mod brought into the modern era, with a few bonuses.\nSkin compatibility, A variant of penis that is slitted, and new legs\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/crowpreview.png]Click for preview[/url]",
-		"author": "AverageAce/Fantos/Max-Maxou",
-		"modversion": "2.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CrowSpeciesVer2.zip"
-	},
-	{
-		"name": "Bovine Species",
-		"description": "Another one of the old Max/Fantos mods brought up to date with additional skin support and the use of a much better penis.\nI did even less testing than usual so reprot any bugs you find to the discord.\n\nand anyone who wants the original penis back I consider to be a blight upon the universe and are not to be trusted with having an opinion.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/bovinepreview.png]Click for preview[/url]",
-		"author": "AverageAce/Fantos/Max-Maxou",
-		"modversion": "2.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BovineSpeciesVer2.zip"
-	},
-	{
 		"name": "Lopunny Species",
 		"description": "Add a special bunny species that come with an eyes or without eyes option\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/LopunnyPreview.png]Click for preview[/url]",
 		"author": "trashbox_52161",
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/LopunnySpeciesVer1.zip"
-	},
-	{
-		"name": "Male Lactation Mod",
-		"description": "This allows male NPCs to lactate. Also changes the threshold to visually switch breasts to B-cup and above, because ngl, with how a full size breast graphic was scaled down that much, i didnt like how it looked. So, uh, enjoy your flat chested women.\nModded breasts shouldn't be affected.\nThis mod [b]will conflict with any mod that changes the HumanBreasts.gd and MaleBreasts.gd files.[/b]",
-		"author": "AverageAce",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MaleLactation.zip"
-	},
-	{
-		"name": "Ampwave Species",
-		"description": "Adds the Sound Based Cybernetic dog things. Adds various bodyparts with a few variants and a new species.\nlook at the preview and see if its something you'd be into or if you want the parts. there are some good ones in here.\n\nI cant think of a good description, ive made like 30 of these things and dont have energy to do a salesman skit.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AmpwaveSpeciesPreview.png]Click for preview[/url]",
-		"author": "AverageAce",
-		"modversion": "0.9",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AmpwaveSpeciesVer0.9.zip"
-	},
-	{
-		"name": "Breedable Avy",
-		"description": "Edits Avy's character file to make her breedable. No scenes are changed. Uses the Anuswomb bodypart because if I added a vagina to avy I would have to change/add scenes",
-		"author": "AverageAce",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BreedableAvy.zip"
-	},
-	{
-		"name": "Raccoon Species",
-		"description": "hmm yes, trash. my favorite.\nThe last old Max/Fantos mod updated from the really old days. With a few alternate parts for skins.\nNo I didnt fix all typos. They're funny.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/RacconSpeciesPreview.png]Click for preview[/url]",
-		"author": "Revamp: AverageAce | Orginal: Fantos, Max-Maxou",
-		"modversion": "1.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RaccoonSpeciesUpdate.zip"
-	},
-	{
-		"name": "Hyena Parts",
-		"description": "Yeen.\nComes with Head, Ears, and a tail under the \"canine\" species. \nHead and tail have the same spawn rate as their base counterparts with ears being slightly less common.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HyenaPartPreview.png]Click for preview[/url]",
-		"author": "AverageAce",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HyenaParts.zip"
-	},
-	{
-		"name": "Houndoom",
-		"description": "The Hellish Pokemon.\nComes with a species and a whole bunch of additional bodyparts, 6 body types, 3 tails, etc.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HoundoomSpeciesPreview.png]Click for preview[/url]",
-		"author": "AverageAce",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HoundoomSpeciesVer1.zip"
-	},
-	{
-		"name": "Ace's Shark Species with backfin",
-		"description": "f i s h\nBut now with backfin, come in 4 different flavour (see image)\n[b]The backfin is part of the head[/b], so basically there are 4 different head with head and backfin variations.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/fantosSharkEditPreview.png]Click for preview[/url]",
-		"author": "Edited: Fantos | Original: AverageAce",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Shark_Species.zip"
 	},
 	{
 		"name": "DomSub",
@@ -721,44 +393,12 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Rat_Species_2.1.zip"
 	},
 	{
-		"name": "Breedable Checkpoint Guard - Maleherm",
-		"description": "This mod edits the character file of the Checkpoint Guard to be breedable, and also gives him a name.\nAlso there is another version of the file that gives him a vagina along with the standard dick and balls, because MaleHerms rock and need more support and also I didnt have to change any scenes for it happen. ",
-		"author": "AverageAce",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BreedableCheckpointGuard_MaleHerm.zip"
-	},
-	{
-		"name": "Breedable Checkpoint Guard - Male w/ Anus Womb",
-		"description": "This mod edits the character file of the Checkpoint Guard to be breedable, and also gives him a name",
-		"author": "AverageAce",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BreedableCheckpointGuard.zip"
-	},
-	{
-		"name": "Knotted Equine Penis",
-		"description": "A simple mod that adds a knotted equine penis to the character creator. NPCs dont spawn with this.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/KnottedEquinePenisPreview.png]Click for Preview[/url]",
-		"author": "AverageAce",
-		"modversion": "3.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/KnottedEquinePenisVer3.zip"
-	},
-	{
 		"name": "Breast Pump on Torso",
 		"description": "Switches the breast pump and advanced breast pump items from being worn on the upper body slot to the torso slot, thus not interfering with the perks related to being nude. This disallows wearing a pump and a harness at the same time, however.",
 		"author": "Vyklade",
 		"modversion": "1.0",
 		"gameversion": "0.1.3",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Vyk_Torso_Pump.zip"
-	},
-	{
-		"name": "Hair Skins",
-		"description": "Adds a bunch of variance to the existing hair types with skins. Some better than others...\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HairSkinsCover.png]Click for Preview[/url]",
-		"author": "AverageAce",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HairSkinsBatch1.zip"
 	},
 	{
 		"name": "Cursed Equipment",
@@ -793,44 +433,12 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DynamicStocks.zip"
 	},
 	{
-		"name": "Sergal Species",
-		"description": "Adds the fictional sergal species to the game. Comes with a number of alternate bodyparts, namely heads and ears.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SergalSpeciesShowcase.png]Click for Preview[/url]",
-		"author": "AverageAce",
-		"modversion": "0.9",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SergalSpeciesVer0.9.zip"
-	},
-	{
-		"name": "Scalie Expansion",
-		"description": "A species expansion pack with 6 species, Kobold, Snake, Eastern Dragon, Felkin, Wickerbeasts, and Nightstalkers. Comes with some new horns as well.\n\n[b]Update: The Great Atrocity has been rectified, the Felkin head has been replaced with a much better version.[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ScalieExpansionShowcase.png]Click for preview[/url]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NightstalkerPreview.png]Click for preview Nightstalker[/url]",
-		"author": "AverageAce",
-		"modversion": "2.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ScalieExpansionVer2.1.zip"
-	},
-	{
 		"name": "Drug Injector",
 		"description": "Makes and handles an item that lets you drug oponents in combat.\n Should be usable on newer versions\nAdded A new mode to the injector, DNA mode, takes the species of a 'sample' and makes hybrids\nFixxes:\nErrors being loaded at startup",
 		"author": "Darth",
 		"modversion": "2.1",
 		"gameversion": "0.1.3",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DrugInjector.zip"
-	},
-	{
-		"name": "Skulldog Species (Breed Edition)",
-		"description": "Adds a cryptid skull-canine that goes by a few different names. Comes with a custom species, Two head types, one ear + alt look, and a body.\n\n[b]Updated: New decoration bodyparts[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SkullwolfPreview.png]Click for Preview[/url]\n\n[b]Bonus: Breed edition[/b]: a version of this mod with a single change, Male and Shemale NPCs will always spawn with anus womb.\n[b]DO NOT USE BOTH VERSION AT ONCE![/b] Please use one or the other!",
-		"author": "AverageAce",
-		"modversion": "2",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SkulldogSpeciesVer2-B.zip"
-	},
-	{
-		"name": "Skulldog Species",
-		"description": "Adds a cryptid skull-canine that goes by a few different names. Comes with a custom species, Two head types, one ear + alt look, and a body.\n\n[b]Updated: New decoration bodyparts[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SkullwolfPreview.png]Click for Preview[/url]",
-		"author": "AverageAce",
-		"modversion": "2",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SkulldogSpeciesVer2.zip"
 	},
 	{
 		"name": "Laquine Species (Breed Edition)",
@@ -865,22 +473,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/LoonaMod.zip"
 	},
 	{
-		"name": "Announcer BDSM Expansion",
-		"description": "Are you getting unlucky with gathering BDSM gear? Are you some weak slut tired of getting overpowered and stretched to breaking?\nThis mod [b]edits[/b] the \"basic\" BDSM gear (rope harness and zipties) to be sold by The Announcer for easy acquisition.\n\nWith this kind of gear, you can become a Bondage Ninja in no time!\n\nI fixed it not working with one of artica's scenes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BDSMShopPreview.png]Click for preview[/url]",
-		"author": "AverageAce",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnnouncerBDSMArticaPatch.zip"
-	},
-	{
-		"name": "Ace's Lycanroc Mod",
-		"description": "I am back. Maybe. Regretfully, also maybe. I am undecided.\nRock Wolf Pokemon are surprisingly fluffy\nComes with 3 different species for the 3 types, Midday/Dusk/Midnight\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/LycanCover.png]Click for preview[/url]",
-		"author": "AverageAce",
-		"modversion": "0.9",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/LycanrocSpeciesVer0.9.zip"
-	},
-	{
 		"name": "Hypertus - shouldPrint CONF",
 		"description": "Download this to make hypertus split out logs either in console or cout if you run the game in terminal emulator.",
 		"author": "CanInBad",
@@ -913,36 +505,12 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HellhoundHyperable-R1.zip"
 	},
 	{
-		"name": "Bat Species",
-		"description": "The flying thing idk\nIve done like 30 of these what else could I even put here\nthey are BATS\nComes with 6 heads, 5 ears, and 2 tails and species\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BatCover.png]Click for preview[/url]",
-		"author": "AverageAce",
-		"modversion": "0.9",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BatSpeciesVer0.9.zip"
-	},
-	{
-		"name": "Possum Species",
-		"description": "Trashy fellas known for being based as fuck\nMade from various bat parts I didnt use because they didnt fit\nAs such not as much customization as my usual mods but you still get 5 ears, a head and a tail with the species.\nSpawns with a 50/50 split between canine and human dicks \n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PossumCover.png]Click for preview[/url]",
-		"author": "AverageAce",
-		"modversion": "0.9",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PossumSpeciesVer0.9.zip"
-	},
-	{
 		"name": "Improved Inmate Cuffs",
 		"description": "Tired of your slaves always finding a way to slip those cuffs? Well rest easy with the new and improved Inmate cuffs. These enhanced sets of wrist and ankle cuffs have been developed to all but guarantee those pesky slaves will never get them off. Each one is modified with the patented locking system that makes the those snazzy collars from the BDCC so infamous.\nAvailable now for a limited time only at your nearest Vendomat for whopping bargain of only 6 work credits.\n\nSeriously thou. I made these after a pesky slave was actually making progress in removing a lv 999 wrist cuffs.\nThey are a modified pair of Iron wrist Cuffs and Iron ankle Cuffs with the Impossible to remove effect added. \n\nYou can buy them from the Vendomat for 6 creds each under the names: Improved Iron Wrist Cuffs and Improved Iron Anle Cuffs. \n\nWhy 6 credits? Because I'm feeling vindictive and want slaves to suffer as I did figuring out how to get this mod to work.\n\nSpecial thanks to Brevman for inspiring me to get off my lazy butt and figure out how to make these. And to CanInBed who went out of their way to help me fix a issue that was preventing me from getting this to work.\n\n-Edit-\nSlaves wearing this and chained up does not seem to work now. The game acts as if there are no restraints. Still seems to work on other npc's though. Going to need to investigate further. ",
 		"author": "Senriku Axon",
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ImprovedCuffs.zip"
-	},
-	{
-		"name": "Max Summer Uniform",
-		"description": "More stuff from MaxMaxou. Summer Uniform. It doesnt cover any of your naughty bits.\nSpawns on inmates and in the general vendomat for 25 creds.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MaxSummerUniform.png]Click for preview[/url]",
-		"author": "MaxMaxou & AverageAce",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MaxSummerUniform.zip"
 	},
 	{
 		"name": "Race Bonus",
@@ -955,7 +523,7 @@
 	{
 		"name": "Equine Penis Barbs & Knots Edition",
 		"description": "This is a splice of Ace's Barbed Equine and Knotty Equine penis mods adding a character creation option for a barbed and knotty equine penis. All art assets are knicked from Ace's mods and restitched back together to make a bigger better penis!\n\nChangelog: Now has skins available like the other equine options\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BarbedandKnottedEquinePenis.png]Click for preview[/url]",
-		"author": "Avery Winters & AverageAce",
+		"author": "Avery Winters",
 		"modversion": "1.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BarbedandKnottedEquinePenis.zip"
@@ -975,14 +543,6 @@
 		"modversion": "0.2",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ModsOptions.zip"
-	},
-	{
-		"name": "Bulldog Replacer",
-		"description": "Do you fucking hate the bulldog head like I do? Now its gone.\nDirectly edits the bulldog head .gd file to replace all instances of the bulldog head with the wolf head, meaning it works retroactively on any existing characters.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BulldogRemover.png]Click for preview[/url]",
-		"author": "AverageAce",
-		"modversion": "1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/LazyBulldogReplacer.zip"
 	},
 	{
 		"name": "Striped Clothes",
@@ -1017,28 +577,12 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RaceAndHeat.zip"
 	},
 	{
-		"name": "Breedable Alex",
-		"description": "This is a patch for the 1.5 update of the game because of a few changes to the game that are also somehow my fault. If you have any old version of this mod, delete it and replace it with this. I see all you people who don't delete old mods.\nNo Character Flair patch because that other mod is base game now.\nAnyway, does what it says in the title.\nGetting dommed by a pregnant fox twink is heaven for somebody\nNo Scene Changes",
-		"author": "AverageAce",
-		"modversion": "2.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BreedableAlexV2.zip"
-	},
-	{
 		"name": "Big Boss",
 		"description": "Add headgear resembling Big Boss to the director in tavi's flashback\ndoes not require PartOrientPicker and phantom of the boss\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/bigbossPreview.png]Click for Preview[/url]\n\n\n\n\n",
 		"author": "CanInBad",
 		"modversion": "Large Executive",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HugeShareholder.zip"
-	},
-	{
-		"name": "Equines+",
-		"description": "An attempt to improve the look of the horses and equines of the game by cleaning up and editing the various heads\n\nNOT A REPLACER!, the new heads are new bodyparts with a higher spawn rate. Any NPC with an old horse head will keep the old look, same for existing datapack NPCs **!**\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EquinesPlusPreview.png]Click for preview[/url]",
-		"author": "AverageAce",
-		"modversion": "0.9",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Equines+Ver0.9.zip"
 	},
 	{
 		"name": "Hair Replacer",
@@ -1095,14 +639,6 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ExpandedPlasticBottle.zip"
-	},
-	{
-		"name": "More Uniforms",
-		"description": "-Ver 6.1: Patched the Topless Uniform conflicting with underwear\n\n-Ver 6 adds clothing damage as well as various changes or fixes I made a while ago so I forgot what they were.\nAdds a whole bunch of new Uniforms both to prisoners and vendomats\n\nList of Everything Added in the MoreUniforms Mod for BDCC.\n\nUniforms, 3 per Inmate type. Spawns on Inmates. All Uniforms can be Damaged.\n-Inmate Crop-Tops (Laundry Vendomat)\n-Upgraded Inmate Uniform (Laundry Vendomat)\n-Maternity Uniform (Medical Vendomat) (Patched)\n-Topless Uniform (General Vendomat)\n-Bottomless Uniform (General Vendomat) \n\nMisc. Clothing Items.\n-Nipple Tape (Laundry Vendomat) (Ver 6: Can now be Dyed) (I've just given up trying to fix it, doesnt work on flat chests)\n-Pussy Tape (Laundry Vendomat) (Ver 6: Can now be Dyed)\n-Cowprint Bra (Medical Vendomat) (Ver6: Can now bye Dyed)\n-Chest wrappings (Medical Vendomat)\n\nHarnesses, Sold by Announcer\n-Chest Harness\n-6-Point Harness\n-8-Point Harness\n-Full Harness\n-Maternity Harness\n-Max Harness\n-Restrictive Harness\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreUniformsPreview.png]Click for Preview[/url]",
-		"author": "AverageAce & Max-Maxou",
-		"modversion": "6.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreUniformsVer6.1.zip"
 	},
 	{
 		"name": "Affection Check",
@@ -1169,22 +705,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Intimidate_v0.1.zip"
 	},
 	{
-		"name": "Max Mod",
-		"description": "My Plan for World Domination continues and today we have another updated mod from old times.\nIf you've played Max Mod before all of that is the same, but now with a new look and more sex.\n\nVersion 2 update comes with a major looks overhaul for Max and his Uniform (Check out the More Uniforms Mod btw). \nYou can now also have The Sex with Max (5 different scenes worth).\n\nBe sure to yell at me for all the typos and bugs I missed. And make sure it's the scenes I wrote. \n[b]Fixed some more outdated code causing crashes[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/maxpreview.png]Click for Preview[/url]",
-		"author": "AverageAce",
-		"modversion": "2.2",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MaxModV2.2.zip"
-	},
-	{
-		"name": "Plantigrade Paw replacer",
-		"description": "In my on-going effort to just flat out remove humans from the game, I have gone ahead and replaced the terrible human feet legs with paws.\nThis is a replacer, so any existing NPC will use the new legs. You should also probably disable humans from your spawn lists and datapacks.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PlantigradePawReplacer.png]Click for Preview[/url]",
-		"author": "AverageAce",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PlantigradePawReplacer.zip"
-	},
-	{
 		"name": "NPC Anus Womb",
 		"description": "This adds a copy of the anus womb to the dynamic NPC generation so that approximately half the boys (any NPC without a vagina) and about a quarter of the girls (any NPC with a vagina) spawn with one\nNote: it shows up in character creation and I dont have time to fix it.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NPCAnalWomb.png]Click for Preview[/url]",
 		"author": "Avery Winters",
@@ -1215,22 +735,6 @@
 		"modversion": "0.1.0",
 		"gameversion": "0.1.6",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CumSpill.zip"
-	},
-	{
-		"name": "Synth Species",
-		"description": "The robot lizard species, Originally made by Vader-San. Comes with a new species and a whole lot of new bodyparts.\n\n[b]Version 2[/b]: Added a whole bunch of new things over the last few months. Dick Skins, New parts, and some other stuff.\n-Synths have been divided into 2 separate species in an attempt to decrease the amount of NPCS that look like complete shit, one with set parts and another with custom parts. A bit messy but whatever. Rip Hypertus compatibility once again.\n-Various under the hood fixes as well as more attempts to decrease NPCs looking like shit\n-If my notes are correct, all the various synth dicks should have a variety of skins now\n-New Bodyparts: Broken synth head, Synth Hooves, Industrial Synth Legs, and a few more im forgetting, probably...\n-Lore:  I tried out something new, I added a quick little lore scene somewhere in the game. The first species mod to have lore in game I believe.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SynthMod.png]Click for Preview[/url]",
-		"author": "AverageAce",
-		"modversion": "2.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SynthModVer2.zip"
-	},
-	{
-		"name": "Human Replacer",
-		"description": "My despise for humans continues blatantly and im proud to announce I have a mod that replaces them entirely.\nHuman Heads and Human Ears will be retroactively made into their feline variants, making all humans sphinx style cats. Meaning it works on existing characters and npcs.\nPlantigrade legs were changed into digitigrade\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HumanReplacer.png]Click for Preview[/url]",
-		"author": "AverageAce",
-		"modversion": "1.0",
-		"gameversion": "0.1.6",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HumanReplacer.zip"
 	},
 	{
 		"name": "Nekomimi",
@@ -1431,14 +935,6 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GavinTheVoidBoss.pck"
-	},
-	{
-		"name": "Ariral Species",
-		"description": "Credit (and apologies) to Mr.Dr.Nose as creator of the ariral species and Voices of The Void.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AriralSpecies.png]Click for Preview[/url]",
-		"author": "AverageAce",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AriralSpecies.zip"
 	},
 	{
 		"name": "BDCC Dark Days - Prologue & Chapter 1",
