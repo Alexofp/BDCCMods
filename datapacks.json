@@ -3362,6 +3362,30 @@
 
 			],
 			"preview": "datapack_previews/puenose.png"
+		},
+		{
+			"id": "htanskd",
+			"name": "???",
+			"author": "JokeMysterious",
+			"version": "1",
+			"description": "[Running Kepha.config]\n.\n.\n.\n[ERROR: Kepha.config is defined improperly]\n.\n.\n.\n[Backup: Drone Index Recovered, Launching Program \"APHOKEPHADRONE.acf\"]\n.\n.\n.\n[ERROR: No Host defined]\n.\n.\n.\n[Searching for host...]\n.\n.\n.\n[ALERT: Host discovered]\n.\n.\n.\nWelcome, player...to the System.",
+			"contains": "Contains: 19 characters, 17 skins, 2 scenes",
+			"download": "datapacks/aphonomadsystem.res",
+			"lastedit": 1750397271,
+			"filesize": 1909241,
+			"requiredDatapacks": [
+				"hypnotest",
+				"htextrachr",
+				"htexrachr2"
+			],
+			"reqDatapackToName": {
+				"hypnotest": "Hypnosis Testing",
+				"htextrachr": "Hypnosis Testing Extra Characters 1 & Pelara's Shop",
+				"htexrachr2": "Hypnosis Testing Extra Characters 2"
+			},
+			"requiredMods": [
+				"LopunnySpeciesVer1.zip"
+			]
 		}
 	]
 }
