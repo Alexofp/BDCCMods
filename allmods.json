@@ -553,14 +553,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Striped_Clothes.zip"
 	},
 	{
-		"name": "Goo Bondage",
-		"description": "Adds new restraints with custom effects. If you like weird and goopy bondage things, you might like this. These are added to the pool of NPC restraints and The Announcer's shop.\n\nMouth:\n- Goo Mask\nTorso:\n- Goo Boobs\n- Gooey Corset\nPenis:\n- Null Bulge (P)\nVagina:\n- Null Bulge (V)\nAnus:\n- Sentinel Plug\n\nVersion 2.0 adds the following:\n- Gooey Vest, a variant of the Gooey Corset that combines it with Goo Boobs\n- Gooey Lingerie, a Gooey Vest that includes crotchless panties\n- Latex Cups, a non-restraint version of Goo Boobs that's worn as a bra\n- Latex Funwear, a non-restraint version of Gooey Lingerie that's worn as outerwear\n- Crotchless Panties\n\nGoo Boobs and Goo Mask are designed to alter one of the character's body parts on equip and restore it when unequipped, but the on-equip code is only called if you manually \"Put On\" in the inventory or have it forced on you in sex. Debug commands (i.e. \"Force Smart Lock\") and the checkpoint guard won't call it. These items will be missing some effects/visuals in those cases, so I've excluded them from the checkpoint guard's available restraints. Could probably fix with an override, but I'm avoiding overrides with this mod.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GooBondage.png]Click for preview[/url]",
-		"author": "Jaycred",
-		"modversion": "2.0.1",
-		"gameversion": "0.1.5",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GooBondage.zip"
-	},
-	{
 		"name": "Body Writing (Skin)",
 		"description": "Added as a workaround to not seeing tally marks and body writings. (Works best on humans).\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BodyWriting.png]Click for preview[/url]",
 		"author": "Bursa",
@@ -791,22 +783,6 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ChastityCageFlatRemix.zip"
-	},
-	{
-		"name": "Hypertus Species Compatibility Layers",
-		"description": "Hypertus is required for this mod to function.\nThis mod will replace species based on installed mods.\nThis mod replaces the following species:\n\n# Vanilla  \n - Canine\n - Demon\n - Dragon\n - Equine\n - Feline\n - Human\n\n# Modded  \n - Ampwave\n - Avali\n - Avian\n - Bird\n - Bovine\n - Crow\n - Deer\n - Eastern Dragon\n - Espeon\n - Gryphon\n - Hippogriff\n - Houndoom\n - Kobold\n - Laquine\n - Leafeon\n - Lopunny\n - Lucario\n - Nightstalkers\n - Protogen\n - Rabbit\n - Racoon\n - Rat\n - Seahorse\n - Sergal\n - Shark\n - Skullwolf\n - Snake\n - Sylveon\n - Synth\n - Treenuts\n - Wickerbeast\n\n# Changelog\n * changed allowed skins for hyperable human.",
-		"author": "CanInBad",
-		"modversion": "R3-1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusSpeciesCompatibilityLayersR3-1.zip"
-	},
-	{
-		"name": "Hypertus",
-    	"description": "\n[b]WARNING: This contains hyper stuff, if you dislike it then leave[/b]\n\nHypertus adds new bodyparts that mirror the looks of bodyparts and have new features to play with.\n\nThese features includes:\n * New skill tree and perks for categories of bodyparts. Gain XP everyday!\n * Go beyond the limit vanilla gives.\n * Compatibility layers to add additional bodyparts and override species with easy JSON format!\n\nIf you want NPC to have those bodyparts then please install additional mod; Hypertus Species Compatibility Layers.\n\nHas compatibility layer between these mods:\n - Synth Bodyparts\n - Fluffy Bodyparts\n - Avali Species Bodyparts\n - Ace's Aviary Addon Bodyparts\n - Trans Scar Chest\n - Crow Species Bodyparts\n - Deer Species Bodypart\n - Knotted Horse Cock\n - Barbed Equine Penis\n - Spined Dragon Penis\n\nIf you have any feedback send it in #mods-discussion and ping me,\nor open an issue on [url]https://github.com/CanInBad/HypertusMod/issues[/url].\n\n# Changelog\n * fixed debug hyperable breast sizes to not appear [url=https://github.com/CanInBad/HypertusMod/issues/11 ](#11)[/url]\n * fixed first stage of gaining XP to be impossible [url=https://github.com/CanInBad/HypertusMod/issues/13 ](#13)[/url]\n * added tutorial based on install date instead of in game day [url=https://github.com/CanInBad/HypertusMod/issues/12 ](#12)[/url]\n - removed Raznaak's breed edition ingame configuration [url=https://github.com/CanInBad/HypertusMod/commit/b106d7e10d0a5e18ac119427992942e7e15d8b21 ](b106d7e)[/url]\n * fixed bodyparts compatibility layers not working [url=https://github.com/CanInBad/HypertusMod/commit/d01f72b58dee6e4a64ad9075c18a09fe0169125c ](d01f72b)[/url] * add an extra check before throwing out error when checking if player has max level on the skill tree (hides the \"Hyper tree is null???? send save file to the dev -CanInBad\" error) [url=https://github.com/CanInBad/HypertusMod/issues/19 ](#19)[/url]",
-    	"author": "CanInBad",
-    	"modversion": "R6-3",
-    	"gameversion": "0.1.7",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR6-3.zip"
 	},
 	{
 		"name": "Equine Penis Collection (With BallsExtra Compatability)",
@@ -1151,6 +1127,30 @@
 		"modversion": "0.3.2",
 		"gameversion": "0.1.9",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/JunkieRehabilitation.zip"
+	},
+	{
+		"name": "Hypertus Species Compatibility Layers",
+		"description": "Hypertus is required for this mod to function.\nThis mod will replace species based on installed mods.\nThis mod replaces the following species:\n\n# Vanilla  \n - Canine\n - Demon\n - Dragon\n - Equine\n - Feline\n - Human\n\n# Modded  \n - Ampwave\n - Avali\n - Avian\n - Bird\n - Bovine\n - Crow\n - Deer\n - Eastern Dragon\n - Espeon\n - Gryphon\n - Hippogriff\n - Houndoom\n - Kobold\n - Laquine\n - Leafeon\n - Lopunny\n - Lucario\n - Nightstalkers\n - Protogen\n - Rabbit\n - Racoon\n - Rat\n - Seahorse\n - Sergal\n - Shark\n - Skullwolf\n - Snake\n - Sylveon\n - Synth\n - Treenuts\n - Wickerbeast\n\n# Changelog\n * changed allowed skins for hyperable human.",
+		"author": "CanInBad",
+		"modversion": "R3-1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusSpeciesCompatibilityLayersR3-1.zip"
+	},
+	{
+		"name": "Hypertus",
+    	"description": "\n[b]WARNING: This contains hyper stuff, if you dislike it then leave[/b]\n\nHypertus adds new bodyparts that mirror the looks of bodyparts and have new features to play with.\n\nThese features includes:\n * New skill tree and perks for categories of bodyparts. Gain XP everyday!\n * Go beyond the limit vanilla gives.\n * Compatibility layers to add additional bodyparts and override species with easy JSON format!\n\nIf you want NPC to have those bodyparts then please install additional mod; Hypertus Species Compatibility Layers.\n\nHas compatibility layer between these mods:\n - Synth Bodyparts\n - Fluffy Bodyparts\n - Avali Species Bodyparts\n - Ace's Aviary Addon Bodyparts\n - Trans Scar Chest\n - Crow Species Bodyparts\n - Deer Species Bodypart\n - Knotted Horse Cock\n - Barbed Equine Penis\n - Spined Dragon Penis\n\nIf you have any feedback send it in #mods-discussion and ping me,\nor open an issue on [url]https://github.com/CanInBad/HypertusMod/issues[/url].\n\n# Changelog\n * fixed debug hyperable breast sizes to not appear [url=https://github.com/CanInBad/HypertusMod/issues/11 ](#11)[/url]\n * fixed first stage of gaining XP to be impossible [url=https://github.com/CanInBad/HypertusMod/issues/13 ](#13)[/url]\n * added tutorial based on install date instead of in game day [url=https://github.com/CanInBad/HypertusMod/issues/12 ](#12)[/url]\n - removed Raznaak's breed edition ingame configuration [url=https://github.com/CanInBad/HypertusMod/commit/b106d7e10d0a5e18ac119427992942e7e15d8b21 ](b106d7e)[/url]\n * fixed bodyparts compatibility layers not working [url=https://github.com/CanInBad/HypertusMod/commit/d01f72b58dee6e4a64ad9075c18a09fe0169125c ](d01f72b)[/url] * add an extra check before throwing out error when checking if player has max level on the skill tree (hides the \"Hyper tree is null???? send save file to the dev -CanInBad\" error) [url=https://github.com/CanInBad/HypertusMod/issues/19 ](#19)[/url]",
+    	"author": "CanInBad",
+    	"modversion": "R6-4",
+    	"gameversion": "0.1.9",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR6-4.zip"
+	},
+	{
+		"name": "Goo Bondage",
+		"description": "Adds new restraints with custom effects. If you like weird and goopy bondage things, you might like this. These are added to the pool of NPC restraints and The Announcer's shop.\nMouth:\nGoo Mask\nTorso:\nGoo Boobs\nGooey Corset\nGooey Vest\nGooey Lingerie\nPenis:\nNull Bulge (P)\nSentinel Cage\nVagina:\nNull Bulge (V)\nSentinel Plug (V)\nAnus:\nSentinel Plug (A)\n\nNon-restraint versions of some of the torso items are also sold in the vendomat.\n\nGoo Boobs and Goo Mask are designed to alter one of the character's body parts on equip and restore it when unequipped, but the on-equip code is only called if you manually \"Put On\" in the inventory or have it forced on you in sex. Debug commands (i.e. \"Force Smart Lock\") and the checkpoint guard won't call it. These items will be missing some effects/visuals in those cases, so I've excluded them from the checkpoint guard's available restraints. Could probably fix with an override, but I'm avoiding overrides with this mod.\n\nWhat's new in version 2.1.0:\nAdded a vaginal variant of Sentinel Plug and renamed the original to differentiate the two\nUpdated Sentinel Plugs, Null Bulges, and Goo Boobs to give sensitivity-related (de)buffs\nAdded the Sentinel Cage, a faux-chastity cage/bulge that encases the penis and leaves it accessible but empty.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GooBondage.png]Click for preview[/url]",
+		"author": "Jaycred",
+		"modversion": "2.1.0",
+		"gameversion": "0.1.9",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GooBondage.zip"
 	}
 	]
 }
