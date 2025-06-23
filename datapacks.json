@@ -3175,15 +3175,36 @@
 			"preview": "datapack_previews/puenose.png"
 		},
 		{
+			"id": "destand",
+			"name": "Destand",
+			"author": "Just V",
+			"version": "1.0",
+			"description": "Old OC from back in my MUD days; a sweet, breedable little femboy husky for your prison.",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/destand.res",
+			"lastedit": 1750656733,
+			"filesize": 6774,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/destand.png"
+		},
+		{
 			"id": "htanskd",
 			"name": "???",
 			"author": "JokeMysterious",
-			"version": "1",
+			"version": "1fix2",
 			"description": "[Running Kepha.config]\n.\n.\n.\n[ERROR: Kepha.config is defined improperly]\n.\n.\n.\n[Backup: Drone Index Recovered, Launching Program \"APHOKEPHADRONE.acf\"]\n.\n.\n.\n[ERROR: No Host defined]\n.\n.\n.\n[Searching for host...]\n.\n.\n.\n[ALERT: Host discovered]\n.\n.\n.\nWelcome, player...to the System.",
 			"contains": "Contains: 19 characters, 17 skins, 2 scenes",
 			"download": "datapacks/aphonomadsystem.res",
-			"lastedit": 1750397271,
-			"filesize": 1909241,
+			"lastedit": 1750656754,
+			"filesize": 1909626,
 			"requiredDatapacks": [
 				"hypnotest",
 				"htextrachr",
