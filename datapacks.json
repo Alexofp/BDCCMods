@@ -3070,27 +3070,6 @@
 			]
 		},
 		{
-			"id": "LovelyBrothers",
-			"name": "LovelyBrothers",
-			"author": "GbvGP",
-			"version": "1.0",
-			"description": "Brothers who love each other and learn to love others.",
-			"contains": "Contains: 3 characters, 3 scenes, 1 quest",
-			"download": "datapacks/LovelyBrothers.res",
-			"lastedit": 1749101426,
-			"filesize": 92913,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-
-			],
-			"preview": "datapack_previews/LovelyBrothers.png"
-		},
-		{
 			"id": "Warp_remote",
 			"name": "NPC Manipulation",
 			"author": "Wulfgar7847",
@@ -3218,6 +3197,27 @@
 			"requiredMods": [
 				"LopunnySpeciesVer1.zip"
 			]
+		},
+		{
+			"id": "LovelyBrothers",
+			"name": "LovelyBrothers",
+			"author": "GbvGP",
+			"version": "1.1",
+			"description": "Brothers who love each other and learn to love others.",
+			"contains": "Contains: 3 characters, 5 scenes, 1 quest",
+			"download": "datapacks/LovelyBrothers.res",
+			"lastedit": 1750744006,
+			"filesize": 149068,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/LovelyBrothers.png"
 		}
 	]
 }
