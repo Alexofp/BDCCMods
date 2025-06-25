@@ -3111,28 +3111,6 @@
 			"preview": "datapack_previews/beepbeepimasheep.png"
 		},
 		{
-			"id": "livingshadows",
-			"name": "THE SHADOWS ARE ALIVE",
-			"author": "Tenten",
-			"version": "1.0",
-			"description": "made after playing beholder series and boredom",
-			"contains": "Contains: 3 characters",
-			"download": "datapacks/livingshadows.res",
-			"lastedit": 1749964619,
-			"filesize": 18871,
-			"requiredDatapacks": [
-				"krystalpack"
-			],
-			"reqDatapackToName": {
-				"krystalpack": "KrystalPack"
-			},
-			"requiredMods": [
-				"DragonsPlusVer0.9.zip",
-				"SpinedDragonPenisVer1.zip"
-			],
-			"preview": "datapack_previews/livingshadows.png"
-		},
-		{
 			"id": "puenose",
 			"name": "naevis ",
 			"author": "naevis",
@@ -3218,6 +3196,31 @@
 
 			],
 			"preview": "datapack_previews/LovelyBrothers.png"
+		},
+		{
+			"id": "livingshadows",
+			"name": "THE SHADOWS ARE ALIVE",
+			"author": "Tenten",
+			"version": "1.1",
+			"description": "made after playing beholder series and boredom",
+			"contains": "Contains: 6 characters",
+			"download": "datapacks/livingshadows.res",
+			"lastedit": 1750828445,
+			"filesize": 36543,
+			"requiredDatapacks": [
+				"krystalpack",
+				"pandaskin"
+			],
+			"reqDatapackToName": {
+				"krystalpack": "KrystalPack",
+				"pandaskin": "Panda skin datapack"
+			},
+			"requiredMods": [
+				"DragonsPlusVer0.9.zip",
+				"SpinedDragonPenisVer1.zip",
+				"Rabbit_Species.zip"
+			],
+			"preview": "datapack_previews/livingshadows.png"
 		}
 	]
 }
