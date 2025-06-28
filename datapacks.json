@@ -3153,27 +3153,6 @@
 			]
 		},
 		{
-			"id": "LovelyBrothers",
-			"name": "LovelyBrothers",
-			"author": "GbvGP",
-			"version": "1.1",
-			"description": "Brothers who love each other and learn to love others.",
-			"contains": "Contains: 3 characters, 5 scenes, 1 quest",
-			"download": "datapacks/LovelyBrothers.res",
-			"lastedit": 1750744006,
-			"filesize": 149068,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-
-			],
-			"preview": "datapack_previews/LovelyBrothers.png"
-		},
-		{
 			"id": "livingshadows",
 			"name": "THE SHADOWS ARE ALIVE",
 			"author": "Tenten",
@@ -3262,6 +3241,67 @@
 
 			],
 			"preview": "datapack_previews/keyne.png"
+		},
+		{
+			"id": "LovelyBrothers",
+			"name": "LovelyBrothers",
+			"author": "GbvGP",
+			"version": "1.2",
+			"description": "Brothers who love each other and learn to love others.",
+			"contains": "Contains: 3 characters, 6 scenes, 1 quest",
+			"download": "datapacks/LovelyBrothers.res",
+			"lastedit": 1751087487,
+			"filesize": 11871593,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/LovelyBrothers.png"
+		},
+		{
+			"id": "helluvabosscharacters",
+			"name": "Helluva Boss Characters",
+			"author": "Подъемный Кран",
+			"version": "Any",
+			"description": "Not all the Helluva Boss characters, inmate types were set by my opinion. I didn't add characters that aren't important/unable to do. I know that some characters may be ugly, dont throw tomatoes at me, i tried to make this datapack without any mods or other datapacks",
+			"contains": "Contains: 12 characters",
+			"download": "datapacks/helluvabosscharacters.res",
+			"lastedit": 1751087488,
+			"filesize": 72854,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			]
+		},
+		{
+			"id": "cavitysearch",
+			"name": "Cavity Search",
+			"author": "Just V",
+			"version": "1.0",
+			"description": "Adds a scene for an anal cavity search by the checkpoint guard",
+			"contains": "Contains: 1 scene",
+			"download": "datapacks/cavitysearch.res",
+			"lastedit": 1751087491,
+			"filesize": 57392,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			]
 		}
 	]
 }
