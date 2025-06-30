@@ -1049,14 +1049,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BarbedKnot.zip"
 	},
 	{
-		"name": "Winters Pokemon Collection (WIP)",
-		"description": "Was originally intended to be a grouped mod for all the eeveelutions updated for skins and colours but pending crashing project has to be started over from scratch and will be updated as each species is finished.\nIncluded: Eevee, Espeon, Flareon, Glaceon, Jolteon, Leafeon, Umbreon, Vaporeon\nCredit: Original Mods by Eurygrey\nChangelog: Cleaned up some skin spots accross the board and added leafeon.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersPokemonCollection.png]Click for Preview[/url]",
-		"author": "Avery Winters",
-		"modversion": "0.9",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersPokemonCollectionV0.9.zip"
-	},
-	{
 		"name": "Winters Canine Barbed Penis",
 		"description": "A canine variant penis with barbs ideal for a canine/feline hybrid.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersCanineBarbedPenis.png]Click for Preview[/url]",
 		"author": "Avery Winters",
@@ -1151,6 +1143,14 @@
 		"modversion": "2.1.0",
 		"gameversion": "0.1.9",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GooBondage.zip"
+	},
+	{
+		"name": "Winters Pokemon Collection",
+		"description": "A grouped mod for the various pokemon eeveelutions in a single file updated to handle being coloured and skins.\nIncluded: Eevee, Espeon, Flareon, Glaceon, Jolteon, Leafeon, Sylveon, Umbreon, Vaporeon\nCredit: Original Mods by Eurygrey\nChangelog: Finished Sylveon and reached 1.0 release and marked mod as no longer WIP.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersPokemonCollection.png]Click for Preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersPokemonCollectionV1.0.zip"
 	}
 	]
 }
