@@ -1151,6 +1151,22 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersPokemonCollectionV1.0.zip"
+	},
+	{
+		"name": "DatapackCharacterToPlayer",
+		"description": "Allows you to import characters from datapacks as the player character on a new save.\n\nBy default, their name, personality, fetishes, and unique clothes are also imported (clothes will be added to your inventory at the start of the game); you can omit any of these during the import process, if you wish.",
+		"author": "MOONHALO",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DatapackCharacterToPlayer.zip"
+	},
+	{
+		"name": "Rigging God",
+		"description": "Adds tier 4 BDSM skill that further enhances rigging skills.\n[b]WARNING[/b]: THIS MOD REQUIRES FOXLIB\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/RiggingGodMod.png]Click for preview[/url]",
+		"author": "MOONHALO",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RiggingGodMod.zip"
 	}
 	]
 }
