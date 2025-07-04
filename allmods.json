@@ -529,14 +529,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BarbedandKnottedEquinePenis.zip"
 	},
 	{
-		"name": "Knot Fucking",
-		"description": "Fuck them with your knot!\n\nCurrently you can't knot fuck yourself with someone else's cock, but they might choose to knot fuck you if they are in charge\nand for some reason the sub doesn't cum while being knot fucked\nTouches BasCharacter.gd to add StretchedPainfullyPussy to NPCs so to hell with compatibility probably\nWIP!\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/KnotFucking.png]Click for preview[/url]",
-		"author": "Mindstormsman",
-		"modversion": "1.0",
-		"gameversion": "0.1.5",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/KnotFucking.zip"
-	},
-	{
 		"name": "Bluespace Reality Alterator (BRA)",
 		"description": "-Lore: One morning, you find a small device in the engineering section of the station, with a small screen, a keyboard and a standard memory connector, with the letters \"BRA\" stenciled on the back.\nRight now it seems empty of programmed modules, but looking a bit in the pile of junk, you find a memory stick with \"CaninePussy\" written on it, and after plugging it and fiddling a bit with the controls, you notice that your fellow Canine prisoners suddenly all have animalistic pussies instead of humanoid ones. Surprisingly, noone seems to notice the difference but you...\nAre... are you able to alter reality with this device? You must find other modules, stat!\n\n-Description: This is what I managed to hack together to make in-game options for mods possible, since having multiple versions of the same mod for different options is fucking annoying for the modders and for the users, and it's basically impossible to add custom options to the base game Options without releasing a custom build.\nAlone, this mod does nothing, but with mods using compatible scene files, more options are going to get added dynamically, for the users they just need to have this mod and the (future) compatible mods will add themselves to the options available (check the pictures for an example with the Canine Pussy mod).\nRight now only text boxes and scene buttons can be used to change mods, as I still haven't managed to include checkboxes and dropdown lists, but perhaps I'll manage one day.\n\nFor modders, check all the files in the following Canine Pussy mod to understand how to make one for your mod, I added comments to help you, and I will happily answer questions, it's both not hard and a bit finicky...\nWhat's important is using flags in your module.gd and you MUST have a [YourMod]/Scenes/ModsOptionsScenes folder with the scene inside for it to register. You don't have to name the scene as I did, but it will help with what shows in game.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ModsOptions.png]Click for Preview[/url]",
 		"author": "Raznaak",
@@ -601,28 +593,12 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Sniffing_mod_v0.0.5.zip"
 	},
 	{
-		"name": "Modular Dialogue Patch",
-		"description": "The new Modular Dialogue system readies too early for mods to add dialogue through it.\nThis mod adds code to MainMenu.gd to clear and re-register the form banks after mod loading",
-		"author": "Mindstormsman",
-		"modversion": "1.0",
-		"gameversion": "0.1.6",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ModularDialoguePatch.zip"
-	},
-	{
 		"name": "Brutal Dreams Correctional Center",
 		"description": "Makes the game more difficult!\n\nInmates you encounter have a 5% chance to attack you\n-    down from what felt like 100%, even on the default 30 pawns\n-    on higher pawn counts you will have more encounters because you encounter more pawns\n\nAn Inmate will chase you down to attack\n-    I am well aware that that Inmate can be an absolute Bastard and attack you again immediately after kicking your ass\n-    just beat their ass harder, it's Brutal Dreams and this is annoying at best\n-    Trust me, it can be so much worse than even what the last version was\n\nCharacters that lose their clothes will go to the Laundry room to replace them!\n-    they do this by checking if they have all of their default equipment\n-    so if your modded/datapack character loses their Triple XL Bra with built in coffee maker they will get a new one at the laundry!\n\nThis mod [b]No longer requires[/b] Modular Dialogue Patch",
 		"author": "Mindstormsman",
 		"modversion": "1.7",
 		"gameversion": "0.1.6",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BrutalDreamsCorrectionalCenter.zip"
-	},
-	{
-		"name": "Tighter Holes",
-		"description": "Make your holes tighter!\n\nCurrently only adjustable from the debug menu\nIf you don't set the tightness_mult flag calculations that use it default to 2\nas in twice as tight\n\nvalues less than one and greater than 0 should make your holes looser if you want that too\n\nThanks to ChaoticSaint for the idea!",
-		"author": "Mindstormsman",
-		"modversion": "0.1",
-		"gameversion": "0.1.6",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/TighterHoles.zip"
 	},
 	{
 		"name": "Expanded Plastic Bottle",
