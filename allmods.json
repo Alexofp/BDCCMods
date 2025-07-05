@@ -1143,6 +1143,14 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RiggingGodMod.zip"
+	},
+	{
+		"name": "Hypno Blindfold",
+		"description": "Adds a combined Hypnovisor/Blindfold restraint. Roughly equivalent to the MK1 hypnovisor. Can be bought in the same way as the MK1, can be forced on in stocks/by guards",
+		"author": "Eden",
+		"modversion": "0.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypnoBlindfold.zip"
 	}
 	]
 }
