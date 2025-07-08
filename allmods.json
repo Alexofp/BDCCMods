@@ -1025,14 +1025,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BarbedKnot.zip"
 	},
 	{
-		"name": "Winters Canine Barbed Penis",
-		"description": "A canine variant penis with barbs ideal for a canine/feline hybrid.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersCanineBarbedPenis.png]Click for Preview[/url]",
-		"author": "Avery Winters",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersCanineBarbedPenis.zip"
-	},
-	{
 		"name": "Sheep Species",
 		"description": "This mod adds the sheep species. The mod isn't amazing, but it's okay... I think XD\nDesigns by The Galtor\nCode by Avery Winters.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/TheGaltorSheepSpecies.png]Click for Preview[/url]",
 		"author": "The Galtor",
@@ -1151,6 +1143,22 @@
 		"modversion": "0.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypnoBlindfold.zip"
+	},
+	{
+		"name": "HeelsSuit",
+		"description": "Adds a new suit with high heeled boots to the outfit vendomat. Features three different states of damage.\n\nAdapted from a poorly-cropped image of a clothing design by @MISS-TRINITY. I do not claim ownership of the original design.\n\nPlease review the attached readme file before contacting the author with questions.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HeelsSuit.png]Click for Preview[/url]",
+		"author": "MOONHALO",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HeelsSuit.zip"
+	},
+	{
+		"name": "Winters Canine Barbed Penis",
+		"description": "A canine variant penis with barbs ideal for a canine/feline hybrid.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersCanineBarbedPenis.png]Click for Preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersCanineBarbedPenisV1.1.zip"
 	}
 	]
 }
