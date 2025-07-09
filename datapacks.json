@@ -2935,27 +2935,6 @@
 			]
 		},
 		{
-			"id": "beepbeepimasheep",
-			"name": "Sheep Oc's",
-			"author": "TenTen",
-			"version": "1.0",
-			"description": "random sheep Oc's",
-			"contains": "Contains: 2 characters",
-			"download": "datapacks/beepbeepimasheep.res",
-			"lastedit": 1749790409,
-			"filesize": 13241,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-				"TheGaltorSheepSpecies.zip"
-			],
-			"preview": "datapack_previews/beepbeepimasheep.png"
-		},
-		{
 			"id": "puenose",
 			"name": "naevis ",
 			"author": "naevis",
@@ -3315,6 +3294,27 @@
 				"SylveonSpeciesVer1.zip"
 			],
 			"preview": "datapack_previews/hypnotest.png"
+		},
+		{
+			"id": "beepbeepimasheep",
+			"name": "Sheep Oc's",
+			"author": "TenTen",
+			"version": "1.0",
+			"description": "random sheep Oc's",
+			"contains": "Contains: 4 characters",
+			"download": "datapacks/beepbeepimasheep.res",
+			"lastedit": 1752039589,
+			"filesize": 26249,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"TheGaltorSheepSpecies.zip"
+			],
+			"preview": "datapack_previews/beepbeepimasheep.png"
 		}
 	]
 }
