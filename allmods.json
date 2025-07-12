@@ -1159,6 +1159,14 @@
 		"modversion": "0.1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EZMeet_v0.1.0.zip"
+	},
+	{
+		"name": "Crotchless Chastity Belt",
+		"description": "Adds a chastity belt that will allow access to the wearer's genitals, but not their anus. It works, but lacks an icon and does not display on the doll.\n\nCannot be worn alongside a chastity cage or it will likely break your game, because this is the first time I've used Godot and had to piggyback off that item to make it work. Hopefully I'll be able to figure out how to fix this in the future. Anyone and everyone has my permission to edit the mod to fix it themselves if they want.",
+		"author": "Helix",
+		"modversion": "0.1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnChastityBelt.zip"
 	}
 	]
 }
