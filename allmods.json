@@ -745,14 +745,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ChastityCageFlatRemix.zip"
 	},
 	{
-		"name": "Equine Penis Collection (With BallsExtra Compatability)",
-		"description": "A grouped mod for the various equine penis mods in a single file with skin support for almost all skins on each option. \n \nPatches:  Should work with and without BallsExtra by NatiM6 (will need to be loaded after BallsExtra) \n\nChangelog: Should be available for all races during character creation.\n\nNote: Will currently create a duplicated Deer Penis if used alongside Ace's Deer Race.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EquineCollection.png]Click for Preview[/url]",
-		"author": "Avery Winters",
-		"modversion": "1.2",
-		"gameversion": "0.1.7",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersEquineCollectionV1.2.zip"
-	},
-	{
 		"name": "Force Anus Womb",
 		"description": "You get an anus womb, you get an anus womb, everyone gets an anus womb!!!\n\nSometimes I may have a tendency to overcomplicate things... For once, this updated version actually has less stuff than the previous one, because most of that stuff wasn't really needed... 😅 Instead of changing the behaviour of the anus womb or whatever I did previously, this mod now replaces the regular anus for one with an anus womb. This mod also doesn't do anything with FoxOptions anymore, as these options were kinda superfluous...\nAs this replaces the basic-ass anus (pun intended), this will also force it onto ALL characters, including every static ones, and the PC too. Literally every characters will have an anus womb capable of pregnancy if you can have anal sex with that character. Why? Because!\nAs it doesn't remove the normal anus womb, anything that already has an anus womb still stays the same, but now everyone else has one too instead of the vanilla one.\n\nIf you have Hypertus it will also replace all normal Hyper Anus into ones with wombs.\n\nThis doesn't even conflict with Ace's mods that makes some NPCs \"breedable\", like BreedableAvy and BreedableCheckpointGuard, as these mods already give the vanilla anus womb, so nothing much will happen if you want to keep them too, as mine only touches the regular anus.\nphrasing...\nThis may conflict with any other mod that could interact the vanilla anus, but there are no others ones yet AFAIK, and unless a new mod also want to overwrite it, eh 🤷‍♂️\nAnd after some testing, if any NPC is pregnant and you remove the mod (so they get back the vanilla anus without womb), the potential fetus(es) just get sent to the Shadow Realm together with the womb without any incident, so no worries of crashing if you want to remove this mod...\n\nAs usual, if you find any bug or have any comment, don't hesitate to @ me.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ForceAnusWomb.png]Click for Preview[/url]",
 		"author": "Raznaak",
@@ -1145,14 +1137,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnimalPussies_v3.0.zip"
 	},
 	{
-		"name": "Issix Mod",
-		"description": "Issix Mod adds player slavery with major pet-play themes, this version brings many changes including:\n- Full story scenes for Lamia (mostly parasite content)\n- \"Boss battle\"\n- Character portraits by [url=https://bsky.app/profile/roartigerart.bsky.social]Roar[/url] (@Roar)\n- Icons by [url=https://pawb.fun/@keeri]keeri[/url]\n- Three new items\n- +1 watersports scene\n- New perk for Issix changing player's name\n- New perk for making player speak like a real pet\n- Updated to be compatible with newest BDCC version\n\nFull changelog available in [url=https://git.frisk.space/Frisk/Issix-mod/releases/tag/0.9.8]here[/url]\n\nThis is the last major feature release for the mod for foreseeable future. Despite testing, it likely still contains bugs, if I have them reported I plan to release a bug fix release in ~1 week depending on how severe the issues are.\n\nThis mod already features more than 60 scene files, custom minigames, 8 items, 4 characters, custom attacks (mainly for purposes of a boss fight), multiple status effects, map changes, skills, a quest and what not. It is an ambitious project that sadly I weren't able to get to full 1.0 release I'd be happy with despite months of hard work. I hope some find the mod to their liking. ❤️ \n\nMore information on the mod can be found on my [url=https://git.frisk.space/Frisk/Issix-mod]Git page[/url]. it also has a [url=https://git.frisk.space/Frisk/Issix-mod/wiki/Walkthrough]walkthrough[/url].\n\nFoxLib is highly recommended to be used with this mod.",
-		"author": "Frisk",
-		"modversion": "0.9.8",
-		"gameversion": "0.1.9",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/IssixMod.zip"
-	},
-	{
 		"name": "Crotchless Chastity Belt",
 		"description": "Adds a chastity belt that will allow access to the wearer's genitals, but not their anus. It works, but lacks an icon and does not display on the doll.\n\nCannot be worn alongside a chastity cage or it will likely break your game, because this is the first time I've used Godot and had to piggyback off that item to make it work. Hopefully I'll be able to figure out how to fix this in the future. Anyone and everyone has my permission to edit the mod to fix it themselves if they want.",
 		"author": "Helix",
@@ -1167,6 +1151,22 @@
 		"modversion": "0.1.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EZMeet_v0.1.1.zip"
+	},
+	{
+		"name": "Winters Equine Penis Collection",
+		"description": "A grouped mod for the various equine penis mods in a single file with skin support for almost all skins on each option. \n \nCompatability: BallsExtra & Hypertus\n\nChangelog: Added Hypertus Compatability @ me in mods-discussion or make a thread if anything is broken\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EquineCollection.png]Click for Preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "1.3",
+		"gameversion": "0.1.9",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersEquineCollectionV1.3.zip"
+	},
+	{
+		"name": "Issix Mod",
+		"description": "Issix Mod adds player slavery with major pet-play themes, this version brings many changes including:\n- Full story scenes for Lamia (mostly parasite content)\n- \"Boss battle\"\n- Character portraits by [url=https://bsky.app/profile/roartigerart.bsky.social]Roar[/url] (@Roar)\n- Icons by [url=https://pawb.fun/@keeri]keeri[/url]\n- Three new items\n- +1 watersports scene\n- New perk for Issix changing player's name\n- New perk for making player speak like a real pet\n- Updated to be compatible with newest BDCC version\n\nFull changelog available in [url=https://git.frisk.space/Frisk/Issix-mod/releases/tag/0.9.8]here[/url]\n\nThis is the last major feature release for the mod for foreseeable future. Despite testing, it likely still contains bugs, if I have them reported I plan to release a bug fix release in ~1 week depending on how severe the issues are.\n\nThis mod already features more than 60 scene files, custom minigames, 8 items, 4 characters, custom attacks (mainly for purposes of a boss fight), multiple status effects, map changes, skills, a quest and what not. It is an ambitious project that sadly I weren't able to get to full 1.0 release I'd be happy with despite months of hard work. I hope some find the mod to their liking. ❤️ \n\nMore information on the mod can be found on my [url=https://git.frisk.space/Frisk/Issix-mod]Git page[/url]. it also has a [url=https://git.frisk.space/Frisk/Issix-mod/wiki/Walkthrough]walkthrough[/url].\n\nFoxLib is highly recommended to be used with this mod.\n\n[b]Changelog for 0.9.8.1[/b]\nBugfixes including rephrasing and other textual fixes\nUnlocked 3rd path of enabling non-con mode that doesn't require player to be dommy or bratty\nAdded feathers as skin coverage option in Mods Options added by FoxLib\n\nSee You Space Cowboy",
+		"author": "Frisk",
+		"modversion": "0.9.8.1",
+		"gameversion": "0.1.9",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/IssixMod.zip"
 	}
 	]
 }

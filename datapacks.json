@@ -3315,6 +3315,72 @@
 				"TheGaltorSheepSpecies.zip"
 			],
 			"preview": "datapack_previews/beepbeepimasheep.png"
+		},
+		{
+			"id": "zeph",
+			"name": "Michi & Mochi",
+			"author": "Zephyr!",
+			"version": "1.9",
+			"description": "One Male dom demon-feline and one Subby (but bratty~)  fem bunny from a couple of my playthroughs- they're not meant to be super strong \n\nOh, and both drop slave candy and heat/breeder pill you can use on them if you win ;3",
+			"contains": "Contains: 2 characters",
+			"download": "datapacks/zeph.res",
+			"lastedit": 1752643347,
+			"filesize": 14168,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"BDCC.pck",
+				"Rabbit_Species.zip",
+				"Clothes_Megapack.zip"
+			],
+			"preview": "datapack_previews/zeph.png"
+		},
+		{
+			"id": "bruce",
+			"name": "Bruce the Doberman",
+			"author": "Lonewolf2500YT",
+			"version": "1.0",
+			"description": "No description provided",
+			"contains": "Contains: 2 characters",
+			"download": "datapacks/bruce.res",
+			"lastedit": 1752643367,
+			"filesize": 11927,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/bruce.png"
+		},
+		{
+			"id": "shadow",
+			"name": "Shadow the Umbreon pokehuman",
+			"author": "Lonewolf2500YT",
+			"version": "1.0",
+			"description": "my first ever oc",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/shadow.res",
+			"lastedit": 1752643370,
+			"filesize": 7283,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"BDCC.pck",
+				"WintersPokemonCollectionV1.0.zip"
+			],
+			"preview": "datapack_previews/shadow.png"
 		}
 	]
 }
