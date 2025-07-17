@@ -3250,52 +3250,6 @@
 			]
 		},
 		{
-			"id": "hypnotest",
-			"name": "Hypnosis Testing",
-			"author": "JokeMysterious",
-			"version": "Alpha v9",
-			"description": "An engineer is interested in the use of hypnosis visors and bdsm tech. Have fun!\n\nDevLog:\nAlpha v1 - Finished the induction storyline\n\nAlpha v2 - Added some extra text (as not to seem nothing much was added in terms of dialogue), Fix the bug of the workshop start (thanks to @Moo Cow on the discord for bringing this to my attention)\n\nAlpha v3 - Heavy debug, should work flawlessly now | Experiments! Only one for now but more are coming!\n\nAlpha v4: THE LOOPING ISSUE HAS BEEN RECTIFIED AT LONG LAST! | More experiments and a new engineer who's a little more ... dominant. Also with comes with her own experiments.\n\nAlpha v5: Experiments! Aurora has got some too! (Still more to come). | Kona's sensitve topic is done! Find out what she's keeping from you! (100 trust)\n\nAlpha v6: More experiments! And... WIP is in debug menus. Almost done!\n\nAlpha v7: Overhaul of data and scenes. More experiments and a new Engineer into the mix.\n\nAlpha v8: Experiments and extra content galore! Enjoy the integration of BlackTail Stables and the BDCC Bird Services! Tons of content to explore and do!",
-			"contains": "Contains: 8 characters, 22 scenes, 1 quest",
-			"download": "datapacks/ht.res",
-			"lastedit": 1751433677,
-			"filesize": 3030862,
-			"requiredDatapacks": [
-				"htextrachr",
-				"htexrachr2",
-				"htextrascenes",
-				"bts",
-				"birdservicesdatapack",
-				"htanskd"
-			],
-			"reqDatapackToName": {
-				"htextrachr": "Hypnosis Testing Extra Characters 1 & Pelara's Shop",
-				"htexrachr2": "Hypnosis Testing Extra Characters 2",
-				"htextrascenes": "Hypnosis Testing Extra Scenes",
-				"bts": "BlackTail Stables",
-				"birdservicesdatapack": "Bird Services",
-				"htanskd": "???"
-			},
-			"requiredMods": [
-				"MoreBDSMstuff.zip",
-				"AcesProtogenMod-Ver1.1-BreedEdition.zip",
-				"AcesSharkSpeciesVer1.11.zip",
-				"DickSkinsBatch2.zip",
-				"LopunnySpeciesVer1.zip",
-				"AcesAvairyAddonVer0.99.zip",
-				"AvaliSpeciesVer2.zip",
-				"ScalieExpansionVer2.1.zip",
-				"ChastityCageFlat.zip",
-				"MorePenisPump.zip",
-				"MoreUniformsVer6.1.zip",
-				"FoxLib",
-				"Striped_Clothes.zip",
-				"NeuroJammerModule.zip",
-				"WingStaticR1.zip",
-				"SylveonSpeciesVer1.zip"
-			],
-			"preview": "datapack_previews/hypnotest.png"
-		},
-		{
 			"id": "beepbeepimasheep",
 			"name": "Sheep Oc's",
 			"author": "TenTen",
@@ -3381,6 +3335,73 @@
 				"WintersPokemonCollectionV1.0.zip"
 			],
 			"preview": "datapack_previews/shadow.png"
+		},
+		{
+			"id": "hypnotest",
+			"name": "Hypnosis Testing",
+			"author": "JokeMysterious",
+			"version": "Alpha v9 hotfix1",
+			"description": "An engineer is interested in the use of hypnosis visors and bdsm tech. Have fun!\n\nDevLog:\nAlpha v1 - Finished the induction storyline\n\nAlpha v2 - Added some extra text (as not to seem nothing much was added in terms of dialogue), Fix the bug of the workshop start (thanks to @Moo Cow on the discord for bringing this to my attention)\n\nAlpha v3 - Heavy debug, should work flawlessly now | Experiments! Only one for now but more are coming!\n\nAlpha v4: THE LOOPING ISSUE HAS BEEN RECTIFIED AT LONG LAST! | More experiments and a new engineer who's a little more ... dominant. Also with comes with her own experiments.\n\nAlpha v5: Experiments! Aurora has got some too! (Still more to come). | Kona's sensitve topic is done! Find out what she's keeping from you! (100 trust)\n\nAlpha v6: More experiments! And... WIP is in debug menus. Almost done!\n\nAlpha v7: Overhaul of data and scenes. More experiments and a new Engineer into the mix.\n\nAlpha v8: Experiments and extra content galore! Enjoy the integration of BlackTail Stables and the BDCC Bird Services! Tons of content to explore and do!",
+			"contains": "Contains: 8 characters, 22 scenes, 1 quest",
+			"download": "datapacks/ht.res",
+			"lastedit": 1752731090,
+			"filesize": 1458431,
+			"requiredDatapacks": [
+				"htextrachr",
+				"htexrachr2",
+				"htextrascenes",
+				"bts",
+				"birdservicesdatapack",
+				"htanskd"
+			],
+			"reqDatapackToName": {
+				"htextrachr": "Hypnosis Testing Extra Characters 1 & Pelara's Shop",
+				"htexrachr2": "Hypnosis Testing Extra Characters 2",
+				"htextrascenes": "Hypnosis Testing Extra Scenes",
+				"bts": "BlackTail Stables",
+				"birdservicesdatapack": "Bird Services",
+				"htanskd": "???"
+			},
+			"requiredMods": [
+				"MoreBDSMstuff.zip",
+				"AcesProtogenMod-Ver1.1-BreedEdition.zip",
+				"AcesSharkSpeciesVer1.11.zip",
+				"DickSkinsBatch2.zip",
+				"LopunnySpeciesVer1.zip",
+				"AcesAvairyAddonVer0.99.zip",
+				"AvaliSpeciesVer2.zip",
+				"ScalieExpansionVer2.1.zip",
+				"ChastityCageFlat.zip",
+				"MorePenisPump.zip",
+				"MoreUniformsVer6.1.zip",
+				"FoxLib",
+				"Striped_Clothes.zip",
+				"NeuroJammerModule.zip",
+				"WingStaticR1.zip"
+			],
+			"preview": "datapack_previews/hypnotest.png"
+		},
+		{
+			"id": "inmatepackvl",
+			"name": "Meandom Inmate pack vl",
+			"author": "Zephyr!",
+			"version": "1.9",
+			"description": "Hung meandom slop for anyone who likes it,  adds 7 stupidly high level male imates with maxed out breeder perks- have fun getting bred<3\n\nOh- and the rabbit has a real thing for TF drugs, be careful~",
+			"contains": "Contains: 7 characters",
+			"download": "datapacks/inmatepackvl.res",
+			"lastedit": 1752731098,
+			"filesize": 31189,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"Rabbit_Species.zip",
+				"Rat_Species_2.1.zip"
+			],
+			"preview": "datapack_previews/inmatepackvl.png"
 		}
 	]
 }
