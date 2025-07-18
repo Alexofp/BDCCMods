@@ -3402,6 +3402,46 @@
 				"Rat_Species_2.1.zip"
 			],
 			"preview": "datapack_previews/inmatepackvl.png"
+		},
+		{
+			"id": "deckatest",
+			"name": "Decka",
+			"author": "Decker Luciferson ",
+			"version": "1.0",
+			"description": "No description provided",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/deckatest.res",
+			"lastedit": 1752818326,
+			"filesize": 5739,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			]
+		},
+		{
+			"id": "test",
+			"name": "Dickertest",
+			"author": "Decker Luciferson",
+			"version": "1.0",
+			"description": "No description provided",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/test.res",
+			"lastedit": 1752818340,
+			"filesize": 7509,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"Inmate_Hoodie.zip"
+			]
 		}
 	]
 }
