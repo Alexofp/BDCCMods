@@ -769,14 +769,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MorePenisPump.zip"
 	},
 	{
-		"name": "Casino (DEMO)",
-		"description": "This is the first demo of the casino mod, and for now, there is only one game to play, which is the slot machine, and you can play it in your cell. (Cool, right?)\n\nOf course, there will be more to fix, so please feel free to let me know what you think.\n\n(the slot machine game details are already in the help menu.)",
-		"author": "N",
-		"modversion": "0.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CasinoDemo.zip"
-	},
-	{
 		"name": "More Starting Perks",
 		"description": "Adds new starting parks to choose from during character creation. Don't take them all at once, or do, I'm a description, not a cop.",
 		"author": "Raknar",
@@ -1089,14 +1081,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersPokemonCollectionV1.0.zip"
 	},
 	{
-		"name": "DatapackCharacterToPlayer",
-		"description": "Allows you to import characters from datapacks as the player character on a new save.\n\nBy default, their name, personality, fetishes, and unique clothes are also imported (clothes will be added to your inventory at the start of the game); you can omit any of these during the import process, if you wish.",
-		"author": "MOONHALO",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DatapackCharacterToPlayer.zip"
-	},
-	{
 		"name": "Rigging God",
 		"description": "Adds tier 4 BDSM skill that further enhances rigging skills.\n[b]WARNING[/b]: THIS MOD REQUIRES FOXLIB\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/RiggingGodMod.png]Click for preview[/url]",
 		"author": "mks",
@@ -1167,6 +1151,30 @@
 		"modversion": "0.9.8.1",
 		"gameversion": "0.1.9",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/IssixMod.zip"
+	},
+	{
+		"name": "Casino (Demo)",
+		"description": "This is a second update on the casino mod. You can access the casino on your cell. (Which to be changed later) I improved the slot machine so it will (and should) be more balanced. I also add images for decoration. And a new game: Blackjack. \n\nIt might have some bugs. Please tell me if you found one. \n\nThank you for trying my mod.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/CasinoDemo.png]Click for Preview[/url]",
+		"author": "N",
+		"modversion": "0.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CasinoDemo.zip"
+	},
+	{
+		"name": "DatapackCharacterToPlayer",
+		"description": "Allows you to import characters from datapacks as the player character on a new save.\n\nBy default, their name, personality, fetishes, and unique clothes are also imported (clothes will be added to your inventory at the start of the game); you can omit any of these during the import process, if you wish.\n\nv1.1: removed the need for players to manually load their datapacks; minor improvements",
+		"author": "MOONHALO",
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DatapackCharacterToPlayer.zip"
+	},
+	{
+		"name": "CharacterToDatapackExport",
+		"description": "Export yourself or a dynamic character to a datapack.\n\nTo export a character, go to the Me menu, select Export, and follow the instructions from there.",
+		"author": "MOONHALO",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CharacterToDatapackExport.zip"
 	}
 	]
 }
