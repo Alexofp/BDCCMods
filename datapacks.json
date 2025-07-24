@@ -3442,6 +3442,27 @@
 			"requiredMods": [
 				"Inmate_Hoodie.zip"
 			]
+		},
+		{
+			"id": "lvyn",
+			"name": "lvyn",
+			"author": "Lvyn",
+			"version": "1.0",
+			"description": "A playful, horny and somewhat mean feline. OC by Lvyn",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/lvyn.res",
+			"lastedit": 1753336159,
+			"filesize": 10184,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/lvyn.png"
 		}
 	]
 }
