@@ -3112,26 +3112,6 @@
 			"preview": "datapack_previews/LovelyBrothers.png"
 		},
 		{
-			"id": "helluvabosscharacters",
-			"name": "Helluva Boss Characters",
-			"author": "Подъемный Кран",
-			"version": "Any",
-			"description": "Not all the Helluva Boss characters, inmate types were set by my opinion. I didn't add characters that aren't important/unable to do. I know that some characters may be ugly, dont throw tomatoes at me, i tried to make this datapack without any mods or other datapacks",
-			"contains": "Contains: 12 characters",
-			"download": "datapacks/helluvabosscharacters.res",
-			"lastedit": 1751087488,
-			"filesize": 72854,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-
-			]
-		},
-		{
 			"id": "cavitysearch",
 			"name": "Cavity Search",
 			"author": "Just V",
@@ -3463,6 +3443,26 @@
 
 			],
 			"preview": "datapack_previews/lvyn.png"
+		},
+		{
+			"id": "helluvabosscharacters",
+			"name": "Helluva Boss Characters",
+			"author": "Подъемный Кран",
+			"version": "Any",
+			"description": "Not all the Helluva Boss characters, inmate types were set by my opinion. I didn't add characters that aren't important/unable to do. I know that some characters may be ugly, dont throw tomatoes at me, i tried to make this datapack without any mods or other datapacks",
+			"contains": "Contains: 12 characters",
+			"download": "datapacks/helluvabosscharacters.res",
+			"lastedit": 1753852903,
+			"filesize": 73407,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			]
 		}
 	]
 }
