@@ -1183,6 +1183,14 @@
 		"modversion": "1.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CharacterToDatapackExport.zip"
+	},
+	{
+		"name": "Breeder Lube",
+		"description": "An upgraded lubricant that adds a watered down breeder pill affect. Simple, stupid, affective.\nFixed capilization on Module.gd, actually appears in-game now",
+		"author": "Dequire",
+		"modversion": "1.01",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BreederLube.zip"
 	}
 	]
 }
