@@ -1191,6 +1191,14 @@
 		"modversion": "1.01",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BreederLube.zip"
+	},
+	{
+		"name": "Body Modification",
+		"description": "add a new scene at the medical bay (talk to the nurse) to change your body in exchange for some credits.\nChangelog : fix a crash that revealed itself in 0.1.9",
+		"author": "AR2000",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BodyModif.zip"
 	}
 	]
 }
