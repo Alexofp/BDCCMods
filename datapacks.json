@@ -3463,6 +3463,28 @@
 			"requiredMods": [
 
 			]
+		},
+		{
+			"id": "dogsandscales",
+			"name": "Dogos and dragos or Kobolds",
+			"author": "Tenten",
+			"version": "1.0",
+			"description": "made casuse am bored ",
+			"contains": "Contains: 4 characters",
+			"download": "datapacks/dogsandscales.res",
+			"lastedit": 1754628668,
+			"filesize": 22521,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"BarbedEquinePenisVer1.1.zip",
+				"DragonsPlusVer0.9.zip",
+				"ProstheticPartsVer0.zip"
+			]
 		}
 	]
 }
