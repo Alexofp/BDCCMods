@@ -729,14 +729,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ChastityCageFlat.zip"
 	},
 	{
-		"name": "Rocky's Bar",
-		"description": "This is Rocky's Bar a little scie-... I mean a nice little bar to enjoy yourself at with other Inmates! With a variety of alcohols you should be able to find yourself at the bottom of a barrel... or in someone else's cell, who knows! For now there is just the bar and the drink that are served there, but in the next version will be a blackout system and eventually a form of drunken mastery skill!\n\nAs always DM me or @ me on this server with any issues and I will gladly make my way to fix the issues and suggestions to add let me know as well as this is more of a community mod for anyone wanting to add something \n\nDisclaimer: This will be edited and modified depending on how the community sees fit I.E More exp gain or cheaper perk costs or higher/lower stats\n\nWhat's new?: Now there are the long awaited Perks! There are a number of perks going from drunken damage to straight up enchanted reproductive organs when drunk~ So drink up but be careful without the booster you run the risk of blacking out in exchange for the rewards of drunk powers~ (Earn drunk EXP at the bar or blacking out, the more drunk you are the less exp you earn at the bar)",
-		"author": "Phoenix",
-		"modversion": "1.2.1",
-		"gameversion": "0.1.7",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RockysBar.zip"
-	},
-	{
 		"name": "Non-permanent, Flat Chastity Cage",
 		"description": "Adds a removable flat chastity cage as a separate item.\n\nThis is a remix of AlexVSharps's flat chatity cage mod that doesn't get removed by the debug menu and is a bit harder to remove.\nThanks fenrir for the code",
 		"author": "AlexVSharp / slightly femboy",
@@ -1207,6 +1199,14 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Kewlhair.zip"
+	},
+	{
+		"name": "Rocky's Bar",
+		"description": "This is Rocky's Bar a little scie-... I mean a nice little bar to enjoy yourself at with other Inmates! With a variety of alcohols you should be able to find yourself at the bottom of a barrel... or in someone else's cell, who knows! For now there is just the bar and the drink that are served there, but in the next version will be a blackout system and eventually a form of drunken mastery skill!\n\nAs always DM me or @ me on this server with any issues and I will gladly make my way to fix the issues and suggestions to add let me know as well as this is more of a community mod for anyone wanting to add something \n\nDisclaimer: This will be edited and modified depending on how the community sees fit I.E More exp gain or cheaper perk costs or higher/lower stats\n\nNew?: Nothing really just any fixes that may or may not have been needed",
+		"author": "Phoenix",
+		"modversion": "1.3",
+		"gameversion": "0.1.9",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RockysBar.zip"
 	}
 	]
 }
