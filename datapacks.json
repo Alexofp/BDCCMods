@@ -3485,6 +3485,27 @@
 				"DragonsPlusVer0.9.zip",
 				"ProstheticPartsVer0.zip"
 			]
+		},
+		{
+			"id": "watersportsscenarios",
+			"name": "Watersports Scenarios",
+			"author": "_noro_",
+			"version": "1.0",
+			"description": "Name: Watersports Scenarios 1.0\nAdds: Additional watersports content, partially inspired by scenes presented in Jacki's storyline\nRequired mods: FoxLib\n\n!!! CAN BE PLAYED WITHOUT INTERACTING WITH ANY WATERSPORTS CONTENT !!!\n\nFeatures (content locked behind WS is in [...]):\n+ new mechanic - using a toilet for 5% stamina recovery, with a cooldown (can be done without having watersports content enabled)\n+ new bullies interaction - they demand payment for using the toilet (similar as for the gym), which is a problem that can be handled in multiple ways, [watersports included.]\n+ if certain conditions are met you can also take a risky pee in the yard.\n[+ repeatable in-depth 'job' you can do for the bullies]\n+ new scenes have an impact on XP of some skills and on reputation\n[+ semi-permanent bondage item gimmick quest]\n[+ as prev. mentioned an 'alternative' peeing spot scene for you when you don't want to deal with bullies, with some watersports content unique stuff.]\n+ lots of (cheesy) writing (hopefully it's much better than that, and huge shout-out to Rahi for built in editor spell check!)\n[+ hidden scene with (spoiler): the bullies gang... and some bangs...]\n[+ hidden scene with (spoiler): TF giving + another hidden scene with the same person]\n+ Easter egg scene interacting with (spoiler): portal panties [(and small WS added flavour)]\n\nP.S.:\n@ me on game's Discord if you find any bugs, or spelling mistakes, or have any suggestions (aside from more hardcore WS content, this is as far as I'm willing to explore)\nPro tip (spoiler): some content is hidden behind losing fights!\nAlso, feel free to edit flags (those in CAPS) in datapacks editor if you want to tweak something (might add in game config at some point)\n",
+			"contains": "Contains: 7 scenes",
+			"download": "datapacks/watersportsscenarios.res",
+			"lastedit": 1755232929,
+			"filesize": 1367315,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"FoxLib"
+			],
+			"preview": "datapack_previews/watersportsscenarios.png"
 		}
 	]
 }
