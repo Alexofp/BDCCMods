@@ -1207,6 +1207,14 @@
 		"modversion": "1.3",
 		"gameversion": "0.1.9",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RockysBar.zip"
+	},
+	{
+		"name": "KeysMod",
+		"description": "Removes the ability to use restraint keys on smartlocked restraints. Now the only way to rid yourself of smartlocks is to do what they tell you to.\nthis MIGHT cause some restraints to not be able to be removed at all if the smartlock tells you to do something with a blocked body part",
+		"author": "Kaio",
+		"modversion": "1.0",
+		"gameversion": "0.1.9",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/KeysMod.zip"
 	}
 	]
 }
