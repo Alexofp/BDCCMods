@@ -1215,6 +1215,14 @@
 		"modversion": "1.0",
 		"gameversion": "0.1.9",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/KeysMod.zip"
+	},
+	{
+		"name": "Fluidex",
+		"description": "Adds a new TF pill that lets you change what fluids are produced by different parts of the body.",
+		"author": "Thermal Dragon",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Fluidex.zip"
 	}
 	]
 }
