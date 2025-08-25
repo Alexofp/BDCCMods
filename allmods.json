@@ -1218,9 +1218,9 @@
 	},
 	{
 		"name": "Fluidex",
-		"description": "Adds a new TF pill that lets you change what fluids are produced by different parts of the body.",
+		"description": "Adds a new TF pill that lets you change what fluids are produced by different parts of the body.\n\n(Unintentional bugged item now removed.)",
 		"author": "Thermal Dragon",
-		"modversion": "1.0",
+		"modversion": "1.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Fluidex.zip"
 	}
