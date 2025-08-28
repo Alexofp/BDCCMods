@@ -1223,6 +1223,14 @@
 		"modversion": "1.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Fluidex.zip"
+	},
+	{
+		"name": "Kaio's QOL",
+		"description": "A small QOL mod that changes things I wanted to change. Current changes:\n1.) BFFs! Characters above 50% affection will no longer lose affection over time. However, Characters under -50% affection will not gain affection over time either.",
+		"author": "Kaio",
+		"modversion": "0.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/KaiosQOL.zip"
 	}
 	]
 }
