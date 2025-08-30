@@ -3506,6 +3506,27 @@
 				"FoxLib"
 			],
 			"preview": "datapack_previews/watersportsscenarios.png"
+		},
+		{
+			"id": "hornylizard",
+			"name": "Salazzle & Salandit",
+			"author": "JokeMysterious",
+			"version": "1.0",
+			"description": "Horny lizards from Pokemon",
+			"contains": "Contains: 2 characters, 3 skins",
+			"download": "datapacks/hornylizard.res",
+			"lastedit": 1756531493,
+			"filesize": 405406,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"DragonsPlusVer0.9.zip",
+				"ScalieExpansionVer2.1.zip"
+			]
 		}
 	]
 }
