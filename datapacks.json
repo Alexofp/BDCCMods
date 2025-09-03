@@ -3527,6 +3527,28 @@
 				"FoxLib"
 			],
 			"preview": "datapack_previews/watersportsscenarios.png"
+		},
+		{
+			"id": "KyliaandTaniko",
+			"name": "Kylia and Taniko",
+			"author": "MakoDaShark",
+			"version": "1.0",
+			"description": "No description provided",
+			"contains": "Contains: 2 characters",
+			"download": "datapacks/KyliaandTaniko.res",
+			"lastedit": 1756878132,
+			"filesize": 14122,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"LoonaMod.zip",
+				"SheathHumanPenisVer2.zip"
+			],
+			"preview": "datapack_previews/KyliaandTaniko.png"
 		}
 	]
 }
