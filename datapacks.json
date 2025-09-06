@@ -3112,26 +3112,6 @@
 			"preview": "datapack_previews/LovelyBrothers.png"
 		},
 		{
-			"id": "helluvabosscharacters",
-			"name": "Helluva Boss Characters",
-			"author": "Подъемный Кран",
-			"version": "Any",
-			"description": "Not all the Helluva Boss characters, inmate types were set by my opinion. I didn't add characters that aren't important/unable to do. I know that some characters may be ugly, dont throw tomatoes at me, i tried to make this datapack without any mods or other datapacks",
-			"contains": "Contains: 12 characters",
-			"download": "datapacks/helluvabosscharacters.res",
-			"lastedit": 1751087488,
-			"filesize": 72854,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-
-			]
-		},
-		{
 			"id": "cavitysearch",
 			"name": "Cavity Search",
 			"author": "Just V",
@@ -3250,15 +3230,102 @@
 			]
 		},
 		{
+			"id": "beepbeepimasheep",
+			"name": "Sheep Oc's",
+			"author": "TenTen",
+			"version": "1.0",
+			"description": "random sheep Oc's",
+			"contains": "Contains: 4 characters",
+			"download": "datapacks/beepbeepimasheep.res",
+			"lastedit": 1752039589,
+			"filesize": 26249,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"TheGaltorSheepSpecies.zip"
+			],
+			"preview": "datapack_previews/beepbeepimasheep.png"
+		},
+		{
+			"id": "zeph",
+			"name": "Michi & Mochi",
+			"author": "Zephyr!",
+			"version": "1.9",
+			"description": "One Male dom demon-feline and one Subby (but bratty~)  fem bunny from a couple of my playthroughs- they're not meant to be super strong \n\nOh, and both drop slave candy and heat/breeder pill you can use on them if you win ;3",
+			"contains": "Contains: 2 characters",
+			"download": "datapacks/zeph.res",
+			"lastedit": 1752643347,
+			"filesize": 14168,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"BDCC.pck",
+				"Rabbit_Species.zip",
+				"Clothes_Megapack.zip"
+			],
+			"preview": "datapack_previews/zeph.png"
+		},
+		{
+			"id": "bruce",
+			"name": "Bruce the Doberman",
+			"author": "Lonewolf2500YT",
+			"version": "1.0",
+			"description": "No description provided",
+			"contains": "Contains: 2 characters",
+			"download": "datapacks/bruce.res",
+			"lastedit": 1752643367,
+			"filesize": 11927,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/bruce.png"
+		},
+		{
+			"id": "shadow",
+			"name": "Shadow the Umbreon pokehuman",
+			"author": "Lonewolf2500YT",
+			"version": "1.0",
+			"description": "my first ever oc",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/shadow.res",
+			"lastedit": 1752643370,
+			"filesize": 7283,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"BDCC.pck",
+				"WintersPokemonCollectionV1.0.zip"
+			],
+			"preview": "datapack_previews/shadow.png"
+		},
+		{
 			"id": "hypnotest",
 			"name": "Hypnosis Testing",
 			"author": "JokeMysterious",
-			"version": "Alpha v9",
+			"version": "Alpha v9 hotfix1",
 			"description": "An engineer is interested in the use of hypnosis visors and bdsm tech. Have fun!\n\nDevLog:\nAlpha v1 - Finished the induction storyline\n\nAlpha v2 - Added some extra text (as not to seem nothing much was added in terms of dialogue), Fix the bug of the workshop start (thanks to @Moo Cow on the discord for bringing this to my attention)\n\nAlpha v3 - Heavy debug, should work flawlessly now | Experiments! Only one for now but more are coming!\n\nAlpha v4: THE LOOPING ISSUE HAS BEEN RECTIFIED AT LONG LAST! | More experiments and a new engineer who's a little more ... dominant. Also with comes with her own experiments.\n\nAlpha v5: Experiments! Aurora has got some too! (Still more to come). | Kona's sensitve topic is done! Find out what she's keeping from you! (100 trust)\n\nAlpha v6: More experiments! And... WIP is in debug menus. Almost done!\n\nAlpha v7: Overhaul of data and scenes. More experiments and a new Engineer into the mix.\n\nAlpha v8: Experiments and extra content galore! Enjoy the integration of BlackTail Stables and the BDCC Bird Services! Tons of content to explore and do!",
 			"contains": "Contains: 8 characters, 22 scenes, 1 quest",
 			"download": "datapacks/ht.res",
-			"lastedit": 1751433677,
-			"filesize": 3030862,
+			"lastedit": 1752731090,
+			"filesize": 1458431,
 			"requiredDatapacks": [
 				"htextrachr",
 				"htexrachr2",
@@ -3290,21 +3357,20 @@
 				"FoxLib",
 				"Striped_Clothes.zip",
 				"NeuroJammerModule.zip",
-				"WingStaticR1.zip",
-				"SylveonSpeciesVer1.zip"
+				"WingStaticR1.zip"
 			],
 			"preview": "datapack_previews/hypnotest.png"
 		},
 		{
-			"id": "beepbeepimasheep",
-			"name": "Sheep Oc's",
-			"author": "TenTen",
-			"version": "1.0",
-			"description": "random sheep Oc's",
-			"contains": "Contains: 4 characters",
-			"download": "datapacks/beepbeepimasheep.res",
-			"lastedit": 1752039589,
-			"filesize": 26249,
+			"id": "inmatepackvl",
+			"name": "Meandom Inmate pack vl",
+			"author": "Zephyr!",
+			"version": "1.9",
+			"description": "Hung meandom slop for anyone who likes it,  adds 7 stupidly high level male imates with maxed out breeder perks- have fun getting bred<3\n\nOh- and the rabbit has a real thing for TF drugs, be careful~",
+			"contains": "Contains: 7 characters",
+			"download": "datapacks/inmatepackvl.res",
+			"lastedit": 1752731098,
+			"filesize": 31189,
 			"requiredDatapacks": [
 
 			],
@@ -3312,9 +3378,177 @@
 
 			},
 			"requiredMods": [
-				"TheGaltorSheepSpecies.zip"
+				"Rabbit_Species.zip",
+				"Rat_Species_2.1.zip"
 			],
-			"preview": "datapack_previews/beepbeepimasheep.png"
+			"preview": "datapack_previews/inmatepackvl.png"
+		},
+		{
+			"id": "deckatest",
+			"name": "Decka",
+			"author": "Decker Luciferson ",
+			"version": "1.0",
+			"description": "No description provided",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/deckatest.res",
+			"lastedit": 1752818326,
+			"filesize": 5739,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			]
+		},
+		{
+			"id": "test",
+			"name": "Dickertest",
+			"author": "Decker Luciferson",
+			"version": "1.0",
+			"description": "No description provided",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/test.res",
+			"lastedit": 1752818340,
+			"filesize": 7509,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"Inmate_Hoodie.zip"
+			]
+		},
+		{
+			"id": "lvyn",
+			"name": "lvyn",
+			"author": "Lvyn",
+			"version": "1.0",
+			"description": "A playful, horny and somewhat mean feline. OC by Lvyn",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/lvyn.res",
+			"lastedit": 1753336159,
+			"filesize": 10184,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/lvyn.png"
+		},
+		{
+			"id": "helluvabosscharacters",
+			"name": "Helluva Boss Characters",
+			"author": "Подъемный Кран",
+			"version": "Any",
+			"description": "Not all the Helluva Boss characters, inmate types were set by my opinion. I didn't add characters that aren't important/unable to do. I know that some characters may be ugly, dont throw tomatoes at me, i tried to make this datapack without any mods or other datapacks",
+			"contains": "Contains: 12 characters",
+			"download": "datapacks/helluvabosscharacters.res",
+			"lastedit": 1753852903,
+			"filesize": 73407,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			]
+		},
+		{
+			"id": "dogsandscales",
+			"name": "Dogos and dragos or Kobolds",
+			"author": "Tenten",
+			"version": "1.0",
+			"description": "made casuse am bored ",
+			"contains": "Contains: 4 characters",
+			"download": "datapacks/dogsandscales.res",
+			"lastedit": 1754628668,
+			"filesize": 22521,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"BarbedEquinePenisVer1.1.zip",
+				"DragonsPlusVer0.9.zip",
+				"ProstheticPartsVer0.zip"
+			]
+		},
+		{
+			"id": "hornylizard",
+			"name": "Salazzle & Salandit",
+			"author": "JokeMysterious",
+			"version": "1.0",
+			"description": "Horny lizards from Pokemon",
+			"contains": "Contains: 2 characters, 3 skins",
+			"download": "datapacks/hornylizard.res",
+			"lastedit": 1756531493,
+			"filesize": 405406,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"DragonsPlusVer0.9.zip",
+				"ScalieExpansionVer2.1.zip"
+			]
+		},
+		{
+			"id": "watersportsscenarios",
+			"name": "Watersports Scenarios",
+			"author": "_noro_",
+			"version": "1.0_patch1",
+			"description": "Name: Watersports Scenarios 1.0_patch1\nAdds: Additional watersports content, partially inspired by scenes presented in Jacki's storyline\nRequired mods: FoxLib\n\n!!! CAN BE PLAYED WITHOUT INTERACTING WITH ANY WATERSPORTS CONTENT !!!\n\nFeatures (content locked behind WS is in [...]):\n+ new mechanic - using a toilet for 5% stamina recovery, with a cooldown (can be done without having watersports content enabled)\n+ new bullies interaction - they demand payment for using the toilet (similar as for the gym), which is a problem that can be handled in multiple ways, [watersports included.]\n+ if certain conditions are met you can also take a risky pee in the yard.\n[+ repeatable in-depth 'job' you can do for the bullies]\n+ new scenes have an impact on XP of some skills and on reputation\n[+ semi-permanent bondage item gimmick quest]\n[+ as prev. mentioned an 'alternative' peeing spot scene for you when you don't want to deal with bullies, with some watersports content unique stuff.]\n+ lots of (cheesy) writing (hopefully it's much better than that, and huge shout-out to Rahi for built in editor spell check!)\n[+ hidden scene with (spoiler): the bullies gang... and some bangs...]\n[+ hidden scene with (spoiler): TF giving + another hidden scene with the same person]\n+ Easter egg scene interacting with (spoiler): portal panties [(and small WS added flavour)]\n\nP.S.:\n@ me on game's Discord if you find any bugs, or spelling mistakes, or have any suggestions (aside from more hardcore WS content, this is as far as I'm willing to explore)\nPro tip (spoiler): some content is hidden behind losing fights!\nAlso, feel free to edit flags (those in CAPS) in datapacks editor if you want to tweak something (might add in game config at some point)\n",
+			"contains": "Contains: 6 scenes",
+			"download": "datapacks/watersportsscenarios.res",
+			"lastedit": 1756790177,
+			"filesize": 1344917,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"FoxLib"
+			],
+			"preview": "datapack_previews/watersportsscenarios.png"
+		},
+		{
+			"id": "KyliaandTaniko",
+			"name": "Kylia and Taniko",
+			"author": "MakoDaShark",
+			"version": "1.0",
+			"description": "No description provided",
+			"contains": "Contains: 2 characters",
+			"download": "datapacks/KyliaandTaniko.res",
+			"lastedit": 1756878132,
+			"filesize": 14122,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"LoonaMod.zip",
+				"SheathHumanPenisVer2.zip"
+			],
+			"preview": "datapack_previews/KyliaandTaniko.png"
 		}
 	]
 }

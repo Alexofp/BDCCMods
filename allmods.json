@@ -729,28 +729,12 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ChastityCageFlat.zip"
 	},
 	{
-		"name": "Rocky's Bar",
-		"description": "This is Rocky's Bar a little scie-... I mean a nice little bar to enjoy yourself at with other Inmates! With a variety of alcohols you should be able to find yourself at the bottom of a barrel... or in someone else's cell, who knows! For now there is just the bar and the drink that are served there, but in the next version will be a blackout system and eventually a form of drunken mastery skill!\n\nAs always DM me or @ me on this server with any issues and I will gladly make my way to fix the issues and suggestions to add let me know as well as this is more of a community mod for anyone wanting to add something \n\nDisclaimer: This will be edited and modified depending on how the community sees fit I.E More exp gain or cheaper perk costs or higher/lower stats\n\nWhat's new?: Now there are the long awaited Perks! There are a number of perks going from drunken damage to straight up enchanted reproductive organs when drunk~ So drink up but be careful without the booster you run the risk of blacking out in exchange for the rewards of drunk powers~ (Earn drunk EXP at the bar or blacking out, the more drunk you are the less exp you earn at the bar)",
-		"author": "Phoenix",
-		"modversion": "1.2.1",
-		"gameversion": "0.1.7",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RockysBar.zip"
-	},
-	{
 		"name": "Non-permanent, Flat Chastity Cage",
 		"description": "Adds a removable flat chastity cage as a separate item.\n\nThis is a remix of AlexVSharps's flat chatity cage mod that doesn't get removed by the debug menu and is a bit harder to remove.\nThanks fenrir for the code",
 		"author": "AlexVSharp / slightly femboy",
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ChastityCageFlatRemix.zip"
-	},
-	{
-		"name": "Equine Penis Collection (With BallsExtra Compatability)",
-		"description": "A grouped mod for the various equine penis mods in a single file with skin support for almost all skins on each option. \n \nPatches:  Should work with and without BallsExtra by NatiM6 (will need to be loaded after BallsExtra) \n\nChangelog: Should be available for all races during character creation.\n\nNote: Will currently create a duplicated Deer Penis if used alongside Ace's Deer Race.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EquineCollection.png]Click for Preview[/url]",
-		"author": "Avery Winters",
-		"modversion": "1.2",
-		"gameversion": "0.1.7",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersEquineCollectionV1.2.zip"
 	},
 	{
 		"name": "Force Anus Womb",
@@ -775,14 +759,6 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MorePenisPump.zip"
-	},
-	{
-		"name": "Casino (DEMO)",
-		"description": "This is the first demo of the casino mod, and for now, there is only one game to play, which is the slot machine, and you can play it in your cell. (Cool, right?)\n\nOf course, there will be more to fix, so please feel free to let me know what you think.\n\n(the slot machine game details are already in the help menu.)",
-		"author": "N",
-		"modversion": "0.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CasinoDemo.zip"
 	},
 	{
 		"name": "More Starting Perks",
@@ -969,22 +945,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RaceBonusModPlus.zip"
 	},
 	{
-		"name": "FoxLib",
-		"description": "\n[center][color=#00FFFF][b][shake rate=5 level=7][[[[/shake] Modding enhancer for BDCC [shake rate=5 level=7]]]][/shake][/b][/color] [/center]\n[center][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img] [/center]\n[center][color=#FF8000][u]/!\\[/u] Don't forget to delete old versions of the mod when updating [u]/!\\[/u][/color] [/center]\n\nAdd cool features for users:\n- A mod configuration menu\n- A custom theme engine\n- Dynamic mod hotfixes\n- GameTest engine to test the integrity of the loaded mod list\n\nBut mainly add many features and abilities for BDCC mods such as:\n- Adding custom CrotchBlock for datapacks\n- Adding new perks level tiers\n- Controling more game UI elements\n- Saving NPC Skills/Perk data\n- Handling fatal errors via GUI\n- Configuring mods via in game Menu\n- Registering custom entries to the ModularDialogue system\n- Preventing your mod from being loaded twice\n- Add custom player status bars\n\nFoxLib also additionaly expose more capabilities to datapacks too, please check the in-game editor to see the new blocks FoxLib adds! [wave amp=10 freq=4]:D[/wave]\n\nFoxLib will also use code generation instead of replacing game code for maximum compatibility with your existing mods, you can see in the file list that FoxLib doesn't replace any game files!\n\n[color=#00FFFF]F[/color]ox[color=#00FFFF]L[/color]ib [color=#00FFFF]M[/color]od[color=#00FFFF]H[/color]elper (Aka. [color=#00FFFF]FLMH[/color].py) is a build tool for developers to ease development of FoxLib mods. It provide warnings to improve your mods code and is the current tool used to package FoxLib!\n\nFor more info on how to use FoxLib API or FoxLib ModHelper, please check the bundled documentation!\n(Or you can read FoxLib source-code by extracting it)\n[center][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][/center]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FoxLib.png]Click for preview[/url]",
-		"author": "Fox2Code",
-		"modversion": "0.8.3",
-		"gameversion": "0.1.8",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxLib_v0.8.3.zip"
-	},
-	{
-		"name": "FoxedBDCC",
-		"description": "Add more feature to BDCC using FoxLib (Note: Don't forget to download FoxLib to use this mod)\n\nFor now it only add one end game skills in the fertility tab\n\nThis mod is the reason why I made FoxLib, and felt bad uploading FoxLib without a mod that uses it too",
-		"author": "Fox2Code",
-		"modversion": "0.1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxedBDCC_v0.1.0.zip"
-	},
-	{
 		"name": "Absols",
 		"description": "Adds absols as a playable species. Hair and horns can be used separately. Arms and legs can use the included pattern, or the universal skins.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/Absols.png]Click for Preview[/url]",
 		"author": "Amewsing",
@@ -1049,22 +1009,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/QuickStart_v1.03.zip"
 	},
 	{
-		"name": "SneakUpTease",
-		"description": "Adds an alternate interaction upon meeting a guard, engineer or a nurse in an off-limits cell. In this diverging outcome, the trespassing inmate is not immediately detected, and is presented with an opportunity to sneak up on staff. Occasionally, while exploring the space prison, you may also find yourself on the receiving end of this encounter.\n\n- Wearing loud restraints increases the detection rate. On the other paw, wearing staff uniform may trick pawns that have low perception.\n\n- Explicit interactions require successfully enticing the creature into submission. Failing that, available options are limited to playful teasing (which is valid).\n\n- You may edit the files to sidestep consent play, it's fiction and I'm not here to police it. Do note that it's a core mechanic and an intended way to experience the mod.\n\n- There are some branching paths as well as modular dialogues, with the hope to keep each encounter a little more distinct and tailored to some of the character attributes.\n\nCompatibility\n`/Game/InteractionSystem/Interactions/CaughtOffLimits.gd` is overridden to allow a detour into the alternate interaction, and to include two methods to compute its chances. Any other file is a new addition and shouldn't cause conflicts as long as the filenames are unique.",
-		"author": "keerifox",
-		"modversion": "0.3.3",
-		"gameversion": "0.1.9,0.1.8",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SneakUpTease.zip"
-	},
-	{
-		"name": "JunkieRehabilitation",
-		"description": "Adds a new drug which allows to rehabilitate defeated Drug Den junkies into cellblock inmates, in case you wish to meet them again.\n\nThe pill can sometimes be found as loot. Alternatively, you can purchase it for 100 credits from the Med Lobby's vendomat.\n\nCompatibility\n`/Modules/DrugDenModule/DrugDen/DrugDenEncounterTemplateScene.gd` is overridden to allow all of this to happen.\n\n`DrugDenEncounterBossScene.gd`, `DrugDenEncounterFirstScene.gd`, `DrugDenEncounterInstantFightScene.gd`, `DrugDenEventWhoreScene.gd` and `DrugDenEventWhoreSubScene.gd` are overridden to modify path to the class they inherit. No other lines were changed besides line 44 in the boss scene.",
-		"author": "keerifox",
-		"modversion": "0.3.2",
-		"gameversion": "0.1.9",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/JunkieRehabilitation.zip"
-	},
-	{
 		"name": "Hypertus Species Compatibility Layers",
 		"description": "Hypertus is required for this mod to function.\nThis mod will replace species based on installed mods.\nThis mod replaces the following species:\n\n# Vanilla  \n - Canine\n - Demon\n - Dragon\n - Equine\n - Feline\n - Human\n\n# Modded  \n - Ampwave\n - Avali\n - Avian\n - Bird\n - Bovine\n - Crow\n - Deer\n - Eastern Dragon\n - Espeon\n - Gryphon\n - Hippogriff\n - Houndoom\n - Kobold\n - Laquine\n - Leafeon\n - Lopunny\n - Lucario\n - Nightstalkers\n - Protogen\n - Rabbit\n - Racoon\n - Rat\n - Seahorse\n - Sergal\n - Shark\n - Skullwolf\n - Snake\n - Sylveon\n - Synth\n - Treenuts\n - Wickerbeast\n\n# Changelog\n * changed allowed skins for hyperable human.",
 		"author": "CanInBad",
@@ -1095,14 +1039,6 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersPokemonCollectionV1.0.zip"
-	},
-	{
-		"name": "DatapackCharacterToPlayer",
-		"description": "Allows you to import characters from datapacks as the player character on a new save.\n\nBy default, their name, personality, fetishes, and unique clothes are also imported (clothes will be added to your inventory at the start of the game); you can omit any of these during the import process, if you wish.",
-		"author": "MOONHALO",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DatapackCharacterToPlayer.zip"
 	},
 	{
 		"name": "Rigging God",
@@ -1145,20 +1081,164 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnimalPussies_v3.0.zip"
 	},
 	{
+		"name": "Crotchless Chastity Belt",
+		"description": "Adds a chastity belt that will allow access to the wearer's genitals, but not their anus. It works, but lacks an icon and does not display on the doll.\n\nCannot be worn alongside a chastity cage or it will likely break your game, because this is the first time I've used Godot and had to piggyback off that item to make it work. Hopefully I'll be able to figure out how to fix this in the future. Anyone and everyone has my permission to edit the mod to fix it themselves if they want.",
+		"author": "Helix",
+		"modversion": "0.1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnChastityBelt.zip"
+	},
+	{
+		"name": "EZ-Meet",
+		"description": "Adds two new buttons to the \"Me\" menu to quickly start an encounter with dynamic NPCs. \"Find Random\" finds an existing NPC, while \"Meet New\" creates a new one. You then get the option to interact with them or leave them alone. When creating a new NPC, you also get the option to avoid them (removing them from the game).\nChanged in v0.1.1: Fixed description when pulling up an NPC you have offspring with.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EZMeet.png]Click for Preview[/url]",
+		"author": "Sightglass",
+		"modversion": "0.1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EZMeet_v0.1.1.zip"
+	},
+	{
+		"name": "Winters Equine Penis Collection",
+		"description": "A grouped mod for the various equine penis mods in a single file with skin support for almost all skins on each option. \n \nCompatability: BallsExtra & Hypertus\n\nChangelog: Added Hypertus Compatability @ me in mods-discussion or make a thread if anything is broken\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EquineCollection.png]Click for Preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "1.3",
+		"gameversion": "0.1.9",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersEquineCollectionV1.3.zip"
+	},
+	{
 		"name": "Issix Mod",
-		"description": "Issix Mod adds player slavery with major pet-play themes, this version brings many changes including:\n- Full story scenes for Lamia (mostly parasite content)\n- \"Boss battle\"\n- Character portraits by [url=https://bsky.app/profile/roartigerart.bsky.social]Roar[/url] (@Roar)\n- Icons by [url=https://pawb.fun/@keeri]keeri[/url]\n- Three new items\n- +1 watersports scene\n- New perk for Issix changing player's name\n- New perk for making player speak like a real pet\n- Updated to be compatible with newest BDCC version\n\nFull changelog available in [url=https://git.frisk.space/Frisk/Issix-mod/releases/tag/0.9.8]here[/url]\n\nThis is the last major feature release for the mod for foreseeable future. Despite testing, it likely still contains bugs, if I have them reported I plan to release a bug fix release in ~1 week depending on how severe the issues are.\n\nThis mod already features more than 60 scene files, custom minigames, 8 items, 4 characters, custom attacks (mainly for purposes of a boss fight), multiple status effects, map changes, skills, a quest and what not. It is an ambitious project that sadly I weren't able to get to full 1.0 release I'd be happy with despite months of hard work. I hope some find the mod to their liking. ❤️ \n\nMore information on the mod can be found on my [url=https://git.frisk.space/Frisk/Issix-mod]Git page[/url]. it also has a [url=https://git.frisk.space/Frisk/Issix-mod/wiki/Walkthrough]walkthrough[/url].\n\nFoxLib is highly recommended to be used with this mod.",
+		"description": "Issix Mod adds player slavery with major pet-play themes, this version brings many changes including:\n- Full story scenes for Lamia (mostly parasite content)\n- \"Boss battle\"\n- Character portraits by [url=https://bsky.app/profile/roartigerart.bsky.social]Roar[/url] (@Roar)\n- Icons by [url=https://pawb.fun/@keeri]keeri[/url]\n- Three new items\n- +1 watersports scene\n- New perk for Issix changing player's name\n- New perk for making player speak like a real pet\n- Updated to be compatible with newest BDCC version\n\nFull changelog available in [url=https://git.frisk.space/Frisk/Issix-mod/releases/tag/0.9.8]here[/url]\n\nThis is the last major feature release for the mod for foreseeable future. Despite testing, it likely still contains bugs, if I have them reported I plan to release a bug fix release in ~1 week depending on how severe the issues are.\n\nThis mod already features more than 60 scene files, custom minigames, 8 items, 4 characters, custom attacks (mainly for purposes of a boss fight), multiple status effects, map changes, skills, a quest and what not. It is an ambitious project that sadly I weren't able to get to full 1.0 release I'd be happy with despite months of hard work. I hope some find the mod to their liking. ❤️ \n\nMore information on the mod can be found on my [url=https://git.frisk.space/Frisk/Issix-mod]Git page[/url]. it also has a [url=https://git.frisk.space/Frisk/Issix-mod/wiki/Walkthrough]walkthrough[/url].\n\nFoxLib is highly recommended to be used with this mod.\n\n[b]Changelog for 0.9.8.1[/b]\nBugfixes including rephrasing and other textual fixes\nUnlocked 3rd path of enabling non-con mode that doesn't require player to be dommy or bratty\nAdded feathers as skin coverage option in Mods Options added by FoxLib\n\nSee You Space Cowboy",
 		"author": "Frisk",
-		"modversion": "0.9.8",
+		"modversion": "0.9.8.1",
 		"gameversion": "0.1.9",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/IssixMod.zip"
 	},
 	{
-		"name": "EZ-Meet",
-		"description": "Adds two new buttons to the \"Me\" menu to quickly start an encounter with dynamic NPCs. \"Find Random\" finds an existing NPC, while \"Meet New\" creates a new one. You then get the option to interact with them or leave them alone. When creating a new NPC, you also get the option to avoid them (removing them from the game).\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EZMeet.png]Click for Preview[/url]",
-		"author": "Sightglass",
+		"name": "Casino (Demo)",
+		"description": "This is a second update on the casino mod. You can access the casino on your cell. (Which to be changed later) I improved the slot machine so it will (and should) be more balanced. I also add images for decoration. And a new game: Blackjack. \n\nIt might have some bugs. Please tell me if you found one. \n\nThank you for trying my mod.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/CasinoDemo.png]Click for Preview[/url]",
+		"author": "N",
+		"modversion": "0.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CasinoDemo.zip"
+	},
+	{
+		"name": "DatapackCharacterToPlayer",
+		"description": "Allows you to import characters from datapacks as the player character on a new save.\n\nBy default, their name, personality, fetishes, and unique clothes are also imported (clothes will be added to your inventory at the start of the game); you can omit any of these during the import process, if you wish.\n\nv1.1: removed the need for players to manually load their datapacks; minor improvements",
+		"author": "MOONHALO",
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DatapackCharacterToPlayer.zip"
+	},
+	{
+		"name": "Tess's Scaling Perks",
+		"description": "Adds two starting perks that increase base stats. Greedy adds a stat for every 10 Credits, and Dreamer adds every 4 levels. Very unbalanced, be warned. Also my first mod.\n\nIt might have some bugs. Please tell me if you found one. \n\nThank you for trying my mod.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/TessStartPerk.png]Click for Preview[/url]",
+		"author": "Smixe",
+		"modversion": "0.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/TessStartPerk_v0.1.zip"
+	},
+	{
+		"name": "CharacterToDatapackExport",
+		"description": "Export yourself or a dynamic character to a datapack.\n\nTo export a character, go to the Me menu, select Export, and follow the instructions from there.\n\nv1.1:\n- FIXED: User input was not properly sanitized\n- Added support for BallsExtra, until a more general approach for copying bodypart attributes is implemented",
+		"author": "MOONHALO",
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CharacterToDatapackExport.zip"
+	},
+	{
+		"name": "Breeder Lube",
+		"description": "An upgraded lubricant that adds a watered down breeder pill affect. Simple, stupid, affective.\nFixed capilization on Module.gd, actually appears in-game now",
+		"author": "Dequire",
+		"modversion": "1.01",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BreederLube.zip"
+	},
+	{
+		"name": "Body Modification",
+		"description": "add a new scene at the medical bay (talk to the nurse) to change your body in exchange for some credits.\nChangelog : fix a crash that revealed itself in 0.1.9",
+		"author": "AR2000",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BodyModif.zip"
+	},
+	{
+		"name": "Kewlhair",
+		"description": "Adds a hair for the player to pick (doesn't gen on NPCs).\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/Kewlhair.png]Click for Preview[/url]",
+		"author": "Amewsing",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Kewlhair.zip"
+	},
+	{
+		"name": "Rocky's Bar",
+		"description": "This is Rocky's Bar a little scie-... I mean a nice little bar to enjoy yourself at with other Inmates! With a variety of alcohols you should be able to find yourself at the bottom of a barrel... or in someone else's cell, who knows! For now there is just the bar and the drink that are served there, but in the next version will be a blackout system and eventually a form of drunken mastery skill!\n\nAs always DM me or @ me on this server with any issues and I will gladly make my way to fix the issues and suggestions to add let me know as well as this is more of a community mod for anyone wanting to add something \n\nDisclaimer: This will be edited and modified depending on how the community sees fit I.E More exp gain or cheaper perk costs or higher/lower stats\n\nNew?: Nothing really just any fixes that may or may not have been needed",
+		"author": "Phoenix",
+		"modversion": "1.3",
+		"gameversion": "0.1.9",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RockysBar.zip"
+	},
+	{
+		"name": "KeysMod",
+		"description": "Removes the ability to use restraint keys on smartlocked restraints. Now the only way to rid yourself of smartlocks is to do what they tell you to.\nthis MIGHT cause some restraints to not be able to be removed at all if the smartlock tells you to do something with a blocked body part",
+		"author": "Kaio",
+		"modversion": "1.0",
+		"gameversion": "0.1.9",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/KeysMod.zip"
+	},
+	{
+		"name": "Fluidex",
+		"description": "Adds a new TF pill that lets you change what fluids are produced by different parts of the body.\n\n(Unintentional bugged item now removed.)",
+		"author": "Thermal Dragon",
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Fluidex.zip"
+	},
+	{
+		"name": "Kaio's QOL",
+		"description": "A small QOL mod that changes things I wanted to change. Current changes:\n1.) BFFs! Characters above 50% affection will no longer lose affection over time. However, Characters under -50% affection will not gain affection over time either.",
+		"author": "Kaio",
+		"modversion": "0.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/KaiosQOL.zip"
+	},
+	{
+		"name": "Winters Fluffy Bodyparts Expansion",
+		"description": "An expansion of the fluff bodyparts adding a few new parts to the original list including clawed hands, fluffy hoofs and a body with neck fluff. Dynamic NPC Canines, Felines and Equines will now spawn with fluffy bodyparts by default. Original ID's are unchanged so that this can be used in place of the original for dependencies.\nAdded hypertus compat files to account for the change in ID\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersFluffyBodyparts.png]Click for Preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersFluffyBodypartsV1.1.zip"
+	},
+	{
+		"name": "SneakUpTease",
+		"description": "Adds an alternate interaction upon meeting a guard, engineer or a nurse in an off-limits cell. In this diverging outcome, the trespassing inmate is not immediately detected, and is presented with an opportunity to sneak up on staff. Occasionally, while exploring the space prison, you may also find yourself on the receiving end of this encounter.\n\n- Wearing loud restraints increases the detection rate. On the other paw, wearing staff uniform may trick pawns that have low perception.\n\n- Explicit interactions require successfully enticing the creature into submission. Failing that, available options are limited to playful teasing (which is valid).\n\n- You may edit the files to sidestep consent play, it's fiction and I'm not here to police it. Do note that it's a core mechanic and an intended way to experience the mod.\n\n- There are some branching paths as well as modular dialogues, with the hope to keep each encounter a little more distinct and tailored to some of the character attributes.\n\nCompatibility\n`/Game/InteractionSystem/Interactions/CaughtOffLimits.gd` is overridden to allow a detour into the alternate interaction, and to include two methods to compute its chances. Any other file is a new addition and shouldn't cause conflicts as long as the filenames are unique.\n\n[color=#CCE4FF]source code[/color] – [url=https://git.frisk.space/keerifox/BDCC-SneakUpTease]git.frisk.space[/url] [color=#B9B9B9]or[/color] [url=https://github.com/keerifox/BDCC-SneakUpTease]github[/url]\n[color=#FFCCEA]personal website[/color] – [url=https://keeri.place]keeri.place[/url] [color=#FFCCEA]<3[/color]",
+		"author": "keerifox",
+		"modversion": "0.3.4",
+		"gameversion": "0.1.10",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SneakUpTease.zip"
+	},
+	{
+		"name": "JunkieRehabilitation",
+		"description": "Adds a new drug which allows to rehabilitate defeated Drug Den junkies into cellblock inmates, in case you wish to meet them again.\n\nThe pill can sometimes be found as loot. Alternatively, you can purchase it for 100 credits from the Med Lobby's vendomat.\n\nCompatibility\n`/Modules/DrugDenModule/DrugDen/DrugDenEncounterTemplateScene.gd` is overridden to allow all of this to happen.\n\n`DrugDenEncounterBossScene.gd`, `DrugDenEncounterFirstScene.gd`, `DrugDenEncounterInstantFightScene.gd`, `DrugDenEventWhoreScene.gd` and `DrugDenEventWhoreSubScene.gd` are overridden to modify path to the class they inherit. No other lines were changed besides line 44 in the boss scene.\n\n[color=#CCE4FF]source code[/color] – [url=https://git.frisk.space/keerifox/BDCC-JunkieRehabilitation]git.frisk.space[/url] [color=#B9B9B9]or[/color] [url=https://github.com/keerifox/BDCC-JunkieRehabilitation]github[/url]\n[color=#FFCCEA]personal website[/color] – [url=https://keeri.place]keeri.place[/url] [color=#FFCCEA]<3[/color]",
+		"author": "keerifox",
+		"modversion": "0.3.3",
+		"gameversion": "0.1.10",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/JunkieRehabilitation.zip"
+	},
+	{
+		"name": "FoxLib",
+		"description": "][/color]\nMod version: 0.9.1\nGame version: 0.1.7+ (Recommended: 0.1.10)\nFilename: FoxLib_v0.9.1.zip\n[center][color=#00FFFF][b][shake rate=5 level=7][[[[/shake] Modding enhancer for BDCC [shake rate=5 level=7]]]][/shake][/b][/color] [/center]\n[center][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][/center]\n[center][color=#FF8000][u]/!\\[/u] Don't forget to delete old versions of the mod when updating [u]/!\\[/u][/color] [/center]\n\nAdd cool [rainbow freq=0.1 sat=1 val=1]features[/rainbow] for users:\n- A mod configuration menu\n- A custom theme engine\n- Dynamic mod hotfixes\n- GameTest engine to test the integrity of the loaded mod list\n\nBut mainly add many features and abilities for BDCC mods such as:\n- Adding custom CrotchBlock for datapacks\n- Adding new perks level tiers\n- Controlling more game UI elements\n- Saving NPC Skills/Perk data\n- Handling fatal errors via GUI\n- Configuring mods via in game Menu\n- Registering custom entries to the ModularDialogue system\n- Preventing your mod from being loaded twice\n- Add custom player status bars\n\nFoxLib also additionally expose more capabilities to datapacks too, please check the in-game editor to see the new blocks FoxLib adds! [wave amp=10 freq=4]:D[/wave]\n\nFoxLib will also use code generation instead of replacing game code for maximum compatibility with your existing mods, you can see in the file list that FoxLib doesn't replace any game files!\n\n[color=#00FFFF]F[/color]ox[color=#00FFFF]L[/color]ib [color=#00FFFF]M[/color]od[color=#00FFFF]H[/color]elper (Aka. [color=#00FFFF]FLMH[/color].py) is a build tool for developers to ease development of FoxLib mods. It provide warnings to improve your mods code and is the current tool used to package FoxLib!\n\nFor more info on how to use FoxLib API or FoxLib ModHelper, please check the bundled documentation!\nFoxLib source code is hosted at: [color=#2222FF][url=https://git.frisk.space/Fox2Code/FoxLib]https://git.frisk.space/Fox2Code/FoxLib[/url][/color]\n(Or you can read FoxLib source-code by extracting it)\n[center][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][/center]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FoxLib.png]Click for preview[/url]",
+		"author": "Fox2Code",
+		"modversion": "0.9.1[color=",
+		"gameversion": "0.1.10",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxLib_v0.9.1.zip"
+	},
+	{
+		"name": "FoxedBDCC",
+		"description": "Add more feature to BDCC using FoxLib (Note: Don't forget to download FoxLib to use this mod)\n\nFor now it only add one end game skills in the fertility tab\n\nThis mod is the reason why I made FoxLib, and felt bad uploading FoxLib without a mod that uses it too",
+		"author": "Fox2Code",
 		"modversion": "0.1.0",
 		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EZMeet_v0.1.0.zip"
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxedBDCC_v0.1.0.zip"
 	}
 	]
 }
