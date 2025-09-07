@@ -1239,6 +1239,14 @@
 		"modversion": "0.1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxedBDCC_v0.1.0.zip"
+	},
+	{
+		"name": "Anons Protogen Species",
+		"description": "Updated the protogen mod. Adds a protogen species and a number of bodyparts to match. I have kept all the bodypart ID's the same to avoid as many issues as possible.\nChangelog: Assigned a version number for version control, Added skins based on Blocked to fit the arms and legs, added built in hypertus compat to account for ID change, added JSON for mod browser compat.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsProtogenSpecies.png]Click for Preview[/url]",
+		"author": "Anon, Avery Winters",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnonsProtogenSpeciesV1.0.zip"
 	}
 	]
 }
