@@ -841,14 +841,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GavinTheVoidBoss.pck"
 	},
 	{
-		"name": "BDCC Dark Days - Prologue & Chapter 1",
-		"description": "The content produced for, and required by, the BDCC: Dark Days Datapack.",
-		"author": "Sumobear50",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BDCC%20Dark%20Days%20-%20Prologue%20&%20Chapter%201.pck"
-	},
-	{
 		"name": "Tavi Dom Plus Demo",
 		"description": "A little Addition for Tavi, starts when you get her Corruption to 200% or 0%~ And then she will give you a nice little rewards for \"Fixing\" her.\nWhat it adds: Adds a few encounters with Tavi, after doing the above mentioned thing currently you can find her in the Canteen as you eat, in the yard while you wander about, and the greenhouse for a little teasing minigame~.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/TaviDomPlus.png]Click for Preview[/url]",
 		"author": "Phoenix",
@@ -1247,6 +1239,14 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnonsProtogenSpeciesV1.0.zip"
+	},
+	{
+		"name": "BDCC Dark Days",
+		"description": "The content required to use the \"Broken Dreams Correctional Center: Dark Days\" datapack. Includes characters and new maps to explore.",
+		"author": "Sumobear50",
+		"modversion": "1.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BDCCDD.pck"
 	}
 	]
 }
