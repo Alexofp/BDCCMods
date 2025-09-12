@@ -3549,6 +3549,29 @@
 				"FoxLib",
 				"BDCCDD.pck"
 			]
+		},
+		{
+			"id": "fellinipack",
+			"name": "Pulchra Fellini",
+			"author": "Mari",
+			"version": "1.0",
+			"description": "+Adds a cute feline Pulchra Fellini from Zenless Zone Zero.\n+Custom made skin",
+			"contains": "Contains: 1 character, 1 skin",
+			"download": "datapacks/fellinipack.res",
+			"lastedit": 1757656087,
+			"filesize": 515895,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"FelliniMod.zip",
+				"FluffbodypartsVer3.zip",
+				"Clothes_Megapack.zip"
+			],
+			"preview": "datapack_previews/fellinipack.png"
 		}
 	]
 }
