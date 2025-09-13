@@ -3572,6 +3572,38 @@
 				"Clothes_Megapack.zip"
 			],
 			"preview": "datapack_previews/fellinipack.png"
+		},
+		{
+			"id": "BreedersPack",
+			"name": "Demon Breeders Pack",
+			"author": "Fantastic!",
+			"version": "1.0",
+			"description": "This pack contains 5 male demon dom characters that will breed you. Includes scenes with encounters and outcomes, and one special scene where you will become a breedable bitch.\n\nI highly recommend adding mods for more bdsm stuff.\n\nIf you find any spelling/grammar mistakes or you want something to be added/changed, find and contact me on Discord.",
+			"contains": "Contains: 6 characters, 7 scenes",
+			"download": "datapacks/DemonBreedersPack.res",
+			"lastedit": 1757737988,
+			"filesize": 208915,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"FoxLib",
+				"FoxedBDCC_v0.1.0.zip",
+				"HypertusR6-4.zip",
+				"RiggingGodMod.zip",
+				"SharkSpeciesV1.0.zip",
+				"AcesSharkSpeciesVer1.11.zip",
+				"DeerSpeciesVer2.1.zip",
+				"LycanrocSpeciesVer0.9.zip",
+				"SkulldogSpeciesVer2.zip",
+				"DragonsPlusVer0.9.zip",
+				"SpinedDragonPenisVer1.zip",
+				"BarbedandKnottedEquinePenis.zip"
+			],
+			"preview": "datapack_previews/BreedersPack.png"
 		}
 	]
 }
