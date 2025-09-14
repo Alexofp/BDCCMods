@@ -1274,11 +1274,11 @@
 	},
 	{
 		"name": "Anons Avian Species",
-		"description": "A combined avian pack with species for birds, gryphons and hippogryphs. Avians will spawn with tapered penises if the mod is installed. The crow species has now had its parts rolled into the Avian species and can spawn in with all the other bird types. Included compatability for hypertus. CHANGELOG: Fixed ID's and filenames, updated compatability for hypertus, rebranded to AnonsAvianSpecies. \nNOTE: Since these run new Mod ID's doesnt hurt to back up your saves, or wait till your starting a new game to update.\nWARNING: Any datapacks using the Aviary parts might have missing parts unless their authors update to this, the old part ID's were a dumpster fire and didnt follow any naming convention that made sense.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsAvianSpecies.png]Click for Preview[/url]",
+		"description": "A combined avian pack with species for birds, gryphons and hippogryphs. Avians will spawn with tapered penises if the mod is installed. The crow species has now had its parts rolled into the Avian species and can spawn in with all the other bird types. Included compatability for hypertus. CHANGELOG: Fixed a filename path that caused a crash with winged body. \nNOTE: Since these run new Mod ID's doesnt hurt to back up your saves, or wait till your starting a new game to update.\nWARNING: Any datapacks using the Aviary parts might have missing parts unless their authors update to this, the old part ID's were a dumpster fire and didnt follow any naming convention that made sense.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsAvianSpecies.png]Click for Preview[/url]",
 		"author": "Anon, Avery Winters",
-		"modversion": "1.0",
+		"modversion": "1.1",
 		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnonsAvianSpeciesV1.0.zip"
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnonsAvianSpeciesV1.1.zip"
 	}
 	]
 }
