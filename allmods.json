@@ -1249,14 +1249,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BDCCDD.pck"
 	},
 	{
-		"name": "Winters Tapered Penises",
-		"description": "A collection of the Tapered penises from the Aviary mod. Decided to seperate these off solo so that they can be used with other mods and species that would benefit from slits and tapered penises without needing a whole race as a dependency. Has built in hypertus compat and JSON for mod browser compat.\nCHANGELOG: Winter Eira updated the slit dick to look smoother and mitigate it coming off the body in some animations. Also added dick skins to the tapered penises.\nNOTE: Since these run new Mod ID's doesnt hurt to back up your saves, or wait till your starting a new game to update. \n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersTaperedPenises.png]Click for Preview[/url]",
-		"author": "Avery Winters",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersTaperedPenisesV1.0.zip"
-	},
-	{
 		"name": "Anons Aquatic Species",
 		"description": "Packaged the Shark Species and the seahorse species under one mod since they share a body to minimise duplicating parts unnessecarily Also updating the names of species to AnonsNameSpecies so they stay together in mod lists to keep things tidy. Has built in hypertus compat and JSON for mod browser compat.\nNOTE: Since these run new Mod ID's doesnt hurt to back up your saves, or wait till your starting a new game to update\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsAquaticSpecies.png]Click for Preview[/url]",
 		"author": "Anon, Avery Winters",
@@ -1279,6 +1271,14 @@
 		"modversion": "1.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnonsAvianSpeciesV1.1.zip"
+	},
+	{
+		"name": "Winters Tapered Penises",
+		"description": "A collection of the Tapered penises from the Aviary mod. Decided to seperate these off solo so that they can be used with other mods and species that would benefit from slits and tapered penises without needing a whole race as a dependency. Has built in hypertus compat and JSON for mod browser compat.\nCHANGELOG: Winter Eira updated the slit dick to look smoother and mitigate it coming off the body in some animations. Also added dick skins to the tapered penises.\nCHANGELOG: Fixed filepaths causing crashes when used with hypertus.\nNOTE: Since these run new Mod ID's doesnt hurt to back up your saves, or wait till your starting a new game to update. \n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersTaperedPenises.png]Click for Preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersTaperedPenisesV1.1.zip"
 	}
 	]
 }

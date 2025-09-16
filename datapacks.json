@@ -2828,28 +2828,6 @@
 			"preview": "datapack_previews/umbreonskin.png"
 		},
 		{
-			"id": "valeriya_shop",
-			"name": "Valeriya The Smuggler",
-			"author": "ScarTheWerewolf",
-			"version": "1.1",
-			"description": "Adds Valeriya to the game, she's a smuggler who stays inside the prison to fulfill the inmate's supply and demands.",
-			"contains": "Contains: 2 characters, 5 scenes, 2 quests",
-			"download": "datapacks/valeriya_shop.res",
-			"lastedit": 1747975834,
-			"filesize": 123784,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-				"HyenaParts.zip",
-				"FluffbodypartsVer3.zip",
-				"Clothes_Megapack.zip"
-			]
-		},
-		{
 			"id": "fenn",
 			"name": "Ultimia",
 			"author": "Fenn",
@@ -3604,6 +3582,30 @@
 				"BarbedandKnottedEquinePenis.zip"
 			],
 			"preview": "datapack_previews/BreedersPack.png"
+		},
+		{
+			"id": "valeriya_shop",
+			"name": "Valeriya The Smuggler",
+			"author": "ScarTheWerewolf",
+			"version": "1.1.1",
+			"description": "Adds Valeriya to the game, she's a smuggler who stays inside the prison to fulfill the inmate's supply and demands.",
+			"contains": "Contains: 2 characters, 5 scenes, 2 quests",
+			"download": "datapacks/valeriya_shop.res",
+			"lastedit": 1757912839,
+			"filesize": 134858,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"HyenaParts.zip",
+				"Clothes_Megapack.zip",
+				"WintersFluffyBodypartsV1.1.zip",
+				"Inmate_Hoodie.zip"
+			],
+			"preview": "datapack_previews/valeriya_shop.png"
 		}
 	]
 }
