@@ -745,14 +745,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ForceAnusWomb_v1.1.zip"
 	},
 	{
-		"name": "Generic NPC Generation Anus Wombs",
-		"description": "This adds the anus womb to the dynamic NPC generation so that approximately half the boys (any NPC without a vagina) and about a quarter of the girls (any NPC with a vagina) spawn with one. Note: No longer creates a duplicated bodypart. Changelong: Tweaked spawnrates slightly, overall a little under half the NPCs should have anus wombs.",
-		"author": "Avery Winters",
-		"modversion": "1.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersNPCAnalWombV1.1.zip"
-	},
-	{
 		"name": "MorePenisPump",
 		"description": "Add 2 more penis pumps. The first one is PenisPumpMK3, you can buy it at a Medical Vendomat. And a second one is PenisPumpGold, you can get it from the debug menu only. (I just want to try modding, That's all.)",
 		"author": "N",
@@ -1279,6 +1271,14 @@
 		"modversion": "1.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersTaperedPenisesV1.1.zip"
+	},
+	{
+		"name": "Winters NPC Anal Womb",
+		"description": "This adds the anus womb to the dynamic NPC generation so that any NPC without a vagina, and 30% of any NPC with a vagina will spawn with an Anus Womb\nCHANGELOG: Tweaked spawnrates to enable a fully breedable prison\nNOTE: Will only affect newly generated Dynamic NPC's",
+		"author": "Avery Winters",
+		"modversion": "1.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersNPCAnalWombV1.2.zip"
 	}
 	]
 }
