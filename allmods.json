@@ -1279,6 +1279,14 @@
 		"modversion": "1.2",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersNPCAnalWombV1.2.zip"
+	},
+	{
+		"name": "ConvictTag Cuffs",
+		"description": "Adds a set of sturdy wrist/ankle cuffs, equipped with LEDs on both edges, which interface with standard issue inmate collars to ascertain the wearer's con-specifics.\n\nPawns acting as doms may have the ConvictTag gear as part of their inventory. It can also be purchased from the Announcer.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ConvictTagCuffs.png]Click for Preview[/url]\n\n[color=#CCE4FF]source code[/color] – [url=https://git.frisk.space/keerifox/BDCC-ConvictTagCuffs]git.frisk.space[/url]\n[color=#FFCCEA]personal website[/color] – [url=https://keeri.place]keeri.place[/url] [color=#FFCCEA]<3[/color]",
+		"author": "keerifox",
+		"modversion": "0.3.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ConvictTagCuffs.zip"
 	}
 	]
 }
