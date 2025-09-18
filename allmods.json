@@ -1268,9 +1268,9 @@
 		"name": "Tess's Scaling Perks",
 		"description": "Adds two starting perks that increase base stats. Greedy adds a stat for every 10 Credits, and Dreamer adds every 4 levels. Very unbalanced, be warned. Also my first mod.\n\nIt might have some bugs. Please tell me if you found one. \n\nThank you for trying my mod.\nChangelog: Changed the formula for getting one of the perks bonus. Thank you Dotakiin for the fix!\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/TessStartPerk.png]Click for Preview[/url]",
 		"author": "Smixe",
-		"modversion": "0.1.1",
+		"modversion": "0.1.1fix",
 		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/TessStartPerk_v0.1.1.zip"
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/TessStartPerkv0.1.1fix.zip"
 	},
 	{
 		"name": "FoxLib",
