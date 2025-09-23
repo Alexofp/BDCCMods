@@ -889,14 +889,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/LorianHair.zip"
 	},
 	{
-		"name": "Southern Sergal",
-		"description": "The southern flavor of Sergals. This will 100% look fucked up with any eye-covering apparel\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SouthernSergal.png]Click for preview[/url]",
-		"author": "Amewsing",
-		"modversion": "0.6",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SouthernSergal.6.zip"
-	},
-	{
 		"name": "Humanoid Ears",
 		"description": "Adds an Elf species and more human ears\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HumanoidEars.png]Click for preview[/url]",
 		"author": "Amewsing",
@@ -1287,6 +1279,22 @@
 		"modversion": "0.1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxedBDCC_v0.1.0.zip"
+	},
+	{
+		"name": "Southern Sergal",
+		"description": "The southern flavor of Sergals. This will 100% look fucked up with any eye-covering apparel\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SouthernSergal.png]Click for preview[/url]",
+		"author": "Amewsing",
+		"modversion": "0.6",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SouthernSergal.6.zip"
+	},
+	{
+		"name": "Winters Southern Sergal Patch",
+		"description": "Patches Amewsing's Southern sergals to run WintersFluffyBodyparts. Must be loaded after Southern Sergals & WintersFluffyBodyparts.\nCHANGELOG: Changes the default bodyparts to the fluff parts and threw in a quick Hypertus compat.\nNOTE: Will only affect newly generated Dynamic NPC's\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersSouthernSergalPatch.png]Click for preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersSouthernSergalPatchV1.0.zip"
 	}
 	]
 }
