@@ -3529,29 +3529,6 @@
 			]
 		},
 		{
-			"id": "fellinipack",
-			"name": "Pulchra Fellini",
-			"author": "Mari",
-			"version": "1.0",
-			"description": "+Adds a cute feline Pulchra Fellini from Zenless Zone Zero.\n+Custom made skin",
-			"contains": "Contains: 1 character, 1 skin",
-			"download": "datapacks/fellinipack.res",
-			"lastedit": 1757656087,
-			"filesize": 515895,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-				"FelliniMod.zip",
-				"FluffbodypartsVer3.zip",
-				"Clothes_Megapack.zip"
-			],
-			"preview": "datapack_previews/fellinipack.png"
-		},
-		{
 			"id": "BreedersPack",
 			"name": "Demon Breeders Pack",
 			"author": "Fantastic!",
@@ -3606,6 +3583,29 @@
 				"Inmate_Hoodie.zip"
 			],
 			"preview": "datapack_previews/valeriya_shop.png"
+		},
+		{
+			"id": "fellinipack",
+			"name": "Pulchra Fellini",
+			"author": "Mari",
+			"version": "1.1",
+			"description": "+Adds a cute feline Pulchra Fellini from Zenless Zone Zero.\n+Custom made skin\n\nUpdate 1.1:\n+fixed hair color\n+2 small quests\n+bit of story about Pulchra\n+adds the ability to sell milk to Pulchra\n+adds 1 sex scene",
+			"contains": "Contains: 1 character, 1 skin, 5 scenes, 2 quests",
+			"download": "datapacks/fellinipack.res",
+			"lastedit": 1758775991,
+			"filesize": 668832,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"FelliniMod.zip",
+				"FluffbodypartsVer3.zip",
+				"Clothes_Megapack.zip"
+			],
+			"preview": "datapack_previews/fellinipack.png"
 		}
 	]
 }
