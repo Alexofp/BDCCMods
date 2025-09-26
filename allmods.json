@@ -1241,14 +1241,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnonsAquaticSpeciesV1.2.zip"
 	},
 	{
-		"name": "Winters Tapered Penises",
-		"description": "A collection of the Tapered penises from the Aviary mod. Decided to seperate these off solo so that they can be used with other mods and species that would benefit from slits and tapered penises without needing a whole race as a dependency. Has built in hypertus compat and JSON for mod browser compat.\nCHANGELOG: Winter Eira updated the slit dick to look smoother and mitigate it coming off the body in some animations. Also added dick skins to the tapered penises.\nCHANGELOG: Fixed an incorrect bodypart ID.\nNOTE: Since these run new Mod ID's doesnt hurt to back up your saves, or wait till your starting a new game to update. \n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersTaperedPenises.png]Click for Preview[/url]",
-		"author": "Avery Winters",
-		"modversion": "1.2",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersTaperedPenisesV1.2.zip"
-	},
-	{
 		"name": "FoxLib",
 		"description": "][/color]\nGame version: 0.1.7+ (Recommended: 0.1.11fix1)\nFilename: FoxLib_v0.9.4.zip\n[center][color=#00FFFF][b][shake rate=5 level=7][[[[/shake] Modding enhancer for BDCC [shake rate=5 level=7]]]][/shake][/b][/color] [/center]\n[center][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][/center]\n[center][color=#FF8000][u]/!\\[/u] Don't forget to delete old versions of the mod when updating [u]/!\\[/u][/color] [/center]\n\nAdd cool [rainbow freq=0.1 sat=1 val=1]features[/rainbow] for users:\n- A mod configuration menu\n- A custom theme engine\n- Dynamic mod hotfixes\n- GameTest engine to test the integrity of the loaded mod list\n\nBut mainly add many features and abilities for BDCC mods such as:\n- Adding custom CrotchBlock for datapacks\n- Adding new perks level tiers\n- Controlling more game UI elements\n- Saving NPC Skills/Perk data\n- Handling fatal errors via GUI\n- Configuring mods via in game Menu\n- Registering custom entries to the ModularDialogue system\n- Preventing your mod from being loaded twice\n- Add custom player status bars\n\nFoxLib also additionally expose more capabilities to datapacks too, please check the in-game editor to see the new blocks FoxLib adds! [wave amp=10 freq=4]:D[/wave]\n\nFoxLib will also use code generation instead of replacing game code for maximum compatibility with your existing mods, you can see in the file list that FoxLib doesn't replace any game files!\n\n[color=#00FFFF]F[/color]ox[color=#00FFFF]L[/color]ib [color=#00FFFF]M[/color]od[color=#00FFFF]H[/color]elper (Aka. [color=#00FFFF]FLMH[/color].py) is a build tool for developers to ease development of FoxLib mods. It provide warnings to improve your mods code and is the current tool used to package FoxLib!\n\nFor more info on how to use FoxLib API or FoxLib ModHelper, please check the bundled documentation!\nFoxLib source code is hosted at: [color=#2222FF][url=https://git.frisk.space/Fox2Code/FoxLib]https://git.frisk.space/Fox2Code/FoxLib[/url][/color]\n(Or you can read FoxLib source-code by extracting it)\n[center][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][/center]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FoxLib.png]Click for preview[/url]",
 		"author": "Fox2Code",
@@ -1265,28 +1257,12 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxedBDCC_v0.1.0.zip"
 	},
 	{
-		"name": "Winters Fluffy Bodyparts Expansion",
-		"description": "An expansion of the fluff bodyparts adding a few new parts to the original list including clawed hands, fluffy hoofs and a body with neck fluff. Dynamic NPC Canines, Felines and Equines will now spawn with fluffy bodyparts by default. \nCHANGELOG: Added additional Hypertus compat so that canines, felines and equines generate as fluffy even with hypertus installed\nNOTE: @ me or make a thread if anything is broken.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersFluffyBodyparts.png]Click for Preview[/url]",
-		"author": "Avery Winters",
-		"modversion": "1.2",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersFluffyBodypartsV1.2.zip"
-	},
-	{
 		"name": "Winters Equine Penises",
 		"description": "A grouped mod for the various equine penis mods in a single file with skin support for almost all skins on each option.\nCOMPATABILITY: BallsExtra & Hypertus\nCHANGELOG: Tidied species generation. Base game species should have a 40% ish chance to spawn with an equine penis. Knotted variants on canines, barbed variants on felines, flared variants on equines\nNOTE: @ me or make a thread if anything is broken.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersEquinePenises.png]Click for Preview[/url]",
 		"author": "Avery Winters",
 		"modversion": "1.4",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersEquinePenisesV1.4.zip"
-	},
-	{
-		"name": "Anons Avian Species",
-		"description": "A combined avian pack with species for birds, gryphons and hippogryphs. Avians will spawn with tapered penises if the mod is installed. The crow species has now had its parts rolled into the Avian species and can spawn in with all the other bird types.\nCOMPATABILITY: Hypertus\nCHANGELOG:  Updated the taloned foot to a new sprite\nNOTE: Since these run new Mod ID's doesnt hurt to back up your saves, or wait till your starting a new game to update. @ me or make a thread if anything is broken.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsAvianSpecies.png]Click for Preview[/url]",
-		"author": "Anon, Avery Winters",
-		"modversion": "1.2",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnonsAvianSpeciesV1.2.zip"
 	},
 	{
 		"name": "Fellini Mod",
@@ -1303,6 +1279,30 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnonsBaseSpeciesExpansionV1.0.zip"
+	},
+	{
+		"name": "Winters Tapered Penises",
+		"description": "A collection of the Tapered penises from the Aviary mod. Decided to seperate these off solo so that they can be used with other mods and species that would benefit from slits and tapered penises without needing a whole race as a dependency. Has built in hypertus compat and JSON for mod browser compat.\nCOMPATABILITY: BallsExtra & Hypertus\nCHANGELOG: Tidied NPC Generation\nNOTE: Since these run new Mod ID's doesnt hurt to back up your saves, or wait till your starting a new game to update. @ me or make a thread if anything is broken.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersTaperedPenises.png]Click for Preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "1.3",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersTaperedPenisesV1.3.zip"
+	},
+	{
+		"name": "Anons Avian Species",
+		"description": "A combined avian pack with species for birds, gryphons and hippogryphs. Avians will spawn with tapered penises if the mod is installed. The crow species has now had its parts rolled into the Avian species and can spawn in with all the other bird types. Included compatability for hypertus\nCOMPATABILITY: Hypertus\nCHANGELOG: Fixed a crash with WingedBody and with TaperedPenises compatability.\nNOTE: Since these run new Mod ID's doesnt hurt to back up your saves, or wait till your starting a new game to update. @ me or make a thread if anything is broken.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsAvianSpecies.png]Click for Preview[/url]",
+		"author": "Anon, Avery Winters",
+		"modversion": "1.3",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnonsAvianSpeciesV1.3.zip"
+	},
+	{
+		"name": "Winters Fluffy Bodyparts Expansion",
+		"description": "An expansion of the fluff bodyparts adding a few new parts to the original list including clawed hands, fluffy hoofs and a body with neck fluff. Dynamic NPC Canines, Felines and Equines will now spawn with fluffy bodyparts by default. \nCOMPATABILITY: Hypertus\nCHANGELOG: Fixed fluffy breasts not loading in hypertus actually this time.\nNOTE: @ me or make a thread if anything is broken.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersFluffyBodyparts.png]Click for Preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "1.4",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersFluffyBodypartsV1.4.zip"
 	}
 	]
 }
