@@ -1303,6 +1303,14 @@
 		"modversion": "1.5",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersEquinePenisesV1.5.zip"
+	},
+	{
+		"name": "NaughtyStoat Jute Harnesses",
+		"description": "Adds 3 variants of jute rope harnesses, available in multiple preset colors and manually dyeable at the uniform vendor.\n\nPawns acting as doms may have the NaughtyStoat kits as part of their inventory. They can also be purchased from the Announcer.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NaughtyStoatJuteHarnesses.png]Click for Preview[/url]\n\n[color=#CCE4FF]source code[/color] – [url=https://git.frisk.space/keerifox/BDCC-NaughtyStoatJuteHarnesses]git.frisk.space[/url]\n[color=#FFCCEA]personal website[/color] – [url=https://keeri.place]keeri.place[/url] [color=#FFCCEA]<3[/color]",
+		"author": "keerifox",
+		"modversion": "0.3.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NaughtyStoatJuteHarnesses.zip"
 	}
 	]
 }
