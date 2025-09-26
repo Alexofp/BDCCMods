@@ -1257,14 +1257,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxedBDCC_v0.1.0.zip"
 	},
 	{
-		"name": "Winters Equine Penises",
-		"description": "A grouped mod for the various equine penis mods in a single file with skin support for almost all skins on each option.\nCOMPATABILITY: BallsExtra & Hypertus\nCHANGELOG: Tidied species generation. Base game species should have a 40% ish chance to spawn with an equine penis. Knotted variants on canines, barbed variants on felines, flared variants on equines\nNOTE: @ me or make a thread if anything is broken.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersEquinePenises.png]Click for Preview[/url]",
-		"author": "Avery Winters",
-		"modversion": "1.4",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersEquinePenisesV1.4.zip"
-	},
-	{
 		"name": "Fellini Mod",
 		"description": "Adds 8 cosmetic items and 2 bodyparts, all based on Pulchra Fellini from ZZZ.\nThese include: [Boots, Choker, Clawed crop-top (dyeable), Crop-top (dyeable), Jacket, Mask, Leg pouches, Shorts, Fellini hair and Fellini tail].\nAll cosmetic items can be bought from a vendomat and from the announcer, but they also drop after defeating Pulchra NPC (datapack not included with the mod).\n\nUpdate 1.1:\nAdded a couple scripts and items that enable the quests from \"Pulchra Fellini\" datapack to function.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FelliniMod.png]Click for Preview[/url]",
 		"author": "Mari",
@@ -1303,6 +1295,14 @@
 		"modversion": "1.4",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersFluffyBodypartsV1.4.zip"
+	},
+	{
+		"name": "Winters Equine Penises",
+		"description": "A grouped mod for the various equine penis mods in a single file with skin support for almost all skins on each option.\nCOMPATABILITY: BallsExtra & Hypertus\nCHANGELOG: Hypertus compat files where never being loaded, this is now fixed.\nNOTE: @ me or make a thread if anything is broken.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersEquinePenises.png]Click for Preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "1.5",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersEquinePenisesV1.5.zip"
 	}
 	]
 }
