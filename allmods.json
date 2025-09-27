@@ -1265,14 +1265,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FelliniMod.zip"
 	},
 	{
-		"name": "Anons Base Species Expansion",
-		"description": "A collection of bodyparts intended to expand the variety of looks for base species including sabertooths for canines and felines, jackal parts, hyena parts and the combination of equines and dragons plus!\nNOTE: @ me or avery make a thread if anything is broken. Part IDs may be altered so it doesnt hurt to back up your saves, or wait till your starting a new game to update.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsBaseSpeciesExpansion.png]Click for Preview[/url]",
-		"author": "Anon, Avery Winters",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnonsBaseSpeciesExpansionV1.0.zip"
-	},
-	{
 		"name": "Winters Tapered Penises",
 		"description": "A collection of the Tapered penises from the Aviary mod. Decided to seperate these off solo so that they can be used with other mods and species that would benefit from slits and tapered penises without needing a whole race as a dependency. Has built in hypertus compat and JSON for mod browser compat.\nCOMPATABILITY: BallsExtra & Hypertus\nCHANGELOG: Tidied NPC Generation\nNOTE: Since these run new Mod ID's doesnt hurt to back up your saves, or wait till your starting a new game to update. @ me or make a thread if anything is broken.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersTaperedPenises.png]Click for Preview[/url]",
 		"author": "Avery Winters",
@@ -1303,6 +1295,22 @@
 		"modversion": "1.5",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersEquinePenisesV1.5.zip"
+	},
+	{
+		"name": "Winters Ori & Puro Species",
+		"description": "Original mody by Eurygrey, Updates and combined by Avery Winters.\nUpdated and combined the Puro & Ori species to work with skins and colours. Originals made by Eurygrey. Has built in hypertus compatibility\nCOMPATABILITY: Hypertus\nCHANGELOG: Mod created\nNOTE: @ me or make a thread if anything is broken.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersOriPuroSpecies.png]Click for Preview[/url]",
+		"author": "Eurygrey, Avery Winters",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersOriPuroSpeciesV1.0.zip"
+	},
+	{
+		"name": "Anons Base Species Expansion",
+		"description": "A collection of bodyparts intended to expand the variety of looks for base species including sabertooths for canines and felines, jackal parts, hyena parts and the combination of equines and dragons plus!\nCHANGELOG: Fixed a crash with dragon tail 2\nNOTE: @ me or avery make a thread if anything is broken. Part IDs may be altered so it doesnt hurt to back up your saves, or wait till your starting a new game to update.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsBaseSpeciesExpansion.png]Click for Preview[/url]",
+		"author": "Anon, Avery Winters",
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnonsBaseSpeciesExpansionV1.1.zip"
 	}
 	]
 }
