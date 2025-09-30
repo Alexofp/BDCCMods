@@ -1281,14 +1281,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnonsAvianSpeciesV1.3.zip"
 	},
 	{
-		"name": "Winters Fluffy Bodyparts Expansion",
-		"description": "An expansion of the fluff bodyparts adding a few new parts to the original list including clawed hands, fluffy hoofs and a body with neck fluff. Dynamic NPC Canines, Felines and Equines will now spawn with fluffy bodyparts by default. \nCOMPATABILITY: Hypertus\nCHANGELOG: Fixed fluffy breasts not loading in hypertus actually this time.\nNOTE: @ me or make a thread if anything is broken.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersFluffyBodyparts.png]Click for Preview[/url]",
-		"author": "Avery Winters",
-		"modversion": "1.4",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersFluffyBodypartsV1.4.zip"
-	},
-	{
 		"name": "Winters Equine Penises",
 		"description": "A grouped mod for the various equine penis mods in a single file with skin support for almost all skins on each option.\nCOMPATABILITY: BallsExtra & Hypertus\nCHANGELOG: Hypertus compat files where never being loaded, this is now fixed.\nNOTE: @ me or make a thread if anything is broken.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersEquinePenises.png]Click for Preview[/url]",
 		"author": "Avery Winters",
@@ -1327,6 +1319,22 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ChastityForEveryone_v1.0.zip"
+	},
+	{
+		"name": "Winters Fluffy Bodyparts",
+		"description": "An expansion of the fluff bodyparts adding a few new parts to the original list including clawed hands, fluffy hoofs and a body with neck fluff. Dynamic NPC Canines, Felines and Equines will now spawn with fluffy bodyparts by default. \nCOMPATABILITY: Hypertus\nCHANGELOG: Updated for bodywriting.\nNOTE: @ me or make a thread if anything is broken.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersFluffyBodyparts.png]Click for Preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "1.6",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersFluffyBodypartsV1.6.zip"
+	},
+	{
+		"name": "Blindfolds for Snoots",
+		"description": "For those long in the snoot\nMakes blindfolds and similar eyewear somewhat fit on the heads of modded species\nNo guarantees, might still look misaligned, but it's better than the default\n\n[b]SPECIES INCLUDED[/b]\n-- Borzoi \n-- Felkin\n-- Protogen\n-- Sergal\n-- Southern Sergal\n-- Synth\n\n[b]GEAR INCLUDED[/b]\n-- Blindfold\n-- HypnoVisor (black)\n-- HypnoVisor (pink)\n-- Leather Blindfold - from mod - More BDSM Stuff - by DrDurka\n\n*For compatibility with other species not listed, ping me\n*Alternatively, if I don't respond for long or appear dead, feel free to edit and reupload\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BlindfoldForSnoots.png]Click for Preview[/url]",
+		"author": "Lucci",
+		"modversion": "1.0.5",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BlindfoldForSnootsVer1.0.5.zip"
 	}
 	]
 }
