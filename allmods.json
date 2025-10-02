@@ -713,14 +713,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WingStaticR1.zip"
 	},
 	{
-		"name": "Nudity Police",
-		"description": "[b]Nudity will not go unpunished![/b]\nA mod focused on adding risk to being nude. Includes new ways to lose and regain your clothes.\n\n[b]Update: 2024-DEC-08[/b]\nADDED: New Perks!\nCHANGED: Straitjacket balance changes\nCHANGED: Sleep/Shower Thief event base chance reduced\n\nIf you have FoxLib installed:\n-- Mod Options! Allows you to adjust Sleep/Shower Thief event frequency\n\n[b]Mod Features:[/b]\n-- Guards will approach inmates walking around naked \n-- Defeat or Surrender will result in a special uniform being equipped \n    -- This new inmate uniform is also a piece of bondage gear \n    -- It will be hard to remove and block any Exhibitionism perks that require full nudity 🙂\n    -- The new uniform will NOT fully block access to your dick/pussy/butt/boobs \n    -- Parts become accessible when Lust>50, or if new uniform is damaged \n-- New events that make the Player and NPCs lose all clothing \n-- Ability to steal another inmate's clothes \n    -- Available after a fight, or when an inmate is incapacitated \n-- Clothing damage after combat\n-- Naked inmates will try to get new clothes from the Laundry Vendomat (Thanks to Mindstormsman)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/nudepolice.png]Click for preview[/url]",
-		"author": "Lucci",
-		"modversion": "1.3.7",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NudityPoliceVer1.3.7.zip"
-	},
-	{
 		"name": "Non-permanent, Flat Chastity Cage",
 		"description": "Adds a removable flat chastity cage as a separate item (item_id ChastityCageFlat).",
 		"author": "AlexVSharp",
@@ -1257,14 +1249,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxedBDCC_v0.1.0.zip"
 	},
 	{
-		"name": "Fellini Mod",
-		"description": "Adds 8 cosmetic items and 2 bodyparts, all based on Pulchra Fellini from ZZZ.\nThese include: [Boots, Choker, Clawed crop-top (dyeable), Crop-top (dyeable), Jacket, Mask, Leg pouches, Shorts, Fellini hair and Fellini tail].\nAll cosmetic items can be bought from a vendomat and from the announcer, but they also drop after defeating Pulchra NPC (datapack not included with the mod).\n\nUpdate 1.1:\nAdded a couple scripts and items that enable the quests from \"Pulchra Fellini\" datapack to function.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FelliniMod.png]Click for Preview[/url]",
-		"author": "Mari",
-		"modversion": "1.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FelliniMod.zip"
-	},
-	{
 		"name": "Winters Tapered Penises",
 		"description": "A collection of the Tapered penises from the Aviary mod. Decided to seperate these off solo so that they can be used with other mods and species that would benefit from slits and tapered penises without needing a whole race as a dependency. Has built in hypertus compat and JSON for mod browser compat.\nCOMPATABILITY: BallsExtra & Hypertus\nCHANGELOG: Tidied NPC Generation\nNOTE: Since these run new Mod ID's doesnt hurt to back up your saves, or wait till your starting a new game to update. @ me or make a thread if anything is broken.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersTaperedPenises.png]Click for Preview[/url]",
 		"author": "Avery Winters",
@@ -1335,6 +1319,22 @@
 		"modversion": "1.0.5",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BlindfoldForSnootsVer1.0.5.zip"
+	},
+	{
+		"name": "Nudity Police",
+		"description": "[b]Nudity will not go unpunished![/b]\nA mod focused on adding risk to being nude. Includes new ways to lose and regain your clothes.\n\n[b]Update: 2025-OCT-02[/b]\n-Bugfix update only\n-FIXED: Showering animations\n-FIXED: Eliza's Straitjacket no longer displays a character's Penis\n-FIXED: Eliza's Straitjacket and Rope Harness z-layering issues\n-FIXED: MoreBDSMstuff compatibility with Latex Suit\n\nIf you have FoxLib installed:\n-- Mod Options! Allows you to adjust Sleep/Shower Thief event frequency\n\n[b]Mod Features:[/b]\n-- Guards will approach inmates walking around naked \n-- Defeat or Surrender will result in a special uniform being equipped \n  -- This new inmate uniform is also a piece of bondage gear \n  -- It will be hard to remove and block any Exhibitionism perks that require full nudity 🙂\n  -- The new uniform will NOT fully block access to your dick/pussy/butt/boobs \n  -- Parts become accessible when Lust>50, or if new uniform is damaged \n-- New events that make the Player and NPCs lose all clothing \n-- Ability to steal another inmate's clothes \n  -- Available after a fight, or when an inmate is incapacitated \n-- Clothing damage after combat\n-- Naked inmates will try to get new clothes from the Laundry Vendomat (Thanks to Mindstormsman)\n\n[i]Ping me for bugs, typos, and feedback[/i]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NudityPolice.png]Click for preview[/url]",
+		"author": "Lucci",
+		"modversion": "1.3.8",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NudityPoliceVer1.3.8.zip"
+	},
+	{
+		"name": "Fellini Mod",
+		"description": "Adds 9 cosmetic items and 2 bodyparts, all based on Pulchra Fellini from ZZZ.\n\nThese include:\nBoots, Choker, 2 Crop tops (dyeable), Jacket, Mask, Leg puches, Shorts, Gloves, Fellini hair and Fellini tail\n\nAll cosmetic items can be bought from the vendomat, bought from the announcer or dropped by Pulchra NPC (datapack not included with this mod)\n\nUpdate 1.1:\n-Added a couple of scripts and items that enable the quests from Pulchra Fellini datapack to function.\n\nUpdate 1.2:\n-Fixed the Error! button showing up in the yard\n-Added more scripts to allow the datapack to function properly\n-Added the ability to wear the choker\n-Added Fellini gloves.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FelliniMod.png]Click for Preview[/url]",
+		"author": "Mari",
+		"modversion": "1.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FelliniMod.zip"
 	}
 	]
 }

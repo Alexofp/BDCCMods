@@ -3588,12 +3588,12 @@
 			"id": "fellinipack",
 			"name": "Pulchra Fellini",
 			"author": "Mari",
-			"version": "1.1",
-			"description": "+Adds a cute feline Pulchra Fellini from Zenless Zone Zero.\n+Custom made skin\n\nUpdate 1.1:\n+fixed hair color\n+2 small quests\n+bit of story about Pulchra\n+adds the ability to sell milk to Pulchra\n+adds 1 sex scene",
-			"contains": "Contains: 1 character, 1 skin, 5 scenes, 2 quests",
+			"version": "1.2",
+			"description": "+Adds a cute feline Pulchra Fellini from Zenless Zone Zero.\n+Custom made skin\n\nDM or ping \"mari_1950\" on discord for any errors, bugs or help with the datapack and mod.\n\nUpdate 1.1:\n-fixed hair color\n-2 small quests\n-bit of story about Pulchra\n-adds the ability to sell milk to Pulchra\n-adds 1 sex scene\n\nUpdate 1.2\n-added 1 more story scene\n-removed Clothes_Megapack dependency\n-replaced FluffbodypartsVer3 with WintersFluffyBodypartsV1.6\n-added affection mechanic (Determines milk price and some dialogue)\n-fixed \"Error!\" button for those who downloaded the mod using the Mod Browser\n-updated the naked portrait (Shown only in debug menu for now)\n-general bug fixes\n",
+			"contains": "Contains: 2 characters, 1 skin, 6 scenes, 2 quests",
 			"download": "datapacks/fellinipack.res",
-			"lastedit": 1759294156,
-			"filesize": 668832,
+			"lastedit": 1759382235,
+			"filesize": 849171,
 			"requiredDatapacks": [
 
 			],
@@ -3602,8 +3602,7 @@
 			},
 			"requiredMods": [
 				"FelliniMod.zip",
-				"FluffbodypartsVer3.zip",
-				"Clothes_Megapack.zip"
+				"WintersFluffyBodypartsV1.6.zip"
 			],
 			"preview": "datapack_previews/fellinipack.png"
 		}
