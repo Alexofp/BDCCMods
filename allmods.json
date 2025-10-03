@@ -1273,14 +1273,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersEquinePenisesV1.5.zip"
 	},
 	{
-		"name": "Winters Ori & Puro Species",
-		"description": "Original mody by Eurygrey, Updates and combined by Avery Winters.\nUpdated and combined the Puro & Ori species to work with skins and colours. Originals made by Eurygrey. Has built in hypertus compatibility\nCOMPATABILITY: Hypertus\nCHANGELOG: Mod created\nNOTE: @ me or make a thread if anything is broken.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersOriPuroSpecies.png]Click for Preview[/url]",
-		"author": "Eurygrey, Avery Winters",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersOriPuroSpeciesV1.0.zip"
-	},
-	{
 		"name": "Anons Base Species Expansion",
 		"description": "A collection of bodyparts intended to expand the variety of looks for base species including sabertooths for canines and felines, jackal parts, hyena parts and the combination of equines and dragons plus!\nCHANGELOG: Fixed a crash with dragon tail 2\nNOTE: @ me or avery make a thread if anything is broken. Part IDs may be altered so it doesnt hurt to back up your saves, or wait till your starting a new game to update.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsBaseSpeciesExpansion.png]Click for Preview[/url]",
 		"author": "Anon, Avery Winters",
@@ -1335,6 +1327,22 @@
 		"modversion": "1.2",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FelliniMod.zip"
+	},
+	{
+		"name": "Winters Ori & Puro Species",
+		"description": "Original mody by Eurygrey, Updates and combined by Avery Winters.\nUpdated and combined the Puro & Ori species to work with skins and colours. Originals made by Eurygrey. Has built in hypertus compatibility\nCOMPATABILITY: Hypertus\nCHANGELOG: Moved the puro mask colourings to the horn slot so it can be coloured seperately to the head colourings and enabled body writing on both puro and ori\nNOTE: @ me or make a thread if anything is broken.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersOriPuroSpecies.png]Click for Preview[/url]",
+		"author": "Eurygrey, Avery Winters",
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersOriPuroSpeciesV1.1.zip"
+	},
+	{
+		"name": "Ceasar's Sex Games",
+		"description": "[b]Play sexy games, win sexy prizes[/b]\nA collection of two minigames that you can play to win credits and/or prizes\n\n[b]Mod Features:[/b]\n-- Gaming \n-- Bondage\n-- A secret third thing\n-- Skill-based gambling\n\n[b]How to start:[/b]\nBy Day 5 or later, walk around the Cellblock Corridors\n\n[i]Ping me for bugs, typos, and feedback[/i]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/CeasarsSexGames.png]Click for Preview[/url]",
+		"author": "Lucci",
+		"modversion": "1.02",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CeasarsSexGamesVer1.0.2.zip"
 	}
 	]
 }
