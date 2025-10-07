@@ -3605,6 +3605,34 @@
 				"WintersFluffyBodypartsV1.6.zip"
 			],
 			"preview": "datapack_previews/fellinipack.png"
+		},
+		{
+			"id": "moldy_char_pack",
+			"name": "Moldy Tubb's Character Pack",
+			"author": "Moldy Tubbs",
+			"version": "0.5",
+			"description": "Initial release of the characters I'll be using in an upcoming mod I am creating. These are just the models and images with no content or scenes so feel free to enjoy them in your regular game. The mod will disable the characters ability to \"roam\" the world and they will only be available in certain locations or during in-game events. \n- Images and character models are not final. They could be subject to both major and/or minor changes. even adjustments to gender, role, and gentials could occur from now till the mods release.  \n- Opinions are welcome in regards to the model's design or character portraits. ",
+			"contains": "Contains: 8 characters",
+			"download": "datapacks/moldy_char_pack.res",
+			"lastedit": 1759814358,
+			"filesize": 3730617,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"AnonsAquaticSpeciesV1.1.zip",
+				"WintersFluffyBodypartsV1.1.zip",
+				"HyenaParts.zip",
+				"SkulldogSpeciesVer2.zip",
+				"SabertoothHeadsVer1.zip",
+				"Hair1.1.zip",
+				"HairSkinsBatch1.zip",
+				"CaninePussy_v2.2.zip"
+			],
+			"preview": "datapack_previews/moldy_char_pack.png"
 		}
 	]
 }
