@@ -1297,14 +1297,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NudityPoliceVer1.3.8.zip"
 	},
 	{
-		"name": "Fellini Mod",
-		"description": "Adds 9 cosmetic items and 2 bodyparts, all based on Pulchra Fellini from ZZZ.\n\nThese include:\nBoots, Choker, 2 Crop tops (dyeable), Jacket, Mask, Leg puches, Shorts, Gloves, Fellini hair and Fellini tail\n\nAll cosmetic items can be bought from the vendomat, bought from the announcer or dropped by Pulchra NPC (datapack not included with this mod)\n\nUpdate 1.1:\n-Added a couple of scripts and items that enable the quests from Pulchra Fellini datapack to function.\n\nUpdate 1.2:\n-Fixed the Error! button showing up in the yard\n-Added more scripts to allow the datapack to function properly\n-Added the ability to wear the choker\n-Added Fellini gloves.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FelliniMod.png]Click for Preview[/url]",
-		"author": "Mari",
-		"modversion": "1.2",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FelliniMod.zip"
-	},
-	{
 		"name": "Ceasar's Sex Games",
 		"description": "[b]Play sexy games, win sexy prizes[/b]\nA collection of two minigames that you can play to win credits and/or prizes\n\n[b]Mod Features:[/b]\n-- Gaming \n-- Bondage\n-- A secret third thing\n-- Skill-based gambling\n\n[b]How to start:[/b]\nBy Day 5 or later, walk around the Cellblock Corridors\n\n[i]Ping me for bugs, typos, and feedback[/i]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/CeasarsSexGames.png]Click for Preview[/url]",
 		"author": "Lucci",
@@ -1337,12 +1329,20 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxedBDCC_v0.1.0.zip"
 	},
 	{
-		"name": "Chastity For Everyone",
-		"description": "([b]/!\\ Requires FoxLib /!\\[/b]) Make random NPCs spawn with permanent chastity cages.\nIt's customizable: you are able to change rules for inmates, guards, engineers, nurses, as well as for specific gender. You can also choose a chance of spawning a flat cage variant. Currently doesn't affect any non-random NPCs. Additionally, adds chastity police mechanic - staff can now stop (player and possibly even NPC) [b]inmates who somehow got rid of their cages[/b], including the player. Mod options are available thanks to FoxLib (go to the [Mods Options] in the main menu)\nChangelog: Added chastity inspection interaction. Fixed incorrect descriptions in options.\n\nDisclaimer: You have to make a [b]new save[/b] to see new interaction happen to NPCs, due to new code additions. [b]Or[/b] wait for [b]freshly generated[/b] NPCs.\n\n@ me on game's discord (⁠mods-discussion channel) if you find any bugs, it's hard to test everything only by myself, and it's also my first mod.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ChastityForEveryone.png]Click for Preview[/url]",
-		"author": "Noro",
-		"modversion": "2.01",
+		"name": "Fellini Mod",
+		"description": "Adds 9 cosmetic items and 2 bodyparts, all based on Pulchra Fellini from ZZZ.\n\nThese include:\nBoots, Choker, 2 Crop tops (dyeable), Jacket, Mask, Leg pouches, Shorts, Gloves, Fellini hair and Fellini tail\n\nAll cosmetic items can be bought from the vendomat, bought from the announcer or dropped by Pulchra NPC (datapack not included with this mod)\n\nUpdate 1.1:\n-Added a couple of scripts and items that enable the quests from Pulchra Fellini datapack to function.\n\nUpdate 1.2:\n-Fixed the Error! button showing up in the yard\n-Added more scripts to allow the datapack to function properly\n-Added the ability to wear the choker\n-Added Fellini gloves\n-Improved Fellini Jacket \n\nUpdate 1.3\n[Debugging and options update]\n\n-Improved Debug menu\n-Debug menu now available without finishing prologue\n-Added global mod options that synchronize across saves (Access them by talking to Pulchra in the yard)\n-Added Fellini Tail species options (Feline by default)\n-Added Fellini Hair options for NPC spawns (disabled by default)\n\n[Tested on Windows, Linux and Android]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FelliniMod.png]Click for Preview[/url]",
+		"author": "Mari",
+		"modversion": "1.3",
 		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ChastityForEveryone_v2.01.zip"
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FelliniMod.zip"
+	},
+	{
+		"name": "Chastity For Everyone",
+		"description": "[b](/!\\ Requires FoxLib,   Requires Chastity Cage Flat Remix /!\\)[b]\nMake random NPCs spawn with permanent or non-permanent chastity cages. It's customizable: you are able to change rules for inmates, guards, engineers, nurses, as well as for specific gender. You can also choose a chance of spawning a flat and/or permanent cage variants. Currently doesn't affect any non-random NPCs. Additionally, adds chastity police mechanic - staff can now stop player or NPC inmates who somehow got rid of their cages, including the player. Mod options are available thanks to FoxLib (go to the [Mods Options] in the main menu)\n\nChangelog: Added ability to make spawn NPCs with non-permanent chastity variant (customizable). [b]Requires Flat Chastity Cage mod now.[/b]\n\nDisclaimer: You have to make a [b]new save[/b] to see new interaction happen to NPCs, due to new code additions since 1.0. [b]Or[/b] wait for [b]freshly generated[/b] NPCs.\n\n@ me on game's discord (⁠mods-discussion channel) if you find any bugs, it's hard to test everything only by myself, and it's also my first mod.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ChastityForEveryone.png]Click for Preview[/url]",
+		"author": "Noro",
+		"modversion": "2.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ChastityForEveryone_v2.1.zip"
 	}
 	]
 }
