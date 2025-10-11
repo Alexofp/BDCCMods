@@ -889,14 +889,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HumanoidEars1.zip"
 	},
 	{
-		"name": "More BDSM stuff",
-		"description": "Adds more restraints and toys.\n\nThe big one: finished a small system for toys. Currently overclocking sensitivity (this... will happen a bit abruptly at scene transitions), raising arousal and lust over time. If you leave them on on the slave, they will still work, but arousal will only go up to 90. Can be switched either from inventory or with the remote.\n\nStill in test mode, I want to prescribe some scenes and events, but it's long, so I need to make sure it works correctly for the most part.\n\nTo items:\nYou can now add a tail for a suit.\nAdded 6 more variations to the harness.\nAdded a small animation for the bag\nAll items except toys, ring and suit can now be forced on you. (They are quite durable and hard to take off, so if you think this is unnecessary, let me know)\n\n4 new items:\nLeather muzzle  gag\nLatex muzzle ring gag\nBreast massager\nToys remote\n\nEverything is sold by Announcer.\n\nButt Plug (extended)(new)\nPlug L2 (extended)(new)\nPink vibrator (extended)(new)\nLeather Blindfold\nLeather Bondage Mittens (extended)\nLeather Wrist Cuffs\nLeather Ankle Cuffs\nLeather muzzle  gag (new)\nHarness (extended)(new)\nLatex Suit (ring slot!!) (extended)(new)\nLatex Mittens (extended)\nLatex Gloves (extended)\nLatex muzzle ring gag (new)\nBondage hood (fix)\nCock ring \nBreast massager (new)\nToys remote (new)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreBDSMstuff.png]Click for preview[/url]",
-		"author": "DrDurka",
-		"modversion": "0.35fix2",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreBDSMstuff.zip"
-	},
-	{
 		"name": "Amusing Pokemon Pack Volume 1 (APPV1)",
 		"description": "Adds in the species Charizard, Mew, Nido Queen/King and Raichu.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/APPV1.png]Click for Preview[/url]",
 		"author": "Amewsing",
@@ -1343,6 +1335,14 @@
 		"modversion": "2.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ChastityForEveryone_v2.1.zip"
+	},
+	{
+		"name": "More BDSM stuff",
+		"description": "Adds more restraints and toys.\n\nThe big one:\nAdded bitchsuit (petplay staff), only 3 scenes and 2 events for now. In short - you can dress up bitchsuit, walk almost all over the station, suck dicks and receive treats.  I will gradually fill the map with scenes, but not yet new events. I am still afraid of overlapping (castom triggers, pls), if this happens - write to me.  and about grammatical errors too \n\nThe little one: \nFixed a bug with toys, in which lust continued to accumulate, I still advise you to remove them and put them on. Also slightly changed their own calculation of the increase in lust and added a little vibration when they are turned on. \nRemade leather mittens, added socks(?), and changed the overall texture.\n\nAnd 6 new items:\n2 armbinders\n3 chastity cages\nleather corset\n\nEverything is sold by Announcer.\n\nButt Plug (extended)(new)\nPlug L2 (extended)(new)\nPink vibrator (extended)\nLeather Blindfold\nLeather Bondage Mittens (extended)(new)\nLeather Wrist Cuffs\nLeather Ankle Cuffs\nLeather muzzle  gag\nLeather corset (extended)(new)\nLeather armbinder(new)\nLeather muff bondage(new)\nHarness (extended)\nLatex Suit (ring slot!!) (extended)\nLatex Mittens (extended)\nLatex Gloves (extended)\nLatex muzzle ring gag\nBondage hood (fix)\nCock ring \nBreast massager\nToys remote\nChastity cage C1 (new)\nChastity cage C2 (new)\nChastity cage C3 (new)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreBDSMstuff.png]Click for preview[/url]",
+		"author": "DrDurka",
+		"modversion": "0.36fix1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreBDSMstuff.zip"
 	}
 	]
 }
