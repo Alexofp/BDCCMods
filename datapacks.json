@@ -3633,6 +3633,31 @@
 				"AnimalPussies_v3.0.zip"
 			],
 			"preview": "datapack_previews/moldy_char_pack.png"
+		},
+		{
+			"id": "hypnocow",
+			"name": "HypnoCow TF",
+			"author": "JokeMysterious",
+			"version": "1",
+			"description": "A small little hypnosis experiment, with cows and hypnosis.\n\nYou want to be a milking slut don't you?",
+			"contains": "Contains: 1 character, 2 scenes",
+			"download": "datapacks/hypnocow.res",
+			"lastedit": 1760332396,
+			"filesize": 54603,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"BovineSpeciesVer2.zip",
+				"NeuroJammerModule.zip",
+				"MoreBDSMstuff.zip",
+				"CursedEquipment.zip",
+				"FoxLib"
+			],
+			"preview": "datapack_previews/hypnocow.png"
 		}
 	]
 }
