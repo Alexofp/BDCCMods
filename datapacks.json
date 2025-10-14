@@ -3658,6 +3658,27 @@
 				"FoxLib"
 			],
 			"preview": "datapack_previews/hypnocow.png"
+		},
+		{
+			"id": "soul kitty",
+			"name": "Puss Boy",
+			"author": "Tenten",
+			"version": "1.0",
+			"description": "meow meow",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/agroupofkitty.res",
+			"lastedit": 1760418283,
+			"filesize": 6321,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/soul kitty.png"
 		}
 	]
 }
