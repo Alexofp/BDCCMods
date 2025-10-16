@@ -1329,20 +1329,20 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FelliniMod.zip"
 	},
 	{
-		"name": "Chastity For Everyone",
-		"description": "[b](/!\\ Requires FoxLib,   Requires Chastity Cage Flat Remix /!\\)[b]\nMake random NPCs spawn with permanent or non-permanent chastity cages. It's customizable: you are able to change rules for inmates, guards, engineers, nurses, as well as for specific gender. You can also choose a chance of spawning a flat and/or permanent cage variants. Currently doesn't affect any non-random NPCs. Additionally, adds chastity police mechanic - staff can now stop player or NPC inmates who somehow got rid of their cages, including the player. Mod options are available thanks to FoxLib (go to the [Mods Options] in the main menu)\n\nChangelog: Added ability to make spawn NPCs with non-permanent chastity variant (customizable). [b]Requires Flat Chastity Cage mod now.[/b]\n\nDisclaimer: You have to make a [b]new save[/b] to see new interaction happen to NPCs, due to new code additions since 1.0. [b]Or[/b] wait for [b]freshly generated[/b] NPCs.\n\n@ me on game's discord (⁠mods-discussion channel) if you find any bugs, it's hard to test everything only by myself, and it's also my first mod.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ChastityForEveryone.png]Click for Preview[/url]",
-		"author": "Noro",
-		"modversion": "2.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ChastityForEveryone_v2.1.zip"
-	},
-	{
 		"name": "More BDSM stuff",
 		"description": "Adds more restraints and toys.\n\nThe big one:\nAdded bitchsuit (petplay staff), only 3 scenes and 2 events for now. In short - you can dress up bitchsuit, walk almost all over the station, suck dicks and receive treats.  I will gradually fill the map with scenes, but not yet new events. I am still afraid of overlapping (castom triggers, pls), if this happens - write to me.  and about grammatical errors too \n\nThe little one: \nFixed a bug with toys, in which lust continued to accumulate, I still advise you to remove them and put them on. Also slightly changed their own calculation of the increase in lust and added a little vibration when they are turned on. \nRemade leather mittens, added socks(?), and changed the overall texture.\n\nAnd 6 new items:\n2 armbinders\n3 chastity cages\nleather corset\n\nEverything is sold by Announcer.\n\nButt Plug (extended)(new)\nPlug L2 (extended)(new)\nPink vibrator (extended)\nLeather Blindfold\nLeather Bondage Mittens (extended)(new)\nLeather Wrist Cuffs\nLeather Ankle Cuffs\nLeather muzzle  gag\nLeather corset (extended)(new)\nLeather armbinder(new)\nLeather muff bondage(new)\nHarness (extended)\nLatex Suit (ring slot!!) (extended)\nLatex Mittens (extended)\nLatex Gloves (extended)\nLatex muzzle ring gag\nBondage hood (fix)\nCock ring \nBreast massager\nToys remote\nChastity cage C1 (new)\nChastity cage C2 (new)\nChastity cage C3 (new)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreBDSMstuff.png]Click for preview[/url]",
 		"author": "DrDurka",
 		"modversion": "0.36fix2",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreBDSMstuff.zip"
+	},
+	{
+		"name": "Chastity For Everyone",
+		"description": "[b](/!\\ Requires FoxLib,   Requires Chastity Cage Flat Remix /!\\)[b]\n\n[b]INMATE GENERATION FINALLY WORKS, HURRAH![/b]\nMake random NPCs spawn with permanent or non-permanent chastity cages. It's customizable: you are able to change rules for inmates, guards, engineers, nurses, as well as for specific gender. You can also choose a chance of spawning a flat and/or permanent cage variants. Currently doesn't affect any non-random NPCs. Additionally, adds chastity police mechanic - staff can now stop player or NPC inmates who somehow got rid of their cages, including the player. Mod options are available thanks to FoxLib (go to the [Mods Options] in the main menu)\n\nChangelog: \n• Inmates now generate with cages as intended;\n• Player and NPCs can now be put into non permanent cage upon inspection (according to chance in mod's settings);\n• Doing obedience training instead of starting the game with male chastity perk also allows for cage inspections to the player;\n• Removed generation in dungeons, for now, as the code has to be reworked further to account for that part of gameplay.\n\n\n\n@ me on game's discord (⁠mods-discussion channel) if you find any bugs, it's hard to test everything only by myself, and it's also my first mod.also my first mod.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ChastityForEveryone.png]Click for Preview[/url]",
+		"author": "Noro",
+		"modversion": "2.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ChastityForEveryone_v2.2.zip"
 	}
 	]
 }
