@@ -1343,6 +1343,14 @@
 		"modversion": "2.2",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ChastityForEveryone_v2.2.zip"
+	},
+	{
+		"name": "Short hair",
+		"description": "adds a simple hair for player\n\nits my very first mod\n\ni made it to fit on canine head model, but it looked kinda okish..? on the other vanilla speices and some mod speices too.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ShorthairbySongjo.png]Click for Preview[/url]",
+		"author": "Songjo",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ShorthairbySongjo.zip"
 	}
 	]
 }
