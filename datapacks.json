@@ -3679,6 +3679,27 @@
 				"AnimalPussies_v3.0.zip"
 			],
 			"preview": "datapack_previews/moldy_char_pack.png"
+		},
+		{
+			"id": "songtigerskin",
+			"name": "Songjo's Tigerskin",
+			"author": "Songjo",
+			"version": "1.0",
+			"description": "works properly only on felines",
+			"contains": "Contains: 1 skin",
+			"download": "datapacks/songtigerskin.res",
+			"lastedit": 1761283670,
+			"filesize": 340965,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/songtigerskin.png"
 		}
 	]
 }
