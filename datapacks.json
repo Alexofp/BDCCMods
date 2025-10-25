@@ -3700,6 +3700,26 @@
 
 			],
 			"preview": "datapack_previews/songtigerskin.png"
+		},
+		{
+			"id": "mainchardata",
+			"name": "cute characters and also sukuna???",
+			"author": "Go/jo",
+			"version": "1.0",
+			"description": "some cute characters that i played and want to share ...... and sukuna for some unholly reason",
+			"contains": "Contains: 5 characters",
+			"download": "datapacks/mainchardata.res",
+			"lastedit": 1761370311,
+			"filesize": 24059,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			]
 		}
 	]
 }
