@@ -1337,20 +1337,20 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ChastityForEveryone_v2.2.zip"
 	},
 	{
-		"name": "Short hair",
-		"description": "adds a simple hair for player\n\nits my very first mod\n\ni made it to fit on canine head model, but it looked kinda okish..? on the other vanilla speices and some mod speices too.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ShorthairbySongjo.png]Click for Preview[/url]",
-		"author": "Songjo",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ShorthairbySongjo.zip"
-	},
-	{
 		"name": "Nudity Police",
 		"description": "[b]Nudity will not go unpunished![/b]\nA mod focused on adding risk to being nude. Includes new ways to lose and regain your clothes.\n\n[b]Update: 2025-OCT-25[/b]\n-FIXED: Datapack characters endless Replace Clothes loop\n-CHANGED: Nudity Police chance now fixed at 5%, previously it slowly increased overtime\n-CHANGED: Nudity Police now has a 3 hour cooldown between arrests\n-ADDED: Mod Options for Police Chance and Cooldown. Requires FoxLib\n-REMOVED: Notorious Nudist perk, not needed due to changes in Police system\n-FIXED: Mod compatibility. More BDSM Stuff, Leather Armbinder and Leather Muff Bondage\n\nIf you have FoxLib installed:\n[b]Mod Options! Allows you to adjust the following[/b]\n-- Nudity Police event frequency\n-- Nudity Police cooldown time\n-- Sleep/Shower Thief event frequency\n\n[b]Mod Features:[/b]\n-- Guards will approach inmates walking around naked \n-- Defeat or Surrender will result in a special uniform being equipped \n---- This new inmate uniform is also a piece of bondage gear \n---- It will be hard to remove and block any Exhibitionism perks that require full nudity\n---- The new uniform will NOT fully block access to your dick/pussy/butt/boobs \n---- Parts become accessible when Lust>50, or if new uniform is damaged \n-- New events that make the Player and NPCs lose all clothing \n-- Ability to steal another inmate's clothes \n---- Available after a fight, or when an inmate is incapacitated \n-- Clothing damage after combat\n-- Naked inmates will try to get new clothes from the Laundry Vendomat (Thanks to Mindstormsman)\n\n[i]Ping me for bugs, typos, and feedback[/i]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NudityPolice.png]Click for preview[/url]",
 		"author": "Lucci",
 		"modversion": "1.3.13",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NudityPoliceVer1.3.13.zip"
+	},
+	{
+		"name": "Hairpack",
+		"description": "※ Description \nadds 8 hairstyles for player\ntested on vanilla heads (and some custom heads)\n\n\n※ Update \n\nver1.1\n7 new hairs with fancy style!\nchanged the mod name from \"Short hair by Songjo\" to \"Hairpack by Songjo\"  it has more hairs now, so it makes more sense\n\n\ndrawing 2d hairs with cheap vodka is Fun\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HairPackbySongjo.png]Click for Preview[/url]",
+		"author": "Songjo",
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HairPackbySongjo_v1.1.zip"
 	}
 	]
 }
