@@ -1351,6 +1351,14 @@
 		"modversion": "1.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HairPackbySongjo_v1.1.zip"
+	},
+	{
+		"name": "Export Encounter Preferences",
+		"description": "With this mod you are able to import and export your preferences for NPC Encounters.\nTo access these options you need to locate Preferences button inside your cell.\n\nFor those who do not know, Encounter preferences are located inside Me >> Encounters and they determine things such as NPC gender probability, specie probability, etc\n\nThis mod is in very early alpha and bugs are bound to happen so please report anything to Mari on the BDCC discord.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ExportEncounterPreferences.png]Click for Preview[/url]",
+		"author": "Mari",
+		"modversion": "1.0alpha",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ExportEncounterPreferences.zip"
 	}
 	]
 }
