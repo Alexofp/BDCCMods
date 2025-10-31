@@ -609,14 +609,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ExpandedPlasticBottle.zip"
 	},
 	{
-		"name": "Affection Check",
-		"description": "Sidebar now displays Affection Level, as well as if the character is a Guard/Nurse/Engineer.\n\nAffection Levels:\nAlly : higher than 50%\nFriend : between 50% to 20%\nNone : between 20% to -20%\nRival : between -20% to -50%\nNemesis : lower than -50%\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AffectionCheck.png]Click for Preview[/url]",
-		"author": "Lucci",
-		"modversion": "1.0.0",
-		"gameversion": "0.1.6",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AffectionCheck.zip"
-	},
-	{
 		"name": "Borzoi, Canine Head and Ears",
 		"description": "[i]I did it for you[/i]\n\nBorzoi style Head and Ears customization. Found under Canine species.\n\n• Snoot clipping in some oral animations (obviously)\n• Blindfolds look a bit off but there's nothing I can do about it (game limitation)\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/borzoi_preview.png]Click for Preview[/url]",
 		"author": "Lucci",
@@ -1359,6 +1351,22 @@
 		"modversion": "1.0alpha",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ExportEncounterPreferences.zip"
+	},
+	{
+		"name": "Anons Sheathed Human Penis",
+		"description": "Human penis with a sheath on it. Similar to the update by Winter 'Eira without overwriting the base human penis.\nCOMPATIBILITY: Hypertus & BallsExtra\nCHANGELOG: Made new version of mod that doesnt replace parts.\nNOTE: @ Me or make a thread if anything is broken .\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsSheathedHumanPenis.png]Click for Preview[/url]",
+		"author": "Anon, Avery Winters",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnonsSheathedHumanPenisV1.0.zip"
+	},
+	{
+		"name": "Affection Check",
+		"description": "Sidebar now displays Affection Level, as well as if the character is a Guard/Nurse/Engineer/Slave/Nemesis\n\nUpdate 2025-OCT-31:\n-- Now works with game version 0.1.11fix1 \n-- Slave & Nemesis labels\n\nAffection Levels:\nAlly : higher than 50%\nFriend : between 50% to 20%\nNone : between 20% to -20%\nRival : between -20% to -50%\nEnemy : lower than -50%\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AffectionCheck.png]Click for Preview[/url]",
+		"author": "Lucci",
+		"modversion": "1.1.2",
+		"gameversion": "0.1.11",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AffectionCheckVer1.1.2.zip"
 	}
 	]
 }

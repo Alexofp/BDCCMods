@@ -3720,6 +3720,49 @@
 			"requiredMods": [
 
 			]
+		},
+		{
+			"id": "starsmisccharacters",
+			"name": "Starhorders Miscellaneous Characters",
+			"author": "Starhorder",
+			"version": "1.0",
+			"description": "Characters that didn't quite make the cut for my character pack, sadly. (or thankfully, you ARE getting these ones MUCH sooner.)",
+			"contains": "Contains: 2 characters",
+			"download": "datapacks/starsmisccharacters.res",
+			"lastedit": 1761887789,
+			"filesize": 12529,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"WintersFluffyBodypartsV1.6.zip"
+			],
+			"preview": "datapack_previews/starsmisccharacters.png"
+		},
+		{
+			"id": "vesper",
+			"name": "Vesper (Demonshark Femboy)",
+			"author": "Anon",
+			"version": "1.0",
+			"description": "A subby breedable demonshark femboy to roam the halls of your prison! Very friendly and easy to use <3",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/vesper.res",
+			"lastedit": 1761887796,
+			"filesize": 8798,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"AnonsAquaticSpeciesV1.2.zip",
+				"Clothes_Megapack.zip"
+			],
+			"preview": "datapack_previews/vesper.png"
 		}
 	]
 }
