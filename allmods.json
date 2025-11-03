@@ -1367,6 +1367,14 @@
 		"modversion": "1.1.2",
 		"gameversion": "0.1.11",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AffectionCheckVer1.1.2.zip"
+	},
+	{
+		"name": "SongsHorseParts",
+		"description": "※ Description \n- adds 5 custom body parts(head, tails, feet, penis) for pc equine\n- very similar to the vanilla parts but with my own touch\n- compatible with Balls Extra\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsHorseParts.png]Click for Preview[/url]",
+		"author": "SongJo",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsHorseParts.zip"
 	}
 	]
 }

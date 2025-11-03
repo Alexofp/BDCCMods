@@ -3722,27 +3722,6 @@
 			]
 		},
 		{
-			"id": "starsmisccharacters",
-			"name": "Starhorders Miscellaneous Characters",
-			"author": "Starhorder",
-			"version": "1.0",
-			"description": "Characters that didn't quite make the cut for my character pack, sadly. (or thankfully, you ARE getting these ones MUCH sooner.)",
-			"contains": "Contains: 2 characters",
-			"download": "datapacks/starsmisccharacters.res",
-			"lastedit": 1761887789,
-			"filesize": 12529,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-				"WintersFluffyBodypartsV1.6.zip"
-			],
-			"preview": "datapack_previews/starsmisccharacters.png"
-		},
-		{
 			"id": "vesper",
 			"name": "Vesper (Demonshark Femboy)",
 			"author": "Anon",
@@ -3763,6 +3742,27 @@
 				"Clothes_Megapack.zip"
 			],
 			"preview": "datapack_previews/vesper.png"
+		},
+		{
+			"id": "starsmisccharacters",
+			"name": "Starhorders Miscellaneous Characters",
+			"author": "Starhorder",
+			"version": "1.1",
+			"description": "Characters that didn't quite make the cut for my character pack, sadly. (or thankfully, you ARE getting these ones MUCH sooner.)",
+			"contains": "Contains: 2 characters",
+			"download": "datapacks/starsmisccharacters.res",
+			"lastedit": 1762145710,
+			"filesize": 12525,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"WintersFluffyBodypartsV1.6.zip"
+			],
+			"preview": "datapack_previews/starsmisccharacters.png"
 		}
 	]
 }
