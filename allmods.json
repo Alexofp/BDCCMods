@@ -1370,11 +1370,19 @@
 	},
 	{
 		"name": "SongsHorseParts",
-		"description": "※ Description \n- adds 5 custom body parts(head, tails, feet, penis) for pc equine\n- very similar to the vanilla parts but with my own touch\n- compatible with Balls Extra\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsHorseParts.png]Click for Preview[/url]",
+		"description": "※ Description \n- adds 5 custom body parts(head, tails, feet, penis) for pc equine\n- very similar to the vanilla parts but with my own touch\n- compatible with Balls Extra\n\n※ Update\n- 3 new simple skins for penis part\n- fixed some missing parts in the scripts and PNG files\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsHorseParts.png]Click for Preview[/url]",
 		"author": "SongJo",
-		"modversion": "1.0",
+		"modversion": "1.1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsHorseParts.zip"
+	},
+	{
+		"name": "Eiras Trash Species",
+		"description": "CREDIT: Original Species by Anon and Fantos. Code by Avery Winters. New Raccoon Parts and Red Panda drawn by Moldy Tub. Project Lead kind of is Winter 'Eira (me)\nDESCRIPTION: A compilation of several species many would consider trash enjoyers includes: Bat, Rat/Mouse, Raccoons, Squirrels, and a bonus RED PANDA! :D\nCOMPATIBILITY: Hypertus\nNOTE: @ Me or make a thread if anything is broken\nPatch Notes: Fixed squirrel head id in hypertus comp folder.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EirasTrashSpecies.png]Click for Preview[/url]",
+		"author": "Anon, Fantos, Avery Winters, Moldy Tub",
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EirasTrashSpeciesV1.1.zip"
 	}
 	]
 }
