@@ -3747,12 +3747,12 @@
 			"id": "starsmisccharacters",
 			"name": "Starhorders Miscellaneous Characters",
 			"author": "Starhorder",
-			"version": "1.1",
+			"version": "1.2",
 			"description": "Characters that didn't quite make the cut for my character pack, sadly. (or thankfully, you ARE getting these ones MUCH sooner.)",
-			"contains": "Contains: 2 characters",
+			"contains": "Contains: 3 characters",
 			"download": "datapacks/starsmisccharacters.res",
-			"lastedit": 1762145710,
-			"filesize": 12525,
+			"lastedit": 1762319947,
+			"filesize": 18117,
 			"requiredDatapacks": [
 
 			],
@@ -3760,7 +3760,8 @@
 
 			},
 			"requiredMods": [
-				"WintersFluffyBodypartsV1.6.zip"
+				"WintersFluffyBodypartsV1.6.zip",
+				"AnonsBaseSpeciesExpansionV1.1.zip"
 			],
 			"preview": "datapack_previews/starsmisccharacters.png"
 		}

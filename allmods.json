@@ -1378,11 +1378,27 @@
 	},
 	{
 		"name": "Eiras Trash Species",
-		"description": "CREDIT: Original Species by Anon and Fantos. Code by Avery Winters. New Raccoon Parts and Red Panda drawn by Moldy Tub. Project Lead kind of is Winter 'Eira (me)\nDESCRIPTION: A compilation of several species many would consider trash enjoyers includes: Bat, Rat/Mouse, Raccoons, Squirrels, and a bonus RED PANDA! :D\nCOMPATIBILITY: Hypertus\nNOTE: @ Me or make a thread if anything is broken\nPatch Notes: Fixed squirrel head id in hypertus comp folder.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EirasTrashSpecies.png]Click for Preview[/url]",
+		"description": "CREDIT: Original Species by Anon and Fantos. Code by Avery Winters. New Raccoon Parts and Red Panda drawn by Moldy Tub. Project Lead kind of is Winter 'Eira (me)\nDESCRIPTION: A compilation of several species many would consider trash enjoyers includes: Bat, Rat/Mouse, Raccoons, Squirrels, and a bonus RED PANDA! :D\nCOMPATIBILITY: Hypertus\nNOTE: @ Me or make a thread if anything is broken\nPatch Notes: Fixed squirrel head & tail ID in hypertus comp folder.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EirasTrashSpecies.png]Click for Preview[/url]",
 		"author": "Anon, Fantos, Avery Winters, Moldy Tub",
-		"modversion": "1.1",
+		"modversion": "1.2",
 		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EirasTrashSpeciesV1.1.zip"
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EirasTrashSpeciesV1.2.zip"
+	},
+	{
+		"name": "SongsFlatCageReplacerA",
+		"description": "※ Description\n- YOU CAN ONLY USE ONE TYPE OF THIS MOD (This one is Type A)\n- Replaces vanilla flat chastity cage texture\n- Compatible with \"ChastityCageFlatRemix\"\n- Made for the default penis skin(could look wacky on other penis skins)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FlatCageReplacerA.png]Click for Preview[/url]",
+		"author": "SongJo",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FlatCageReplacerA.zip"
+	},
+	{
+		"name": "SongsFlatCageReplacerB",
+		"description": "※ Description\n- YOU CAN ONLY USE ONE TYPE OF THIS MOD (This one is Type B)\n- Replaces vanilla flat chastity cage texture\n- Compatible with \"ChastityCageFlatRemix\"\n- Made for the default penis skin(could look wacky on other penis skins)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FlatCageReplacerB.png]Click for Preview[/url]",
+		"author": "SongJo",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FlatCageReplacerB.zip"
 	}
 	]
 }
