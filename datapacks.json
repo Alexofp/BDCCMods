@@ -3653,34 +3653,6 @@
 			"preview": "datapack_previews/soul kitty.png"
 		},
 		{
-			"id": "moldy_char_pack",
-			"name": "MoldyT's Character Pack",
-			"author": "MoldyT",
-			"version": "0.7",
-			"description": "Initial release of the characters I'll be using in an upcoming mod I am creating. These are mostly just the models and images with a little bit of content and scenes so feel free to enjoy them in your regular game. The mod will disable the characters ability to \"roam\" the world and they will only be available in certain locations or during in-game events. \n- Images and character models are not final. They could be subject to both major and/or minor changes. even adjustments to gender, role, and gentials could occur from now till the mods release.  \n- Opinions are welcome in regards to the model's design or character portraits. \n\n-- Changelog --\n.5 - Initial public release\n\n.6 - Updated mod changes\n- Filled in the \"likes\" tab for each character at random\n\t- Gave Gabriel and Lani an anus since they were missing\n\t- Added Zach as a Character. The soon to be replacement for Leo\n\t- Descriptions have been updated to each character to show the future major fetishes\n\t\n\t.7 - Nyx overhaul on design and art. \n\t- Added teaser sex scenes for Nyx, and Lani (sould be able to repeatable)\n\t   - Nyx's is found at the waterfall\n\t   - Lani's is at the gym showers",
-			"contains": "Contains: 9 characters, 2 scenes",
-			"download": "datapacks/moldy_char_pack.res",
-			"lastedit": 1760850689,
-			"filesize": 4003006,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-				"FoxLib",
-				"SkulldogSpeciesVer2.zip",
-				"AnonsAquaticSpeciesV1.2.zip",
-				"Hair1.1.zip",
-				"HairSkinsBatch1.zip",
-				"WintersFluffyBodypartsV1.6.zip",
-				"AnonsBaseSpeciesExpansionV1.1.zip",
-				"AnimalPussies_v3.0.zip"
-			],
-			"preview": "datapack_previews/moldy_char_pack.png"
-		},
-		{
 			"id": "songtigerskin",
 			"name": "Songjo's Tigerskin",
 			"author": "Songjo",
@@ -3764,6 +3736,35 @@
 				"AnonsBaseSpeciesExpansionV1.1.zip"
 			],
 			"preview": "datapack_previews/starsmisccharacters.png"
+		},
+		{
+			"id": "moldy_char_pack",
+			"name": "MoldyT's Character Pack",
+			"author": "MoldyT",
+			"version": "0.8",
+			"description": "Initial release of the characters I'll be using in an upcoming mod I am creating. These are mostly just the models and images with a little bit of content and scenes so feel free to enjoy them in your regular game. The mod will disable the characters ability to \"roam\" the world and they will only be available in certain locations or during in-game events. \n- Images and character models are not final. They could be subject to both major and/or minor changes. even adjustments to gender, role, and gentials could occur from now till the mods release.  \n- Opinions are welcome in regards to the model's design or character portraits. \n\n-- Changelog --\n.5 - Initial public release\n\n.6 - Updated mod changes\n    - Filled in the \"likes\" tab for each character at random\n    - Gave Gabriel and Lani an anus since they were missing\n    - Added Zach as a Character. The soon to be replacement for Leo\n    - Descriptions have been updated to each character to show the future major fetishes\n\t\n.7 - Nyx overhaul on design and art. \n    - Added teaser sex scenes for Nyx, and Lani (should be able to repeatable)\n\t       - Nyx's is found at the waterfall\n\t       - Lani's is at the gym showers\n\n.8 - Added Winter's Trash Species to the mod list  \n    - Added teaser sex scene for Rena (should be able to repeatable)\n       - Found in the weight room (requireds a uncaged penis or a vagina to start)\n    - Added 3 of the major side characters to the datapack\n        - 2 Guards (though they are not technically \"guards\" in the mod)\n            - Roach, Male Wolf\n            - Valarie, Dickgirl Hellhound\n        - 1 Nurse\n            - Mei, Female momma Red Panda",
+			"contains": "Contains: 12 characters, 3 scenes",
+			"download": "datapacks/moldy_char_pack.res",
+			"lastedit": 1762405477,
+			"filesize": 4811030,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"FoxLib",
+				"SkulldogSpeciesVer2.zip",
+				"AnonsAquaticSpeciesV1.2.zip",
+				"Hair1.1.zip",
+				"HairSkinsBatch1.zip",
+				"WintersFluffyBodypartsV1.6.zip",
+				"AnonsBaseSpeciesExpansionV1.1.zip",
+				"AnimalPussies_v3.0.zip",
+				"EirasTrashSpeciesV1.2.zip"
+			],
+			"preview": "datapack_previews/moldy_char_pack.png"
 		}
 	]
 }

@@ -1265,14 +1265,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersFluffyBodypartsV1.6.zip"
 	},
 	{
-		"name": "Blindfolds for Snoots",
-		"description": "For those long in the snoot\nMakes blindfolds and similar eyewear somewhat fit on the heads of modded species\nNo guarantees, might still look misaligned, but it's better than the default\n\n[b]SPECIES INCLUDED[/b]\n-- Borzoi \n-- Felkin\n-- Protogen\n-- Sergal\n-- Southern Sergal\n-- Synth\n\n[b]GEAR INCLUDED[/b]\n-- Blindfold\n-- HypnoVisor (black)\n-- HypnoVisor (pink)\n-- Leather Blindfold - from mod - More BDSM Stuff - by DrDurka\n\n*For compatibility with other species not listed, ping me\n*Alternatively, if I don't respond for long or appear dead, feel free to edit and reupload\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BlindfoldForSnoots.png]Click for Preview[/url]",
-		"author": "Lucci",
-		"modversion": "1.0.5",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BlindfoldForSnootsVer1.0.5.zip"
-	},
-	{
 		"name": "Ceasar's Sex Games",
 		"description": "[b]Play sexy games, win sexy prizes[/b]\nA collection of two minigames that you can play to win credits and/or prizes\n\n[b]Mod Features:[/b]\n-- Gaming \n-- Bondage\n-- A secret third thing\n-- Skill-based gambling\n\n[b]How to start:[/b]\nBy Day 5 or later, walk around the Cellblock Corridors\n\n[i]Ping me for bugs, typos, and feedback[/i]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/CeasarsSexGames.png]Click for Preview[/url]",
 		"author": "Lucci",
@@ -1399,6 +1391,14 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FlatCageReplacerB.zip"
+	},
+	{
+		"name": "Snoot Gear",
+		"description": "formerly Blindfolds for Snoots\n\n[b]For those long in the snoot[/b]\nMakes head gear somewhat fit on the heads of modded species\nNo guarantees, might still look misaligned, but it's better than the default\nCompatible with modded restraints but is not required for this to work\n\n[b]Update:[/b]\n-ADDED: More BDSM Stuff muzzle and bondage hood compatibility\n-ADDED: Cow/Bovine species\n-FIXED: Southern Sergal basket muzzle\n\n[b]SPECIES INCLUDED[/b]\n-- Borzoi\n-- Cow/Bovine\n-- Felkin\n-- Protogen\n-- Sergal\n-- Southern Sergal\n-- Synth\n\n[b]GEAR INCLUDED[/b]\n-- Blindfold\n-- HypnoVisor (black)\n-- HypnoVisor (pink)\nFrom mod - More BDSM Stuff - by DrDurka\n-- Leather Blindfold\n-- Leather Muzzle\n-- Latex Muzzle\n-- Latex Ring Muzzle\n-- Bondage Hood\n\n*For compatibility with other species not listed, ping me\n*Alternatively, if I don't respond for long or appear dead, feel free to edit and reupload\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SnootGear.png]Click for Preview[/url]",
+		"author": "Lucci",
+		"modversion": "1.1.4 - 2025-NOV-06",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SnootGearVer1.1.4.zip"
 	}
 	]
 }
