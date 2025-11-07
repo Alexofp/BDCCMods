@@ -3765,6 +3765,26 @@
 				"EirasTrashSpeciesV1.2.zip"
 			],
 			"preview": "datapack_previews/moldy_char_pack.png"
+		},
+		{
+			"id": "theplasmacafe",
+			"name": "The Plasma Cafe (Char Pack)",
+			"author": "Phoenix (Bloxborne)",
+			"version": "1.0",
+			"description": "The Characters required for the mod \"The Plasma Cafe\"",
+			"contains": "Contains: 4 characters",
+			"download": "datapacks/theplasmacafe.res",
+			"lastedit": 1762493124,
+			"filesize": 16245,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"WintersFluffyBodypartsV1.6.zip"
+			]
 		}
 	]
 }
