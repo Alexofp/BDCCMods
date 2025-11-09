@@ -1361,22 +1361,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EirasTrashSpeciesV1.2.zip"
 	},
 	{
-		"name": "SongsFlatCageReplacerA",
-		"description": "※ Description\n- YOU CAN ONLY USE ONE TYPE OF THIS MOD (This one is Type A)\n- Replaces vanilla flat chastity cage texture\n- Compatible with \"ChastityCageFlatRemix\"\n- Made for the default penis skin(could look wacky on other penis skins)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FlatCageReplacerA.png]Click for Preview[/url]",
-		"author": "SongJo",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FlatCageReplacerA.zip"
-	},
-	{
-		"name": "SongsFlatCageReplacerB",
-		"description": "※ Description\n- YOU CAN ONLY USE ONE TYPE OF THIS MOD (This one is Type B)\n- Replaces vanilla flat chastity cage texture\n- Compatible with \"ChastityCageFlatRemix\"\n- Made for the default penis skin(could look wacky on other penis skins)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FlatCageReplacerB.png]Click for Preview[/url]",
-		"author": "SongJo",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FlatCageReplacerB.zip"
-	},
-	{
 		"name": "Snoot Gear",
 		"description": "formerly Blindfolds for Snoots\n\n[b]For those long in the snoot[/b]\nMakes head gear somewhat fit on the heads of modded species\nNo guarantees, might still look misaligned, but it's better than the default\nCompatible with modded restraints but is not required for this to work\n\n[b]Update:[/b]\n-ADDED: More BDSM Stuff muzzle and bondage hood compatibility\n-ADDED: Cow/Bovine species\n-FIXED: Southern Sergal basket muzzle\n\n[b]SPECIES INCLUDED[/b]\n-- Borzoi\n-- Cow/Bovine\n-- Felkin\n-- Protogen\n-- Sergal\n-- Southern Sergal\n-- Synth\n\n[b]GEAR INCLUDED[/b]\n-- Blindfold\n-- HypnoVisor (black)\n-- HypnoVisor (pink)\nFrom mod - More BDSM Stuff - by DrDurka\n-- Leather Blindfold\n-- Leather Muzzle\n-- Latex Muzzle\n-- Latex Ring Muzzle\n-- Bondage Hood\n\n*For compatibility with other species not listed, ping me\n*Alternatively, if I don't respond for long or appear dead, feel free to edit and reupload\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SnootGear.png]Click for Preview[/url]",
 		"author": "Lucci",
@@ -1407,6 +1391,22 @@
 		"modversion": "0.1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxedBDCC_v0.1.0.zip"
+	},
+	{
+		"name": "SongsFlatCageReplacerA",
+		"description": "※ Description\n- YOU CAN ONLY USE ONE TYPE OF THIS MOD (This one is Type A)\n- Replaces vanilla flat chastity cage texture\n- Compatible with \"ChastityCageFlatRemix\"\n- Made for the default penis skin (could look wacky on other penis skins)\n\n※ Update\n- <1.0fix1> fixed simple but critical problem (1.0 didn't have the import files and the module folder))\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FlatCageReplacerA.png]Click for Preview[/url]",
+		"author": "SongJo",
+		"modversion": "1.0fix1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FlatCageReplacer_A_v1.0fix1.zip"
+	},
+	{
+		"name": "SongsFlatCageReplacerB",
+		"description": "※ Description\n- YOU CAN ONLY USE ONE TYPE OF THIS MOD (This one is Type B)\n- Replaces vanilla flat chastity cage texture\n- Compatible with \"ChastityCageFlatRemix\"\n- Made for the default penis skin (could look wacky on other penis skins)\n\n※ Update\n- <1.0fix1> fixed simple but critical problem (1.0 didn't have the import files and the module folder)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FlatCageReplacerB.png]Click for Preview[/url]",
+		"author": "SongJo",
+		"modversion": "1.0fix1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FlatCageReplacer_B_v1.0fix1.zip"
 	}
 	]
 }
