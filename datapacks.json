@@ -3785,6 +3785,27 @@
 			"requiredMods": [
 				"WintersFluffyBodypartsV1.6.zip"
 			]
+		},
+		{
+			"id": "sugerorsskinpack",
+			"name": "Sugerør's Skin Pack",
+			"author": "Sugerør",
+			"version": "1.0",
+			"description": "Adds 5 skins into the game:\n- Soar, Speckled Experiment, Strange River, Swift n' Simple & Vitiligo",
+			"contains": "Contains: 5 skins",
+			"download": "datapacks/sugerrsskinpack.res",
+			"lastedit": 1762749519,
+			"filesize": 1873999,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/sugerorsskinpack.png"
 		}
 	]
 }
