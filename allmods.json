@@ -1329,14 +1329,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ExportEncounterPreferences.zip"
 	},
 	{
-		"name": "Anons Sheathed Human Penis",
-		"description": "Human penis with a sheath on it. Similar to the update by Winter 'Eira without overwriting the base human penis.\nCOMPATIBILITY: Hypertus & BallsExtra\nCHANGELOG: Made new version of mod that doesnt replace parts.\nNOTE: @ Me or make a thread if anything is broken .\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsSheathedHumanPenis.png]Click for Preview[/url]",
-		"author": "Anon, Avery Winters",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnonsSheathedHumanPenisV1.0.zip"
-	},
-	{
 		"name": "Affection Check",
 		"description": "Sidebar now displays Affection Level, as well as if the character is a Guard/Nurse/Engineer/Slave/Nemesis\n\nUpdate 2025-OCT-31:\n-- Now works with game version 0.1.11fix1 \n-- Slave & Nemesis labels\n\nAffection Levels:\nAlly : higher than 50%\nFriend : between 50% to 20%\nNone : between 20% to -20%\nRival : between -20% to -50%\nEnemy : lower than -50%\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AffectionCheck.png]Click for Preview[/url]",
 		"author": "Lucci",
@@ -1407,6 +1399,30 @@
 		"modversion": "1.0fix1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FlatCageReplacer_B_v1.0fix1.zip"
+	},
+	{
+		"name": "Winters Withered Bodyparts",
+		"description": "CREDIT: Original by Anon\nDESCRIPTION: Skinny more witherered bodyparts available for use with any species. Will not spawn on dynamic NPCs on its own. This has been separated from Skulldogs so its available for character creation.\nCOMPATIBILITY: Bodywritings\nCHANGELOG: Mod created.\nNOTE: @ Me or make a thread if anything is broken.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersWitheredBodyparts.png]Click for Preview[/url]",
+		"author": "Anon, Avery Winters",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersWitheredBodypartsV1.0.zip"
+	},
+	{
+		"name": "Anons Skulldog Species",
+		"description": "CREDIT: Original by Anon\nDESCRIPTION: Updated the Skulldog species. Has built in hypertus compatibility, It will also spawn with withered parts if available, then fluffy parts if available.\nCOMPATIBILITY: WintersWitheredBodyparts, WintersFluffyBodyparts, Hypertus, Bodywritings\nCHANGELOG: Mod created.\nNOTE: Since these run new Mod ID's doesnt hurt to back up your saves, or wait till your starting a new game to update. @ Me or make a thread if anything is broken.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsSkulldogSpecies.png]Click for Preview[/url]",
+		"author": "Anon, Avery Winters",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnonsSkulldogSpeciesV1.0.zip"
+	},
+	{
+		"name": "Anons Sheathed Human Penis",
+		"description": "Human penis with a sheath on it. Similar to the update by Winter 'Eira without overwriting the base human penis.\nCOMPATIBILITY: Hypertus & BallsExtra\nCHANGELOG: fixed BallsExtra compat.\nNOTE: @ Me or make a thread if anything is broken.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsSheathedHumanPenis.png]Click for Preview[/url]",
+		"author": "Anon, Avery Winters",
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnonsSheathedHumanPenisV1.1.zip"
 	}
 	]
 }
