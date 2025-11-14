@@ -1225,14 +1225,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NaughtyStoatJuteHarnesses.zip"
 	},
 	{
-		"name": "Winters Fluffy Bodyparts",
-		"description": "An expansion of the fluff bodyparts adding a few new parts to the original list including clawed hands, fluffy hoofs and a body with neck fluff. Dynamic NPC Canines, Felines and Equines will now spawn with fluffy bodyparts by default. \nCOMPATABILITY: Hypertus\nCHANGELOG: Updated for bodywriting.\nNOTE: @ me or make a thread if anything is broken.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersFluffyBodyparts.png]Click for Preview[/url]",
-		"author": "Avery Winters",
-		"modversion": "1.6",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersFluffyBodypartsV1.6.zip"
-	},
-	{
 		"name": "Ceasar's Sex Games",
 		"description": "[b]Play sexy games, win sexy prizes[/b]\nA collection of two minigames that you can play to win credits and/or prizes\n\n[b]Mod Features:[/b]\n-- Gaming \n-- Bondage\n-- A secret third thing\n-- Skill-based gambling\n\n[b]How to start:[/b]\nBy Day 5 or later, walk around the Cellblock Corridors\n\n[i]Ping me for bugs, typos, and feedback[/i]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/CeasarsSexGames.png]Click for Preview[/url]",
 		"author": "Lucci",
@@ -1279,14 +1271,6 @@
 		"modversion": "1.3.13",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NudityPoliceVer1.3.13.zip"
-	},
-	{
-		"name": "Hairpack",
-		"description": "※ Description \nadds 8 hairstyles for player\ntested on vanilla heads (and some custom heads)\n\n\n※ Update \n\nver1.1\n7 new hairs with fancy style!\nchanged the mod name from \"Short hair by Songjo\" to \"Hairpack by Songjo\"  it has more hairs now, so it makes more sense\n\n\ndrawing 2d hairs with cheap vodka is Fun\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HairPackbySongjo.png]Click for Preview[/url]",
-		"author": "Songjo",
-		"modversion": "1.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HairPackbySongjo_v1.1.zip"
 	},
 	{
 		"name": "Export Encounter Preferences",
@@ -1431,6 +1415,22 @@
 		"modversion": "1.1.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsHorseParts_v1.1.1.zip"
+	},
+	{
+		"name": "Winters Fluffy Bodyparts",
+		"description": "CREDIT: Original by Anon\nDESCRIPTION: An expansion of the fluff bodyparts adding a few new parts to the original list including clawed hands, fluffy hoofs and a body with neck fluff. Dynamic NPC Canines, Felines and Equines will now spawn with fluffy bodyparts by default. \nCOMPATABILITY: Hypertus, Bodywriting\nCHANGELOG: added new fluffy backed leg for Moldy Tub\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersFluffyBodyparts.png]Click for Preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "1.7",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersFluffyBodypartsV1.7.zip"
+	},
+	{
+		"name": "Hairpack",
+		"description": "※ Description \n- adds 11 hairstyles\n\n※ Update [ver1.2]\n- 3 new hair styles!\n- now it appears on randomly generated NPCs (Credit to lucci !)\n- fixed some hairs stray pixels\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HairPackbySongjo.png]Click for Preview[/url]",
+		"author": "Songjo",
+		"modversion": "1.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HairPackbySongjo_v1.2.zip"
 	}
 	]
 }
