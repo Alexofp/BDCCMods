@@ -1409,14 +1409,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnonsSkulldogSpeciesV1.1.zip"
 	},
 	{
-		"name": "SongsHorseParts",
-		"description": "※ Description \n- adds 5 custom body parts(head, tails, feet, penis) for pc equine\n- very similar to the vanilla parts but with my own touch\n- compatible with Balls Extra\n\n※ Update\n- fixed every penis skin name showing as \"spotted\"\n- fixed unmatched tail position\n- replaced the vanilla basket muzzle texture to more fitted for custom head\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsHorseParts.png]Click for Preview[/url]",
-		"author": "SongJo",
-		"modversion": "1.1.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsHorseParts_v1.1.1.zip"
-	},
-	{
 		"name": "Winters Fluffy Bodyparts",
 		"description": "CREDIT: Original by Anon\nDESCRIPTION: An expansion of the fluff bodyparts adding a few new parts to the original list including clawed hands, fluffy hoofs and a body with neck fluff. Dynamic NPC Canines, Felines and Equines will now spawn with fluffy bodyparts by default. \nCOMPATABILITY: Hypertus, Bodywriting\nCHANGELOG: added new fluffy backed leg for Moldy Tub\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersFluffyBodyparts.png]Click for Preview[/url]",
 		"author": "Avery Winters",
@@ -1431,6 +1423,14 @@
 		"modversion": "1.2",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HairPackbySongjo_v1.2.zip"
+	},
+	{
+		"name": "SongsHorseParts",
+		"description": "※ Description \n- adds 5 custom body parts(head, tails, feet, penis) for pc equine\n- very similar to the vanilla parts but with my own touch\n- compatible with Balls Extra\n\n※ Update [1.1.2]\n- fixed an issue where the horse penis name appeared as human penis on certain scenes\n- now all parts are restricted in equine race as it should be\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsHorseParts.png]Click for Preview[/url]",
+		"author": "SongJo",
+		"modversion": "1.1.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsHorseParts_V1.1.2.zip"
 	}
 	]
 }
