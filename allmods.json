@@ -1431,6 +1431,14 @@
 		"modversion": "1.1.2",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsHorseParts_V1.1.2.zip"
+	},
+	{
+		"name": "Quick Sell",
+		"description": "Selling/Buying an item from a Vendomat or The Announcer no longer kicks you out of the menu, allowing you to buy/sell multiple items quickly\n\nWarning:\nMay lead to accidental sales or purchases\nAll transactions final. No refunds or buybacks\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/QuickSell.webm]Click for Preview[/url]",
+		"author": "Lucci",
+		"modversion": "1.0.0 - 2025-NOV-16",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/QuickSellVer1.0.0.zip"
 	}
 	]
 }
