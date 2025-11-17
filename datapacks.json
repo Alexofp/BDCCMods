@@ -3790,12 +3790,12 @@
 			"id": "sugerorsskinpack",
 			"name": "Sugerør's Skin Pack",
 			"author": "Sugerør",
-			"version": "1.0",
-			"description": "Adds 5 skins into the game:\n- Soar, Speckled Experiment, Strange River, Swift n' Simple & Vitiligo",
-			"contains": "Contains: 5 skins",
+			"version": "1.1",
+			"description": "Adds 9 skins into the game:\n- Soar, Speckled Experiment, Strange River, Swift n' Simple, Vitiligo, Twisting Trails, Silly Scribbles, Canyon Cliffs & Draconic Scales\n-- Some skins have multiple versions.\n\nNew:\n- !!Changed the skin ids of the first 5 skins!! If you don't want to deal with already generated skins breaking, I'd recomend not updating.\n- 4 skins:\n-- Twisting Trails, Silly Scribbles, Canyon Cliffs & Draconic Scales (has 2 versions)\n\nNote: Silly Scribbles & Draconic Scales v2 do not generate on NPCs.",
+			"contains": "Contains: 10 skins",
 			"download": "datapacks/sugerrsskinpack.res",
-			"lastedit": 1762749519,
-			"filesize": 1873999,
+			"lastedit": 1763354210,
+			"filesize": 4248965,
 			"requiredDatapacks": [
 
 			],
