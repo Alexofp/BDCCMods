@@ -1434,11 +1434,11 @@
 	},
 	{
 		"name": "Quick Sell",
-		"description": "Selling/Buying an item from a Vendomat or The Announcer no longer kicks you out of the menu, allowing you to buy/sell multiple items quickly\n\nWarning:\nMay lead to accidental sales or purchases\nAll transactions final. No refunds or buybacks\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/QuickSell.webm]Click for Preview[/url]",
+		"description": "Selling/Buying an item from a Vendomat or The Announcer no longer kicks you out of the menu, allowing you to buy/sell multiple items quickly\n\nWarning:\nMay lead to accidental sales or purchases\nAll transactions final. No refunds or buybacks\n\nMinor Update:\n- Buyer's Remorse: shows summary of credits and items after every transaction\n- Ventriloquist Ans: The Announcer no longer speaks thru Alex (bug fix)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/QuickSell.webm]Click for Preview[/url]",
 		"author": "Lucci",
-		"modversion": "1.0.0 - 2025-NOV-16",
+		"modversion": "1.1.0 - 2025-NOV-18",
 		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/QuickSellVer1.0.0.zip"
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/QuickSellVer1.1.0.zip"
 	}
 	]
 }
