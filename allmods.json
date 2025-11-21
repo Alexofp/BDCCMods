@@ -1417,14 +1417,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersFluffyBodypartsV1.7.zip"
 	},
 	{
-		"name": "Hairpack",
-		"description": "※ Description \n- adds 11 hairstyles\n\n※ Update [ver1.2]\n- 3 new hair styles!\n- now it appears on randomly generated NPCs (Credit to lucci !)\n- fixed some hairs stray pixels\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HairPackbySongjo.png]Click for Preview[/url]",
-		"author": "Songjo",
-		"modversion": "1.2",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HairPackbySongjo_v1.2.zip"
-	},
-	{
 		"name": "Quick Sell",
 		"description": "Selling/Buying an item from a Vendomat or The Announcer no longer kicks you out of the menu, allowing you to buy/sell multiple items quickly\n\nWarning:\nMay lead to accidental sales or purchases\nAll transactions final. No refunds or buybacks\n\nMinor Update:\n- Buyer's Remorse: shows summary of credits and items after every transaction\n- Ventriloquist Ans: The Announcer no longer speaks thru Alex (bug fix)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/QuickSell.webm]Click for Preview[/url]",
 		"author": "Lucci",
@@ -1433,12 +1425,28 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/QuickSellVer1.1.0.zip"
 	},
 	{
-		"name": "SongsHorseParts",
-		"description": "※ Description \n- adds 5 custom body parts(head, tails, feet, penis) for vanilla equine species\n- very similar to the vanilla parts but with my own touch\n- compatible with Balls Extra\n\n※ Update [1.1.3]\n- fixed an issue where the horse penis name appeared as human penis on certain scenes (with balls extra mod installed)\n- fixed some missing codes such as headlength\n- cleaned up some stray pixels of the models\n- editted body writings position of the head part\n- edited the description of the mod (i just caught the irony of it (the custom parts appears on NPCs too)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsHorseParts.png]Click for Preview[/url]",
-		"author": "SongJo",
-		"modversion": "1.1.3",
+		"name": "Winters Clothing Tweaks",
+		"description": "CREDIT: Rahi\nDESCRIPTION: Clothing tweaks. Guard armor now has hooves, Inmate clothes now provide some lust resist as they cover you and another boost based on inmate type \nInmate General: Defensive Stats\nHighSec Inmate: Physical Offense Stats\nLilac Inmate: Lust Offense Stats\nCOMPATABILITY: N/A\nCHANGELOG: Mod Created\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersClothingTweaks.png]Click for Preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "0.6",
 		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsHorseParts_V1.1.3.zip"
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersClothingTweaksV0.6.zip"
+	},
+	{
+		"name": "Hairpack",
+		"description": "※ Description \n- adds 19 hairstyles (i wrote 11 earlier on v1.2, but that was wrong)\n\n※ Update [ver1.3]\n- 5 new hair styles!\n- remodeled some existing hairs (sh1, sh4, sh5, sh8)\n- cleaned some hairs stray pixels\n- added hair strays on some hairs\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HairPackbySongjo.png]Click for Preview[/url]",
+		"author": "Songjo",
+		"modversion": "1.3",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HairPackbySongjo_v1.3.zip"
+	},
+	{
+		"name": "SongsHorseParts",
+		"description": "※ Description \n- adds 5 custom body parts(head, tails, feet, penis) for pc equine\n- very similar to the vanilla parts but with my own touch\n- compatible with Balls Extra\n\n※ Update [1.1.3hotfix1]\n- fixed issue that horse penis appeared on randomly generated female NPCs\n- changed penis parts name \"songs horse penis\" to \"Horse Penis Alt\"\n- changed head parts name \"songs horse head\" to \"Horse Head Alt\"\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsHorseParts.png]Click for Preview[/url]",
+		"author": "SongJo",
+		"modversion": "1.1.3hotfix1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsHorseParts_V1.1.3hotfix1.zip"
 	}
 	]
 }
