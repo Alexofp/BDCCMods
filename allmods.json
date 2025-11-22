@@ -1441,12 +1441,36 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HairPackbySongjo_v1.3.zip"
 	},
 	{
-		"name": "SongsHorseParts",
-		"description": "※ Description \n- adds 5 custom body parts(head, tails, feet, penis) for pc equine\n- very similar to the vanilla parts but with my own touch\n- compatible with Balls Extra\n\n※ Update [1.1.3hotfix1]\n- fixed issue that horse penis appeared on randomly generated female NPCs\n- changed penis parts name \"songs horse penis\" to \"Horse Penis Alt\"\n- changed head parts name \"songs horse head\" to \"Horse Head Alt\"\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsHorseParts.png]Click for Preview[/url]",
-		"author": "SongJo",
-		"modversion": "1.1.3hotfix1",
+		"name": "Human Replacer",
+		"description": "Nothing motivates like passionate, undying hatred. \nThe old human replacer never got re-uploaded, so I have done it myself, with various new fixes and features to make it compatible with the modern version of BDCC.\nNothing has been re-written to prevent things breaking, but everything here should keep human presence minimal visually.\nAlso, with the way the mod works, any existing human character will be affected and will be replaced as such.\n\nIf you remember the old version; Here's whats been fixed:\n-Ear Skins now work properly, and have new feline variants.\n-Spoiler Character Mirri: nothing has been re-written but they have extra effort put in to remove their human-ness.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HumanReplacer.png]Click for Preview[/url]",
+		"author": "Anonymous",
+		"modversion": "2.0",
 		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsHorseParts_V1.1.3hotfix1.zip"
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HumanReplacerV2.zip"
+	},
+	{
+		"name": "SongsHorseParts",
+		"description": "※ Description \n- adds 5 custom body parts(head, tails, feet, penis) for pc equine\n- very similar to the vanilla parts but with my own touch\n- compatible with Balls Extra\n\n※ Update [1.1.3hotfix1]\n- fixed issue that horse penis appeared on randomly generated female NPCs\n- changed penis parts name \"songs horse penis\" to \"Horse Penis Alt\"\n- changed head parts name \"songs horse head\" to \"Horse Head Alt\"\n\n※ Update [1.1.3hotfix2]\n- fixed an issue that balls size are fixed default size when sheathed\n- fixed some minor issues\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsHorseParts.png]Click for Preview[/url]",
+		"author": "SongJo",
+		"modversion": "1.1.3hotfix2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsHorseParts_V1.1.3hotfix2.zip"
+	},
+	{
+		"name": "GW Uncut Human Cocks",
+		"description": "Initial release\nThis mod adds an alternative to the standard human penis, an uncut version! It can be selected in character creation and will generate on some human npcs\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GWUncutHumanCockMod.png]Click for Preview[/url]",
+		"author": "GwendiWendi",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GWUncutHumanCockMod.zip"
+	},
+	{
+		"name": "Plantigrade Paw Replacer V2",
+		"description": "For those who want plantigrade anthro paws. Outright [b]replaces[/b] any existing human style legs.\n\nRebuilt for the modern version of the game with some slight edits to art.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PlantigradePawReplacer.png]Click for Preview[/url]",
+		"author": "Anonymous",
+		"modversion": "2.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PlantigradePawReplacerV2.zip"
 	}
 	]
 }
