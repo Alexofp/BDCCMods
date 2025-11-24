@@ -3832,6 +3832,27 @@
 				"Rat_Species_2.1.zip"
 			],
 			"preview": "datapack_previews/inmatepackvl.png"
+		},
+		{
+			"id": "HazbinHotel",
+			"name": "Hazbins",
+			"author": "Amewsing",
+			"version": "1.0",
+			"description": "Hazbin Hotel characters. Over powered cunts that will curbstomp you.",
+			"contains": "Contains: 17 characters",
+			"download": "datapacks/hazbins.res",
+			"lastedit": 1763957598,
+			"filesize": 76552,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/HazbinHotel.png"
 		}
 	]
 }
