@@ -1479,6 +1479,14 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersDeerSpeciesV1.0.zip"
+	},
+	{
+		"name": "NpcDefaultsOverride",
+		"description": "Set all NPCs default likes, fetishes, and personality to specified values. Also removes relationship decay. The default mod settings are to like everything, be submissive, and have 100 affection and lust towards the pc. This can be changed easily by editing the NpcDefaultsOverride.gd file then re-zipping.\nCompatibility: Should be compatible with all known mods. Please @ me if you run into any issues and I will respond whenever I can.",
+		"author": "NotNix",
+		"modversion": "0.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NpcDefaultsOverrideV0.1.zip"
 	}
 	]
 }
