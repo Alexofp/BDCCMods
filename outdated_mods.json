@@ -1,0 +1,9 @@
+{
+	"report_link": "https://github.com/Alexofp/BDCCMods/issues",
+	"mods": {
+		"OvuDrug.zip", {
+			"since": "0.1.10",
+			"badsizes": [2792]
+		}
+	}
+}
