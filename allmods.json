@@ -1487,6 +1487,14 @@
 		"modversion": "0.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NpcDefaultsOverrideV0.1.zip"
+	},
+	{
+		"name": "SongsHoofySpecies",
+		"description": "※ Description \n- Adds 3 new species: Cow, Deer, Goat.\n- Adds some horns, hoofs, tails that are shared by those three species.\n- Cows will spawn with equine penis by default (its possible to get human penis).\n- Deers will spawn with human penis by default (its possible to get equine penis).\n- Goats will spawn with human penis only.\n- Cows and Deers have a chance to have \"Horse Penis Alt\" if the \"songs horse parts\" is installed.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsHoofySpecies.png]Click for Preview[/url]",
+		"author": "SongJo",
+		"modversion": "0.8",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsHoofySpecies_v0.8.zip"
 	}
 	]
 }
