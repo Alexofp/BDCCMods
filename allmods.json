@@ -1073,14 +1073,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DatapackCharacterToPlayer.zip"
 	},
 	{
-		"name": "CharacterToDatapackExport",
-		"description": "Export yourself or a dynamic character to a datapack.\n\nTo export a character, go to the Me menu, select Export, and follow the instructions from there.\n\nv1.1:\n- FIXED: User input was not properly sanitized\n- Added support for BallsExtra, until a more general approach for copying bodypart attributes is implemented",
-		"author": "MOONHALO",
-		"modversion": "1.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CharacterToDatapackExport.zip"
-	},
-	{
 		"name": "Breeder Lube",
 		"description": "An upgraded lubricant that adds a watered down breeder pill affect. Simple, stupid, affective.\nFixed capilization on Module.gd, actually appears in-game now",
 		"author": "Dequire",
@@ -1495,6 +1487,14 @@
 		"modversion": "0.8",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsHoofySpecies_v0.8.zip"
+	},
+	{
+		"name": "CharacterToDatapackExport",
+		"description": "Export yourself or a dynamic character to a datapack.\n\nTo export a character, go to the Me menu, select Export, and follow the instructions from there.\n\nv1.2:\n- FIXED: Individual bodypart skins and colors wouldn't export properly on 0.1.10 and higher, due to changes to the save data structure.\n- Backwards compatible with older game versions, so you should be able to export characters between newer and older game versions without issue (tested up to 0.1.11).",
+		"author": "MOONHALO",
+		"modversion": "1.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CharacterToDatapackExport_v1.2.zip"
 	}
 	]
 }
