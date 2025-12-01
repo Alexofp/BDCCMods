@@ -1281,14 +1281,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AffectionCheckVer1.1.2.zip"
 	},
 	{
-		"name": "Eiras Trash Species",
-		"description": "CREDIT: Original Species by Anon and Fantos. Code by Avery Winters. New Raccoon Parts and Red Panda drawn by Moldy Tub. Project Lead kind of is Winter 'Eira (me)\nDESCRIPTION: A compilation of several species many would consider trash enjoyers includes: Bat, Rat/Mouse, Raccoons, Squirrels, and a bonus RED PANDA! :D\nCOMPATIBILITY: Hypertus\nNOTE: @ Me or make a thread if anything is broken\nPatch Notes: Fixed squirrel head & tail ID in hypertus comp folder.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EirasTrashSpecies.png]Click for Preview[/url]",
-		"author": "Anon, Fantos, Avery Winters, Moldy Tub",
-		"modversion": "1.2",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EirasTrashSpeciesV1.2.zip"
-	},
-	{
 		"name": "Snoot Gear",
 		"description": "formerly Blindfolds for Snoots\n\n[b]For those long in the snoot[/b]\nMakes head gear somewhat fit on the heads of modded species\nNo guarantees, might still look misaligned, but it's better than the default\nCompatible with modded restraints but is not required for this to work\n\n[b]Update:[/b]\n-ADDED: More BDSM Stuff muzzle and bondage hood compatibility\n-ADDED: Cow/Bovine species\n-FIXED: Southern Sergal basket muzzle\n\n[b]SPECIES INCLUDED[/b]\n-- Borzoi\n-- Cow/Bovine\n-- Felkin\n-- Protogen\n-- Sergal\n-- Southern Sergal\n-- Synth\n\n[b]GEAR INCLUDED[/b]\n-- Blindfold\n-- HypnoVisor (black)\n-- HypnoVisor (pink)\nFrom mod - More BDSM Stuff - by DrDurka\n-- Leather Blindfold\n-- Leather Muzzle\n-- Latex Muzzle\n-- Latex Ring Muzzle\n-- Bondage Hood\n\n*For compatibility with other species not listed, ping me\n*Alternatively, if I don't respond for long or appear dead, feel free to edit and reupload\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SnootGear.png]Click for Preview[/url]",
 		"author": "Lucci",
@@ -1495,6 +1487,22 @@
 		"modversion": "1.2",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CharacterToDatapackExport_v1.2.zip"
+	},
+	{
+		"name": "Eiras Trash Species",
+		"description": "CREDIT: Original Species by Anon and Fantos. Code by Avery Winters. New Raccoon Parts and Red Panda drawn by Moldy Tub. Project Lead kind of is Winter 'Eira (me)\nDESCRIPTION: A compilation of several species many would consider trash enjoyers includes: Bat, Possum, Rat/Mouse, Raccoons, Squirrels, and a bonus RED PANDA!\nCOMPATIBILITY: Hypertus\nNOTE: @ Me or make a thread if anything is broken\nPatch Notes: Fixed missing squirrel head when equipped with gags\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EirasTrashSpecies.png]Click for Preview[/url]",
+		"author": "Anon, Fantos, Avery Winters, Moldy Tub",
+		"modversion": "1.3",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EirasTrashSpeciesV1.3.zip"
+	},
+	{
+		"name": "An Apple A Day",
+		"description": "Adds an exciting new use for apples, in the form of using them to gain buffs (mostly a joke mod). Take an apple to Dr. Quinn to get started.\n\nFixed all your apples being removed whenever you'd throw one\nAdded a skill about throwing apples\nAdded an attack and some perks about it",
+		"author": "Selinoccino",
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnAppleADay1.1.zip"
 	}
 	]
 }
