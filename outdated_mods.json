@@ -1,9 +1,21 @@
 {
 	"report_link": "https://github.com/Alexofp/BDCCMods/issues",
 	"mods": {
-		"OvuDrug.zip": {
+		"EXAMPLE_MOD.zip": {
 			"since": "0.1.10",
 			"badsizes": [2792]
+		},
+		"ForceFuck.zip": {
+		},
+		"BrutalDreamsCorrectionalCenter.zip": {
+		},
+		"CumSpill.zip": {
+		},
+		"DrugInjector.zip": {
+		},
+		"KnotFucking.zip": {
+		},
+		"NPCclaimer.zip": {
 		}
 	}
 }

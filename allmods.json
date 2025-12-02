@@ -1049,14 +1049,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EZMeet_v0.1.1.zip"
 	},
 	{
-		"name": "Issix Mod",
-		"description": "Issix Mod adds player slavery with major pet-play themes, this version brings many changes including:\n- Full story scenes for Lamia (mostly parasite content)\n- \"Boss battle\"\n- Character portraits by [url=https://bsky.app/profile/roartigerart.bsky.social]Roar[/url] (@Roar)\n- Icons by [url=https://pawb.fun/@keeri]keeri[/url]\n- Three new items\n- +1 watersports scene\n- New perk for Issix changing player's name\n- New perk for making player speak like a real pet\n- Updated to be compatible with newest BDCC version\n\nFull changelog available in [url=https://git.frisk.space/Frisk/Issix-mod/releases/tag/0.9.8]here[/url]\n\nThis is the last major feature release for the mod for foreseeable future. Despite testing, it likely still contains bugs, if I have them reported I plan to release a bug fix release in ~1 week depending on how severe the issues are.\n\nThis mod already features more than 60 scene files, custom minigames, 8 items, 4 characters, custom attacks (mainly for purposes of a boss fight), multiple status effects, map changes, skills, a quest and what not. It is an ambitious project that sadly I weren't able to get to full 1.0 release I'd be happy with despite months of hard work. I hope some find the mod to their liking. ❤️ \n\nMore information on the mod can be found on my [url=https://git.frisk.space/Frisk/Issix-mod]Git page[/url]. it also has a [url=https://git.frisk.space/Frisk/Issix-mod/wiki/Walkthrough]walkthrough[/url].\n\nFoxLib is highly recommended to be used with this mod.\n\n[b]Changelog for 0.9.8.1[/b]\nBugfixes including rephrasing and other textual fixes\nUnlocked 3rd path of enabling non-con mode that doesn't require player to be dommy or bratty\nAdded feathers as skin coverage option in Mods Options added by FoxLib\n\nSee You Space Cowboy",
-		"author": "Frisk",
-		"modversion": "0.9.8.1",
-		"gameversion": "0.1.9",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/IssixMod.zip"
-	},
-	{
 		"name": "Casino (Demo)",
 		"description": "This is a second update on the casino mod. You can access the casino on your cell. (Which to be changed later) I improved the slot machine so it will (and should) be more balanced. I also add images for decoration. And a new game: Blackjack. \n\nIt might have some bugs. Please tell me if you found one. \n\nThank you for trying my mod.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/CasinoDemo.png]Click for Preview[/url]",
 		"author": "N",
@@ -1465,14 +1457,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersDeerSpeciesV1.0.zip"
 	},
 	{
-		"name": "NpcDefaultsOverride",
-		"description": "Set all NPCs default likes, fetishes, and personality to specified values. Also removes relationship decay. The default mod settings are to like everything, be submissive, and have 100 affection and lust towards the pc. This can be changed easily by editing the NpcDefaultsOverride.gd file then re-zipping.\nCompatibility: Should be compatible with all known mods. Please @ me if you run into any issues and I will respond whenever I can.",
-		"author": "NotNix",
-		"modversion": "0.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NpcDefaultsOverrideV0.1.zip"
-	},
-	{
 		"name": "SongsHoofySpecies",
 		"description": "※ Description \n- Adds 3 new species: Cow, Deer, Goat.\n- Adds some horns, hoofs, tails that are shared by those three species.\n- Cows will spawn with equine penis by default (its possible to get human penis).\n- Deers will spawn with human penis by default (its possible to get equine penis).\n- Goats will spawn with human penis only.\n- Cows and Deers have a chance to have \"Horse Penis Alt\" if the \"songs horse parts\" is installed.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsHoofySpecies.png]Click for Preview[/url]",
 		"author": "SongJo",
@@ -1497,12 +1481,52 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EirasTrashSpeciesV1.3.zip"
 	},
 	{
-		"name": "An Apple A Day",
-		"description": "Adds an exciting new use for apples, in the form of using them to gain buffs (mostly a joke mod). Take an apple to Dr. Quinn to get started.\n\nFixed all your apples being removed whenever you'd throw one\nAdded a skill about throwing apples\nAdded an attack and some perks about it",
-		"author": "Selinoccino",
-		"modversion": "1.1",
+		"name": "Winters Human Removals",
+		"description": "DESCRIPTION: In line with other attempts to limit humans spawning in BDCC, this mod sets human generation weights to zero so none will spawn by default. In addition changes Mirri to have a feline head and the announcer to be a wolf. This does not replace any files.\nCOMPATABILITY: Roxy'sBar (Will turn the barkeep into a dragon)\nCHANGELOG: Mod Created\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersHumanRemovals.png]Click for Preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "1.0",
 		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnAppleADay1.1.zip"
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersHumanRemovalsV1.0.zip"
+	},
+	{
+		"name": "An Apple A Day",
+		"description": "Adds an exciting new use for apples, in the form of using them to gain buffs (mostly a joke mod). Take an apple to Dr. Quinn to get started.\n\nChangelog:\n-Added apple pies, which can be randomly found on engineers, inmates and guards, with varying quality.\n-Probably fixed some stuff, but I couldn't tell you what. Probably something dialogue or text related.\n-Added different variations of reactions to doing apple stuff from characters (only in battle), based on their personality (smth like the modular dialogue system). So far this is limited to eating apple pies (with a small-ish chance) and missing when throwing an apple at someone.\n-Also fixed apple throwing armor scaling.\n\nPlease tell me if you find any issues, and enjoy ig",
+		"author": "Selinoccino",
+		"modversion": "1.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnAppleADay1.2.zip"
+	},
+	{
+		"name": "Issix Mod",
+		"description": "Issix Mod adds player slavery with major pet-play themes.\n\n- Introduced an entirely alternative way of how player can be enslaved, it requires player to take actions that will piss Issix off\n  - This is introduced by a separate exclusive short quest line, it is slightly shorter than the main questline of willful submission to Issix\n  - 2 new characters introduced for purposes of this route\n  - One large scene with multiple endings\n- New reoccurring quest allowing the player to get gumball for their Master from the closet\n  - This makes the closet accessible via access given to player by Issix on first request from Issix to get the pack of gumball\n- Added random corruption events\n- Added PC statuses from Issix Mod inside \"Me\" in-game menu, Issix Mod section should appear at the very bottom of Me info screen\n- Added passive functionality to Azazel's Plushie item\n- Re-introduced computer in the closet\n- New item \"Slave Collar\", a cosmetic variation of an Inmate Collar drawn by keeri\n- Introduced new \"Cosmetics\" option available to Issix's Pets.\n- If player chooses to go the regular way of enslavement, there is now more natural way of gaining \"subby\" personality by asking Issix to make you more subby\n- Hiisi's and Azazel's dialogue options in \"Pets\" menu have been expanded\n- Added new \"reward\" for the player - a sex scene with Issix\n- Brought compatibility with BDCC version 0.1.11fix1\n- Pet speech now always shows what player actually said, not depending on BDSM perk\n- Many, many bugfixes\n\nFoxLib v.0.10.1+ version is recommended (not required) for playing.\n\nFull changelog on my [url=https://git.frisk.space/Frisk/Issix-mod/releases/tag/1.0]git instance[/url].\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/IssixMod.png]Click for Preview[/url]",
+		"author": "Frisk",
+		"modversion": "1.0",
+		"gameversion": "0.1.11",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/IssixMod.zip"
+	},
+	{
+		"name": "Lazy Bulldog Replacer",
+		"description": "Replaces the bulldog head with the wolf head because the bulldog head is ugly and I hate it. Reupload to get around the weird shit I blew up earlier and get it on the mod browser because as many people as possible need this removed from their game.\n\nWorks retroactively, any existing bulldog head will be replaced even on characters added through mods/datapacks.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/LazyBulldogReplacer.png]Click for Preview[/url]",
+		"author": "Anonymous",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/LazyBulldogReplacer.zip"
+	},
+	{
+		"name": "NpcDefaultsOverride",
+		"description": "Set all NPCs default likes, fetishes, and personality to specified values. Also removes relationship decay. The default mod settings are to like everything, be submissive, and have 100 affection and lust towards the pc. This can be changed easily by editing the NpcDefaultsOverride.gd file then re-zipping.\nCompatibility: Should be compatible with all known mods. Please @ me if you run into any issues and I will respond whenever I can.\nChangelog:\nv0.2.0:\nadded ability to set and clamp NPC level and stats.",
+		"author": "NotNix",
+		"modversion": "0.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NpcDefaultsOverrideV0.2.zip"
+	},
+	{
+		"name": "Heat and Behavior Traits",
+		"description": "This mod adds unique species effects for both player and NPC characters, covering over 60 in-game species with a focus on newer mods. Effects are enhanced during heat. Each effect features a modded icon texture for easy distinction from vanilla content.\n\n- Expands the status system by adding special effects for over 60 vanilla, modded and duplicates species (for ex. 'Deer' and 'deer' IDs).\n- Effect effects depend on the 'In Heat' status (more conditions and effect variations are coming in future).\n- Effects may be balanced in the future (feedback and balance suggestions are welcome).\n- Custom Icons: Each status has a unique icon, clearly setting it apart from vanilla icons and avoiding visual duplication. (Icons are subject to future polish).\n- Species supported so far: Absol, Alendi, Avali, Avian, Bat, Bovine, Canine, Charizard, Cow, Deer, Demon, Dragon, Eastern Dragon, Eevee, Equine, Espeon, Feline, Felkin, Flareon, Gardevoir, Glaceon, Goat, Gryphon, Hippogriff, Houndoom, Human, Ice Jogauni, Jolteon, Kobold, Laquine, Leafeon, Lopunny, Lycan Dusk, Lycan Midday, Lycan Midnight, Mew, Nido, Nightstalker, Ori, Possum, Protogen, Puro, Rabbit, Raccoon, Raichu, Rat, Red Panda, Renamon, Seahorse, Shark, Sheep, Skulldog, Snake, South Sergal, Squirrel, Sylveon, Umbreon, Vaporeon, Wickerbeast, Zordian",
+		"author": "Ellie Nibbles",
+		"modversion": "1.6",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HeatAndBehaviorTraits.zip"
 	}
 	]
 }
