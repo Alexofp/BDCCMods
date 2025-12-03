@@ -1121,22 +1121,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/KaiosQOL.zip"
 	},
 	{
-		"name": "SneakUpTease",
-		"description": "Adds an alternate interaction upon meeting a guard, engineer or a nurse in an off-limits cell. In this diverging outcome, the trespassing inmate is not immediately detected, and is presented with an opportunity to sneak up on staff. Occasionally, while exploring the space prison, you may also find yourself on the receiving end of this encounter.\n\n- Wearing loud restraints increases the detection rate. On the other paw, wearing staff uniform may trick pawns that have low perception.\n\n- Explicit interactions require successfully enticing the creature into submission. Failing that, available options are limited to playful teasing (which is valid).\n\n- You may edit the files to sidestep consent play, it's fiction and I'm not here to police it. Do note that it's a core mechanic and an intended way to experience the mod.\n\n- There are some branching paths as well as modular dialogues, with the hope to keep each encounter a little more distinct and tailored to some of the character attributes.\n\nCompatibility\n`/Game/InteractionSystem/Interactions/CaughtOffLimits.gd` is overridden to allow a detour into the alternate interaction, and to include two methods to compute its chances. Any other file is a new addition and shouldn't cause conflicts as long as the filenames are unique.\n\n[color=#CCE4FF]source code[/color] – [url=https://git.frisk.space/keerifox/BDCC-SneakUpTease]git.frisk.space[/url] [color=#B9B9B9]or[/color] [url=https://github.com/keerifox/BDCC-SneakUpTease]github[/url]\n[color=#FFCCEA]personal website[/color] – [url=https://keeri.place]keeri.place[/url] [color=#FFCCEA]<3[/color]",
-		"author": "keerifox",
-		"modversion": "0.3.4",
-		"gameversion": "0.1.11,0.1.10",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SneakUpTease.zip"
-	},
-	{
-		"name": "JunkieRehabilitation",
-		"description": "Adds a new drug which allows to rehabilitate defeated Drug Den junkies into cellblock inmates, in case you wish to meet them again.\n\nThe pill can sometimes be found as loot. Alternatively, you can purchase it for 100 credits from the Med Lobby's vendomat.\n\nCompatibility\n`/Modules/DrugDenModule/DrugDen/DrugDenEncounterTemplateScene.gd` is overridden to allow all of this to happen.\n\n`DrugDenEncounterBossScene.gd`, `DrugDenEncounterFirstScene.gd`, `DrugDenEncounterInstantFightScene.gd`, `DrugDenEventWhoreScene.gd` and `DrugDenEventWhoreSubScene.gd` are overridden to modify path to the class they inherit. No other lines were changed besides line 44 in the boss scene.\n\n[color=#CCE4FF]source code[/color] – [url=https://git.frisk.space/keerifox/BDCC-JunkieRehabilitation]git.frisk.space[/url] [color=#B9B9B9]or[/color] [url=https://github.com/keerifox/BDCC-JunkieRehabilitation]github[/url]\n[color=#FFCCEA]personal website[/color] – [url=https://keeri.place]keeri.place[/url] [color=#FFCCEA]<3[/color]",
-		"author": "keerifox",
-		"modversion": "0.3.3",
-		"gameversion": "0.1.11,0.1.10",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/JunkieRehabilitation.zip"
-	},
-	{
 		"name": "BDCC Dark Days",
 		"description": "The content required to use the \"Broken Dreams Correctional Center: Dark Days\" datapack. Includes characters and new maps to explore.",
 		"author": "Sumobear50",
@@ -1575,6 +1559,22 @@
 		"modversion": "2.3",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MaxModVer2.3.zip"
+	},
+	{
+		"name": "SneakUpTease",
+		"description": "Adds an alternate interaction upon meeting a guard, engineer or a nurse in an off-limits cell. In this diverging outcome, the trespassing inmate is not immediately detected, and is presented with an opportunity to sneak up on staff. Occasionally, while exploring the space prison, you may also find yourself on the receiving end of this encounter.\n\n- Wearing loud restraints increases the detection rate. On the other paw, wearing staff uniform may trick pawns that have low perception.\n\n- Explicit interactions require successfully enticing the creature into submission. Failing that, available options are limited to playful teasing (which is valid).\n\n- You may edit the files to sidestep consent play, it's fiction and I'm not here to police it. Do note that it's a core mechanic and an intended way to experience the mod.\n\n- There are some branching paths as well as modular dialogues, with the hope to keep each encounter a little more distinct and tailored to some of the character attributes.\n\nCompatibility\n`/Game/InteractionSystem/Interactions/CaughtOffLimits.gd` is overridden to allow a detour into the alternate interaction, and to include two methods to compute its chances. Any other file is a new addition and shouldn't cause conflicts as long as the filenames are unique.\n\n[color=#CCE4FF]source code[/color] – [url=https://git.frisk.space/keerifox/BDCC-SneakUpTease]git.frisk.space[/url] [color=#B9B9B9]or[/color] [url=https://github.com/keerifox/BDCC-SneakUpTease]github[/url]\n[color=#FFCCEA]personal website[/color] – [url=https://keeri.place]keeri.place[/url] [color=#FFCCEA]<3[/color]",
+		"author": "keerifox",
+		"modversion": "0.3.5",
+		"gameversion": "0.1.12,0.1.11,0.1.10",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SneakUpTease.zip"
+	},
+	{
+		"name": "JunkieRehabilitation",
+		"description": "Adds a new drug which allows to rehabilitate defeated Drug Den junkies into cellblock inmates, in case you wish to meet them again.\n\nThe pill can sometimes be found as loot. Alternatively, you can purchase it for 100 credits from the Med Lobby's vendomat.\n\nCompatibility\n`/Modules/DrugDenModule/DrugDen/DrugDenEncounterTemplateScene.gd` is overridden to allow all of this to happen.\n\n`DrugDenEncounterBossScene.gd`, `DrugDenEncounterFirstScene.gd`, `DrugDenEncounterInstantFightScene.gd`, `DrugDenEventWhoreScene.gd` and `DrugDenEventWhoreSubScene.gd` are overridden to modify path to the class they inherit. No other lines were changed besides line 44 in the boss scene.\n\n[color=#CCE4FF]source code[/color] – [url=https://git.frisk.space/keerifox/BDCC-JunkieRehabilitation]git.frisk.space[/url] [color=#B9B9B9]or[/color] [url=https://github.com/keerifox/BDCC-JunkieRehabilitation]github[/url]\n[color=#FFCCEA]personal website[/color] – [url=https://keeri.place]keeri.place[/url] [color=#FFCCEA]<3[/color]",
+		"author": "keerifox",
+		"modversion": "0.3.4",
+		"gameversion": "0.1.12,0.1.11,0.1.10",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/JunkieRehabilitation.zip"
 	}
 	]
 }
