@@ -1337,14 +1337,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnonsSheathedHumanPenisV1.1.zip"
 	},
 	{
-		"name": "Anons Aquatic Species",
-		"description": "CREDIT: Original by Anon, Bodywriting by Lucci\nDESCRIPTION: Packaged the Shark Species and the seahorse species under one mod since they share a body to minimise duplicating parts unnessecarily.\nCOMPATABILITY: Hypertus\nCHANGELOG: Published Lucci's bodywriting update, fixed sharks not spawning with tapered slits if available, moved seahorse crests to behind hair so they dont have to be bald.\nNOTE: Since these run new Mod ID's doesnt hurt to back up your saves, or wait till your starting a new game to update. @ me or make a thread if anything is broken.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsAquaticSpecies.png]Click for Preview[/url]",
-		"author": "Anon, Avery Winters",
-		"modversion": "1.3",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnonsAquaticSpeciesV1.3.zip"
-	},
-	{
 		"name": "Anons Base Species Expansion",
 		"description": "CREDIT: Original by Anon, Bodywriting by Lucci\nDESCRIPTION: A collection of bodyparts intended to expand the variety of looks for base species including sabertooths for canines and felines, jackal parts, hyena parts and the combination of equines and dragons plus!\nCHANGELOG: Published Lucci's bodywriting fix.\nNOTE: Since these run new Mod ID's doesnt hurt to back up your saves, or wait till your starting a new game to update. @ me or make a thread if anything is broken.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsBaseSpeciesExpansion.png]Click for Preview[/url]",
 		"author": "Anon, Avery Winters",
@@ -1457,14 +1449,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersDeerSpeciesV1.0.zip"
 	},
 	{
-		"name": "SongsHoofySpecies",
-		"description": "※ Description \n- Adds 3 new species: Cow, Deer, Goat.\n- Adds some horns, hoofs, tails that are shared by those three species.\n- Cows will spawn with equine penis by default (its possible to get human penis).\n- Deers will spawn with human penis by default (its possible to get equine penis).\n- Goats will spawn with human penis only.\n- Cows and Deers have a chance to have \"Horse Penis Alt\" if the \"songs horse parts\" is installed.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsHoofySpecies.png]Click for Preview[/url]",
-		"author": "SongJo",
-		"modversion": "0.8",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsHoofySpecies_v0.8.zip"
-	},
-	{
 		"name": "CharacterToDatapackExport",
 		"description": "Export yourself or a dynamic character to a datapack.\n\nTo export a character, go to the Me menu, select Export, and follow the instructions from there.\n\nv1.2:\n- FIXED: Individual bodypart skins and colors wouldn't export properly on 0.1.10 and higher, due to changes to the save data structure.\n- Backwards compatible with older game versions, so you should be able to export characters between newer and older game versions without issue (tested up to 0.1.11).",
 		"author": "MOONHALO",
@@ -1527,6 +1511,70 @@
 		"modversion": "1.6",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HeatAndBehaviorTraits.zip"
+	},
+	{
+		"name": "Alendi Species",
+		"description": "A kind of strange alien cat from the outskirts of known space. Sabretooth, four ears, no breasts, and total fluffiness. As it turns out, inhabitants of other worlds who don't know the local rules also end up in jail here... \n- Built-in alendi penis supports Balls Extra (I hope), Hypertus support is WIP.\n- Works better with the 'WintersFluffyBodyparts' (floof bodyparts) and 'AnonsBaseSpeciesExpansion' (for sabretooth heads) mods.\n- Adds penis with barbs trait and special ears as its own parts..\n- Tests are needed due to my unusual development methods (this is my first mod)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AlendiSpecies.png]Click for Preview[/url]",
+		"author": "Ellie Nibbles",
+		"modversion": "1.3",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AlendiSpecies.zip"
+	},
+	{
+		"name": "Anons Aquatic Species",
+		"description": "CREDIT: Original by Anon, Bodywriting by Lucci\nDESCRIPTION: Packaged the Shark Species and the seahorse species under one mod since they share a body to minimise duplicating parts unnessecarily.\nCOMPATABILITY: Hypertus, WintersTaperedPenises\nCHANGELOG: Fixed shark buff arms not being loaded\nNOTE: Since these run new Mod ID's doesnt hurt to back up your saves, or wait till your starting a new game to update. @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsAquaticSpecies.png]Click for Preview[/url]",
+		"author": "Anon, Avery Winters",
+		"modversion": "1.4",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnonsAquaticSpeciesV1.4.zip"
+	},
+	{
+		"name": "SongsHoofySpecies",
+		"description": "※ Description \n- Adds 3 new species: Cow, Deer, Goat.\n- Adds some horns, hoofs, tails, ears that are shared by those three species.\n- Cows will spawn with equine penis by default (its possible to get human penis).\n- Deers will spawn with human penis by default (its possible to get equine penis).\n- Goats will spawn with human penis only.\n- Cows and Deers have a chance to have Horse Penis Alt if the \"songs horse parts\" is installed.\n- Compatible mods: Hypertus, Racebonus\n\n※ Deer and Bovine mods\n- [b]The original Deer and Bovine mods by Avery Winters were incorporated in this mod[/b], so you can select the parts from those mods with my cows and deer species, and also these species can spawn with those parts, except for the head parts.\n- As the Incorporation, i kept the original Deer and Bovine species in this mod, so you can select those species and also don’t have to worry about your ongoing or past characters that used those species. However, these two species won’t spawn anymore to prevent confusion.\n\n※ Update [0.9]\n- incorporated the deer and bovine mods\n- now its compatible with Hypertus and Race Bonus mods\n- 1 new head type for each species\n- 1 new deer horns\n- changed deer horns names: deer horns -> deer antlers\n- minor fixes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsHoofySpecies.png]Click for Preview[/url]",
+		"author": "SongJo",
+		"modversion": "0.9",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsHoofySpecies_v0.9.zip"
+	},
+	{
+		"name": "Human Penis Balls Fix",
+		"description": "※ Description\n- Fixes vanilla human penis that dos not support balls size feature when flaccid.\n- supports Hypertus mod\n- very early and experimental mod, so im not sure which other mods it may be incompatible with.",
+		"author": "SongJo",
+		"modversion": "0.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HumanPenisBallsFix.zip"
+	},
+	{
+		"name": "More Uniforms",
+		"description": "Adds many new uniforms to inmates, available for purchase in all the various vending machines through the prison.\nVer 7 Mostly cleans up messy code in the background, but there are new features, bugfixes as well and a few stat changes.\n\nNew Cowprint underwear, fixes to nipple tape to be worn by men/flat chested people, and the Maternity Uniform is less oriented around pregnancy specifically, and new various Item Icons.\n\nList of Everything Added in the MoreUniforms Mod for BDCC.\n\nUniforms, 3 per Inmate type. Spawns on Inmates. All Uniforms can be Damaged.\n-Inmate Crop-Tops (Laundry Vendomat)\n-Upgraded Inmate Uniform (Laundry Vendomat)\n-Maternity Uniform (Medical Vendomat) (Patched)\n-Topless Uniform (General Vendomat)\n-Bottomless Uniform (General Vendomat) \n\nMisc. Clothing Items.\n-Nipple Tape (General Vendomat) (Dyeable) (Ver7: Fixed to work on Flat Chests)\n-Pussy Tape (General Vendomat) (Dyeable)\n-Cowprint Bra (Medical Vendomat) (Dyeable)\n-Cowprint Panties (Medical Vendomat) (Dyeable)\n-Cowprint Briefs (Medical Vendomat\n-Chest wrappings (Medical Vendomat)\n\nHarnesses, Sold by Announcer\n-Chest Harness\n-6-Point Harness\n-8-Point Harness\n-Full Harness\n-Maternity Harness\n-Max Harness\n-Restrictive Harness\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreUniforms.png]Click for Preview[/url]",
+		"author": "Anomymous",
+		"modversion": "7.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreUniformsVer7.zip"
+	},
+	{
+		"name": "Edited Paws",
+		"description": "Edits the base game digilegs with new art. Was missed in the big re-upload and never made it to mod browser. Remade so the mod registers as a module, but the old version works just fine as it did if you can find it on the discord.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EditedPaws.png]Click for Preview[/url]",
+		"author": "Anomymous",
+		"modversion": "2.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EditedPawsVer2.zip"
+	},
+	{
+		"name": "DemonHoundCoversion 1.1",
+		"description": "A mod that edits the base demon species to have canine parts.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/DemonHoundConversion.png]Click for Preview[/url]",
+		"author": "Anomymous",
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DemonHoundConversionVer1.1.zip"
+	},
+	{
+		"name": "MaxMod",
+		"description": "Adds Max, A weapons vendor to the game. An older mod with a quest updated with some sex scenes and trinkets.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MaxMod.png]Click for Preview[/url]",
+		"author": "Anomymous",
+		"modversion": "2.3",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MaxModVer2.3.zip"
 	}
 	]
 }
