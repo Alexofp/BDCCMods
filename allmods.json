@@ -1481,14 +1481,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnAppleADay1.2.zip"
 	},
 	{
-		"name": "Issix Mod",
-		"description": "Issix Mod adds player slavery with major pet-play themes.\n\n- Introduced an entirely alternative way of how player can be enslaved, it requires player to take actions that will piss Issix off\n  - This is introduced by a separate exclusive short quest line, it is slightly shorter than the main questline of willful submission to Issix\n  - 2 new characters introduced for purposes of this route\n  - One large scene with multiple endings\n- New reoccurring quest allowing the player to get gumball for their Master from the closet\n  - This makes the closet accessible via access given to player by Issix on first request from Issix to get the pack of gumball\n- Added random corruption events\n- Added PC statuses from Issix Mod inside \"Me\" in-game menu, Issix Mod section should appear at the very bottom of Me info screen\n- Added passive functionality to Azazel's Plushie item\n- Re-introduced computer in the closet\n- New item \"Slave Collar\", a cosmetic variation of an Inmate Collar drawn by keeri\n- Introduced new \"Cosmetics\" option available to Issix's Pets.\n- If player chooses to go the regular way of enslavement, there is now more natural way of gaining \"subby\" personality by asking Issix to make you more subby\n- Hiisi's and Azazel's dialogue options in \"Pets\" menu have been expanded\n- Added new \"reward\" for the player - a sex scene with Issix\n- Brought compatibility with BDCC version 0.1.11fix1\n- Pet speech now always shows what player actually said, not depending on BDSM perk\n- Many, many bugfixes\n\nFoxLib v.0.10.1+ version is recommended (not required) for playing.\n\nFull changelog on my [url=https://git.frisk.space/Frisk/Issix-mod/releases/tag/1.0]git instance[/url].\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/IssixMod.png]Click for Preview[/url]",
-		"author": "Frisk",
-		"modversion": "1.0",
-		"gameversion": "0.1.11",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/IssixMod.zip"
-	},
-	{
 		"name": "Lazy Bulldog Replacer",
 		"description": "Replaces the bulldog head with the wolf head because the bulldog head is ugly and I hate it. Reupload to get around the weird shit I blew up earlier and get it on the mod browser because as many people as possible need this removed from their game.\n\nWorks retroactively, any existing bulldog head will be replaced even on characters added through mods/datapacks.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/LazyBulldogReplacer.png]Click for Preview[/url]",
 		"author": "Anonymous",
@@ -1575,6 +1567,14 @@
 		"modversion": "2.3",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MaxModVer2.3.zip"
+	},
+	{
+		"name": "Issix Mod",
+		"description": "Issix Mod adds player slavery with major pet-play themes.\n\n- Introduced an entirely alternative way of how player can be enslaved, it requires player to take actions that will piss Issix off\n  - This is introduced by a separate exclusive short quest line, it is slightly shorter than the main questline of willful submission to Issix\n  - 2 new characters introduced for purposes of this route\n  - One large scene with multiple endings\n- New reoccurring quest allowing the player to get gumball for their Master from the closet\n  - This makes the closet accessible via access given to player by Issix on first request from Issix to get the pack of gumball\n- Added random corruption events\n- Added PC statuses from Issix Mod inside \"Me\" in-game menu, Issix Mod section should appear at the very bottom of Me info screen\n- Added passive functionality to Azazel's Plushie item\n- Re-introduced computer in the closet\n- New item \"Slave Collar\", a cosmetic variation of an Inmate Collar drawn by keeri\n- Introduced new \"Cosmetics\" option available to Issix's Pets.\n- If player chooses to go the regular way of enslavement, there is now more natural way of gaining \"subby\" personality by asking Issix to make you more subby\n- Hiisi's and Azazel's dialogue options in \"Pets\" menu have been expanded\n- Added new \"reward\" for the player - a sex scene with Issix\n- Brought compatibility with BDCC version 0.1.11fix1\n- Pet speech now always shows what player actually said, not depending on BDSM perk\n- Many, many bugfixes\n\nFixed bugs in 1.0.1\n- Physical changes do not apply on PC character in non-con path\n- PetSpeech does not use the appropriate species specific speech\n- Changed requirement for further progress in non-con path to be less demanding\n- Base game compatibility updated to 0.1.12 since I haven't found any visible issues with the mod since the update\n\nBig thanks to FunnyMan, Tsourai and MooCow for reports of various issues with the 1.0 release! Without reports I cannot fix/improve the mod, which is why they are so important.\n\nFoxLib v.0.10.1+ version is recommended (not required) for playing.\n\nFull changelog on my [url=https://git.frisk.space/Frisk/Issix-mod/releases/tag/1.0]git instance[/url].\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/IssixMod.png]Click for Preview[/url]",
+		"author": "Frisk",
+		"modversion": "1.0.1",
+		"gameversion": "0.1.12",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/IssixMod.zip"
 	}
 	]
 }
