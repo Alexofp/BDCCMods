@@ -1313,14 +1313,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersWitheredBodypartsV1.0.zip"
 	},
 	{
-		"name": "Anons Sheathed Human Penis",
-		"description": "Human penis with a sheath on it. Similar to the update by Winter 'Eira without overwriting the base human penis.\nCOMPATIBILITY: Hypertus & BallsExtra\nCHANGELOG: fixed BallsExtra compat.\nNOTE: @ Me or make a thread if anything is broken.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsSheathedHumanPenis.png]Click for Preview[/url]",
-		"author": "Anon, Avery Winters",
-		"modversion": "1.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnonsSheathedHumanPenisV1.1.zip"
-	},
-	{
 		"name": "Anons Base Species Expansion",
 		"description": "CREDIT: Original by Anon, Bodywriting by Lucci\nDESCRIPTION: A collection of bodyparts intended to expand the variety of looks for base species including sabertooths for canines and felines, jackal parts, hyena parts and the combination of equines and dragons plus!\nCHANGELOG: Published Lucci's bodywriting fix.\nNOTE: Since these run new Mod ID's doesnt hurt to back up your saves, or wait till your starting a new game to update. @ me or make a thread if anything is broken.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsBaseSpeciesExpansion.png]Click for Preview[/url]",
 		"author": "Anon, Avery Winters",
@@ -1481,14 +1473,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NpcDefaultsOverrideV0.2.zip"
 	},
 	{
-		"name": "Heat and Behavior Traits",
-		"description": "This mod adds unique species effects for both player and NPC characters, covering over 60 in-game species with a focus on newer mods. Effects are enhanced during heat. Each effect features a modded icon texture for easy distinction from vanilla content.\n\n- Expands the status system by adding special effects for over 60 vanilla, modded and duplicates species (for ex. 'Deer' and 'deer' IDs).\n- Effect effects depend on the 'In Heat' status (more conditions and effect variations are coming in future).\n- Effects may be balanced in the future (feedback and balance suggestions are welcome).\n- Custom Icons: Each status has a unique icon, clearly setting it apart from vanilla icons and avoiding visual duplication. (Icons are subject to future polish).\n- Species supported so far: Absol, Alendi, Avali, Avian, Bat, Bovine, Canine, Charizard, Cow, Deer, Demon, Dragon, Eastern Dragon, Eevee, Equine, Espeon, Feline, Felkin, Flareon, Gardevoir, Glaceon, Goat, Gryphon, Hippogriff, Houndoom, Human, Ice Jogauni, Jolteon, Kobold, Laquine, Leafeon, Lopunny, Lycan Dusk, Lycan Midday, Lycan Midnight, Mew, Nido, Nightstalker, Ori, Possum, Protogen, Puro, Rabbit, Raccoon, Raichu, Rat, Red Panda, Renamon, Seahorse, Shark, Sheep, Skulldog, Snake, South Sergal, Squirrel, Sylveon, Umbreon, Vaporeon, Wickerbeast, Zordian",
-		"author": "Ellie Nibbles",
-		"modversion": "1.6",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HeatAndBehaviorTraits.zip"
-	},
-	{
 		"name": "Alendi Species",
 		"description": "A kind of strange alien cat from the outskirts of known space. Sabretooth, four ears, no breasts, and total fluffiness. As it turns out, inhabitants of other worlds who don't know the local rules also end up in jail here... \n- Built-in alendi penis supports Balls Extra (I hope), Hypertus support is WIP.\n- Works better with the 'WintersFluffyBodyparts' (floof bodyparts) and 'AnonsBaseSpeciesExpansion' (for sabretooth heads) mods.\n- Adds penis with barbs trait and special ears as its own parts..\n- Tests are needed due to my unusual development methods (this is my first mod)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AlendiSpecies.png]Click for Preview[/url]",
 		"author": "Ellie Nibbles",
@@ -1575,6 +1559,30 @@
 		"modversion": "1.0.1",
 		"gameversion": "0.1.12",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/IssixMod.zip"
+	},
+	{
+		"name": "Heat and Behavior Traits",
+		"description": "This mod adds unique species effects for both player and NPC characters, covering over 60 in-game species with a focus on newer mods. Effects are enhanced during heat. Each effect features a modded icon texture for easy distinction from vanilla content.\n\n- Expands the status system by adding special effects for over 60 vanilla, modded and duplicates species (for ex. 'Deer' and 'deer' IDs).\n- Effect effects depend on the 'In Heat' status (more conditions and effect variations are coming in future).\n- Effects may be balanced in the future (feedback and balance suggestions are welcome).\n- Custom Icons: Each status has a unique icon, clearly setting it apart from vanilla icons and avoiding visual duplication. (Icons are subject to future polish).\n- Species supported so far: Absol, Alendi, Avali, Avian, Bat, Bovine, Canine, Charizard, Cow, Deer, Demon, Dragon, Eastern Dragon, Eevee, Equine, Espeon, Feline, Felkin, Flareon, Gardevoir, Glaceon, Goat, Gryphon, Hippogriff, Houndoom, Human, Ice Jogauni, Jolteon, Kobold, Laquine, Leafeon, Lopunny, Lycan Dusk, Lycan Midday, Lycan Midnight, Mew, Nido, Nightstalker, Ori, Possum, Protogen, Puro, Rabbit, Raccoon, Raichu, Rat, Red Panda, Renamon, Seahorse, Shark, Sheep, Skulldog, Snake, South Sergal, Squirrel, Sylveon, Umbreon, Vaporeon, Wickerbeast, Zordian\n\nChangelog:\n--- Version 1.6: \n- First published release.\n--- Version 1.7:\n- Arirals have been added to the list.\n- First iteration of balancing (I will be waiting for comments and suggestions for reasonable (more lore-friendly) bonuses, as I am not very familiar with some of the species)",
+		"author": "Ellie Nibbles",
+		"modversion": "1.7",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HeatAndBehaviorTraits.zip"
+	},
+	{
+		"name": "Generic NPC Portrait Replacer",
+		"description": "Art by Moldy Tub\n\nReplaces the human-looking, generic NPC portrait with a canine version\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoldyTubGenericNpcPortrait.png]Click for Preview[/url]",
+		"author": "Lucci, Moldy Tub",
+		"modversion": "1.0.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoldyTubGenericNpcPortraitVer1.0.1.zip"
+	},
+	{
+		"name": "Anons Sheathed Human Penis",
+		"description": "Human penis with a sheath on it. Similar to the update by Winter 'Eira without overwriting the base human penis.\nCOMPATIBILITY: Hypertus & BallsExtra\nCHANGELOG: fixed filepath error in hypertus compat, simplified some code checks.\nNOTE: @ Me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsSheathedHumanPenis.png]Click for Preview[/url]",
+		"author": "Anon, Avery Winters",
+		"modversion": "1.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnonsSheathedHumanPenisV1.2.zip"
 	}
 	]
 }
