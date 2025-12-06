@@ -1321,14 +1321,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnonsBaseSpeciesExpansionV1.2.zip"
 	},
 	{
-		"name": "Anons Protogen Species",
-		"description": "CREDIT: Original by Anon, Bodywriting by Lucci\nDESCRIPTION: Updated the protogen mod. Adds a protogen species and a number of bodyparts to match. I have kept all the bodypart ID's the same to avoid as many issues as possible.\nCHANGELOG: Published Lucci's bodywriting fix.\nNOTE: Since these run new Mod ID's doesnt hurt to back up your saves, or wait till your starting a new game to update. @ me or make a thread if anything is broken.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsProtogenSpecies.png]Click for Preview[/url]",
-		"author": "Anon, Avery Winters",
-		"modversion": "1.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnonsProtogenSpeciesV1.1.zip"
-	},
-	{
 		"name": "Winters Southern Sergal Patch",
 		"description": "DESCRIPTION: Patches Amewsing's Southern sergals to run WintersFluffyBodyparts. Must be loaded after Southern Sergals & WintersFluffyBodyparts.\nCOMPATABILITY: Hypertus, WintersFluffyBodyparts & SouthernSergals\nCHANGELOG: Published Lucci's bodywriting fix.\nNOTE: @ me or make a thread if anything is broken.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersSouthernSergalPatch.png]Click for preview[/url]",
 		"author": "Avery Winters",
@@ -1583,6 +1575,14 @@
 		"modversion": "1.0.2",
 		"gameversion": "0.1.12",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/IssixMod.zip"
+	},
+	{
+		"name": "Anons Protogen Species",
+		"description": "CREDIT: Original by Anon, Bodywriting by Lucci\nDESCRIPTION: Updated the protogen mod. Adds a protogen species and a number of bodyparts to match. I have kept all the bodypart ID's the same to avoid as many issues as possible.\nCHANGELOG: Fixed GetCompatibleSpecies to not be a string and corrected a bodypart not being assigned correctly.\nNOTE: Since these run new Mod ID's doesnt hurt to back up your saves, or wait till your starting a new game to update. @ me or make a thread if anything is broken.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsProtogenSpecies.png]Click for Preview[/url]",
+		"author": "Anon, Avery Winters",
+		"modversion": "1.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnonsProtogenSpeciesV1.2.zip"
 	}
 	]
 }
