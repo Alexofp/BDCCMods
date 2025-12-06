@@ -1353,14 +1353,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnonsSkulldogSpeciesV1.1.zip"
 	},
 	{
-		"name": "Winters Fluffy Bodyparts",
-		"description": "CREDIT: Original by Anon\nDESCRIPTION: An expansion of the fluff bodyparts adding a few new parts to the original list including clawed hands, fluffy hoofs and a body with neck fluff. Dynamic NPC Canines, Felines and Equines will now spawn with fluffy bodyparts by default. \nCOMPATABILITY: Hypertus, Bodywriting\nCHANGELOG: added new fluffy backed leg for Moldy Tub\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersFluffyBodyparts.png]Click for Preview[/url]",
-		"author": "Avery Winters",
-		"modversion": "1.7",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersFluffyBodypartsV1.7.zip"
-	},
-	{
 		"name": "Quick Sell",
 		"description": "Selling/Buying an item from a Vendomat or The Announcer no longer kicks you out of the menu, allowing you to buy/sell multiple items quickly\n\nWarning:\nMay lead to accidental sales or purchases\nAll transactions final. No refunds or buybacks\n\nMinor Update:\n- Buyer's Remorse: shows summary of credits and items after every transaction\n- Ventriloquist Ans: The Announcer no longer speaks thru Alex (bug fix)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/QuickSell.webm]Click for Preview[/url]",
 		"author": "Lucci",
@@ -1375,14 +1367,6 @@
 		"modversion": "0.6",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersClothingTweaksV0.6.zip"
-	},
-	{
-		"name": "Hairpack",
-		"description": "※ Description \n- adds 19 hairstyles (i wrote 11 earlier on v1.2, but that was wrong)\n\n※ Update [ver1.3]\n- 5 new hair styles!\n- remodeled some existing hairs (sh1, sh4, sh5, sh8)\n- cleaned some hairs stray pixels\n- added hair strays on some hairs\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HairPackbySongjo.png]Click for Preview[/url]",
-		"author": "Songjo",
-		"modversion": "1.3",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HairPackbySongjo_v1.3.zip"
 	},
 	{
 		"name": "Human Replacer",
@@ -1447,14 +1431,6 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersHumanRemovalsV1.0.zip"
-	},
-	{
-		"name": "An Apple A Day",
-		"description": "Adds an exciting new use for apples, in the form of using them to gain buffs (mostly a joke mod). Take an apple to Dr. Quinn to get started.\n\nChangelog:\n-Added apple pies, which can be randomly found on engineers, inmates and guards, with varying quality.\n-Probably fixed some stuff, but I couldn't tell you what. Probably something dialogue or text related.\n-Added different variations of reactions to doing apple stuff from characters (only in battle), based on their personality (smth like the modular dialogue system). So far this is limited to eating apple pies (with a small-ish chance) and missing when throwing an apple at someone.\n-Also fixed apple throwing armor scaling.\n\nPlease tell me if you find any issues, and enjoy ig",
-		"author": "Selinoccino",
-		"modversion": "1.2",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnAppleADay1.2.zip"
 	},
 	{
 		"name": "Lazy Bulldog Replacer",
@@ -1553,22 +1529,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/JunkieRehabilitation.zip"
 	},
 	{
-		"name": "Issix Mod",
-		"description": "Issix Mod adds player slavery with major pet-play themes.\n\n- Introduced an entirely alternative way of how player can be enslaved, it requires player to take actions that will piss Issix off\n  - This is introduced by a separate exclusive short quest line, it is slightly shorter than the main questline of willful submission to Issix\n  - 2 new characters introduced for purposes of this route\n  - One large scene with multiple endings\n- New reoccurring quest allowing the player to get gumball for their Master from the closet\n  - This makes the closet accessible via access given to player by Issix on first request from Issix to get the pack of gumball\n- Added random corruption events\n- Added PC statuses from Issix Mod inside \"Me\" in-game menu, Issix Mod section should appear at the very bottom of Me info screen\n- Added passive functionality to Azazel's Plushie item\n- Re-introduced computer in the closet\n- New item \"Slave Collar\", a cosmetic variation of an Inmate Collar drawn by keeri\n- Introduced new \"Cosmetics\" option available to Issix's Pets.\n- If player chooses to go the regular way of enslavement, there is now more natural way of gaining \"subby\" personality by asking Issix to make you more subby\n- Hiisi's and Azazel's dialogue options in \"Pets\" menu have been expanded\n- Added new \"reward\" for the player - a sex scene with Issix\n- Brought compatibility with BDCC version 0.1.11fix1\n- Pet speech now always shows what player actually said, not depending on BDSM perk\n- Many, many bugfixes\n\nFixed bugs in 1.0.1\n- Physical changes do not apply on PC character in non-con path\n- PetSpeech does not use the appropriate species specific speech\n- Changed requirement for further progress in non-con path to be less demanding\n- Base game compatibility updated to 0.1.12 since I haven't found any visible issues with the mod since the update\n\nBig thanks to FunnyMan, Tsourai and MooCow for reports of various issues with the 1.0 release! Without reports I cannot fix/improve the mod, which is why they are so important.\n\nFoxLib v.0.10.1+ version is recommended (not required) for playing.\n\nFull changelog on my [url=https://git.frisk.space/Frisk/Issix-mod/releases/tag/1.0]git instance[/url].\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/IssixMod.png]Click for Preview[/url]",
-		"author": "Frisk",
-		"modversion": "1.0.1",
-		"gameversion": "0.1.12",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/IssixMod.zip"
-	},
-	{
-		"name": "Heat and Behavior Traits",
-		"description": "This mod adds unique species effects for both player and NPC characters, covering over 60 in-game species with a focus on newer mods. Effects are enhanced during heat. Each effect features a modded icon texture for easy distinction from vanilla content.\n\n- Expands the status system by adding special effects for over 60 vanilla, modded and duplicates species (for ex. 'Deer' and 'deer' IDs).\n- Effect effects depend on the 'In Heat' status (more conditions and effect variations are coming in future).\n- Effects may be balanced in the future (feedback and balance suggestions are welcome).\n- Custom Icons: Each status has a unique icon, clearly setting it apart from vanilla icons and avoiding visual duplication. (Icons are subject to future polish).\n- Species supported so far: Absol, Alendi, Avali, Avian, Bat, Bovine, Canine, Charizard, Cow, Deer, Demon, Dragon, Eastern Dragon, Eevee, Equine, Espeon, Feline, Felkin, Flareon, Gardevoir, Glaceon, Goat, Gryphon, Hippogriff, Houndoom, Human, Ice Jogauni, Jolteon, Kobold, Laquine, Leafeon, Lopunny, Lycan Dusk, Lycan Midday, Lycan Midnight, Mew, Nido, Nightstalker, Ori, Possum, Protogen, Puro, Rabbit, Raccoon, Raichu, Rat, Red Panda, Renamon, Seahorse, Shark, Sheep, Skulldog, Snake, South Sergal, Squirrel, Sylveon, Umbreon, Vaporeon, Wickerbeast, Zordian\n\nChangelog:\n--- Version 1.6: \n- First published release.\n--- Version 1.7:\n- Arirals have been added to the list.\n- First iteration of balancing (I will be waiting for comments and suggestions for reasonable (more lore-friendly) bonuses, as I am not very familiar with some of the species)",
-		"author": "Ellie Nibbles",
-		"modversion": "1.7",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HeatAndBehaviorTraits.zip"
-	},
-	{
 		"name": "Generic NPC Portrait Replacer",
 		"description": "Art by Moldy Tub\n\nReplaces the human-looking, generic NPC portrait with a canine version\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoldyTubGenericNpcPortrait.png]Click for Preview[/url]",
 		"author": "Lucci, Moldy Tub",
@@ -1583,6 +1543,46 @@
 		"modversion": "1.2",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnonsSheathedHumanPenisV1.2.zip"
+	},
+	{
+		"name": "Heat and Behavior Traits",
+		"description": "This mod adds unique species effects for both player and NPC characters, covering over 60 in-game species with a focus on newer mods. Effects are enhanced during heat. Each effect features a modded icon texture for easy distinction from vanilla content.\n\n- Expands the status system by adding special effects for over 60 vanilla, modded and duplicates species (for ex. 'Deer' and 'deer' IDs).\n- Effect effects depend on the 'In Heat' status (more conditions and effect variations are coming in future).\n- Effects may be balanced in the future (feedback and balance suggestions are welcome).\n- Custom Icons: Each status has a unique icon, clearly setting it apart from vanilla icons and avoiding visual duplication. (Icons are subject to future polish).\n- Species supported so far: Absol, Alendi, Avali, Avian, Bat, Bovine, Canine, Charizard, Cow, Deer, Demon, Dragon, Eastern Dragon, Eevee, Equine, Espeon, Feline, Felkin, Flareon, Gardevoir, Glaceon, Goat, Gryphon, Hippogriff, Houndoom, Human, Ice Jogauni, Jolteon, Kobold, Laquine, Leafeon, Lopunny, Lycan Dusk, Lycan Midday, Lycan Midnight, Mew, Nido, Nightstalker, Ori, Possum, Protogen, Puro, Rabbit, Raccoon, Raichu, Rat, Red Panda, Renamon, Seahorse, Shark, Sheep, Skulldog, Snake, South Sergal, Squirrel, Sylveon, Umbreon, Vaporeon, Wickerbeast, Zordian\n\nChangelog:\n--- Version 1.6: \n- First published release.\n--- Version 1.7:\n- Arirals have been added to the list.\n- First iteration of balancing (I will be waiting for comments and suggestions for reasonable (more lore-friendly) bonuses, as I am not very familiar with some of the species)\n--- Version 1.8:\nNew starting perk: 'Permanent Heat' as opposed to the existing 'No Heat'\nNew species: Lucario, Synth, Crow, Ampwave, Elf, Nano Android and 'Racoon' duplicate",
+		"author": "Ellie Nibbles",
+		"modversion": "1.8",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HeatAndBehaviorTraits.zip"
+	},
+	{
+		"name": "Winters Fluffy Bodyparts",
+		"description": "CREDIT: Original by Anon\nDESCRIPTION: An expansion of the fluff bodyparts adding a few new parts to the original list including clawed hands, fluffy hoofs and a body with neck fluff. Dynamic NPC Canines, Felines and Equines will now spawn with fluffy bodyparts by default. \nCOMPATABILITY: Hypertus, Bodywriting\nCHANGELOG: Added mod options to enable or disable the Dynamic NPC's spawning with fluffy parts\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersFluffyBodyparts.png]Click for Preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "1.8",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersFluffyBodypartsV1.8.zip"
+	},
+	{
+		"name": "An Apple A Day",
+		"description": "Adds an exciting new use for apples, in the form of using them to gain buffs (mostly a joke mod). Take an apple to Dr. Quinn to get started.\n\nChangelog:Changelog:\n-Added apple cream pies, whose quality depends on that of the cream used.\n-Added the ability to knock down your opponents with your apple throws through a perk.\n-Added the ability to cook in your cell. Store a few apples there to get started (this one was a headache and a half to get working).\nPlease tell me if you find any issues, and enjoy!",
+		"author": "Selinoccino",
+		"modversion": "1.5",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnAppleADay1.5.zip"
+	},
+	{
+		"name": "Hairpack",
+		"description": "※ Description \n- adds 24 hair styles\n\n※ Update (ver1.4)\n- 5 new hair styles\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HairPackbySongjo.png]Click for Preview[/url]",
+		"author": "Songjo",
+		"modversion": "1.4",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HairPackbySongjo_v1.4.zip"
+	},
+	{
+		"name": "Issix Mod",
+		"description": "[url=https://git.frisk.space/Frisk/Issix-mod]Issix Mod adds player slavery with major pet-play themes.[/url]\n\nIt's me again with even more bugfixes!\n- Fixed bugs\n  - Fixed Azazel's scenes not showing up (#90)\n  - Fixed call error in Azazel's first corruption scene\n  - Added the character portrait for Nova's scene\n- Per feedback increased chance for Azazel's scenes happening\n- Added more tiles where the random pet scenes can occur (stairs near the stocks)\n- Applied a little improvement when describing some modded bodypart names in scenes so numbers are stripped off the end\n\nFull changelog on my [url=https://git.frisk.space/Frisk/Issix-mod/releases]git instance[/url].\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/IssixMod.png]Click for Preview[/url]",
+		"author": "Frisk",
+		"modversion": "1.0.2",
+		"gameversion": "0.1.12",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/IssixMod.zip"
 	}
 	]
 }
