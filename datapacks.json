@@ -3856,14 +3856,14 @@
 		},
 		{
 			"id": "noctale",
-			"name": "Noctale the transformation merchant v0.11",
+			"name": "Noctale the transformation merchant",
 			"author": "Noctalink",
 			"version": "0.11",
 			"description": "Adds Noctale a transformation lover fox who will help you to buy random tf pills.\nHe might also help you transform other people for a price, but beware, as he may target you too (not implemented yet).\n\nCurrent features :\n[+] Buy strange pills from Noctale\n[+] Daily Noctale self-transformation\n\nFeatures to come:\n[+] Pay Noctale to transform static NPC (like Rahi)\n[+] Pay Noctale to transform you\n[+] Transform Noctale to your liking\n[+] More dialogs\n[+] Random tf event, involving involontary tf\n\nAsk me on discord if you have any feedbacks, suggestions or if you find any bugs",
-			"contains": "Contains: 1 character, 3 scenes",
+			"contains": "Contains: 1 character, 4 scenes",
 			"download": "datapacks/noctale.res",
-			"lastedit": 1764738436,
-			"filesize": 69581,
+			"lastedit": 1765171972,
+			"filesize": 153654,
 			"requiredDatapacks": [
 
 			],

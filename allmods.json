@@ -1457,14 +1457,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnonsAquaticSpeciesV1.4.zip"
 	},
 	{
-		"name": "SongsHoofySpecies",
-		"description": "※ Description \n- Adds 3 new species: Cow, Deer, Goat.\n- Adds some horns, hoofs, tails, ears that are shared by those three species.\n- Cows will spawn with equine penis by default (its possible to get human penis).\n- Deers will spawn with human penis by default (its possible to get equine penis).\n- Goats will spawn with human penis only.\n- Cows and Deers have a chance to have Horse Penis Alt if the \"songs horse parts\" is installed.\n- Compatible mods: Hypertus, Racebonus\n\n※ Deer and Bovine mods\n- [b]The original Deer and Bovine mods by Avery Winters were incorporated in this mod[/b], so you can select the parts from those mods with my cows and deer species, and also these species can spawn with those parts, except for the head parts.\n- As the Incorporation, i kept the original Deer and Bovine species in this mod, so you can select those species and also don’t have to worry about your ongoing or past characters that used those species. However, these two species won’t spawn anymore to prevent confusion.\n\n※ Update [0.9]\n- incorporated the deer and bovine mods\n- now its compatible with Hypertus and Race Bonus mods\n- 1 new head type for each species\n- 1 new deer horns\n- changed deer horns names: deer horns -> deer antlers\n- minor fixes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsHoofySpecies.png]Click for Preview[/url]",
-		"author": "SongJo",
-		"modversion": "0.9",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsHoofySpecies_v0.9.zip"
-	},
-	{
 		"name": "More Uniforms",
 		"description": "Adds many new uniforms to inmates, available for purchase in all the various vending machines through the prison.\nVer 7 Mostly cleans up messy code in the background, but there are new features, bugfixes as well and a few stat changes.\n\nNew Cowprint underwear, fixes to nipple tape to be worn by men/flat chested people, and the Maternity Uniform is less oriented around pregnancy specifically, and new various Item Icons.\n\nList of Everything Added in the MoreUniforms Mod for BDCC.\n\nUniforms, 3 per Inmate type. Spawns on Inmates. All Uniforms can be Damaged.\n-Inmate Crop-Tops (Laundry Vendomat)\n-Upgraded Inmate Uniform (Laundry Vendomat)\n-Maternity Uniform (Medical Vendomat) (Patched)\n-Topless Uniform (General Vendomat)\n-Bottomless Uniform (General Vendomat) \n\nMisc. Clothing Items.\n-Nipple Tape (General Vendomat) (Dyeable) (Ver7: Fixed to work on Flat Chests)\n-Pussy Tape (General Vendomat) (Dyeable)\n-Cowprint Bra (Medical Vendomat) (Dyeable)\n-Cowprint Panties (Medical Vendomat) (Dyeable)\n-Cowprint Briefs (Medical Vendomat\n-Chest wrappings (Medical Vendomat)\n\nHarnesses, Sold by Announcer\n-Chest Harness\n-6-Point Harness\n-8-Point Harness\n-Full Harness\n-Maternity Harness\n-Max Harness\n-Restrictive Harness\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreUniforms.png]Click for Preview[/url]",
 		"author": "Anomymous",
@@ -1545,14 +1537,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersFluffyBodypartsV1.8.zip"
 	},
 	{
-		"name": "An Apple A Day",
-		"description": "Adds an exciting new use for apples, in the form of using them to gain buffs (mostly a joke mod). Take an apple to Dr. Quinn to get started.\n\nChangelog:Changelog:\n-Added apple cream pies, whose quality depends on that of the cream used.\n-Added the ability to knock down your opponents with your apple throws through a perk.\n-Added the ability to cook in your cell. Store a few apples there to get started (this one was a headache and a half to get working).\nPlease tell me if you find any issues, and enjoy!",
-		"author": "Selinoccino",
-		"modversion": "1.5",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnAppleADay1.5.zip"
-	},
-	{
 		"name": "Hairpack",
 		"description": "※ Description \n- adds 24 hair styles\n\n※ Update (ver1.4)\n- 5 new hair styles\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HairPackbySongjo.png]Click for Preview[/url]",
 		"author": "Songjo",
@@ -1591,6 +1575,38 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SnowsBarbedCaninePenis.zip"
+	},
+	{
+		"name": "SongsHoofySpecies",
+		"description": "※ Description \n- Adds 3 new species: Cow, Deer, Goat.\n- Adds some horns, hoofs, tails, ears that are shared by those three species.\n- Cows will spawn with equine penis by default (its possible to get human penis).\n- Deers will spawn with human penis by default (its possible to get equine penis).\n- Goats will spawn with human penis only.\n- Cows and Deers have a chance to have Horse Penis Alt if the \"songs horse parts\" is installed.\n- Compatible mods: Hypertus, Racebonus\n\n※ Deer and Bovine mods\n- The original Deer and Bovine mods by Avery Winters were incorporated in this mod, so you can select the parts from those mods with my cows and deer species, and also these species can spawn with those parts, except for the head parts.\n- As the Incorporation, i kept the original Deer and Bovine species in this mod, so you can select those species and also don’t have to worry about your ongoing or past characters that used those species. However, these two species won’t spawn anymore to prevent confusion.\n\n※ Update [0.9.2]\n- added 1 universal ears\n- added 1 goat ears\n- fixed some codes with issue\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsHoofySpecies.png]Click for Preview[/url]",
+		"author": "SongJo",
+		"modversion": "0.9.2hotfix2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsHoofySpecies_v0.9.2hotfix2.zip"
+	},
+	{
+		"name": "An Apple A Day",
+		"description": "Requires CraftingLib mod\n\nAdds an exciting new use for apples, in the form of using them to gain buffs (mostly a joke mod). Take an apple to Dr. Quinn to get started.\n\nChangelog:Changelog:\n-Added apple cream pies, whose quality depends on that of the cream used.\n-Added the ability to knock down your opponents with your apple throws through a perk.\n-Added the ability to cook in your cell. Store a few apples there to get started (this one was a headache and a half to get working).\nVersion 1.5.1:\n- Added apple tarts, which are just food.\n- Made the cooking system as modular as possible, allowing other modules to add or overwrite recipes for their own or basegame items, add their own ingredients (or overwrite existing ones), and add alternative recipes for items.\n- Added the ability to create ingredients from items other than apples, as well as other ingredients.\n- Added the ability to transfer any fluid type from an item as an ingredient, as long as an ingredient with the same id exists.\nVersion 1.5.2:\n- Rewritten to use my CraftingLib, which is now [b]required[/b]\nPlease tell me if you find any issues, and enjoy!",
+		"author": "Selinoccino",
+		"modversion": "1.5.3",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnAppleADay1.5.3.zip"
+	},
+	{
+		"name": "CraftingLib",
+		"description": "Adds a modular crafting system, allowing other modules to add or overwrite recipes for their own or basegame items, add their own ingredients (or overwrite existing ones), and add alternative recipes for items. Recipes are separated by workbench type, and have no limits to ingredient/item combinations for their requirements and outputs (ingredients are exclusive to a workbench). Does nothing on its own.",
+		"author": "Selinoccino",
+		"modversion": "1.0.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CraftingLib1.0.1.zip"
+	},
+	{
+		"name": "Snows Womb Tattoos",
+		"description": "Added a Virility womb tattoo pill, for all the studs out there!\n\nYou can't currently use the pills during sex, I plan to work on that",
+		"author": "SnowboundStar",
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SnowsWombTattoos.zip"
 	}
 	]
 }
