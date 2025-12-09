@@ -1586,25 +1586,41 @@
 	},
 	{
 		"name": "An Apple A Day",
-		"description": "Requires CraftingLib mod\n\nAdds an exciting new use for apples, in the form of using them to gain buffs (mostly a joke mod). Take an apple to Dr. Quinn to get started.\n\nChangelog:Changelog:\n-Added apple cream pies, whose quality depends on that of the cream used.\n-Added the ability to knock down your opponents with your apple throws through a perk.\n-Added the ability to cook in your cell. Store a few apples there to get started (this one was a headache and a half to get working).\nVersion 1.5.1:\n- Added apple tarts, which are just food.\n- Made the cooking system as modular as possible, allowing other modules to add or overwrite recipes for their own or basegame items, add their own ingredients (or overwrite existing ones), and add alternative recipes for items.\n- Added the ability to create ingredients from items other than apples, as well as other ingredients.\n- Added the ability to transfer any fluid type from an item as an ingredient, as long as an ingredient with the same id exists.\nVersion 1.5.2:\n- Rewritten to use my CraftingLib, which is now [b]required[/b]\nPlease tell me if you find any issues, and enjoy!",
+		"description": "Adds an exciting new use for apples, in the form of using them to gain buffs (mostly a joke mod). Take an apple to Dr. Quinn to get started.\n\nChangelog:Changelog:\n-Added apple cream pies, whose quality depends on that of the cream used.\n-Added the ability to knock down your opponents with your apple throws through a perk.\n-Added the ability to cook in your cell. Store a few apples there to get started (this one was a headache and a half to get working).\nVersion 1.5.4:\nAdded back the ability to provide homemade cream (this can also serve as an example of adding your own buttons/options/states to CraftingLib's base workbench scene)\nCraftingLib is no longer required; using it with AAAD will give you access to stoves and apple-related recipes, as before, and not using it just disables that\nPlease tell me if you find any issues, and enjoy!",
 		"author": "Selinoccino",
-		"modversion": "1.5.3",
+		"modversion": "1.5.4",
 		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnAppleADay1.5.3.zip"
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnAppleADay_1.5.4.zip"
 	},
 	{
 		"name": "CraftingLib",
-		"description": "Adds a modular crafting system, allowing other modules to add or overwrite recipes for their own or basegame items, add their own ingredients (or overwrite existing ones), and add alternative recipes for items. Recipes are separated by workbench type, and have no limits to ingredient/item combinations for their requirements and outputs (ingredients are exclusive to a workbench). Does nothing on its own.",
+		"description": "Adds a modular crafting system, allowing other modules to add or overwrite recipes for their own or basegame items, add their own ingredients (or overwrite existing ones), and add alternative recipes for items. Recipes are separated by workbench type, and have no limits to ingredient/item combinations for their requirements and outputs (ingredients are exclusive to a workbench). Does nothing on its own.\n\nVersion 1.0.2:\n- Fixed a softlock that happened when you interacted with an invalid workbench",
 		"author": "Selinoccino",
-		"modversion": "1.0.1",
+		"modversion": "1.0.2",
 		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CraftingLib1.0.1.zip"
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CraftingLib_1.0.2.zip"
+	},
+	{
+		"name": "UwuSpeak",
+		"description": "Adds a starting perk that allows you to speak like those internet catfolk.\nConfigurable with FoxLib (which isn't required), which can allow you to make NPCs and the player use UwuSpeak under some conditions.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/UwuSpeak.png]Click for Preview[/url]",
+		"author": "Selinoccino",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/UwuSpeak_v1.0.zip"
+	},
+	{
+		"name": "Simple Rename",
+		"description": "Simple mod that allows you to change your name through \"me\" menu. Sometimes your name doesn't fit your character anymore...",
+		"author": "Noro",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SimpleRename_v1.0.zip"
 	},
 	{
 		"name": "Snows Womb Tattoos",
-		"description": "Added a Virility womb tattoo pill, for all the studs out there!\n\nYou can't currently use the pills during sex, I plan to work on that",
+		"description": "Added a Virility womb tattoo pill, for all the studs out there!\n\nChangelog: The pills can now be used during sex!\nAlso I made the fertility mark status effect a copy of Tavis Womb mark instead of just using it incase someone decides to change it or something\nFixed a crash due to some improper coding (hey at least I'm learning)",
 		"author": "SnowboundStar",
-		"modversion": "1.1",
+		"modversion": "1.2.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SnowsWombTattoos.zip"
 	}

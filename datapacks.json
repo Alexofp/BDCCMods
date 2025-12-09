@@ -3585,31 +3585,6 @@
 			"preview": "datapack_previews/fellinipack.png"
 		},
 		{
-			"id": "hypnocow",
-			"name": "HypnoCow TF",
-			"author": "JokeMysterious",
-			"version": "1",
-			"description": "A small little hypnosis experiment, with cows and hypnosis.\n\nYou want to be a milking slut don't you?",
-			"contains": "Contains: 1 character, 2 scenes",
-			"download": "datapacks/hypnocow.res",
-			"lastedit": 1760332396,
-			"filesize": 54603,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-				"BovineSpeciesVer2.zip",
-				"NeuroJammerModule.zip",
-				"MoreBDSMstuff.zip",
-				"CursedEquipment.zip",
-				"FoxLib"
-			],
-			"preview": "datapack_previews/hypnocow.png"
-		},
-		{
 			"id": "soul kitty",
 			"name": "Puss Boy",
 			"author": "Tenten",
@@ -3875,6 +3850,53 @@
 				"ScalieExpansionVer2.1.zip",
 				"AnonsBaseSpeciesExpansionV1.1.zip"
 			]
+		},
+		{
+			"id": "hypnocow",
+			"name": "HypnoCow TF",
+			"author": "JokeMysterious",
+			"version": "1fix1",
+			"description": "A small little hypnosis experiment, with cows and hypnosis.\n\nYou want to be a milking slut don't you?",
+			"contains": "Contains: 1 character, 2 scenes",
+			"download": "datapacks/hypnocow.res",
+			"lastedit": 1765255644,
+			"filesize": 54623,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"NeuroJammerModule.zip",
+				"MoreBDSMstuff.zip",
+				"CursedEquipment.zip",
+				"FoxLib",
+				"SongsHoofySpecies_v0.9.2hotfix2.zip"
+			],
+			"preview": "datapack_previews/hypnocow.png"
+		},
+		{
+			"id": "Trainers",
+			"name": "Brutus & Linda | Trainers",
+			"author": "Riojoriginal",
+			"version": "1.0",
+			"description": "A couple who offers training with rather... Questionable methods.\nLinda is a Lilac while Brutus is High-Sec.\nBoth have very high stats and maxed out perks related to breeding for their respective gender.\nShould be compatible with Hypertus mod.",
+			"contains": "Contains: 2 characters, 2 scenes",
+			"download": "datapacks/brutusthetrainer.res",
+			"lastedit": 1765255658,
+			"filesize": 178687,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"FoxLib",
+				"WintersFluffyBodypartsV1.8.zip"
+			],
+			"preview": "datapack_previews/Trainers.png"
 		}
 	]
 }
