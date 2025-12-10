@@ -3877,6 +3877,27 @@
 			"preview": "datapack_previews/hypnocow.png"
 		},
 		{
+			"id": "prisonjumpsuits",
+			"name": "Prison Jumpsuits",
+			"author": "JokeMysterious",
+			"version": "1",
+			"description": "\"Latex\" Jumpsuits for every class of prisoner, including faculty.\n\nNot items, but skins. Does not spawn naturally.",
+			"contains": "Contains: 6 characters, 6 skins, 1 scene",
+			"download": "datapacks/prisonjumpsuits.res",
+			"lastedit": 1765339340,
+			"filesize": 1668560,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/prisonjumpsuits.PNG"
+		},
+		{
 			"id": "Trainers",
 			"name": "Brutus & Linda | Trainers",
 			"author": "Riojoriginal",
@@ -3884,8 +3905,8 @@
 			"description": "A couple who offers training with rather... Questionable methods.\nLinda is a Lilac while Brutus is High-Sec.\nBoth have very high stats and maxed out perks related to breeding for their respective gender.\nShould be compatible with Hypertus mod.",
 			"contains": "Contains: 2 characters, 2 scenes",
 			"download": "datapacks/brutusthetrainer.res",
-			"lastedit": 1765255658,
-			"filesize": 178687,
+			"lastedit": 1765339342,
+			"filesize": 178599,
 			"requiredDatapacks": [
 
 			],
