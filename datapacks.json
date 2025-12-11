@@ -3905,8 +3905,8 @@
 			"description": "A couple who offers training with rather... Questionable methods.\nLinda is a Lilac while Brutus is High-Sec.\nBoth have very high stats and maxed out perks related to breeding for their respective gender.\nShould be compatible with Hypertus mod.",
 			"contains": "Contains: 2 characters, 2 scenes",
 			"download": "datapacks/brutusthetrainer.res",
-			"lastedit": 1765339342,
-			"filesize": 178599,
+			"lastedit": 1765429859,
+			"filesize": 178304,
 			"requiredDatapacks": [
 
 			],
@@ -3915,7 +3915,9 @@
 			},
 			"requiredMods": [
 				"FoxLib",
-				"WintersFluffyBodypartsV1.8.zip"
+				"WintersFluffyBodypartsV1.8.zip",
+				"Hair1.1.zip",
+				"HairPackbySongjo_v1.4.zip"
 			],
 			"preview": "datapack_previews/Trainers.png"
 		}

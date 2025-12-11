@@ -1369,14 +1369,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HumanReplacerV2.zip"
 	},
 	{
-		"name": "SongsHorseParts",
-		"description": "※ Description \n- adds 5 custom body parts(head, tails, feet, penis) for pc equine\n- very similar to the vanilla parts but with my own touch\n- compatible with Balls Extra\n\n※ Update [1.1.3hotfix1]\n- fixed issue that horse penis appeared on randomly generated female NPCs\n- changed penis parts name \"songs horse penis\" to \"Horse Penis Alt\"\n- changed head parts name \"songs horse head\" to \"Horse Head Alt\"\n\n※ Update [1.1.3hotfix2]\n- fixed an issue that balls size are fixed default size when sheathed\n- fixed some minor issues\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsHorseParts.png]Click for Preview[/url]",
-		"author": "SongJo",
-		"modversion": "1.1.3hotfix2",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsHorseParts_V1.1.3hotfix2.zip"
-	},
-	{
 		"name": "GW Uncut Human Cocks",
 		"description": "Initial release\nThis mod adds an alternative to the standard human penis, an uncut version! It can be selected in character creation and will generate on some human npcs\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GWUncutHumanCockMod.png]Click for Preview[/url]",
 		"author": "GwendiWendi",
@@ -1553,14 +1545,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SnowsBarbedCaninePenis.zip"
 	},
 	{
-		"name": "An Apple A Day",
-		"description": "Adds an exciting new use for apples, in the form of using them to gain buffs (mostly a joke mod). Take an apple to Dr. Quinn to get started.\n\nChangelog:Changelog:\n-Added apple cream pies, whose quality depends on that of the cream used.\n-Added the ability to knock down your opponents with your apple throws through a perk.\n-Added the ability to cook in your cell. Store a few apples there to get started (this one was a headache and a half to get working).\nVersion 1.5.4:\nAdded back the ability to provide homemade cream (this can also serve as an example of adding your own buttons/options/states to CraftingLib's base workbench scene)\nCraftingLib is no longer required; using it with AAAD will give you access to stoves and apple-related recipes, as before, and not using it just disables that\nPlease tell me if you find any issues, and enjoy!",
-		"author": "Selinoccino",
-		"modversion": "1.5.4",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnAppleADay_1.5.4.zip"
-	},
-	{
 		"name": "CraftingLib",
 		"description": "Adds a modular crafting system, allowing other modules to add or overwrite recipes for their own or basegame items, add their own ingredients (or overwrite existing ones), and add alternative recipes for items. Recipes are separated by workbench type, and have no limits to ingredient/item combinations for their requirements and outputs (ingredients are exclusive to a workbench). Does nothing on its own.\n\nVersion 1.0.2:\n- Fixed a softlock that happened when you interacted with an invalid workbench",
 		"author": "Selinoccino",
@@ -1623,6 +1607,22 @@
 		"modversion": "0.3",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NpcDefaultsOverrideV0.3.zip"
+	},
+	{
+		"name": "An Apple A Day",
+		"description": "Adds an exciting new use for apples, in the form of using them to gain buffs (mostly a joke mod). Take an apple to Dr. Quinn to get started.\n\nChangelog:Changelog:\n-Added apple cream pies, whose quality depends on that of the cream used.\n-Added the ability to knock down your opponents with your apple throws through a perk.\n-Added the ability to cook in your cell. Store a few apples there to get started (this one was a headache and a half to get working).\nVersion 1.5.4:\nAdded back the ability to provide homemade cream (this can also serve as an example of adding your own buttons/options/states to CraftingLib's base workbench scene)\nCraftingLib is no longer required; using it with AAAD will give you access to stoves and apple-related recipes, as before, and not using it just disables that\nVersion 1.5.5:\nFixed a crash if you didn't have CraftingLib loaded. Now it really is optional.\n\nPlease tell me if you find any issues, and enjoy!",
+		"author": "Selinoccino",
+		"modversion": "1.5.5",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnAppleADay_1.5.5.zip"
+	},
+	{
+		"name": "SongsVanillaParts",
+		"description": "※ Description \n- Adds 19 body parts for the vanilla species (Canine, Feline, Equine, Dragon)\n- 8 for Dragon: 1 head, 3 ears, 3 horns, 1 feet\n- 5 for Equine: 1 head, 1 hooves, 1 penis, 2 tails\n- 5 for Canine: 3 heads, 2 ears\n- 2 for Feline: 2 heads\n- Compatible with Balls Extra\n\n※ Update [1.2]\n- [b]Changed the mod name from \"Songs horse parts\" to \"Songs vanilla parts\"[/b] since it now includes more than just horse parts!\n- Added 14 new parts for the vanilla species\n- Filled some missing pixels on the horse tail parts\n- Fixed an issue where the sheathed horse penis was missing textures on the game version 0.1.12fix4\n- Minor fixes\n\n[i]+Feel free to @ me if anything's not right[/i]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsVanillaParts.png]Click for Preview[/url]",
+		"author": "SongJo",
+		"modversion": "1.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsVanillaParts_v1.2.zip"
 	}
 	]
 }
