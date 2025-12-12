@@ -3689,27 +3689,6 @@
 			]
 		},
 		{
-			"id": "sugerorsskinpack",
-			"name": "Sugerør's Skin Pack",
-			"author": "Sugerør",
-			"version": "1.1",
-			"description": "Adds 9 skins into the game:\n- Soar, Speckled Experiment, Strange River, Swift n' Simple, Vitiligo, Twisting Trails, Silly Scribbles, Canyon Cliffs & Draconic Scales\n-- Some skins have multiple versions.\n\nNew:\n- !!Changed the skin ids of the first 5 skins!! If you don't want to deal with already generated skins breaking, I'd recomend not updating.\n- 4 skins:\n-- Twisting Trails, Silly Scribbles, Canyon Cliffs & Draconic Scales (has 2 versions)\n\nNote: Silly Scribbles & Draconic Scales v2 do not generate on NPCs.",
-			"contains": "Contains: 10 skins",
-			"download": "datapacks/sugerrsskinpack.res",
-			"lastedit": 1763354210,
-			"filesize": 4248965,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-
-			],
-			"preview": "datapack_previews/sugerorsskinpack.png"
-		},
-		{
 			"id": "moldy_char_pack",
 			"name": "MoldyT's Character Pack",
 			"author": "MoldyT",
@@ -3920,6 +3899,27 @@
 				"HairPackbySongjo_v1.4.zip"
 			],
 			"preview": "datapack_previews/Trainers.png"
+		},
+		{
+			"id": "sugerorsskinpack",
+			"name": "Sugerør's Skin Pack",
+			"author": "Sugerør",
+			"version": "1.2",
+			"description": "Adds 13 skins into the game:\n- Soar, Speckled Experiment, Strange River, Swift n' Simple, Vitiligo, Twisting Trails, Silly Scribbles, Canyon Cliffs, Draconic Scales, Iced Tea, Smokey Flares, Loving Bindweed & Masked Vitiligo\n-- Some skins have multiple versions.\n\nNew:\n- 4 skins:\n-- Iced Tea, Smokey Flares, Loving Bindweed & Masked Vitiligo (v1 & v2)\n\nNote: Silly Scribbles, Draconic Scales v2 & Masked Vitiligo v1 do not generate on NPCs.\nPost v1.0 !!Changed the skin ids of the first 5 skins!! If you don't want to deal with already generated skins breaking, I'd recomend not updating.",
+			"contains": "Contains: 15 skins",
+			"download": "datapacks/sugerrsskinpack.res",
+			"lastedit": 1765518436,
+			"filesize": 7275399,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/sugerorsskinpack.png"
 		}
 	]
 }

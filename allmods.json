@@ -1273,22 +1273,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ThePlasmaCafe.zip"
 	},
 	{
-		"name": "FoxLib",
-		"description": "][/color]\nGame version: 0.1.7+ (Recommended: 0.1.11fix1)\nFilename: FoxLib_v0.10.1.zip\n[center][color=#00FFFF][b][shake rate=5 level=7][[[[/shake] Modding enhancer for BDCC [shake rate=5 level=7]]]][/shake][/b][/color] [/center]\n[center][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][/center]\n[center][color=#FF8000][u]/!\\[/u] Don't forget to delete old versions of the mod when updating [u]/!\\[/u][/color] [/center]\n\nAdd cool [rainbow freq=0.1 sat=1 val=1]features[/rainbow] for users:\n- A mod configuration menu\n- A custom theme engine\n- Dynamic mod hotfixes\n- GameTest engine to test the integrity of the loaded mod list\n\nBut mainly add many features and abilities for BDCC mods such as:\n- Adding custom CrotchBlock for datapacks\n- Adding new perks level tiers\n- Controlling more game UI elements\n- Saving NPC Skills/Perk data\n- Handling fatal errors via GUI\n- Configuring mods via in game Menu\n- Registering custom entries to the ModularDialogue system\n- Preventing your mod from being loaded twice\n- Add custom player status bars\n- Playing custom mod Audio\n\nFoxLib also additionally expose more capabilities to datapacks too, please check the in-game editor to see the new blocks FoxLib adds! [wave amp=10 freq=4]:D[/wave]\n\nFoxLib will also use code generation instead of replacing game code for maximum compatibility with your existing mods, you can see in the file list that FoxLib doesn't replace any game files!\n\n[color=#00FFFF]F[/color]ox[color=#00FFFF]L[/color]ib [color=#00FFFF]M[/color]od[color=#00FFFF]H[/color]elper (Aka. [color=#00FFFF]FLMH[/color].py) is a build tool for developers to ease development of FoxLib mods. It provide warnings to improve your mods code and is the current tool used to package FoxLib!\n\nFor more info on how to use FoxLib API or FoxLib ModHelper, please check the bundled documentation!\nFoxLib source code is hosted at: [color=#2222FF][url=https://git.frisk.space/Fox2Code/FoxLib]https://git.frisk.space/Fox2Code/FoxLib[/url][/color]\n(Or you can read FoxLib source-code by extracting it)\n[center][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][/center]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FoxLib.png]Click for preview[/url]",
-		"author": "Fox2Code",
-		"modversion": "0.10.1[color=",
-		"gameversion": "0.1.11",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxLib_v0.10.1.zip"
-	},
-	{
-		"name": "FoxedBDCC",
-		"description": "Add more feature to BDCC using FoxLib (Note: Don't forget to download FoxLib to use this mod)\n\nFor now it only add one end game skills in the fertility tab\n\nThis mod is the reason why I made FoxLib, and felt bad uploading FoxLib without a mod that uses it too",
-		"author": "Fox2Code",
-		"modversion": "0.1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxedBDCC_v0.1.0.zip"
-	},
-	{
 		"name": "SongsFlatCageReplacerA",
 		"description": "※ Description\n- YOU CAN ONLY USE ONE TYPE OF THIS MOD (This one is Type A)\n- Replaces vanilla flat chastity cage texture\n- Compatible with \"ChastityCageFlatRemix\"\n- Made for the default penis skin (could look wacky on other penis skins)\n\n※ Update\n- <1.0fix1> fixed simple but critical problem (1.0 didn't have the import files and the module folder))\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FlatCageReplacerA.png]Click for Preview[/url]",
 		"author": "SongJo",
@@ -1561,28 +1545,12 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SimpleRename_v1.0.zip"
 	},
 	{
-		"name": "Snows Womb Tattoos",
-		"description": "Added a Virility womb tattoo pill, for all the studs out there!\n\nChangelog: The pills can now be used during sex!\nAlso I made the fertility mark status effect a copy of Tavis Womb mark instead of just using it incase someone decides to change it or something\nFixed a crash due to some improper coding (hey at least I'm learning)",
-		"author": "SnowboundStar",
-		"modversion": "1.2.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SnowsWombTattoos.zip"
-	},
-	{
 		"name": "SneakUpTease",
 		"description": "Adds an alternate interaction upon meeting a guard, engineer or a nurse in an off-limits cell. In this diverging outcome, the trespassing inmate is not immediately detected, and is presented with an opportunity to sneak up on staff. Occasionally, while exploring the space prison, you may also find yourself on the receiving end of this encounter.\n\n- Wearing loud restraints increases the detection rate. On the other paw, wearing staff uniform may trick pawns that have low perception.\n\n- Explicit interactions require successfully enticing the creature into submission. Failing that, available options are limited to playful teasing (which is valid).\n\n- You may edit the files to sidestep consent play, it's fiction and I'm not here to police it. Do note that it's a core mechanic and an intended way to experience the mod.\n\n- There are some branching paths as well as modular dialogues, with the hope to keep each encounter a little more distinct and tailored to some of the character attributes.\n\nCompatibility\n`/Game/InteractionSystem/Interactions/CaughtOffLimits.gd` is overridden to allow a detour into the alternate interaction, and to include two methods to compute its chances. Any other file is a new addition and shouldn't cause conflicts as long as the filenames are unique.\n\n[color=#CCE4FF]source code[/color] – [url=https://git.frisk.space/keerifox/BDCC-SneakUpTease]git.frisk.space[/url] [color=#B9B9B9]or[/color] [url=https://github.com/keerifox/BDCC-SneakUpTease]github[/url]\n[color=#FFCCEA]personal website[/color] – [url=https://keeri.place]keeri.place[/url] [color=#FFCCEA]<3[/color]",
 		"author": "keerifox",
 		"modversion": "0.3.6",
 		"gameversion": "0.1.12,0.1.11,0.1.10",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SneakUpTease.zip"
-	},
-	{
-		"name": "UwuSpeak",
-		"description": "Adds a starting perk that allows you to speak like those internet catfolk.\nConfigurable with FoxLib (which isn't required), which can allow you to make NPCs and the player use UwuSpeak under some conditions.\n\nVersion 1.1:\n- Added more options, categorized them.\n- Changed intensity calculations.\n- Rewrote to be simpler and more readable.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/UwuSpeak.png]Click for Preview[/url]",
-		"author": "Selinoccino",
-		"modversion": "1.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/UwuSpeak_v1.1.zip"
 	},
 	{
 		"name": "Generic NPC Portrait Replacer",
@@ -1623,6 +1591,46 @@
 		"modversion": "1.2",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsVanillaParts_v1.2.zip"
+	},
+	{
+		"name": "UwuSpeak",
+		"description": "Adds a starting perk that allows you to speak like those internet catfolk.\nConfigurable with FoxLib (which isn't required), which can allow you to make NPCs and the player use UwuSpeak under some conditions, or change how UwuSpeak affects your speech.\n\nVersion 1.2:\n- Added even more options. You can now disable (or change the frequency of) pretty much every part of UwuSpeak, maybe even just use it to make your character sound more subby.\n- Fixed very short words being changed and distorting meaning.\n- Fixed those tilde symbol things (~) appearing twice.\n\nenjoy <3\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/UwuSpeak.png]Click for Preview[/url]",
+		"author": "Selinoccino",
+		"modversion": "1.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/UwuSpeak_v1.2.zip"
+	},
+	{
+		"name": "FoxLib",
+		"description": "][/color]\nGame version: 0.1.7+ (Recommended: 0.1.12fix4)\nFilename: FoxLib_v0.10.2.zip\n[center][color=#00FFFF][b][shake rate=5 level=7][[[[/shake] Modding enhancer for BDCC [shake rate=5 level=7]]]][/shake][/b][/color] [/center]\n[center][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][/center]\n[center][color=#FF8000][u]/!\\[/u] Don't forget to delete old versions of the mod when updating [u]/!\\[/u][/color] [/center]\n\nAdd cool [rainbow freq=0.1 sat=1 val=1]features[/rainbow] for users:\n- A mod configuration menu\n- A custom theme engine\n- Dynamic mod hotfixes\n- GameTest engine to test the integrity of the loaded mod list\n\nBut mainly add many features and abilities for BDCC mods such as:\n- Adding custom CrotchBlock for datapacks\n- Adding new perks level tiers\n- Controlling more game UI elements\n- Saving NPC Skills/Perk data\n- Handling fatal errors via GUI\n- Configuring mods via in game Menu\n- Registering custom entries to the ModularDialogue system\n- Preventing your mod from being loaded twice\n- Add custom player status bars\n- Playing custom mod Audio\n\nFoxLib also additionally expose more capabilities to datapacks too, please check the in-game editor to see the new blocks FoxLib adds! [wave amp=10 freq=4]:D[/wave]\n\nFoxLib will also use code generation instead of replacing game code for maximum compatibility with your existing mods, you can see in the file list that FoxLib doesn't replace any game files!\n\n[color=#00FFFF]F[/color]ox[color=#00FFFF]L[/color]ib [color=#00FFFF]M[/color]od[color=#00FFFF]H[/color]elper (Aka. [color=#00FFFF]FLMH[/color].py) is a build tool for developers to ease development of FoxLib mods. It provide warnings to improve your mods code and is the current tool used to package FoxLib!\n\nFor more info on how to use FoxLib API or FoxLib ModHelper, please check the bundled documentation!\nFoxLib source code is hosted at: [color=#2222FF][url=https://git.frisk.space/Fox2Code/FoxLib]https://git.frisk.space/Fox2Code/FoxLib[/url][/color]\n(Or you can read FoxLib source-code by extracting it)\n[center][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][/center]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FoxLib.png]Click for preview[/url]",
+		"author": "Fox2Code",
+		"modversion": "0.10.2[color=",
+		"gameversion": "0.1.12",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxLib_v0.10.2.zip"
+	},
+	{
+		"name": "FoxedBDCC",
+		"description": "Add more feature to BDCC using FoxLib (Note: Don't forget to download FoxLib to use this mod)\n\nFor now it only add one end game skills in the fertility tab\n\nThis mod is the reason why I made FoxLib, and felt bad uploading FoxLib without a mod that uses it too",
+		"author": "Fox2Code",
+		"modversion": "0.1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxedBDCC_v0.1.0.zip"
+	},
+	{
+		"name": "SongsUncutPenises",
+		"description": "※ Description \n- adds 4 human penises with foreskin (2 long, 2 short)\n- all penises shares the same flaccid model\n- the short variants will not spawn with NPCs\n- compatible with Balls Extra and Hypertus mods\n\n+Feel free to @ me if anything's not right\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsUncutPenis.png]Click for Preview[/url]",
+		"author": "SongJo",
+		"modversion": "0.8",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsUncutPenis_v0.8.zip"
+	},
+	{
+		"name": "Snows Womb Tattoos",
+		"description": "Added a Virility womb tattoo pill, for all the studs out there!\n\nChangelog: The Tattoos now show up on your body! However to do this they are now technically clothes and are in the BDSM menu, you can still force them on people but it acts like a restraint instead of a pill.\nAlso! I added a new Tattoo that absolutely tanks your Fertility and Virility, don't know who wants that but I figured it'd be good to cover the bases\nAnd! they can now be bought from the medical vending machine\n\nAnd credit where it is due, I ripped the tattoo off of Azazels skin from the Issix Mod if Bork has a problem with that then I will try to make my own, I'll probably still try regardless I just wanted to get this out there \n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SnowsWombTattoos.png]Click for Preview[/url]",
+		"author": "SnowboundStar",
+		"modversion": "2.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SnowsWombTattoos.zip"
 	}
 	]
 }
