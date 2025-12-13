@@ -849,14 +849,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Gardevoir1.01.zip"
 	},
 	{
-		"name": "Bad Apples",
-		"description": "Makes Aggressive prisoners more likely to target other inmates and the player. Trigger chance is influenced by personality, level, exposure, and relationship. You'll need to choose whether to befriend them, avoid them, or grow strong enough to turn the tables.\n\nThe impact can range from minimal to fairly substantial, depending on the strength and temperament of the inmates present. \nIt does not alter any core game files so it should be compatible with everything (hopefully).",
-		"author": "Master Lorian",
-		"modversion": "0.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BadApples.zip"
-	},
-	{
 		"name": "Manga Head",
 		"description": "Adds a Manga style version of the human head with Colorable Eyes (red: Skin, green: Sclera, blue: Iris).\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MangaHead.png]Click for preview[/url]",
 		"author": "Master Lorian",
@@ -1626,11 +1618,19 @@
 	},
 	{
 		"name": "Snows Womb Tattoos",
-		"description": "Added a Virility womb tattoo pill, for all the studs out there!\n\nChangelog: The Tattoos now show up on your body! However to do this they are now technically clothes and are in the BDSM menu, you can still force them on people but it acts like a restraint instead of a pill.\nAlso! I added a new Tattoo that absolutely tanks your Fertility and Virility, don't know who wants that but I figured it'd be good to cover the bases\nAnd! they can now be bought from the medical vending machine\n\nAnd credit where it is due, I ripped the tattoo off of Azazels skin from the Issix Mod if Bork has a problem with that then I will try to make my own, I'll probably still try regardless I just wanted to get this out there \n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SnowsWombTattoos.png]Click for Preview[/url]",
+		"description": "Added a Virility womb tattoo pill, for all the studs out there!\n\nChangelog: The Tattoos now show up on your body! However to do this they are now technically clothes and are in the BDSM menu, you can still force them on people but it acts like a restraint instead of a pill.\nAlso! I added a new Tattoo that absolutely tanks your Fertility and Virility, don't know who wants that but I figured it'd be good to cover the bases\nAnd! they can now be bought from the medical vending machine\n\nAnd credit where it is due, I ripped the tattoo off of Azazels skin from the Issix Mod if Bork has a problem with that then I will try to make my own, I'll probably still try regardless I just wanted to get this out there\n\nv2.1:quick update changed the clothing slot of the tattoos from \"unique\" to a brand new Womb Tattoo slot!\n\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SnowsWombTattoos.png]Click for Preview[/url]",
 		"author": "SnowboundStar",
-		"modversion": "2.0",
+		"modversion": "2.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SnowsWombTattoos.zip"
+	},
+	{
+		"name": "Bad Apples",
+		"description": "Makes Aggressive prisoners more likely to target other inmates and the player. Trigger chance is influenced by personality, level, exposure, and relationship. You'll need to choose whether to befriend them, avoid them, or grow strong enough to turn the tables. The impact can range from minimal to fairly substantial, depending on the strength and temperament of the inmates present.\n\nChangelog: \n-Added support for the new relationships: Friends, owners and even nemesis(they have other plans) won't try to assault you.\n-Added easy to understand logs that explain what is happening.\n-Fixed some issues caused by the update.\n-Adjusted the aggression to be slightly higher. ",
+		"author": "Master Lorian",
+		"modversion": "0.21",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BadApples.zip"
 	}
 	]
 }
