@@ -1631,6 +1631,14 @@
 		"modversion": "0.21",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BadApples.zip"
+	},
+	{
+		"name": "Friendly Ask For Pill",
+		"description": "I just grew tired about beating up my friends for the transformative pill tasks.\nThis mod allows you to ask for pill to any npc with 'Friend' status, then you could either pay credits (reduced by affection) or have sex (with enough lust) to just peacefully got your pill",
+		"author": "StrayX",
+		"modversion": "0.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FriendlyAskForPill.zip"
 	}
 	]
 }
