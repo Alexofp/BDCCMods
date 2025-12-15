@@ -1639,6 +1639,22 @@
 		"modversion": "0.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FriendlyAskForPill.zip"
+	},
+	{
+		"name": "Frivolous's Gender Pills",
+		"description": "Adds pills that change the gender of characters. They are sold by the medical vendomat. They will not work on static characters like Rahi and Tavi.",
+		"author": "Frivolous",
+		"modversion": "1.0.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FrivolousGenderPill.zip"
+	},
+	{
+		"name": "Sensitivity Pill",
+		"description": "Introduces a pill that adds 40% sensitivity to all the character's sexual zones. Sold in medical vendromat.",
+		"author": "Khurum",
+		"modversion": "0.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SensitivityPill.zip"
 	}
 	]
 }
