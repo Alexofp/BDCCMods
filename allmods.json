@@ -1521,14 +1521,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SnowsBarbedCaninePenis.zip"
 	},
 	{
-		"name": "CraftingLib",
-		"description": "Adds a modular crafting system, allowing other modules to add or overwrite recipes for their own or basegame items, add their own ingredients (or overwrite existing ones), and add alternative recipes for items. Recipes are separated by workbench type, and have no limits to ingredient/item combinations for their requirements and outputs (ingredients are exclusive to a workbench). Does nothing on its own.\n\nVersion 1.0.2:\n- Fixed a softlock that happened when you interacted with an invalid workbench",
-		"author": "Selinoccino",
-		"modversion": "1.0.2",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CraftingLib_1.0.2.zip"
-	},
-	{
 		"name": "Simple Rename",
 		"description": "Simple mod that allows you to change your name through \"me\" menu. Sometimes your name doesn't fit your character anymore...",
 		"author": "Noro",
@@ -1575,14 +1567,6 @@
 		"modversion": "1.5.5",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnAppleADay_1.5.5.zip"
-	},
-	{
-		"name": "SongsVanillaParts",
-		"description": "※ Description \n- Adds 19 body parts for the vanilla species (Canine, Feline, Equine, Dragon)\n- 8 for Dragon: 1 head, 3 ears, 3 horns, 1 feet\n- 5 for Equine: 1 head, 1 hooves, 1 penis, 2 tails\n- 5 for Canine: 3 heads, 2 ears\n- 2 for Feline: 2 heads\n- Compatible with Balls Extra\n\n※ Update [1.2]\n- [b]Changed the mod name from \"Songs horse parts\" to \"Songs vanilla parts\"[/b] since it now includes more than just horse parts!\n- Added 14 new parts for the vanilla species\n- Filled some missing pixels on the horse tail parts\n- Fixed an issue where the sheathed horse penis was missing textures on the game version 0.1.12fix4\n- Minor fixes\n\n[i]+Feel free to @ me if anything's not right[/i]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsVanillaParts.png]Click for Preview[/url]",
-		"author": "SongJo",
-		"modversion": "1.2",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsVanillaParts_v1.2.zip"
 	},
 	{
 		"name": "UwuSpeak",
@@ -1655,6 +1639,22 @@
 		"modversion": "0.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SensitivityPill.zip"
+	},
+	{
+		"name": "CraftingLib",
+		"description": "Adds a modular crafting system, allowing other modules to add or overwrite recipes for their own or basegame items, add their own ingredients (or overwrite existing ones), and add alternative recipes for items. Recipes are separated by workbench type, and have no limits to ingredient/item combinations for their requirements and outputs (ingredients are exclusive to a workbench). Does nothing on its own.\n\nVersion 1.0.2:\n- Fixed a softlock that happened when you interacted with an invalid workbench\n\nVersion 1.0.3:\n- Fixed being unable to throw away ingredients.",
+		"author": "Selinoccino",
+		"modversion": "1.0.3",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CraftingLib_v1.0.3.zip"
+	},
+	{
+		"name": "SongsVanillaParts",
+		"description": "※ Description \n- Adds 23 body parts for vanilla species (Canine, Feline, Equine, Dragon)\n- 11 for Dragon: 2 heads, 4 ears, 3 horns, 1 feet, 1 tail (i wrote it as 8 parts with 3 horns in v1.2 but it was actually 7 parts with 2 horns. that was my typo)\n- 5 for Equine: 1 head, 1 hooves, 1 penis, 2 tails\n- 5 for Canine: 3 heads, 2 ears\n- 2 for Feline: 2 heads\n- Compatible with Balls Extra\n\n※ Update (1.3)\n- Added 4 new Eastern dragon like parts for the dragon species (Special thanks to Moldy tub for the idea)\n\n[i]+Feel free to @ me if  you find anything wrong[/i]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsVanillaParts.png]Click for Preview[/url]",
+		"author": "SongJo",
+		"modversion": "1.3",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsVanillaParts_v1.3.zip"
 	}
 	]
 }
