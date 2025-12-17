@@ -3945,6 +3945,38 @@
 				"WintersFluffyBodypartsV1.7.zip"
 			],
 			"preview": "datapack_previews/starhordersdatapack.png"
+		},
+		{
+			"id": "BrandysPrisonPals",
+			"name": "Brandy's Prison Pals",
+			"author": "ExgamerB",
+			"version": "1.0",
+			"description": "A diverse character pack I probably spend too much time on.",
+			"contains": "Contains: 4 characters",
+			"download": "datapacks/brandysprisonpals.res",
+			"lastedit": 1765946604,
+			"filesize": 1134472,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"AnonsBaseSpeciesExpansionV1.2.zip",
+				"BovineSpeciesV2.1.zip",
+				"Clothes_Megapack.zip",
+				"FelliniMod.zip",
+				"Hair1.1.zip",
+				"HairPackbySongjo_v1.4.zip",
+				"IndustrialSkinConv.zip",
+				"MoreUniformsVer7.zip",
+				"PiercingsVer1.zip",
+				"Rabbit_Species.zip",
+				"WintersCanineBarbedPenisV1.1.zip",
+				"WintersFluffyBodypartsV1.8.zip"
+			],
+			"preview": "datapack_previews/brandysprisonpals.png"
 		}
 	]
 }
