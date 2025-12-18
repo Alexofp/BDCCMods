@@ -1,0 +1,29 @@
+name: Bad Mod Report
+title: "[Bad Mod]: "
+description: Submitting request to mark a mod as incompatible
+projects: []
+assignees: alexofp
+body:
+  - type: input
+    id: input-0
+    attributes:
+      label: Mod file name
+      description: file name of a mod, make sure to include extension.
+      placeholder: example.zip
+    validations:
+      required: true
+  - type: input
+    id: input-1
+    attributes:
+      label: Last known version to be working
+      description: "in this format: `major.minor.revision`. Not required but it is
+        recommeded to include such infomation."
+      placeholder: 0.1.11
+    validations:
+      required: false
+  - type: textarea
+    id: textarea-2
+    attributes:
+      label: Why is it broken
+      description: describe how its broken
+      value: None.
