@@ -3787,31 +3787,6 @@
 			"preview": "datapack_previews/HazbinHotel.png"
 		},
 		{
-			"id": "hypnocow",
-			"name": "HypnoCow TF",
-			"author": "JokeMysterious",
-			"version": "1fix1",
-			"description": "A small little hypnosis experiment, with cows and hypnosis.\n\nYou want to be a milking slut don't you?",
-			"contains": "Contains: 1 character, 2 scenes",
-			"download": "datapacks/hypnocow.res",
-			"lastedit": 1765255644,
-			"filesize": 54623,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-				"NeuroJammerModule.zip",
-				"MoreBDSMstuff.zip",
-				"CursedEquipment.zip",
-				"FoxLib",
-				"SongsHoofySpecies_v0.9.2hotfix2.zip"
-			],
-			"preview": "datapack_previews/hypnocow.png"
-		},
-		{
 			"id": "prisonjumpsuits",
 			"name": "Prison Jumpsuits",
 			"author": "JokeMysterious",
@@ -3981,6 +3956,31 @@
 				"WintersWitheredBodypartsV1.0.zip"
 			],
 			"preview": "datapack_previews/brandysprisonpals.png"
+		},
+		{
+			"id": "hypnocow",
+			"name": "HypnoCow TF",
+			"author": "JokeMysterious",
+			"version": "3",
+			"description": "A small little hypnosis experiment, with cows and hypnosis.\n\nYou want to be a milking slut don't you?",
+			"contains": "Contains: 1 character, 3 scenes",
+			"download": "datapacks/hypnocow.res",
+			"lastedit": 1766121187,
+			"filesize": 57770,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"NeuroJammerModule.zip",
+				"MoreBDSMstuff.zip",
+				"CursedEquipment.zip",
+				"FoxLib",
+				"SongsHoofySpecies_v0.9.2hotfix2.zip"
+			],
+			"preview": "datapack_previews/hypnocow.png"
 		}
 	]
 }
