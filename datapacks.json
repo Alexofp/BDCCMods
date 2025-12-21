@@ -2713,32 +2713,6 @@
 			"preview": "datapack_previews/gardevoir101.png"
 		},
 		{
-			"id": "bts",
-			"name": "BlackTail Stables",
-			"author": "Joke Mysterious",
-			"version": "1 - Patch: 3",
-			"description": "Addition to Hypnosis Testing \n\nWelcome to the BlackTail Stables! Come... Join us.\nWith a variety of roles to choose from, fill Lori's desire to have a ranch of equines and other live stock of her own, and Xaro's incredible hypnosis and genetic surgery expertice!\n\nPATCH 1:\nThanks to the discord, some minor issues were fixed as well as some new and updated content!\n\nPATCH 2:\nFixed some issues and added enhancements, as well as updating the mod requirement list.\n\nPATCH 3: \nLast one I swear! Updates Xaro's outfit (requires newest version to work)",
-			"contains": "Contains: 6 characters, 2 scenes",
-			"download": "datapacks/bts.res",
-			"lastedit": 1746423707,
-			"filesize": 156107,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-				"AcesAvairyAddonVer0.99.zip",
-				"MoreBDSMstuff.zip",
-				"MorePenisPump.zip",
-				"CrowSpeciesVer2.zip",
-				"ChastityCageFlat.zip",
-				"FoxLib"
-			],
-			"preview": "datapack_previews/bts.png"
-		},
-		{
 			"id": "mitzuscharactergallery",
 			"name": "Mitzu's Characters collection",
 			"author": "Mitzushi",
@@ -2934,30 +2908,6 @@
 			"preview": "datapack_previews/destand.png"
 		},
 		{
-			"id": "htanskd",
-			"name": "???",
-			"author": "JokeMysterious",
-			"version": "1fix2",
-			"description": "[Running Kepha.config]\n.\n.\n.\n[ERROR: Kepha.config is defined improperly]\n.\n.\n.\n[Backup: Drone Index Recovered, Launching Program \"APHOKEPHADRONE.acf\"]\n.\n.\n.\n[ERROR: No Host defined]\n.\n.\n.\n[Searching for host...]\n.\n.\n.\n[ALERT: Host discovered]\n.\n.\n.\nWelcome, player...to the System.",
-			"contains": "Contains: 19 characters, 17 skins, 2 scenes",
-			"download": "datapacks/aphonomadsystem.res",
-			"lastedit": 1750656754,
-			"filesize": 1909626,
-			"requiredDatapacks": [
-				"hypnotest",
-				"htextrachr",
-				"htexrachr2"
-			],
-			"reqDatapackToName": {
-				"hypnotest": "Hypnosis Testing",
-				"htextrachr": "Hypnosis Testing Extra Characters 1 & Pelara's Shop",
-				"htexrachr2": "Hypnosis Testing Extra Characters 2"
-			},
-			"requiredMods": [
-				"LopunnySpeciesVer1.zip"
-			]
-		},
-		{
 			"id": "livingshadows",
 			"name": "THE SHADOWS ARE ALIVE",
 			"author": "Tenten",
@@ -3145,48 +3095,6 @@
 			]
 		},
 		{
-			"id": "htexrachr2",
-			"name": "Hypnosis Testing Extra Characters 2",
-			"author": "JokeMysterious",
-			"version": "4",
-			"description": "Second set of  extra characters for the datapack Hypnosis Testing\n\nUSE THE SAME MODS FROM HYPNOSIS TESTING! THIS IS REQUIRED FOR THAT AS WELL!",
-			"contains": "Contains: 12 characters, 2 skins, 1 scene",
-			"download": "datapacks/htextrachr2.res",
-			"lastedit": 1751433671,
-			"filesize": 756181,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-				"SynthModVer1.3-B.zip",
-				"CrowSpeciesVer2.zip"
-			]
-		},
-		{
-			"id": "htextrachr",
-			"name": "Hypnosis Testing Extra Characters 1 & Pelara's Shop",
-			"author": "JokeMysterious",
-			"version": "4 - Patch 1",
-			"description": "Extra characters for the datapack Hypnosis Testing\nAlso includes Pelara's Slave Lot.\n\nUSE THE SAME MODS FROM HYPNOSIS TESTING! THIS IS REQUIRED FOR THAT AS WELL!",
-			"contains": "Contains: 9 characters, 1 skin, 3 scenes",
-			"download": "datapacks/htextrachr1.res",
-			"lastedit": 1751433674,
-			"filesize": 1151711,
-			"requiredDatapacks": [
-				"htexrachr2"
-			],
-			"reqDatapackToName": {
-				"htexrachr2": "Hypnosis Testing Extra Characters 2"
-			},
-			"requiredMods": [
-				"LopunnySpeciesVer1.zip",
-				"Straitjacketmod.zip"
-			]
-		},
-		{
 			"id": "beepbeepimasheep",
 			"name": "Sheep Oc's",
 			"author": "TenTen",
@@ -3272,51 +3180,6 @@
 				"WintersPokemonCollectionV1.0.zip"
 			],
 			"preview": "datapack_previews/shadow.png"
-		},
-		{
-			"id": "hypnotest",
-			"name": "Hypnosis Testing",
-			"author": "JokeMysterious",
-			"version": "Alpha v9 hotfix1",
-			"description": "An engineer is interested in the use of hypnosis visors and bdsm tech. Have fun!\n\nDevLog:\nAlpha v1 - Finished the induction storyline\n\nAlpha v2 - Added some extra text (as not to seem nothing much was added in terms of dialogue), Fix the bug of the workshop start (thanks to @Moo Cow on the discord for bringing this to my attention)\n\nAlpha v3 - Heavy debug, should work flawlessly now | Experiments! Only one for now but more are coming!\n\nAlpha v4: THE LOOPING ISSUE HAS BEEN RECTIFIED AT LONG LAST! | More experiments and a new engineer who's a little more ... dominant. Also with comes with her own experiments.\n\nAlpha v5: Experiments! Aurora has got some too! (Still more to come). | Kona's sensitve topic is done! Find out what she's keeping from you! (100 trust)\n\nAlpha v6: More experiments! And... WIP is in debug menus. Almost done!\n\nAlpha v7: Overhaul of data and scenes. More experiments and a new Engineer into the mix.\n\nAlpha v8: Experiments and extra content galore! Enjoy the integration of BlackTail Stables and the BDCC Bird Services! Tons of content to explore and do!",
-			"contains": "Contains: 8 characters, 22 scenes, 1 quest",
-			"download": "datapacks/ht.res",
-			"lastedit": 1752731090,
-			"filesize": 1458431,
-			"requiredDatapacks": [
-				"htextrachr",
-				"htexrachr2",
-				"htextrascenes",
-				"bts",
-				"birdservicesdatapack",
-				"htanskd"
-			],
-			"reqDatapackToName": {
-				"htextrachr": "Hypnosis Testing Extra Characters 1 & Pelara's Shop",
-				"htexrachr2": "Hypnosis Testing Extra Characters 2",
-				"htextrascenes": "Hypnosis Testing Extra Scenes",
-				"bts": "BlackTail Stables",
-				"birdservicesdatapack": "Bird Services",
-				"htanskd": "???"
-			},
-			"requiredMods": [
-				"MoreBDSMstuff.zip",
-				"AcesProtogenMod-Ver1.1-BreedEdition.zip",
-				"AcesSharkSpeciesVer1.11.zip",
-				"DickSkinsBatch2.zip",
-				"LopunnySpeciesVer1.zip",
-				"AcesAvairyAddonVer0.99.zip",
-				"AvaliSpeciesVer2.zip",
-				"ScalieExpansionVer2.1.zip",
-				"ChastityCageFlat.zip",
-				"MorePenisPump.zip",
-				"MoreUniformsVer6.1.zip",
-				"FoxLib",
-				"Striped_Clothes.zip",
-				"NeuroJammerModule.zip",
-				"WingStaticR1.zip"
-			],
-			"preview": "datapack_previews/hypnotest.png"
 		},
 		{
 			"id": "deckatest",
@@ -3922,42 +3785,6 @@
 			"preview": "datapack_previews/starhordersdatapack.png"
 		},
 		{
-			"id": "BrandysPrisonPals",
-			"name": "Brandy's Prison Pals",
-			"author": "ExgamerB",
-			"version": "1.1",
-			"description": "A diverse character pack I probably spend too much time on.",
-			"contains": "Contains: 5 characters",
-			"download": "datapacks/brandysprisonpals.res",
-			"lastedit": 1766033810,
-			"filesize": 1497916,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-				"AnonsBaseSpeciesExpansionV1.2.zip",
-				"AnonsSkulldogSpeciesV1.1.zip",
-				"BovineSpeciesV2.1.zip",
-				"Clothes_Megapack.zip",
-				"DeerSpeciesVer2.1-HORSECOCK.zip",
-				"FelliniMod.zip",
-				"Hair1.1.zip",
-				"HairPackbySongjo_v1.4.zip",
-				"IndustrialSkinConv.zip",
-				"MoreUniformsVer7.zip",
-				"PiercingsVer1.zip",
-				"Rabbit_Species.zip",
-				"WintersCanineBarbedPenisV1.1.zip",
-				"WintersEquineCollectionV1.3.zip",
-				"WintersFluffyBodypartsV1.8.zip",
-				"WintersWitheredBodypartsV1.0.zip"
-			],
-			"preview": "datapack_previews/brandysprisonpals.png"
-		},
-		{
 			"id": "hypnocow",
 			"name": "HypnoCow TF",
 			"author": "JokeMysterious",
@@ -3981,6 +3808,187 @@
 				"SongsHoofySpecies_v0.9.2hotfix2.zip"
 			],
 			"preview": "datapack_previews/hypnocow.png"
+		},
+		{
+			"id": "BrandysPrisonPals",
+			"name": "Brandy's Prison Pals",
+			"author": "ExgamerB",
+			"version": "1.2",
+			"description": "A diverse character pack I probably spend too much time on.",
+			"contains": "Contains: 6 characters",
+			"download": "datapacks/brandysprisonpals.res",
+			"lastedit": 1766292140,
+			"filesize": 1750479,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"AnonsBaseSpeciesExpansionV1.2.zip",
+				"AnonsSkulldogSpeciesV1.1.zip",
+				"BovineSpeciesV2.1.zip",
+				"Clothes_Megapack.zip",
+				"DeerSpeciesVer2.1-HORSECOCK.zip",
+				"EirasTrashSpeciesV1.3.zip",
+				"FelliniMod.zip",
+				"Hair1.1.zip",
+				"HairPackbySongjo_v1.4.zip",
+				"IndustrialSkinConv.zip",
+				"MoreUniformsVer7.zip",
+				"PiercingsVer1.zip",
+				"Rabbit_Species.zip",
+				"WintersCanineBarbedPenisV1.1.zip",
+				"WintersEquineCollectionV1.3.zip",
+				"WintersFluffyBodypartsV1.8.zip",
+				"WintersWitheredBodypartsV1.0.zip"
+			],
+			"preview": "datapack_previews/brandysprisonpals.png"
+		},
+		{
+			"id": "bts",
+			"name": "BlackTail Stables",
+			"author": "Joke Mysterious",
+			"version": "1 - Patch: 4",
+			"description": "Addition to Hypnosis Testing \n\nWelcome to the BlackTail Stables! Come... Join us.\nWith a variety of roles to choose from, fill Lori's desire to have a ranch of equines and other live stock of her own, and Xaro's incredible hypnosis and genetic surgery expertice!\n\nPATCH 1:\nThanks to the discord, some minor issues were fixed as well as some new and updated content!\n\nPATCH 2:\nFixed some issues and added enhancements, as well as updating the mod requirement list.\n\nPATCH 3: \nLast one I swear! Updates Xaro's outfit (requires newest version to work)",
+			"contains": "Contains: 6 characters, 2 scenes",
+			"download": "datapacks/bts.res",
+			"lastedit": 1766292151,
+			"filesize": 156920,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"MoreBDSMstuff.zip",
+				"MorePenisPump.zip",
+				"ChastityCageFlat.zip",
+				"FoxLib",
+				"SongsVanillaParts_v1.3.2.zip",
+				"SongsHoofySpecies_v0.9.3fix1.zip",
+				"HairPackbySongjo_v1.3.zip",
+				"SongsHorseParts_V1.1.3hotfix2.zip",
+				"AnonsAvianSpeciesV1.3.zip"
+			],
+			"preview": "datapack_previews/bts.png"
+		},
+		{
+			"id": "htanskd",
+			"name": "???",
+			"author": "JokeMysterious",
+			"version": "1fix2",
+			"description": "[Running Kepha.config]\n.\n.\n.\n[ERROR: Kepha.config is defined improperly]\n.\n.\n.\n[Backup: Drone Index Recovered, Launching Program \"APHOKEPHADRONE.acf\"]\n.\n.\n.\n[ERROR: No Host defined]\n.\n.\n.\n[Searching for host...]\n.\n.\n.\n[ALERT: Host discovered]\n.\n.\n.\nWelcome, player...to the System.",
+			"contains": "Contains: 19 characters, 17 skins, 2 scenes",
+			"download": "datapacks/aphonomadsystem.res",
+			"lastedit": 1766292157,
+			"filesize": 1909430,
+			"requiredDatapacks": [
+				"hypnotest",
+				"htextrachr",
+				"htexrachr2"
+			],
+			"reqDatapackToName": {
+				"hypnotest": "Hypnosis Testing",
+				"htextrachr": "Hypnosis Testing Extra Characters 1 & Pelara's Shop",
+				"htexrachr2": "Hypnosis Testing Extra Characters 2"
+			},
+			"requiredMods": [
+				"LopunnySpeciesVer1.zip"
+			]
+		},
+		{
+			"id": "htexrachr2",
+			"name": "Hypnosis Testing Extra Characters 2",
+			"author": "JokeMysterious",
+			"version": "4.5",
+			"description": "Second set of  extra characters for the datapack Hypnosis Testing\n\nUSE THE SAME MODS FROM HYPNOSIS TESTING! THIS IS REQUIRED FOR THAT AS WELL!",
+			"contains": "Contains: 12 characters, 2 skins, 1 scene",
+			"download": "datapacks/htextrachr2.res",
+			"lastedit": 1766292159,
+			"filesize": 755727,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"AnonsAvianSpeciesV1.3.zip",
+				"ProtogenSpeciesVer0.1.zip",
+				"AnonsProtogenSpeciesV1.1.zip",
+				"SongsHoofySpecies_v0.9.3fix1.zip",
+				"WingStaticR1.zip"
+			]
+		},
+		{
+			"id": "htextrachr",
+			"name": "Hypnosis Testing Extra Characters 1 & Pelara's Shop",
+			"author": "JokeMysterious",
+			"version": "4.5",
+			"description": "Extra characters for the datapack Hypnosis Testing\nAlso includes Pelara's Slave Lot.\n\nUSE THE SAME MODS FROM HYPNOSIS TESTING! THIS IS REQUIRED FOR THAT AS WELL!",
+			"contains": "Contains: 9 characters, 1 skin, 3 scenes",
+			"download": "datapacks/htextrachr1.res",
+			"lastedit": 1766292161,
+			"filesize": 1151316,
+			"requiredDatapacks": [
+				"htexrachr2"
+			],
+			"reqDatapackToName": {
+				"htexrachr2": "Hypnosis Testing Extra Characters 2"
+			},
+			"requiredMods": [
+				"LopunnySpeciesVer1.zip",
+				"Straitjacketmod.zip"
+			]
+		},
+		{
+			"id": "hypnotest",
+			"name": "Hypnosis Testing",
+			"author": "JokeMysterious",
+			"version": "Alpha v9.5",
+			"description": "An engineer is interested in the use of hypnosis visors and bdsm tech. Have fun!\n\nDevLog:\nAlpha v1 - Finished the induction storyline\n\nAlpha v2 - Added some extra text (as not to seem nothing much was added in terms of dialogue), Fix the bug of the workshop start (thanks to @Moo Cow on the discord for bringing this to my attention)\n\nAlpha v3 - Heavy debug, should work flawlessly now | Experiments! Only one for now but more are coming!\n\nAlpha v4: THE LOOPING ISSUE HAS BEEN RECTIFIED AT LONG LAST! | More experiments and a new engineer who's a little more ... dominant. Also with comes with her own experiments.\n\nAlpha v5: Experiments! Aurora has got some too! (Still more to come). | Kona's sensitve topic is done! Find out what she's keeping from you! (100 trust)\n\nAlpha v6: More experiments! And... WIP is in debug menus. Almost done!\n\nAlpha v7: Overhaul of data and scenes. More experiments and a new Engineer into the mix.\n\nAlpha v8: Experiments and extra content galore! Enjoy the integration of BlackTail Stables and the BDCC Bird Services! Tons of content to explore and do!",
+			"contains": "Contains: 8 characters, 22 scenes, 1 quest",
+			"download": "datapacks/ht.res",
+			"lastedit": 1766292164,
+			"filesize": 1459134,
+			"requiredDatapacks": [
+				"htextrachr",
+				"htexrachr2",
+				"htextrascenes",
+				"bts",
+				"birdservicesdatapack",
+				"htanskd"
+			],
+			"reqDatapackToName": {
+				"htextrachr": "Hypnosis Testing Extra Characters 1 & Pelara's Shop",
+				"htexrachr2": "Hypnosis Testing Extra Characters 2",
+				"htextrascenes": "Hypnosis Testing Extra Scenes",
+				"bts": "BlackTail Stables",
+				"birdservicesdatapack": "Bird Services",
+				"htanskd": "???"
+			},
+			"requiredMods": [
+				"MoreBDSMstuff.zip",
+				"LopunnySpeciesVer1.zip",
+				"ChastityCageFlat.zip",
+				"MorePenisPump.zip",
+				"FoxLib",
+				"Striped_Clothes.zip",
+				"NeuroJammerModule.zip",
+				"WingStaticR1.zip",
+				"AnonsAquaticSpeciesV1.4.zip",
+				"AnonsAvianSpeciesV1.3.zip",
+				"SongsHorseParts_V1.1.3hotfix2.zip",
+				"HairPackbySongjo_v1.3.zip",
+				"GooBondage.zip",
+				"SongsHoofySpecies_v0.9.3fix1.zip",
+				"SongsVanillaParts_v1.3.2.zip",
+				"ConvictTagCuffs.zip"
+			],
+			"preview": "datapack_previews/hypnotest.png"
 		}
 	]
 }
