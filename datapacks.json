@@ -3810,43 +3810,6 @@
 			"preview": "datapack_previews/hypnocow.png"
 		},
 		{
-			"id": "BrandysPrisonPals",
-			"name": "Brandy's Prison Pals",
-			"author": "ExgamerB",
-			"version": "1.2",
-			"description": "A diverse character pack I probably spend too much time on.",
-			"contains": "Contains: 6 characters",
-			"download": "datapacks/brandysprisonpals.res",
-			"lastedit": 1766292140,
-			"filesize": 1750479,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-				"AnonsBaseSpeciesExpansionV1.2.zip",
-				"AnonsSkulldogSpeciesV1.1.zip",
-				"BovineSpeciesV2.1.zip",
-				"Clothes_Megapack.zip",
-				"DeerSpeciesVer2.1-HORSECOCK.zip",
-				"EirasTrashSpeciesV1.3.zip",
-				"FelliniMod.zip",
-				"Hair1.1.zip",
-				"HairPackbySongjo_v1.4.zip",
-				"IndustrialSkinConv.zip",
-				"MoreUniformsVer7.zip",
-				"PiercingsVer1.zip",
-				"Rabbit_Species.zip",
-				"WintersCanineBarbedPenisV1.1.zip",
-				"WintersEquineCollectionV1.3.zip",
-				"WintersFluffyBodypartsV1.8.zip",
-				"WintersWitheredBodypartsV1.0.zip"
-			],
-			"preview": "datapack_previews/brandysprisonpals.png"
-		},
-		{
 			"id": "bts",
 			"name": "BlackTail Stables",
 			"author": "Joke Mysterious",
@@ -3989,6 +3952,44 @@
 				"ConvictTagCuffs.zip"
 			],
 			"preview": "datapack_previews/hypnotest.png"
+		},
+		{
+			"id": "BrandysPrisonPals",
+			"name": "Brandy's Prison Pals",
+			"author": "ExgamerB",
+			"version": "1.3",
+			"description": "A diverse character pack I probably spend too much time on.",
+			"contains": "Contains: 7 characters",
+			"download": "datapacks/brandysprisonpals.res",
+			"lastedit": 1766465983,
+			"filesize": 1970870,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"AnonsBaseSpeciesExpansionV1.2.zip",
+				"AnonsSkulldogSpeciesV1.1.zip",
+				"BovineSpeciesV2.1.zip",
+				"Clothes_Megapack.zip",
+				"DeerSpeciesVer2.1-HORSECOCK.zip",
+				"EirasTrashSpeciesV1.3.zip",
+				"FelliniMod.zip",
+				"Hair1.1.zip",
+				"HairPackbySongjo_v1.4.zip",
+				"IndustrialSkinConv.zip",
+				"MoreUniformsVer7.zip",
+				"PiercingsVer1.zip",
+				"Rabbit_Species.zip",
+				"SongsVanillaParts_v1.3.zip",
+				"WintersCanineBarbedPenisV1.1.zip",
+				"WintersEquineCollectionV1.3.zip",
+				"WintersFluffyBodypartsV1.8.zip",
+				"WintersWitheredBodypartsV1.0.zip"
+			],
+			"preview": "datapack_previews/brandysprisonpals.png"
 		}
 	]
 }
