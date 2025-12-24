@@ -1053,7 +1053,7 @@
 		"description": "Allows you to import characters from datapacks as the player character on a new save.\n\nBy default, their name, personality, fetishes, and unique clothes are also imported (clothes will be added to your inventory at the start of the game); you can omit any of these during the import process, if you wish.\n\nv1.1: removed the need for players to manually load their datapacks; minor improvements",
 		"author": "MOONHALO",
 		"modversion": "1.1",
-		"gameversion": "*",
+		"gameversion": "0.1.11",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DatapackCharacterToPlayer.zip"
 	},
 	{
