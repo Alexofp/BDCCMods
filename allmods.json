@@ -1633,14 +1633,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ChastityForEveryone_v2.21.1.zip"
 	},
 	{
-		"name": "Sugerør's Character Parts",
-		"description": "Adds more stuff for character creation. If you notice any issues just yell at me\n\n(1.1 update)\nNew: 3 Heads and a bodypart set for dragons\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrCharacterParts.png]Click for Preview[/url]",
-		"author": "Sugerør",
-		"modversion": "1.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SugerrCharacterPartsV1.1.zip"
-	},
-	{
 		"name": "SongsHoofySpecies",
 		"description": "※ Description \n- Adds 3 new species: Cow, Deer, Goat.\n- Adds some horns, hoofs, tails, ears that are shared by these three species.\n- Cows will spawn with equine penis by default\n- (if SongsVanillaParts mod is active, \"Horse penis alt\" will set by default)\n- Deer and goats will spawn with human penis by default\n- (if SongsVanillaParts mod is active, Deer can get \"Horse penis alt\")\n- Compatible mods: Hypertus, Racebonus\n\n※ Deer and Bovine mods\n- The original Deer and Bovine mods by Avery Winters were incorporated in this mod, so you can select the parts from those mods with my cows and deer species, and also these species can spawn with those parts, except for the head and hoofs parts.\n- As the Incorporation, i kept the original Deer and Bovine species in this mod, so you can select those species and also don’t have to worry about your ongoing or past characters that used those species. However, these two species won’t spawn as a random NPC anymore to prevent confusion.\n\n※ Update (0.9.3fix1)\n- Fixed an issue where some female and peachboy NPCs spawns with penis\n- Fixed some species code to make it more stable\n※ Update (0.9.3fix2)\n- Fixed an issue where female and peachboy NPCs spawns with penis when the hypertus mod is active\n\n※ Update (0.9.3fix3)\n- Fixed an issue where the goat head 1 snout was transparent\n\n[i]+Feel free to share your thoughts with me about the mod[/i]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsHoofySpecies.png]Click for Preview[/url]",
 		"author": "SongJo",
@@ -1679,6 +1671,22 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PiercingsMod_v1.0.zip"
+	},
+	{
+		"name": "Sugerør's Character Parts",
+		"description": "Adds more stuff for character creation. If you notice any issues just yell at me ^^\nNew: Added 2 heads and 1 set of ears\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrCharacterParts.png]Click for Preview[/url]",
+		"author": "Sugerør",
+		"modversion": "1.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SugerrCharacterPartsV1.2.zip"
+	},
+	{
+		"name": "Sugerør's Character Parts",
+		"description": "Adds Bears, Crocodiles and Orcs to the game. If you notice any issues, just yell at me ^^\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrSpeciesPack.png]Click for Preview[/url]",
+		"author": "Sugerør",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SugerrSpeciesPackV1.0.zip"
 	}
 	]
 }

@@ -3990,6 +3990,31 @@
 				"WintersWitheredBodypartsV1.0.zip"
 			],
 			"preview": "datapack_previews/brandysprisonpals.png"
+		},
+		{
+			"id": "wingsoffire",
+			"name": "WingsofFire Characters",
+			"author": "TypicalRamDriver",
+			"version": "0.4",
+			"description": "Making all the Wings of Fire Characters\n\nCurrently:\nClay\nTsunami\n\n\nWings of Fire is owned by Tui. S. Suterland (I defently mispelled that), I'm just a fan of it.",
+			"contains": "Contains: 2 characters",
+			"download": "datapacks/wingsoffire.res",
+			"lastedit": 1766640351,
+			"filesize": 13138,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"FoxLib",
+				"HypertusR6-4.zip",
+				"AnonsAquaticSpeciesV1.4.zip",
+				"AnonsBaseSpeciesExpansionV1.2.zip",
+				"HypertusSpeciesCompatibilityLayersR3-1.zip",
+				"WingStaticR1.zip"
+			]
 		}
 	]
 }
