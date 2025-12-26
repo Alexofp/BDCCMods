@@ -1665,14 +1665,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PermMarkerSexMenu.zip"
 	},
 	{
-		"name": "Piercings Mod",
-		"description": "Adds customizable version of Risha piercings for every base game species, sold in medical vendomat, (modded species are also planned to be covered). You can choose what specific parts of the set you want to see on your character. They're dyeable too. \n\nFor yet unsupported species game chooses random model upon equipping - so you could possibly try to make some of them fit.\n\nChangelog: \n-= mod created =-\n\n\n@ me on game's discord (⁠mods-discussion channel) if you find any bugs or suggestions.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PiercingsMod.png]Click for Preview[/url]",
-		"author": "Noro",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PiercingsMod_v1.0.zip"
-	},
-	{
 		"name": "Sugerør's Character Parts",
 		"description": "Adds more stuff for character creation. If you notice any issues just yell at me ^^\nNew: Added 2 heads and 1 set of ears\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrCharacterParts.png]Click for Preview[/url]",
 		"author": "Sugerør",
@@ -1681,12 +1673,52 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SugerrCharacterPartsV1.2.zip"
 	},
 	{
-		"name": "Sugerør's Character Parts",
-		"description": "Adds Bears, Crocodiles and Orcs to the game. If you notice any issues, just yell at me ^^\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrSpeciesPack.png]Click for Preview[/url]",
+		"name": "lightnigh's Power Armor",
+		"description": "Adds power armor and accommodated helmet. Currently only obtainable via cheats.\n\nAttached is R1\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrSpeciesPack.png]Click for Preview[/url]",
+		"author": "lightnigh, CanInBad",
+		"modversion": "R1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PowerArmorR1.zip"
+	},
+	{
+		"name": "Sugerør's Species Pack",
+		"description": "Adds Bears, Crocodiles and Orcs to the game. If you notice any issues, just yell at me ^^\nNew: Added more bodyparts for the bear and a skin generation for the orcs, so they can generate with green skin!\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrSpeciesPack.png]Click for Preview[/url]",
 		"author": "Sugerør",
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SugerrSpeciesPackV1.1.zip"
+	},
+	{
+		"name": "No Futa",
+		"description": "Change all Futa static charaters to female still in beta so might still mention penis on these characters and animations might look weird without them having penis\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NoHerm.png]Click for Preview[/url]",
+		"author": "Foreman",
+		"modversion": "Beta1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NoHermBeta1ArticaUpdate.zip"
+	},
+	{
+		"name": "Mirri breed fix",
+		"description": "Should make it so Mirri can get pregnant after reaching the final rank",
+		"author": "Foreman",
 		"modversion": "1.0",
 		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SugerrSpeciesPackV1.0.zip"
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MirriHeat.zip"
+	},
+	{
+		"name": "Frivolous's Bigger Girl Cocks",
+		"description": "Makes any static girl NPC with a cock larger. By default they are scaled to 150% size but if you have FoxLib, you can change the scaling in Mod Options.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FrivolousBiggerGirlCocks.png]Click for Preview[/url]",
+		"author": "Frivolous",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FrivolousBiggerGirlCocks.zip"
+	},
+	{
+		"name": "Piercings Mod",
+		"description": "Adds customizable version of Risha piercings for player character, sold in medical vendomat, (more modded species are also planned to be covered). You can choose what specific parts of the set you want to see on your character. They're dyeable too. \n\nFor yet unsupported species game chooses random model upon equipping - so you could possibly try to make some of them fit.\n\nChangelog: \n• fixed picking random models for unsupported species -  it now only changes on item being eqquiped;\n• added support for following mods: Eiras Trash Species, Anons Skulldog Species, Anons Base Species Expansion†, Sugerør's Species Pack‡;\n• added support for nightstalker species from Scalie Expansion.\n\n† 'saber' type of species currently experience chin piercing clipping over the tooth. This issue will be addressed in a future version.\n‡ without draconichead1/2/3 (idk if they are usable for the player)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PiercingsMod.png]Click for Preview[/url]",
+		"author": "Noro",
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PiercingsMod_v1.1.zip"
 	}
 	]
 }

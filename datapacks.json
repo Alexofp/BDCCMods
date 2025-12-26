@@ -3995,25 +3995,28 @@
 			"id": "wingsoffire",
 			"name": "WingsofFire Characters",
 			"author": "TypicalRamDriver",
-			"version": "0.4",
-			"description": "Making all the Wings of Fire Characters\n\nCurrently:\nClay\nTsunami\n\n\nWings of Fire is owned by Tui. S. Suterland (I defently mispelled that), I'm just a fan of it.",
-			"contains": "Contains: 2 characters",
+			"version": "0.9",
+			"description": "Making all the Wings of Fire Characters\n\nNo one knows why dragons suddenly were disapearing from Pyrrha. But it always ends with a group of five disapearing every year.\n\nCurrently:\n\nFirst group:\nClay\nTsunami\nSunny\nStarflight\nPeril\n\n\nWings of Fire is owned by Tui. S. Suterland (I defently mispelled that), I'm just a fan of it.",
+			"contains": "Contains: 5 characters",
 			"download": "datapacks/wingsoffire.res",
-			"lastedit": 1766640351,
-			"filesize": 13138,
+			"lastedit": 1766725815,
+			"filesize": 32482,
 			"requiredDatapacks": [
-
+				"sugerorsskinpack"
 			],
 			"reqDatapackToName": {
-
+				"sugerorsskinpack": "Sugerør's Skin Pack"
 			},
 			"requiredMods": [
-				"FoxLib",
 				"HypertusR6-4.zip",
 				"AnonsAquaticSpeciesV1.4.zip",
 				"AnonsBaseSpeciesExpansionV1.2.zip",
 				"HypertusSpeciesCompatibilityLayersR3-1.zip",
-				"WingStaticR1.zip"
+				"WingStaticR1.zip",
+				"SugerrCharacterPartsV1.2.zip",
+				"SynthModVer2.zip",
+				"WintersTaperedPenisesV1.3.zip",
+				"SongsVanillaParts_v1.3.2.zip"
 			]
 		}
 	]
