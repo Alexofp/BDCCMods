@@ -3995,12 +3995,12 @@
 			"id": "wingsoffire",
 			"name": "WingsofFire Characters",
 			"author": "TypicalRamDriver",
-			"version": "0.9",
-			"description": "Making all the Wings of Fire Characters\n\nNo one knows why dragons suddenly were disapearing from Pyrrha. But it always ends with a group of five disapearing every year.\n\nCurrently:\n\nFirst group:\nClay\nTsunami\nSunny\nStarflight\nPeril\n\n\nWings of Fire is owned by Tui. S. Suterland (I defently mispelled that), I'm just a fan of it.",
-			"contains": "Contains: 5 characters",
+			"version": "1.2",
+			"description": "Making all the Wings of Fire Characters\n\nNo one knows why dragons suddenly were disapearing from Pyrrha. But it always ends with a group of five disapearing every year. (BTW, when they teleport they age to adulthood.)\n\nCurrently:\n\nFirst group:\nClay\nTsunami\nSunny\nStarflight\nPeril\n\nSecond Group:\n\nWinter\nMoonwatcher\nQi!@#$%^&*()bli\nTurtle\nKinkajou\n\nWings of Fire is owned by Tui. S. Suterland (I defently mispelled that), I'm just a fan of it.",
+			"contains": "Contains: 10 characters",
 			"download": "datapacks/wingsoffire.res",
-			"lastedit": 1766725815,
-			"filesize": 32482,
+			"lastedit": 1766897008,
+			"filesize": 1501080,
 			"requiredDatapacks": [
 				"sugerorsskinpack"
 			],
@@ -4016,7 +4016,15 @@
 				"SugerrCharacterPartsV1.2.zip",
 				"SynthModVer2.zip",
 				"WintersTaperedPenisesV1.3.zip",
-				"SongsVanillaParts_v1.3.2.zip"
+				"SongsVanillaParts_v1.3.2.zip",
+				"ScalieExpansionVer2.1.zip",
+				"HairPackbySongjo_v1.3.zip",
+				"WintersFluffyBodypartsV1.7.zip",
+				"WintersDeerSpeciesV1.0.zip",
+				"Clothes_Megapack.zip",
+				"PortalPantiesPlus.zip",
+				"PlusCombat_1.0.zip",
+				"SpinedDragonPenisVer1.zip"
 			]
 		}
 	]
