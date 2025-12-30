@@ -1401,14 +1401,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AlendiSpecies.zip"
 	},
 	{
-		"name": "Anons Aquatic Species",
-		"description": "CREDIT: Original by Anon, Bodywriting by Lucci\nDESCRIPTION: Packaged the Shark Species and the seahorse species under one mod since they share a body to minimise duplicating parts unnessecarily.\nCOMPATABILITY: Hypertus, WintersTaperedPenises\nCHANGELOG: Fixed shark buff arms not being loaded\nNOTE: Since these run new Mod ID's doesnt hurt to back up your saves, or wait till your starting a new game to update. @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsAquaticSpecies.png]Click for Preview[/url]",
-		"author": "Anon, Avery Winters",
-		"modversion": "1.4",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnonsAquaticSpeciesV1.4.zip"
-	},
-	{
 		"name": "More Uniforms",
 		"description": "Adds many new uniforms to inmates, available for purchase in all the various vending machines through the prison.\nVer 7 Mostly cleans up messy code in the background, but there are new features, bugfixes as well and a few stat changes.\n\nNew Cowprint underwear, fixes to nipple tape to be worn by men/flat chested people, and the Maternity Uniform is less oriented around pregnancy specifically, and new various Item Icons.\n\nList of Everything Added in the MoreUniforms Mod for BDCC.\n\nUniforms, 3 per Inmate type. Spawns on Inmates. All Uniforms can be Damaged.\n-Inmate Crop-Tops (Laundry Vendomat)\n-Upgraded Inmate Uniform (Laundry Vendomat)\n-Maternity Uniform (Medical Vendomat) (Patched)\n-Topless Uniform (General Vendomat)\n-Bottomless Uniform (General Vendomat) \n\nMisc. Clothing Items.\n-Nipple Tape (General Vendomat) (Dyeable) (Ver7: Fixed to work on Flat Chests)\n-Pussy Tape (General Vendomat) (Dyeable)\n-Cowprint Bra (Medical Vendomat) (Dyeable)\n-Cowprint Panties (Medical Vendomat) (Dyeable)\n-Cowprint Briefs (Medical Vendomat\n-Chest wrappings (Medical Vendomat)\n\nHarnesses, Sold by Announcer\n-Chest Harness\n-6-Point Harness\n-8-Point Harness\n-Full Harness\n-Maternity Harness\n-Max Harness\n-Restrictive Harness\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreUniforms.png]Click for Preview[/url]",
 		"author": "Anomymous",
@@ -1673,14 +1665,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PowerArmorR1.zip"
 	},
 	{
-		"name": "Sugerør's Species Pack",
-		"description": "Adds Bears, Crocodiles and Orcs to the game. If you notice any issues, just yell at me ^^\nNew: Added more bodyparts for the bear and a skin generation for the orcs, so they can generate with green skin!\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrSpeciesPack.png]Click for Preview[/url]",
-		"author": "Sugerør",
-		"modversion": "1.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SugerrSpeciesPackV1.1.zip"
-	},
-	{
 		"name": "No Futa",
 		"description": "Change all Futa static charaters to female still in beta so might still mention penis on these characters and animations might look weird without them having penis\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NoHerm.png]Click for Preview[/url]",
 		"author": "Foreman",
@@ -1713,14 +1697,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SugerrCharacterPartsV1.2fix1.zip"
 	},
 	{
-		"name": "Purple's Slugcats",
-		"description": "Adds anthropomorphic slugcats from Rain World, with some extra customization for more slugcat representation.\nI'm a great artist. :D\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PurplesScugs.png]Click for Preview[/url]",
-		"author": "Purplexion",
-		"modversion": "0.04",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PurplesScugs0.04.zip"
-	},
-	{
 		"name": "Piercings Mod",
 		"description": "Adds customizable version of Risha piercings for player character and NPCs, sold in medical vendomat. You can choose what specific parts of the set you want to see on your character. They're dyeable too.\n\n[b]Currently supports following mods[/b]: Eiras Trash Species, Anons Skulldog Species, Anons Base Species Expansion, Sugerør's Character Parts*, Scaile Expansion 2.1, Sergal Species v0.9.\n\nFor yet unsupported species game chooses random model upon equipping - so you could possibly try to make some of them fit.\n\nChangelog: \n• added ability for NPCs to purchase face piercings for themselves (only supported species).\n\n___\n* without newly refined dragon heads, they will get supported in a future version\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PiercingsMod.png]Click for Preview[/url]",
 		"author": "Noro",
@@ -1735,6 +1711,30 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ChastityBeltsMod_v1.0.zip"
+	},
+	{
+		"name": "Anons Aquatic Species",
+		"description": "CREDIT: Original by Anon, Bodywriting by Lucci\nDESCRIPTION: Packaged the Shark Species and the seahorse species under one mod since they share a body to minimise duplicating parts unnessecarily.\nCOMPATABILITY: Hypertus, WintersTaperedPenises\nCHANGELOG: Fixed an incorrect ID in the Tapered Penises compat files\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsAquaticSpecies.png]Click for Preview[/url]",
+		"author": "Anon, Avery Winters",
+		"modversion": "1.5",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnonsAquaticSpeciesV1.5.zip"
+	},
+	{
+		"name": "Sugerør's Species Pack",
+		"description": "Adds Bears, Crocodiles and Orcs to the game. If you notice any issues, just yell at me ^^\nNew: New bodyparts for the Crocodiles (two heads) and Orcs (one head and one set of ears)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrSpeciesPack.png]Click for Preview[/url]",
+		"author": "Sugerør",
+		"modversion": "1.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SugerrSpeciesPackV1.2.zip"
+	},
+	{
+		"name": "Purple's Slugcats",
+		"description": "Adds anthropomorphic slugcats from Rain World, with some extra customization for more slugcat representation.\nChangelog: minor fix to the tails (would detach from the body in certain sex poses)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PurplesScugs.png]Click for Preview[/url]",
+		"author": "Purplexion",
+		"modversion": "0.04",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PurplesScugs0.04.zip"
 	}
 	]
 }
