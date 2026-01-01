@@ -1735,6 +1735,14 @@
 		"modversion": "0.04",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PurplesScugs0.04.zip"
+	},
+	{
+		"name": "Keyholders Galore",
+		"description": "Keyholders Galore is a small tweak mod that makes SlutLocks function the same way as the standard keyholder lock.\n\nRight now, TightLocks are still using their original, item-based behavior. Changing them cleanly to a keyholder-style system is a bit above this mod’s current scope, but anyone who knows how to do it is very welcome to tinker with the files or send instructions so it can be integrated in a future update.\n\nSpecial thanks to Kaio (creator of KeysMod) for allowing the use of their mod as a base template for this project!\n\nCurrent Features\n- SlutLocks now behave like keyholder locks (single NPC keyholder logic).\n- SlutLock is renamed to Submission Lock.\n\nPlanned Features\n- Rework TightLocks to use keyholder style functionality instead of purely item-based unlocking.\n- Add options for players to adjust the chance of specific smart locks appearing, instead of the current forced keyholder lock behavior.\n- Deeper integration and compatibility improvements with KeysMod.\n- Allow for the option to have multiple keyholders for one keyholder lock (ex: Require keys from 3 NPCs to unlock a keyholder lock)",
+		"author": "Cheeseball",
+		"modversion": "0.1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/KeyholdersGalore.zip"
 	}
 	]
 }

@@ -3995,12 +3995,12 @@
 			"id": "wingsoffire",
 			"name": "WingsofFire Characters",
 			"author": "TypicalRamDriver",
-			"version": "1.2.4",
-			"description": "Making all the Wings of Fire Characters\n\nNo one knows why dragons suddenly were disapearing from Pyrrha. But it always ends with a group of five disapearing every year. (BTW, when they teleport they age to adulthood.)\n\nCurrently:\n\nFirst group:\nClay\nTsunami\nSunny\nStarflight\nPeril\n\nSecond Group:\n\nWinter\nMoonwatcher\nQi!@#$%^&*()bli\nTurtle\nKinkajou\n\nWings of Fire is owned by Tui. S. Suterland (I defently mispelled that), I'm just a fan of it.\n\nAll Art by Me\n(If you want to make art or potriat for characters, just dm it on discord and ill credit you here. My dicord is the same name)",
-			"contains": "Contains: 10 characters, 4 scenes",
+			"version": "1.5.2",
+			"description": "Making all the Wings of Fire Characters\n\nNo one knows why dragons suddenly were disapearing from Pyrrha. But it always ends with a group of five disapearing every year. (BTW, when they teleport they age to adulthood.)\nAlso, this mods use Hypertus, so low end devices be slightly caustious.\n\nCurrently:\n\nFirst group:\nClay\nTsunami\nSunny\nStarflight\nPeril\n\nSecond Group:\n\nWinter\nMoonwatcher\nQi!@#$%^&*()bli\nTurtle\nKinkajou\n\nThird Group:\n\nScarlet\nMoorheen\nFatespeaker\nWebs\nPyrite/Hailstorm\n\nWings of Fire is owned by Tui. S. Suterland (I defently mispelled that), I'm just a fan of it.\n\nAll Art by Me\n(If you want to make art or potriat for characters, just dm it on discord and ill credit you here. My dicord is the same name)",
+			"contains": "Contains: 15 characters, 6 scenes",
 			"download": "datapacks/wingsoffire.res",
-			"lastedit": 1766985699,
-			"filesize": 1542235,
+			"lastedit": 1767250478,
+			"filesize": 1630582,
 			"requiredDatapacks": [
 				"sugerorsskinpack"
 			],
@@ -4009,7 +4009,6 @@
 			},
 			"requiredMods": [
 				"HypertusR6-4.zip",
-				"AnonsAquaticSpeciesV1.4.zip",
 				"AnonsBaseSpeciesExpansionV1.2.zip",
 				"HypertusSpeciesCompatibilityLayersR3-1.zip",
 				"WingStaticR1.zip",
@@ -4024,7 +4023,8 @@
 				"PortalPantiesPlus.zip",
 				"PlusCombat_1.0.zip",
 				"SpinedDragonPenisVer1.zip",
-				"SugerrCharacterPartsV1.2fix1.zip"
+				"SugerrCharacterPartsV1.2fix1.zip",
+				"AnonsAquaticSpeciesV1.5.zip"
 			]
 		}
 	]
