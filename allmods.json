@@ -1585,14 +1585,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FrivolousGenderPill.zip"
 	},
 	{
-		"name": "SongsVanillaParts",
-		"description": "※ Description \n- Adds 26 body parts for vanilla species (Canine, Feline, Equine, Dragon)\n- 14 for Dragon: 2 head, 6 ears, 3 horns, 2 feet, 1 tail\n- 5 for Equine: 1 head, 1 hooves, 1 penis, 2 tails\n- 5 for Canine: 3 heads, 2 ears\n- 2 for Feline: 2 heads\n- Compatible with Balls Extra\n\n※ Update (1.3.2)\n- Added 3 new dragon parts (huge thanks to Moldy tub)\n- minor fixes\n\n[i]+Feel free to share your thoughts with me about the mod[/i]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsVanillaParts.png]Click for Preview[/url]",
-		"author": "SongJo",
-		"modversion": "1.3.2",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsVanillaParts_v1.3.2.zip"
-	},
-	{
 		"name": "UwuSpeak",
 		"description": "Adds a starting perk that allows you to speak like those internet catfolk.\nConfigurable with FoxLib (which isn't required), which can allow you to make NPCs and the player use UwuSpeak under some conditions, or change how UwuSpeak affects your speech.\n\nVersion 1.3:\n- Added an optional fix for static characters' lust after battle.\n- Added options regarding strictness of eligibility conditions.\n\ngo speak bottom now :3\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/UwuSpeak.png]Click for Preview[/url]",
 		"author": "Selinoccino",
@@ -1625,28 +1617,12 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ChastityForEveryone_v2.21.1.zip"
 	},
 	{
-		"name": "SongsHoofySpecies",
-		"description": "※ Description \n- Adds 3 new species: Cow, Deer, Goat.\n- Adds some horns, hoofs, tails, ears that are shared by these three species.\n- Cows will spawn with equine penis by default\n- (if SongsVanillaParts mod is active, \"Horse penis alt\" will set by default)\n- Deer and goats will spawn with human penis by default\n- (if SongsVanillaParts mod is active, Deer can get \"Horse penis alt\")\n- Compatible mods: Hypertus, Racebonus\n\n※ Deer and Bovine mods\n- The original Deer and Bovine mods by Avery Winters were incorporated in this mod, so you can select the parts from those mods with my cows and deer species, and also these species can spawn with those parts, except for the head and hoofs parts.\n- As the Incorporation, i kept the original Deer and Bovine species in this mod, so you can select those species and also don’t have to worry about your ongoing or past characters that used those species. However, these two species won’t spawn as a random NPC anymore to prevent confusion.\n\n※ Update (0.9.3fix1)\n- Fixed an issue where some female and peachboy NPCs spawns with penis\n- Fixed some species code to make it more stable\n※ Update (0.9.3fix2)\n- Fixed an issue where female and peachboy NPCs spawns with penis when the hypertus mod is active\n\n※ Update (0.9.3fix3)\n- Fixed an issue where the goat head 1 snout was transparent\n\n[i]+Feel free to share your thoughts with me about the mod[/i]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsHoofySpecies.png]Click for Preview[/url]",
-		"author": "SongJo",
-		"modversion": "0.9.3fix3",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsHoofySpecies_v0.9.3fix3.zip"
-	},
-	{
 		"name": "Heat and Behavior Traits",
 		"description": "This mod provides species-specific effects. A significant amount of work has been done to migrate to the new code. The effects in this mod now have three states: Stable, It's Heat, and Tired. The effects depend on the current genitalia set and breast size, covering seven different combos, which opens up extensive possibilities for adding gender-specific behavior in the future.\n- Not all species have migrated to the new code yet (~40% complete).\n- Expands the status system, adding special effects for over 60 standard, modified, and duplicated species (e.g., ID \"deer\" and \"Deer\").\n- Effects can be stronger in Heat and weaker in Tired.\n- Starting trait \"Permanent Heat\"\n- Effects still need to be balanced and lored.\n- Anyone can suggest changing icon colors, images, and effects in different states, or request to make the transition earlier for a specific species.\n- Currently updated species (Species not mentioned use the old code for now): Alendi, Ariral, Avali, Avian, Bat, Bovine, Canine, Charizard, Cow, Deer, Demon, Dragon, Elf, Equine, Feline, Goat, Human, Ice Jogauni, Kobold, Mew, Nano Android, Possum, Protogen, Rabbit, Raccoon, Rat, Red Panda, Shark, Sheep, South Sergal, Squirrel, Synth",
 		"author": "Ellie Nibbles",
 		"modversion": "2.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HeatAndBehaviorTraits.zip"
-	},
-	{
-		"name": "Songs Hair Pack",
-		"description": "※ Description \n- adds 29 hair styles\n\n※ Update [ver1.5]\n- Changed mod's name from \"Hairpack by Songjo\" to \"Songs Hair Pack\" for clarity\n- Changed hair's in-game names from \"SH ~\" to \"(S) Cool, Short, Long, Ponytail ~\" for easier identification\n- 5 new hair styles\n- Reworked 4 existing hairs\n- Filled missing pixels in some hairs\n- Minor fixes\n\n+Feel free to share your thoughts with me about the mod\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongshairPack.png]Click for Preview[/url]",
-		"author": "SongJo",
-		"modversion": "1.5",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongshairPack_v1.5.zip"
 	},
 	{
 		"name": "Permanent Marker Sex Menu",
@@ -1743,6 +1719,38 @@
 		"modversion": "0.1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/KeyholdersGalore.zip"
+	},
+	{
+		"name": "SongsHoofySpecies",
+		"description": "※ Description \n- Adds 3 new species: Cow, Deer, Goat.\n- Adds some horns, hoofs, tails, ears that are shared by these three species.\n- Cows will spawn with equine penis by default\n- (if SongsVanillaParts mod is active, \"Horse penis alt\" will set by default)\n- Deer and goats will spawn with human penis by default\n- (if SongsVanillaParts mod is active, Deer can get \"Horse penis alt\")\n- Compatible mods: Hypertus, Racebonus\n\n※ Deer and Bovine mods\n- The original Deer and Bovine mods by Avery Winters were incorporated in this mod, so you can select the parts from those mods with my cows and deer species, and also these species can spawn with those parts, except for the head and hoofs parts.\n- As the Incorporation, i kept the original Deer and Bovine species in this mod, so you can select those species and also don’t have to worry about your ongoing or past characters that used those species. However, these two species won’t spawn as a random NPC anymore to prevent confusion.\n\n※ Update [0.9.4]\n- Added 2 new deer antlers (Credits to GwendiWendi)\n\n[i]+Feel free to share your thoughts with me about the mod[/i]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsHoofySpecies.png]Click for Preview[/url]",
+		"author": "SongJo",
+		"modversion": "0.9.4",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsHoofySpecies_v0.9.4.zip"
+	},
+	{
+		"name": "Songs Hair Pack",
+		"description": "※ Description \n- adds 35 hair styles\n\n※ Update [ver1.5]\n- 6 new hair styles (Credits to GwendiWendi)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongshairPack.png]Click for Preview[/url]",
+		"author": "SongJo",
+		"modversion": "1.6",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongshairPack_v1.6.zip"
+	},
+	{
+		"name": "SongsVanillaParts",
+		"description": "※ Description \n- Adds 37 body parts for vanilla species (Canine, Feline, Equine, Dragon)\n- 14 for Dragon: 2 head, 6 ears, 3 horns, 2 feet, 1 tail\n- 7 for Equine: 1 head, 1 hooves, 3 tails, 1 horn, 1 penis\n- 7 for Canine: 4 heads, 2 ears, 1 tail\n- 4 for Feline: 3 heads, 1 ears\n- 9 for universal: 2 legs, 4 arms, 3 tails\n- Compatible with Balls Extra\n\n※Update [1.4]\n- New 2 Horse parts (tail, horn)\n- New 2 Canine parts (head, tail)\n- New 2 Feline parts (head, ears)\n- New 9 Universal parts (arms, legs, tails)\n- Reworked existing parts (feline, canine heads) a little\n- fixed minor issues\n- Credits to GwendiWendi for giving me tons of ideas and letting me use her characters as refs\n\n[i]+Feel free to share your thoughts with me about the mod[/i]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsVanillaParts.png]Click for Preview[/url]",
+		"author": "SongJo",
+		"modversion": "1.4",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsVanillaParts_v1.4.zip"
+	},
+	{
+		"name": "ClothingRevamp",
+		"description": "The actions to displace clothes such as 'open shirt' can now be applied by selecting a worn item in the inventory screen. This applies to all uniforms & underwear (that you can get without cheats). Each action has new visuals to go along with it. Compatible with the 'MoreUniforms' mod as well. Clothing items which share textures - like 'sporty' items - have been given their own appearance (e.g. stripes), to better distinguish them.\nFeatures:\n- Worn clothing items can now be shifted to expose chest or privates. Clothing state is managed by selecting equipped items from the inventory.\n- This hooks into the battle tease actions, so exhibitionist requirements and exp apply.\n- Adds new models for 'lace' and 'sporty' variants of undergarments to better distinguish them.\n- Adds new models for inmate uniforms and underwear for the shifted aside states.\n- Clothing that is damaged enough to expose privates can't be shifted, because it's pointless and also cuts down the number of model states I have to make.\n- Compatible with 'MoreUniforms' (and could be updated to be compatible with any clothing items in the 'Body' slot).\n- NPC doms have a 10% chance to shift clothing instead of removing it during sex.\n\nPlanned:\n- Modify all undressing sex actions to include shifting aside.\n- Come up with some NPC logic that decides when to remove and when to shift aside.",
+		"author": "bringlebangul",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ClothingRevamp.zip"
 	}
 	]
 }
