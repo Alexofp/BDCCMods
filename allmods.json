@@ -1665,14 +1665,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FrivolousBiggerGirlCocks.zip"
 	},
 	{
-		"name": "Sugerør's Character Parts",
-		"description": "Adds more stuff for character creation. If you notice any issues just yell at me ^^\nNew:\n- Remade the Draconic heads (They should be available in character creation, unless a mod conflicts with it)\n- Set the scaled parts and aquatic tails (with skins) to not generate on NPCs\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrCharacterParts.png]Click for Preview[/url]",
-		"author": "Sugerør",
-		"modversion": "1.2fix1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SugerrCharacterPartsV1.2fix1.zip"
-	},
-	{
 		"name": "Piercings Mod",
 		"description": "Adds customizable version of Risha piercings for player character and NPCs, sold in medical vendomat. You can choose what specific parts of the set you want to see on your character. They're dyeable too.\n\n[b]Currently supports following mods[/b]: Eiras Trash Species, Anons Skulldog Species, Anons Base Species Expansion, Sugerør's Character Parts*, Scaile Expansion 2.1, Sergal Species v0.9.\n\nFor yet unsupported species game chooses random model upon equipping - so you could possibly try to make some of them fit.\n\nChangelog: \n• added ability for NPCs to purchase face piercings for themselves (only supported species).\n\n___\n* without newly refined dragon heads, they will get supported in a future version\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PiercingsMod.png]Click for Preview[/url]",
 		"author": "Noro",
@@ -1751,6 +1743,14 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ClothingRevamp.zip"
+	},
+	{
+		"name": "Sugerør's Character Parts",
+		"description": "Adds more stuff for character creation. If you notice any issues just yell at me ^^\nNew:\n- 7 new hairstyles\n- 2 new dragon heads, horns and ears\n- 1 new canine head and ear\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrCharacterParts.png]Click for Preview[/url]",
+		"author": "Sugerør",
+		"modversion": "1.3",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SugerrCharacterPartsV1.3.zip"
 	}
 	]
 }
