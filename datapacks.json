@@ -3584,29 +3584,6 @@
 			]
 		},
 		{
-			"id": "starsmisccharacters",
-			"name": "Starhorders Miscellaneous Characters",
-			"author": "Starhorder",
-			"version": "1.3",
-			"description": "Characters that didn't quite make the cut for my character pack, sadly. (or thankfully, you ARE getting these ones MUCH sooner.)",
-			"contains": "Contains: 4 characters",
-			"download": "datapacks/starsmisccharacters.res",
-			"lastedit": 1763700395,
-			"filesize": 23330,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-				"AnonsBaseSpeciesExpansionV1.2.zip",
-				"WintersFluffyBodypartsV1.7.zip",
-				"AnimalPussies_v3.0.zip"
-			],
-			"preview": "datapack_previews/starsmisccharacters.png"
-		},
-		{
 			"id": "inmatepackvl",
 			"name": "Meandom Inmate pack v2",
 			"author": "Zephyr!, updated by StarHorder",
@@ -4026,6 +4003,30 @@
 				"SugerrCharacterPartsV1.2fix1.zip",
 				"AnonsAquaticSpeciesV1.5.zip"
 			]
+		},
+		{
+			"id": "starsmisccharacters",
+			"name": "Starhorders Miscellaneous Characters",
+			"author": "Starhorder",
+			"version": "1.4",
+			"description": "Characters that didn't quite make the cut for my character pack, sadly. (or thankfully, you ARE getting these ones MUCH sooner.)",
+			"contains": "Contains: 5 characters",
+			"download": "datapacks/starsmisccharacters.res",
+			"lastedit": 1767502307,
+			"filesize": 30241,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"AnonsBaseSpeciesExpansionV1.2.zip",
+				"AnimalPussies_v3.0.zip",
+				"SongsHoofySpecies_v0.9.3fix3.zip",
+				"WintersFluffyBodypartsV1.8.zip"
+			],
+			"preview": "datapack_previews/starsmisccharacters.png"
 		}
 	]
 }
