@@ -3737,31 +3737,6 @@
 			]
 		},
 		{
-			"id": "starhordersdatapack",
-			"name": "StarHorders Character Pack",
-			"author": "StarHorder",
-			"version": "0",
-			"description": "Yippie.",
-			"contains": "Contains: 8 characters, 5 scenes",
-			"download": "datapacks/starhordersdatapack.res",
-			"lastedit": 1765687982,
-			"filesize": 2920025,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-				"AnimalPussies_v3.0.zip",
-				"Rabbit_Species.zip",
-				"FoxLib",
-				"FoxedBDCC_v0.1.0.zip",
-				"WintersFluffyBodypartsV1.7.zip"
-			],
-			"preview": "datapack_previews/starhordersdatapack.png"
-		},
-		{
 			"id": "hypnocow",
 			"name": "HypnoCow TF",
 			"author": "JokeMysterious",
@@ -4027,6 +4002,78 @@
 				"WintersFluffyBodypartsV1.8.zip"
 			],
 			"preview": "datapack_previews/starsmisccharacters.png"
+		},
+		{
+			"id": "starhordersdatapack",
+			"name": "StarHorders Character Pack",
+			"author": "StarHorder",
+			"version": "0.001",
+			"description": "Yippie.",
+			"contains": "Contains: 8 characters, 5 scenes",
+			"download": "datapacks/starhordersdatapack.res",
+			"lastedit": 1767590038,
+			"filesize": 2946718,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"AnimalPussies_v3.0.zip",
+				"Rabbit_Species.zip",
+				"FoxLib",
+				"FoxedBDCC_v0.1.0.zip",
+				"EirasTrashSpeciesV1.3.zip",
+				"WintersFluffyBodypartsV1.8.zip",
+				"MoreBDSMstuff.zip",
+				"SongshairPack_v1.6.zip"
+			],
+			"preview": "datapack_previews/starhordersdatapack.png"
+		},
+		{
+			"id": "Neera",
+			"name": "NeeraWuff",
+			"author": "NeeraWuff",
+			"version": "1.0",
+			"description": "Just my personial character if any changes are needed feel free to message me in discord Irikuchi/Neera",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/Neera.res",
+			"lastedit": 1767590049,
+			"filesize": 5092,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			]
+		},
+		{
+			"id": "ApolloNPCs",
+			"name": "ApolloNPCs",
+			"author": "ApolloDivided",
+			"version": "1.0",
+			"description": "My own OCs in your game. Apollo (Me) a male feline switch.\n Erebus, A Non binary Avali Switch, \nAstraeus a male dragon somewhat mean dom. \nNyx, A male super mean bully dragon. \nAki, A peachboy super subby Bunny, bully them, he likes it.",
+			"contains": "Contains: 5 characters",
+			"download": "datapacks/ApolloNPCs.res",
+			"lastedit": 1767590052,
+			"filesize": 19613,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"Rabbit_Species.zip",
+				"AvaliSpeciesVer2.zip",
+				"AnonsBaseSpeciesExpansionV1.2.zip",
+				"WintersFluffyBodypartsV1.6.zip"
+			],
+			"preview": "datapack_previews/ApolloNPCs.png"
 		}
 	]
 }

@@ -1737,20 +1737,28 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsVanillaParts_v1.4.zip"
 	},
 	{
-		"name": "ClothingRevamp",
-		"description": "The actions to displace clothes such as 'open shirt' can now be applied by selecting a worn item in the inventory screen. This applies to all uniforms & underwear (that you can get without cheats). Each action has new visuals to go along with it. Compatible with the 'MoreUniforms' mod as well. Clothing items which share textures - like 'sporty' items - have been given their own appearance (e.g. stripes), to better distinguish them.\nFeatures:\n- Worn clothing items can now be shifted to expose chest or privates. Clothing state is managed by selecting equipped items from the inventory.\n- This hooks into the battle tease actions, so exhibitionist requirements and exp apply.\n- Adds new models for 'lace' and 'sporty' variants of undergarments to better distinguish them.\n- Adds new models for inmate uniforms and underwear for the shifted aside states.\n- Clothing that is damaged enough to expose privates can't be shifted, because it's pointless and also cuts down the number of model states I have to make.\n- Compatible with 'MoreUniforms' (and could be updated to be compatible with any clothing items in the 'Body' slot).\n- NPC doms have a 10% chance to shift clothing instead of removing it during sex.\n\nPlanned:\n- Modify all undressing sex actions to include shifting aside.\n- Come up with some NPC logic that decides when to remove and when to shift aside.",
-		"author": "bringlebangul",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ClothingRevamp.zip"
-	},
-	{
 		"name": "Sugerør's Character Parts",
 		"description": "Adds more stuff for character creation. If you notice any issues just yell at me ^^\nNew:\n- 7 new hairstyles\n- 2 new dragon heads, horns and ears\n- 1 new canine head and ear\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrCharacterParts.png]Click for Preview[/url]",
 		"author": "Sugerør",
 		"modversion": "1.3",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SugerrCharacterPartsV1.3.zip"
+	},
+	{
+		"name": "Frivolous's Fluid Refill Pills",
+		"description": "Adds pills to the Medical vendomat that refill breasts and balls to their maximum capacity. They cost 10 credits each.",
+		"author": "Frivolous",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FrivolousFluidRefillPills.zip"
+	},
+	{
+		"name": "ClothingRevamp",
+		"description": "The actions to displace clothes such as 'open shirt' can now be applied by selecting a worn item in the inventory screen. This applies to all uniforms & underwear (that you can get without cheats). Each action has new visuals to go along with it. Clothing items which share textures - like 'sporty' items - have been given their own appearance (e.g. stripes), to better distinguish them.\n\nFeatures:\n-Worn clothing items can now be shifted to expose chest or privates. Clothing state is managed by selecting equipped items from the inventory.\n-This hooks into the battle tease actions, so exhibitionist requirements and exp apply.\n-Adds new models for 'lace' and 'sporty' variants of undergarments to better distinguish them.\n-Adds new models for inmate uniforms and underwear for the shifted aside states.\n-Clothing that is damaged enough to expose privates can't be shifted, because it's pointless and also cuts down the number of model states I have to make.\n-Compatible with 'MoreUniforms' uniforms (not yet for underwear items)(and could be updated to be compatible with any clothing items in the 'Body' slot).\n-NPC doms have a 10% chance to shift clothing instead of removing it during sex.\n-Can shift clothes during sex as a dom, and sometimes as a sub (WIP)\n\nChangelog 1.1:\n-Fixed z-fighting on sporty briefs\n-Very rough system to allow clothing shifting during procedural sex\n\nPlanned:\nCome up with some NPC logic that decides when to remove and when to shift aside.",
+		"author": "bringlebangul",
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ClothingRevamp1.1.zip"
 	}
 	]
 }
