@@ -1753,20 +1753,20 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FrivolousFluidRefillPills.zip"
 	},
 	{
-		"name": "ClothingRevamp",
-		"description": "The actions to displace clothes such as 'open shirt' can now be applied by selecting a worn item in the inventory screen. This applies to all uniforms & underwear (that you can get without cheats). Each action has new visuals to go along with it. Clothing items which share textures - like 'sporty' items - have been given their own appearance (e.g. stripes), to better distinguish them.\n\nFeatures:\n-Worn clothing items can now be shifted to expose chest or privates. Clothing state is managed by selecting equipped items from the inventory.\n-This hooks into the battle tease actions, so exhibitionist requirements and exp apply.\n-Adds new models for 'lace' and 'sporty' variants of undergarments to better distinguish them.\n-Adds new models for inmate uniforms and underwear for the shifted aside states.\n-Clothing that is damaged enough to expose privates can't be shifted, because it's pointless and also cuts down the number of model states I have to make.\n-Compatible with 'MoreUniforms' uniforms (not yet for underwear items)(and could be updated to be compatible with any clothing items in the 'Body' slot).\n-NPC doms have a 10% chance to shift clothing instead of removing it during sex.\n-Can shift clothes during sex as a dom, and sometimes as a sub (WIP)\n\nChangelog 1.2:\n-Added sleeves to MoreUniforms shirt only uniform (can't be shifted aside yet).\n\nPlanned:\nCome up with some NPC logic that decides when to remove and when to shift aside.\nMaybe add a reduced effect of the exhibitionist perks when fully exposed but not nude?",
-		"author": "bringlebangul",
-		"modversion": "1.2",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ClothingRevamp1.2.zip"
-	},
-	{
 		"name": "PowerLoom Lite",
 		"description": "\n\nPowerLoom is a modding tool that enables anyone to create clothes without any coding knowledge, simply follow one of the drawing templates, import the PNGs and create a mod!\n\nYou can also edit the characteristics of each clothing you make, such as: name, buffs, price, tags, plus a few more.\n\nCurrent features:\n\t- Saving/Loading projects\n\t- JSON Editor\n\t- Script Editor\n\t- Model Editor\n\t- Support for front and back body parts\n\t- Auto-Mirror (Can mirror front parts and arms)\n\t- Support for each Leg type, Hand type (fists) and Arm type*\n\t- 3 PNG Layers\n\t- Layer offsets (\"3D\" clothes)\n\nNotes:\n\t- Arms will NOT automatically adjust to the wearer's arm type (Code is there, Rahi just needs to update the game)\n\t- This is a Lite version, meaning that it uses SceneBase as it's foundation so everything uses buttons or textboxes\n\t- A real GUI is on my ToDo list (I still have to figure out how to actually create GUIs so it might take a while)\n\t- I was lazy so I didn't test if 'Dyeable' option works\n\nPlease DM 'mari_1950' on discord for any help, suggestion or bug, thanks!\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PowerLoom.png]Click for Preview[/url]",
 		"author": "Mari",
 		"modversion": "Alpha",
 		"gameversion": "0.1.12fix4",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PowerLoom.zip"
+	},
+	{
+		"name": "ClothingRevamp",
+		"description": "The actions to displace clothes such as 'open shirt' can now be applied by selecting a worn item in the inventory screen. This applies to all uniforms & underwear (that you can get without cheats). Each action has new visuals to go along with it. Clothing items which share textures - like 'sporty' items - have been given their own appearance (e.g. stripes), to better distinguish them.\n\nFeatures:\n-Worn clothing items can now be shifted to expose chest or privates. Clothing state is managed by selecting equipped items from the inventory.\n-This hooks into the battle tease actions, so exhibitionist requirements and exp apply.\n-Adds new models for 'lace' and 'sporty' variants of undergarments to better distinguish them.\n-Adds new models for inmate uniforms and underwear for the shifted aside states.\n-Clothing that is damaged enough to expose privates can't be shifted, because it's pointless and also cuts down the number of model states I have to make.\n-Compatible with 'MoreUniforms' uniforms (not yet for underwear items)(and could be updated to be compatible with any clothing items in the 'Body' slot).\n-NPC doms have a 10% chance to shift clothing instead of removing it during sex.\n-Can shift clothes during sex as a dom, and sometimes as a sub (WIP)\n\nChangelog 1.3:\n-Hard-coded exceptions for MoreUniforms shirtonly and shortsonly uniforms, which uniquely use the 'body' slot but use the itemstate for underwear.\n-Should fix npcs getting stuck in infinite loop when trying to undress\n\nPlanned:\nCome up with some NPC logic that decides when to remove and when to shift aside.\nMaybe add a reduced effect of the exhibitionist perks when fully exposed but not nude?",
+		"author": "bringlebangul",
+		"modversion": "1.3",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ClothingRevamp1.3.zip"
 	}
 	]
 }
