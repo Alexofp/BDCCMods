@@ -1767,6 +1767,14 @@
 		"modversion": "Alpha2",
 		"gameversion": "0.1.12fix4",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PowerLoom.zip"
+	},
+	{
+		"name": "DroneSuit/PowerLoom Mod Test",
+		"description": "After Mari released a powerful in-game outfit creator (props to you dude), I wanted to test the waters.\nSo here, the first, and rudimentary, mod created with PowerLoom, a basic dronesuit!\n\nIs found in the medical vendomat, and can be bought for 1000 credits.",
+		"author": "JokeMysterious",
+		"modversion": "0.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DroneSuitTest.zip"
 	}
 	]
 }
