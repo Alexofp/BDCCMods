@@ -1772,7 +1772,7 @@
 		"name": "PowerLoom Lite",
 		"description": "\n\nPowerLoom is a modding tool that enables anyone to create clothes without any coding knowledge, simply follow one of the drawing templates, import the PNGs and create a mod!\n\nYou can also edit the characteristics of each clothing you make, such as: name, buffs, price, tags, plus a few more.\n\nCurrent features:\n\t- Saving/Loading projects\n\t- JSON Editor\n\t- Script Editor\n\t- Model Editor\n\t- Support for front and back body parts\n\t- Auto-Mirror (Can mirror front parts and arms)\n\t- Support for each Leg type, Hand type (fists) and Arm type*\n\t- 3 PNG Layers\n\t- Layer offsets (\"3D\" clothes)\n\nNotes:\n\t- Arms will NOT automatically adjust to the wearer's arm type (Code is there, Rahi just needs to update the game)\n\t- This is a Lite version, meaning that it uses SceneBase as it's foundation so everything uses buttons or textboxes\n\t- A real GUI is on my ToDo list (I still have to figure out how to actually create GUIs so it might take a while)\n\t- I was lazy so I didn't test if 'Dyeable' option works\n\nPlease DM 'mari_1950' on discord for any help, suggestion or bug, thanks!\n\n\nUpdate Log:\n\nAlpha3\n\t- Fixed Buffs not getting registered\n\t- Removed PowerLoom dependency\n\nAlpha2\n\t- Fixed 0 byte files in PowerLoom folder\n\t- Delete the folder manually to create new files\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PowerLoom.png]Click for Preview[/url]",
 		"author": "Mari",
-		"modversion": "Alpha2",
+		"modversion": "Alpha3",
 		"gameversion": "0.1.12fix4",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PowerLoom.zip"
 	}
