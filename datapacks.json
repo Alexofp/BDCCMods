@@ -4004,34 +4004,6 @@
 			"preview": "datapack_previews/starsmisccharacters.png"
 		},
 		{
-			"id": "starhordersdatapack",
-			"name": "StarHorders Character Pack",
-			"author": "StarHorder",
-			"version": "0.001",
-			"description": "Yippie.",
-			"contains": "Contains: 8 characters, 5 scenes",
-			"download": "datapacks/starhordersdatapack.res",
-			"lastedit": 1767590038,
-			"filesize": 2946718,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-				"AnimalPussies_v3.0.zip",
-				"Rabbit_Species.zip",
-				"FoxLib",
-				"FoxedBDCC_v0.1.0.zip",
-				"EirasTrashSpeciesV1.3.zip",
-				"WintersFluffyBodypartsV1.8.zip",
-				"MoreBDSMstuff.zip",
-				"SongshairPack_v1.6.zip"
-			],
-			"preview": "datapack_previews/starhordersdatapack.png"
-		},
-		{
 			"id": "Neera",
 			"name": "NeeraWuff",
 			"author": "NeeraWuff",
@@ -4074,6 +4046,34 @@
 				"WintersFluffyBodypartsV1.6.zip"
 			],
 			"preview": "datapack_previews/ApolloNPCs.png"
+		},
+		{
+			"id": "starhordersdatapack",
+			"name": "StarHorders Character Pack",
+			"author": "StarHorder",
+			"version": "0.00200006",
+			"description": "Yippie.",
+			"contains": "Contains: 8 characters, 7 scenes",
+			"download": "datapacks/starhordersdatapack.res",
+			"lastedit": 1767934662,
+			"filesize": 3006436,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"AnimalPussies_v3.0.zip",
+				"Rabbit_Species.zip",
+				"FoxLib",
+				"FoxedBDCC_v0.1.0.zip",
+				"EirasTrashSpeciesV1.3.zip",
+				"WintersFluffyBodypartsV1.8.zip",
+				"MoreBDSMstuff.zip",
+				"SongshairPack_v1.6.zip"
+			],
+			"preview": "datapack_previews/starhordersdatapack.png"
 		}
 	]
 }
