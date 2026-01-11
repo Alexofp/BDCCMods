@@ -4048,6 +4048,31 @@
 			"preview": "datapack_previews/ApolloNPCs.png"
 		},
 		{
+			"id": "gwendiskinpack",
+			"name": "Gwendi's Charactors Skinpack",
+			"author": "Songjo, Gwendiwendi",
+			"version": "1.0",
+			"description": "Adds 3 skins tha based on Gwendi's charactors: Gwendi, Kathleen, Jace",
+			"contains": "Contains: 3 skins",
+			"download": "datapacks/gwendiskinpack.res",
+			"lastedit": 1768112041,
+			"filesize": 335534,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"SongsVanillaParts_v1.4.zip",
+				"SongshairPack_v1.6.zip",
+				"AnonsBaseSpeciesExpansionV1.2.zip",
+				"SnowsBarbedCaninePenis.zip",
+				"SongsHoofySpecies_v0.9.4.zip"
+			],
+			"preview": "datapack_previews/gwendiskinpack.png"
+		},
+		{
 			"id": "starhordersdatapack",
 			"name": "StarHorders Character Pack",
 			"author": "StarHorder",
@@ -4055,8 +4080,8 @@
 			"description": "Yippie.",
 			"contains": "Contains: 8 characters, 7 scenes",
 			"download": "datapacks/starhordersdatapack.res",
-			"lastedit": 1767934662,
-			"filesize": 3006436,
+			"lastedit": 1768112059,
+			"filesize": 3007939,
 			"requiredDatapacks": [
 
 			],
