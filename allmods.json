@@ -1783,6 +1783,14 @@
 		"modversion": "0.1",
 		"gameversion": "0.1.12",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/StruggleLust.zip"
+	},
+	{
+		"name": "Uniforms+ | Surgeon Scrubs",
+		"description": "Some nurses need more proper gear...\nUniforms+ is a (hopeful) series of upgraded/special uniforms of the faculty of the BDCC. To start, a set of green surgeon scrubs, gloves, feet covers, and an apron.\n\nBecause of how PowerLoom works, I'm afraid to add new import images with the chance I'll lose my previous work. So enjoy this for now, it will be used in some projects.",
+		"author": "JokeMysterious",
+		"modversion": "0.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SurgeonScrubs.zip"
 	}
 	]
 }
