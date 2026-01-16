@@ -1791,6 +1791,14 @@
 		"modversion": "0.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SurgeonScrubs.zip"
+	},
+	{
+		"name": "Anal Beads",
+		"description": "Adds anal beads. Just a simple sex toy. You can find it in the general vendomat. Can't be used by NPCs yet",
+		"author": "AlexLover",
+		"modversion": "0.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnalBeads.zip"
 	}
 	]
 }
