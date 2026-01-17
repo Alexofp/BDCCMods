@@ -1799,6 +1799,22 @@
 		"modversion": "0.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnalBeads.zip"
+	},
+	{
+		"name": "Cum On Self",
+		"description": "Allows the player to cum on themselves during masturbation and in combat (though if in combat will lose the encounter), should only be available if the player has either a penis or vagina and is either in the cell or in public with 3+ exhibitionism (only tested with both parts and higher exhibitionism)",
+		"author": "Material Defender",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CumOnSelf.zip"
+	},
+	{
+		"name": "PrisonArtsMod",
+		"description": "Adds a new skill that allows combat of previously only npc used attacks. To level up this skill at first use the new Tail Swipe attack.",
+		"author": "JacyDotEXE",
+		"modversion": "0.1",
+		"gameversion": "0.1.12",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PrisonArtsMod.zip"
 	}
 	]
 }
