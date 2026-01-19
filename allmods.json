@@ -881,14 +881,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/APPV1.zip"
 	},
 	{
-		"name": "Race Bonus Mod Plus",
-		"description": "Added different buffs to some playable bace and modded races, while also changing up the original mod by Humoi.\n\nCurrent Vanilla and modded races that are moddified by the mod:\n--Vanilla--\nHuman\nDragon\nDemon\nCanine\nFeline\nEquine\n\n--Modded--\nBovine\nDeer\nLopunny\nRabbit\nShark\nHoundoom\nLycanrocs - Midday, Midnight, Dusk\nSquirrel\nProtogen\nCrow\nLucario\nSkullwolf\nGardevoir\nAll of Scalie Expansion\nSeahorse\n\nAdded this update, The mods Gardevoir, Scalie Expansion, and Seahorse now have compatibility. Bovines have been updated, now having a base increase to breast size when lactating and going over the limit by 2 cup sizes.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/RaceBonusModPlus.png]Click for Preview[/url]",
-		"author": "Person on the Internet",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RaceBonusModPlus.zip"
-	},
-	{
 		"name": "Absols",
 		"description": "Adds absols as a playable species. Hair and horns can be used separately. Arms and legs can use the included pattern, or the universal skins.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/Absols.png]Click for Preview[/url]",
 		"author": "Amewsing",
@@ -1815,6 +1807,14 @@
 		"modversion": "0.1",
 		"gameversion": "0.1.12",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PrisonArtsMod.zip"
+	},
+	{
+		"name": "Race Bonus Mod Plus",
+		"description": "Added different buffs to some playable bace and modded races, while also changing up the original mod by Humoi.\n\nCurrent Vanilla and modded races that are moddified by the mod:\n--Vanilla--\nHuman\nDragon\nDemon\nCanine\nFeline\nEquine\n\n--Modded--\nBovine\nDeer\nLopunny\nRabbit\nShark\nHoundoom\nLycanrocs - Midday, Midnight, Dusk\nSquirrel\nProtogen\nCrow\nLucario\nSkullwolf\nGardevoir\nAll of Scalie Expansion\nSeahorse\nEevee\nFlareon\nJolteon\nVaporeon\nEspeon\nUmbreon\nLeafeon\nGlaceon\nSylveon\nOrc\nBear\nCrocodile\n\nAdded this update, Rebalanced Gardevoir, Buffed Human, Added Winters Pokemon Collection and Sugerr Species Pack races. Sorry for not updating, I got demotivated to work on this and looked to playing other games for awhile. I am sorta back now, enjoy! If there are other races you want me to add, please do recommend. I may ask for ideas though on some.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/RaceBonusModPlus.png]Click for Preview[/url]",
+		"author": "Person on the Internet",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RaceBonusModPlus.zip"
 	}
 	]
 }
