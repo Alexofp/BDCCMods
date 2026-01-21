@@ -4076,12 +4076,12 @@
 			"id": "starhordersdatapack",
 			"name": "StarHorders Character Pack",
 			"author": "StarHorder",
-			"version": "0.00200006",
+			"version": "0.0020000PleaseSaveMe",
 			"description": "Yippie.",
-			"contains": "Contains: 8 characters, 7 scenes",
+			"contains": "Contains: 9 characters, 7 scenes",
 			"download": "datapacks/starhordersdatapack.res",
-			"lastedit": 1768112059,
-			"filesize": 3007939,
+			"lastedit": 1768972825,
+			"filesize": 3014470,
 			"requiredDatapacks": [
 
 			],
