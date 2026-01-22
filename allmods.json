@@ -1815,6 +1815,22 @@
 		"modversion": "1.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CumOnSelf1.1.zip"
+	},
+	{
+		"name": "Watersports Kink",
+		"description": "Adds some additional watersports content. Includes a skill, a full set of perks, the ability to piss during combat and sex, and a few scenes. None of the added content involves pre-existing characters at this time.\nDependencies: None! Not even FoxLib. :-)\n\nI will be the first to admit that I am not the most productive writer in the world, and this mod is primarily just meant to add perks and the combat/sex activities. That said, if anyone wants to contribute content to this mod I am open to it! I am simply tired of working on this mod for now, and I want to post it before I keel over.\n\nSpecial thanks to @BorkHorder for testing this to make sure it didn't implode anyone's games. If it still does despite their testing, please ping me. It's currently midnight where I live but I will respond when I have time.\n\nUpdated to v0.1.1, fixing some bugs\n- Correctly check for wearing a chastity cage in scenes\n- Fix multiple disabled 'pee' buttons existing in places you could pee with Free-Roam\n- Fixed peeing into items at the toilet\n- Made descriptions of vaginas less average-sized and average-looking\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WatersportsKink.png]Click for Preview[/url]",
+		"author": "Frivolous",
+		"modversion": "0.1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WatersportsKink.zip"
+	},
+	{
+		"name": "Frivolous Popup Ads",
+		"description": "Have you ever thought 'God, BDCC is too nice. I wish it had annoying pop up ads'? Well, fear not. Now you can experience that. No sugarcoating it: This mod adds popup ads. There is a scene when you exit your cell that provides some lore and then that's it. Every 12 in-game minutes you will get ads.\n\nThe ads are downloaded from e621 and displayed. The list is curated, so you don't need to worry about being jumpscared by anything gross. If e621 is blocked for whatever reason where you live then I'm sorry. The dream of pop-up ads will remain just that, a dream. \n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FrivolousPopupAds.mp4]Click for Video Preview[/url]",
+		"author": "Frivolous",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FrivolousPopupAds.zip"
 	}
 	]
 }
