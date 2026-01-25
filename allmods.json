@@ -1561,22 +1561,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/UwuSpeak_v1.3.zip"
 	},
 	{
-		"name": "FoxLib",
-		"description": "][/color]\nGame version: 0.1.7+ (Recommended: 0.1.12fix4)\nFilename: FoxLib_v0.10.3.zip\n[center][color=#00FFFF][b][shake rate=5 level=7][[[[/shake] Modding enhancer for BDCC [shake rate=5 level=7]]]][/shake][/b][/color] [/center]\n[center][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][/center]\n[center][color=#FF8000][u]/!\\[/u] Don't forget to delete old versions of the mod when updating [u]/!\\[/u][/color] [/center]\n\nAdd cool [rainbow freq=0.1 sat=1 val=1]features[/rainbow] for users:\n- A mod configuration menu\n- A custom theme engine\n- Dynamic mod hotfixes\n- GameTest engine to test the integrity of the loaded mod list\n\nBut mainly add many features and abilities for BDCC mods such as:\n- Adding custom CrotchBlock for datapacks\n- Adding new perks level tiers\n- Controlling more game UI elements\n- Saving NPC Skills/Perk data\n- Handling fatal errors via GUI\n- Configuring mods via in game Menu\n- Registering custom entries to the ModularDialogue system\n- Preventing your mod from being loaded twice\n- Add custom player status bars\n- Playing custom mod Audio\n\nFoxLib also additionally expose more capabilities to datapacks too, please check the in-game editor to see the new blocks FoxLib adds! [wave amp=10 freq=4]:D[/wave]\n\nFoxLib will also use code generation instead of replacing game code for maximum compatibility with your existing mods, you can see in the file list that FoxLib doesn't replace any game files!\n\n[color=#00FFFF]F[/color]ox[color=#00FFFF]L[/color]ib [color=#00FFFF]M[/color]od[color=#00FFFF]H[/color]elper (Aka. [color=#00FFFF]FLMH[/color].py) is a build tool for developers to ease development of FoxLib mods. It provide warnings to improve your mods code and is the current tool used to package FoxLib!\n\nFor more info on how to use FoxLib API or FoxLib ModHelper, please check the bundled or [color=#2222FF][url=https://git.frisk.space/Fox2Code/FoxLib/src/branch/master/Docs]online[/url][/color] documentation!\nFoxLib source code is hosted at: [color=#2222FF][url=https://git.frisk.space/Fox2Code/FoxLib]https://git.frisk.space/Fox2Code/FoxLib[/url][/color]\n(Or you can read FoxLib source-code by extracting it)\n[center][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][/center]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FoxLib.png]Click for preview[/url]",
-		"author": "Fox2Code",
-		"modversion": "0.10.3[color=",
-		"gameversion": "0.1.12",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxLib_v0.10.3.zip"
-	},
-	{
-		"name": "FoxedBDCC",
-		"description": "Add more feature to BDCC using FoxLib (Note: Don't forget to download FoxLib to use this mod)\n\nFor now it only add one end game skills in the fertility tab\n\nThis mod is the reason why I made FoxLib, and felt bad uploading FoxLib without a mod that uses it too",
-		"author": "Fox2Code",
-		"modversion": "0.1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxedBDCC_v0.1.0.zip"
-	},
-	{
 		"name": "Chastity For Everyone",
 		"description": "[b](/!\ Requires FoxLib,   Requires Chastity Cage Flat Remix /!\)[/b]\n\nMake random NPCs spawn with permanent or non-permanent chastity cages. It's customizable: you are able to change rules for inmates, guards, engineers, nurses, as well as for specific gender. You can also choose a chance of spawning a flat and/or permanent cage variants. Currently doesn't affect any non-random NPCs. Additionally, adds chastity police mechanic - staff can now stop player or NPC inmates who somehow got rid of their cages, including the player. Mod options are available thanks to FoxLib (go to the Mods Options in the main menu)\n\nChangelog: \n• Updated to the new game version (0.1.12fix4);\n• Fix for a bug when you were still stopped by the guards even if you finished Eliza's obedience training and decided to be released from chastity;\n• New setting allowing you to apply any setting changes you make to old NPCs (although, it won't uncage them);\n• Default inspection chance is now 50%;\n• Minor settings' description improvements.\n\nDisclaimer:\nThis new version won't preserve any info on NPCs from previous versions.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ChastityForEveryone.png]Click for Preview[/url]",
 		"author": "Noro",
@@ -1687,14 +1671,6 @@
 		"modversion": "0.9.4",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsHoofySpecies_v0.9.4.zip"
-	},
-	{
-		"name": "Songs Hair Pack",
-		"description": "※ Description \n- adds 35 hair styles\n\n※ Update [ver1.5]\n- 6 new hair styles (Credits to GwendiWendi)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongshairPack.png]Click for Preview[/url]",
-		"author": "SongJo",
-		"modversion": "1.6",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongshairPack_v1.6.zip"
 	},
 	{
 		"name": "SongsVanillaParts",
@@ -1817,20 +1793,44 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CumOnSelf1.1.zip"
 	},
 	{
-		"name": "Watersports Kink",
-		"description": "Adds some additional watersports content. Includes a skill, a full set of perks, the ability to piss during combat and sex, and a few scenes. None of the added content involves pre-existing characters at this time.\nDependencies: None! Not even FoxLib. :-)\n\nI will be the first to admit that I am not the most productive writer in the world, and this mod is primarily just meant to add perks and the combat/sex activities. That said, if anyone wants to contribute content to this mod I am open to it! I am simply tired of working on this mod for now, and I want to post it before I keel over.\n\nSpecial thanks to @BorkHorder for testing this to make sure it didn't implode anyone's games. If it still does despite their testing, please ping me. It's currently midnight where I live but I will respond when I have time.\n\nUpdated to v0.1.1, fixing some bugs\n- Correctly check for wearing a chastity cage in scenes\n- Fix multiple disabled 'pee' buttons existing in places you could pee with Free-Roam\n- Fixed peeing into items at the toilet\n- Made descriptions of vaginas less average-sized and average-looking\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WatersportsKink.png]Click for Preview[/url]",
-		"author": "Frivolous",
-		"modversion": "0.1.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WatersportsKink.zip"
-	},
-	{
 		"name": "Frivolous Popup Ads",
 		"description": "Have you ever thought 'God, BDCC is too nice. I wish it had annoying pop up ads'? Well, fear not. Now you can experience that. No sugarcoating it: This mod adds popup ads. There is a scene when you exit your cell that provides some lore and then that's it. Every 12 in-game minutes you will get ads.\n\nThe ads are downloaded from e621 and displayed. The list is curated, so you don't need to worry about being jumpscared by anything gross. If e621 is blocked for whatever reason where you live then I'm sorry. The dream of pop-up ads will remain just that, a dream. \n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FrivolousPopupAds.mp4]Click for Video Preview[/url]",
 		"author": "Frivolous",
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FrivolousPopupAds.zip"
+	},
+	{
+		"name": "Watersports Kink",
+		"description": "Adds some additional watersports content. Includes a skill, a full set of perks, the ability to piss during combat and sex, and a few scenes. None of the added content involves pre-existing characters at this time.\nDependencies: None! Not even FoxLib. :-)\n\nI will be the first to admit that I am not the most productive writer in the world, and this mod is primarily just meant to add perks and the combat/sex activities. That said, if anyone wants to contribute content to this mod I am open to it! I am simply tired of working on this mod for now, and I want to post it before I keel over.\n\nSpecial thanks to @BorkHorder for testing this to make sure it didn't implode anyone's games. If it still does despite their testing, please ping me.\n\nUpdated to v0.2.0, adding a new scene!\nAdd scene where you volunteer to be a meat toilet in the bathroom. This is identical in spirit to @Reggie's old Toilet Slave mod, though expanded upon to be more detailed. A very big thank you to them for the idea and for giving permission to steal integrate it!\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WatersportsKink.png]Click for Preview[/url]",
+		"author": "Frivolous",
+		"modversion": "0.2.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WatersportsKink.zip"
+	},
+	{
+		"name": "FoxedBDCC",
+		"description": "Add more feature to BDCC using FoxLib (Note: Don't forget to download FoxLib to use this mod)\n\nFor now it only add one end game skills in the fertility tab\n\nThis mod is the reason why I made FoxLib, and felt bad uploading FoxLib without a mod that uses it too",
+		"author": "Fox2Code",
+		"modversion": "0.1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxedBDCC_v0.1.0.zip"
+	},
+	{
+		"name": "FoxLib",
+		"description": "][/color]\nGame version: 0.1.7+ (Recommended: 0.1.12fix4)\nFilename: FoxLib_v0.10.4.zip\n[center][color=#00FFFF][b][shake rate=5 level=7][[[[/shake] Modding enhancer for BDCC [shake rate=5 level=7]]]][/shake][/b][/color] [/center]\n[center][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][/center]\n[center][color=#FF8000][u]/!\\[/u] Don't forget to delete old versions of the mod when updating [u]/!\\[/u][/color] [/center]\n\nAdd cool [rainbow freq=0.1 sat=1 val=1]features[/rainbow] for users:\n- A mod configuration menu\n- A custom theme engine\n- Dynamic mod hotfixes\n- GameTest engine to test the integrity of the loaded mod list\n\nBut mainly add many features and abilities for BDCC mods such as:\n- Adding custom CrotchBlock for datapacks\n- Adding new perks level tiers\n- Controlling more game UI elements\n- Saving NPC Skills/Perk data\n- Handling fatal errors via GUI\n- Configuring mods via in game Menu\n- Registering custom entries to the ModularDialogue system\n- Preventing your mod from being loaded twice\n- Add custom player status bars\n- Playing custom mod Audio\n\nFoxLib also additionally expose more capabilities to datapacks too, please check the in-game editor to see the new blocks FoxLib adds! [wave amp=10 freq=4]:D[/wave]\n\nFoxLib will also use code generation instead of replacing game code for maximum compatibility with your existing mods, you can see in the file list that FoxLib doesn't replace any game files!\n\n[color=#00FFFF]F[/color]ox[color=#00FFFF]L[/color]ib [color=#00FFFF]M[/color]od[color=#00FFFF]H[/color]elper (Aka. [color=#00FFFF]FLMH[/color].py) is a build tool for developers to ease development of FoxLib mods. It provide warnings to improve your mods code and is the current tool used to package FoxLib!\n\nFor more info on how to use FoxLib API or FoxLib ModHelper, please check the bundled or [color=#2222FF][url=https://git.frisk.space/Fox2Code/FoxLib/src/branch/master/Docs]online[/url][/color] documentation!\nFoxLib source code is hosted at: [color=#2222FF][url=https://git.frisk.space/Fox2Code/FoxLib]https://git.frisk.space/Fox2Code/FoxLib[/url][/color]\n(Or you can read FoxLib source-code by extracting it)\n[center][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][/center]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FoxLib.png]Click for preview[/url]",
+		"author": "Fox2Code",
+		"modversion": "0.10.4[color=",
+		"gameversion": "0.1.12",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxLib_v0.10.4.zip"
+	},
+	{
+		"name": "Songs Hair Pack",
+		"description": "※ Description \n- adds 38 hair styles\n\n※ Update (ver1.7)\n- 3 new hairs\n- 1 reworked hair (Short2)\n\n+ Feel free to share your thoughts about the mod\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongshairPack.png]Click for Preview[/url]",
+		"author": "SongJo",
+		"modversion": "1.7",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongshairPack_v1.7.zip"
 	}
 	]
 }
