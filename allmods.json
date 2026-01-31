@@ -1769,14 +1769,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnalBeads.zip"
 	},
 	{
-		"name": "PrisonArtsMod",
-		"description": "Adds a new skill that allows combat of previously only npc used attacks. To level up this skill at first use the new Tail Swipe attack.",
-		"author": "JacyDotEXE",
-		"modversion": "0.1",
-		"gameversion": "0.1.12",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PrisonArtsMod.zip"
-	},
-	{
 		"name": "Race Bonus Mod Plus",
 		"description": "Added different buffs to some playable bace and modded races, while also changing up the original mod by Humoi.\n\nCurrent Vanilla and modded races that are moddified by the mod:\n--Vanilla--\nHuman\nDragon\nDemon\nCanine\nFeline\nEquine\n\n--Modded--\nBovine\nDeer\nLopunny\nRabbit\nShark\nHoundoom\nLycanrocs - Midday, Midnight, Dusk\nSquirrel\nProtogen\nCrow\nLucario\nSkullwolf\nGardevoir\nAll of Scalie Expansion\nSeahorse\nEevee\nFlareon\nJolteon\nVaporeon\nEspeon\nUmbreon\nLeafeon\nGlaceon\nSylveon\nOrc\nBear\nCrocodile\n\nAdded this update, Rebalanced Gardevoir, Buffed Human, Added Winters Pokemon Collection and Sugerr Species Pack races. Sorry for not updating, I got demotivated to work on this and looked to playing other games for awhile. I am sorta back now, enjoy! If there are other races you want me to add, please do recommend. I may ask for ideas though on some.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/RaceBonusModPlus.png]Click for Preview[/url]",
 		"author": "Person on the Internet",
@@ -1833,20 +1825,36 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WatersportsKink.zip"
 	},
 	{
-		"name": "Songs Insect Species",
-		"description": "※ Description \n- adds 1 new species (bee)\n- Moth and Beetle Species are planned to be added in a future update\n\n+ Feel free to share your thoughts about the mod\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsInsectSpecies.png]Click for Preview[/url]",
-		"author": "SongJo",
-		"modversion": "0.6",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsInsectSpecies_v0.6.zip"
-	},
-	{
 		"name": "Moo Pills",
 		"description": "Adds Moo Pill, a pill that improves lactation, and gives the Moo perk to any npc who takes it (can be given during sex)\n\nPill can be bought at the Medical Vendomat\n\nCurrently does 4 things (one per pill, given in order):\nremoves the \"sore nipples\" debuff from the taker.\nGives the Moo Perk (the same one in the milking skillgroup) to the taker, unless the taker is the player.\nGives a custom perk that forces lactation on any who take the pill.\nFills the breasts to the absolute limit (including extra sizes).\n\nWill not work on those who have no breasts or are \"FOREVER FLAT\"",
 		"author": "Material Defender",
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MooPills1.0.zip"
+	},
+	{
+		"name": "Songs Insect Species",
+		"description": "※ Description \n- adds 1 new species (bee)\n- Moth and Beetle Species are planned to be added in a future update\n\n※(0.6fix1)\nfixed an issue where the bee limbs are missing\nadded some missing PNGs\n\n+ Feel free to share your thoughts about the mod\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsInsectSpecies.png]Click for Preview[/url]",
+		"author": "SongJo",
+		"modversion": "0.6fix1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsInsectSpecies_v0.6fix1.zip"
+	},
+	{
+		"name": "PrisonArtsMod",
+		"description": "Adds a new skill that allows combat of previously only npc used attacks. To level up this skill at first use the new Tail Attack.\n\nChangelog 0.2\n+ added 3 new skills\n+ added new \"attack\"\n+ added new icons for all the skills\n+ reworked Tail Swipe attack",
+		"author": "JacyDotEXE",
+		"modversion": "0.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PrisonArtsMod.zip"
+	},
+	{
+		"name": "SoundMod",
+		"description": "[b]SIZE: 88.7MB (huge file warning)[/b]\n\nThis mod implements a simple audio system, using FoxLib. !!WILL NOT WORK WITHOUT LATEST VERSION OF FOXLIB!! There are four audio triggers for now: tease, pleasure, struggle, and orgasm. Settings can be adjusted in Mod Options. Check the readme in the .zip to learn how to make your own sound set.\n\nFeatures:\nFour sound effects plus a gagged variant of each!\nTease: triggers when player's Lust stat increases\nStruggle: triggers when player starts to struggle against restraints\nPleasure: triggers when a player's Arousal stat increases\nOrgasm: triggers when player orgasms\nSound packs! Place a bunch of sounds in a folder, and FoxLib will select one at random, so you don't hear the exact same sound clip all the time\nMake your own sound packs! Instructions in the readme! In the .zip!\nComes with one feminine and one masculine sound pack\nFull of bugs and broken bits! Guaranteed to cause crashes, save often folks\nSound pitch variance...isn't working, I dunno, maybe I did something wrong\nCompatibility with pre-written scenes is not very likely\nThis modifies player.gd in order to work, so base game updates are very likely to break it\n\nChangelog 0.3 beta:\nWorkaround to get sounds to play without hooking into player.gd\nThis won't catch every event where I wanted a sound to play but it's good enough for now\n\nCredits:\nOpenNSFW sound pack | JeremyColeNSFW | LewdKitzu | VelvetSheetzVA | geministarsign1\nShared under Creative Commons license -- [url=https://opennsfw.carrd.co/]https://opennsfw.carrd.co/[/url]\n\nPlanned:\nfix bugs (you can ping me if you find one",
+		"author": "bringlebangul",
+		"modversion": "0.3",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod0.3beta.zip"
 	}
 	]
 }
