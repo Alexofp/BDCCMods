@@ -1855,6 +1855,14 @@
 		"modversion": "0.4",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod0.4beta.zip"
+	},
+	{
+		"name": "SearchBarDeselect",
+		"description": "Are you tired of pressing '1' to exit the inventory and instead typing '1' in the search bar? No more! Now, you click the search bar to begin typing by default. Don't use this mod on touchscreen devices, it won't do anything.",
+		"author": "bringlebangul",
+		"modversion": "1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SearchBarDeselect.zip"
 	}
 	]
 }
