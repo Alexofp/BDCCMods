@@ -1809,14 +1809,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxLib_v0.10.4.zip"
 	},
 	{
-		"name": "Songs Hair Pack",
-		"description": "※ Description \n- adds 38 hair styles\n\n※ Update (ver1.7)\n- 3 new hairs\n- 1 reworked hair (Short2)\n\n+ Feel free to share your thoughts about the mod\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongshairPack.png]Click for Preview[/url]",
-		"author": "SongJo",
-		"modversion": "1.7",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongshairPack_v1.7.zip"
-	},
-	{
 		"name": "Watersports Kink",
 		"description": "Adds some additional watersports content. Includes a skill, a full set of perks, the ability to piss during combat and sex, and a few scenes. None of the added content involves pre-existing characters at this time.\nDependencies: None! Not even FoxLib. :-)\n\nI will be the first to admit that I am not the most productive writer in the world, and this mod is primarily just meant to add perks and the combat/sex activities. That said, if anyone wants to contribute content to this mod I am open to it! I am simply tired of working on this mod for now, and I want to post it before I keel over.\n\nSpecial thanks to @BorkHorder for testing this to make sure it didn't implode anyone's games. If it still does despite their testing, please ping me.\n\nChanges in v0.2.1:\nFixed issue that made it so you couldn't pee in a sub's vagina\nFixed issue where if you pulled out of a hole the game would still say you peed in it\nFixed issue where you could not pee inside a sub's mouth in some situations\nIntroduced the linear concept of time to the meat toilet scene\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WatersportsKink.png]Click for Preview[/url]",
 		"author": "Frivolous",
@@ -1831,14 +1823,6 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MooPills1.0.zip"
-	},
-	{
-		"name": "Songs Insect Species",
-		"description": "※ Description \n- adds 1 new species (bee)\n- Moth and Beetle Species are planned to be added in a future update\n\n※(0.6fix1)\nfixed an issue where the bee limbs are missing\nadded some missing PNGs\n\n+ Feel free to share your thoughts about the mod\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsInsectSpecies.png]Click for Preview[/url]",
-		"author": "SongJo",
-		"modversion": "0.6fix1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsInsectSpecies_v0.6fix1.zip"
 	},
 	{
 		"name": "PrisonArtsMod",
@@ -1863,6 +1847,30 @@
 		"modversion": "0.5b",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod0.5beta.zip"
+	},
+	{
+		"name": "FNAF Jumpscare",
+		"description": "Adds a 1/1000 chance to trigger the FNAF 2 Foxy jumpscare whenever time passes, complete with audio. Configurable with FoxLib, but it isn't required.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FnafJumpscare.png]Click for Preview[/url]",
+		"author": "Frivolous",
+		"modversion": "1.0.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FnafJumpscare.zip"
+	},
+	{
+		"name": "Songs Insect Species",
+		"description": "※ Description \n- Adds 2 new species (bee, moth)\n- Beetle Species is planned to be added in a future update\n\n※(0.7)\n- Added new species: Moths\n- Added 1 universal body part that shares by both species\n- Bee species now spawn with 5 orange–yellow colors, no skin patterns\n\n+ Feel free to share your thoughts about the mod\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsInsectSpecies.png]Click for Preview[/url]",
+		"author": "SongJo",
+		"modversion": "0.7",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsInsectSpecies_v0.7.zip"
+	},
+	{
+		"name": "Songs Hair Pack",
+		"description": "※ Description \nadds 42 hair styles\n\n※ Update (ver1.8)\n3 new hair styles (Credits to Starborker and Tenten)\nReworked some existing hairstyles that I previously drew with a mouse\nOverall polish\n\n+ Feel free to share your thoughts about the mod\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongshairPack.png]Click for Preview[/url]",
+		"author": "SongJo",
+		"modversion": "1.8",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongshairPack_v1.8.zip"
 	}
 	]
 }

@@ -4099,6 +4099,27 @@
 
 			],
 			"preview": "datapack_previews/LovelyBrothers.png"
+		},
+		{
+			"id": "BUZZBUZZ",
+			"name": "Buzz Buzz",
+			"author": "TenTen",
+			"version": "1.0",
+			"description": "No description provided",
+			"contains": "Contains: 2 characters",
+			"download": "datapacks/BUZZBUZZ.res",
+			"lastedit": 1770179340,
+			"filesize": 12283,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"SongsInsectSpecies_v0.6fix1.zip"
+			],
+			"preview": "datapack_previews/BUZZBUZZ.png"
 		}
 	]
 }
