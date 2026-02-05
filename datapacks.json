@@ -4052,34 +4052,6 @@
 			"preview": "datapack_previews/gwendiskinpack.png"
 		},
 		{
-			"id": "starhordersdatapack",
-			"name": "StarHorders Character Pack",
-			"author": "StarHorder",
-			"version": "0.0020000PleaseSaveMe",
-			"description": "Yippie.",
-			"contains": "Contains: 9 characters, 7 scenes",
-			"download": "datapacks/starhordersdatapack.res",
-			"lastedit": 1768972825,
-			"filesize": 3014470,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-				"AnimalPussies_v3.0.zip",
-				"Rabbit_Species.zip",
-				"FoxLib",
-				"FoxedBDCC_v0.1.0.zip",
-				"EirasTrashSpeciesV1.3.zip",
-				"WintersFluffyBodypartsV1.8.zip",
-				"MoreBDSMstuff.zip",
-				"SongshairPack_v1.6.zip"
-			],
-			"preview": "datapack_previews/starhordersdatapack.png"
-		},
-		{
 			"id": "LovelyBrothers",
 			"name": "LovelyBrothers",
 			"author": "G-Bomp",
@@ -4101,15 +4073,43 @@
 			"preview": "datapack_previews/LovelyBrothers.png"
 		},
 		{
+			"id": "starhordersdatapack",
+			"name": "StarHorders Character Pack",
+			"author": "StarHorder",
+			"version": "0.00200000THANKYOUSONGJO",
+			"description": "Yippie.",
+			"contains": "Contains: 9 characters, 7 scenes",
+			"download": "datapacks/starhordersdatapack.res",
+			"lastedit": 1770266662,
+			"filesize": 3019564,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"AnimalPussies_v3.0.zip",
+				"Rabbit_Species.zip",
+				"FoxLib",
+				"FoxedBDCC_v0.1.0.zip",
+				"EirasTrashSpeciesV1.3.zip",
+				"WintersFluffyBodypartsV1.8.zip",
+				"MoreBDSMstuff.zip",
+				"SongshairPack_v1.7.zip"
+			],
+			"preview": "datapack_previews/starhordersdatapack.png"
+		},
+		{
 			"id": "BUZZBUZZ",
 			"name": "Buzz Buzz",
 			"author": "TenTen",
 			"version": "1.0",
 			"description": "No description provided",
-			"contains": "Contains: 2 characters",
+			"contains": "Contains: 3 characters",
 			"download": "datapacks/BUZZBUZZ.res",
-			"lastedit": 1770179340,
-			"filesize": 12283,
+			"lastedit": 1770266687,
+			"filesize": 18234,
 			"requiredDatapacks": [
 
 			],
