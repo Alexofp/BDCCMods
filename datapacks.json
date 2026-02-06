@@ -4120,6 +4120,32 @@
 				"SongsInsectSpecies_v0.6fix1.zip"
 			],
 			"preview": "datapack_previews/BUZZBUZZ.png"
+		},
+		{
+			"id": "Connor",
+			"name": "Connor",
+			"author": "Xileth",
+			"version": "1.12fix4 and further?",
+			"description": "My OC I use everywhere so why not here too? :D",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/Connor.res",
+			"lastedit": 1770353607,
+			"filesize": 347272,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"Rabbit_Species.zip",
+				"HypertusR6-5.zip",
+				"HypertusSpeciesCompatibilityLayersR3-1.zip",
+				"WintersFluffyBodypartsV1.8.zip",
+				"SugerrCharacterPartsV1.3.zip",
+				"SongsUncutPenis_v0.8.zip"
+			],
+			"preview": "datapack_previews/Connor.png"
 		}
 	]
 }
