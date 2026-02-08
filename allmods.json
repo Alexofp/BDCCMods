@@ -1809,14 +1809,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WatersportsKink.zip"
 	},
 	{
-		"name": "Moo Pills",
-		"description": "Adds Moo Pill, a pill that improves lactation, and gives the Moo perk to any npc who takes it (can be given during sex)\n\nPill can be bought at the Medical Vendomat\n\nCurrently does 4 things (one per pill, given in order):\nremoves the \"sore nipples\" debuff from the taker.\nGives the Moo Perk (the same one in the milking skillgroup) to the taker, unless the taker is the player.\nGives a custom perk that forces lactation on any who take the pill.\nFills the breasts to the absolute limit (including extra sizes).\n\nWill not work on those who have no breasts or are \"FOREVER FLAT\"",
-		"author": "Material Defender",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MooPills1.0.zip"
-	},
-	{
 		"name": "PrisonArtsMod",
 		"description": "Adds a new skill that allows combat of previously only npc used attacks. To level up this skill at first use the new Tail Attack.\n\nChangelog 0.2\n+ added 3 new skills\n+ added new \"attack\"\n+ added new icons for all the skills\n+ reworked Tail Swipe attack",
 		"author": "JacyDotEXE",
@@ -1871,6 +1863,14 @@
 		"modversion": "0.2",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnalBeads.zip"
+	},
+	{
+		"name": "Moo Pills",
+		"description": "Adds a pill that relieves sore breasts, and improve lactation\n\npill can be bought at the medical vendomat, or cheated in the Medical category in the debug menu\n\nUPDATE 1.1:\nfixed a case where lactation doesn't start when getting the \"Permanent Lactation\" perk (either via pill or by picking it as a starting perk)\nmade the Permanent Lactation perk a starting perk cause inherent perks somehow blank the Buffs tab in skills.",
+		"author": "Material Defender",
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MooPills1.1.zip"
 	}
 	]
 }
