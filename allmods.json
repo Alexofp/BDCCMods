@@ -1065,14 +1065,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/KeysMod.zip"
 	},
 	{
-		"name": "Fluidex",
-		"description": "Adds a new TF pill that lets you change what fluids are produced by different parts of the body.\n\n(Unintentional bugged item now removed.)",
-		"author": "Thermal Dragon",
-		"modversion": "1.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Fluidex.zip"
-	},
-	{
 		"name": "Kaio's QOL",
 		"description": "A small QOL mod that changes things I wanted to change. Current changes:\n1.) BFFs! Characters above 50% affection will no longer lose affection over time. However, Characters under -50% affection will not gain affection over time either.",
 		"author": "Kaio",
@@ -1673,14 +1665,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsHoofySpecies_v0.9.4.zip"
 	},
 	{
-		"name": "SongsVanillaParts",
-		"description": "※ Description \n- Adds 37 body parts for vanilla species (Canine, Feline, Equine, Dragon)\n- 14 for Dragon: 2 head, 6 ears, 3 horns, 2 feet, 1 tail\n- 7 for Equine: 1 head, 1 hooves, 3 tails, 1 horn, 1 penis\n- 7 for Canine: 4 heads, 2 ears, 1 tail\n- 4 for Feline: 3 heads, 1 ears\n- 9 for universal: 2 legs, 4 arms, 3 tails\n- Compatible with Balls Extra\n\n※Update [1.4]\n- New 2 Horse parts (tail, horn)\n- New 2 Canine parts (head, tail)\n- New 2 Feline parts (head, ears)\n- New 9 Universal parts (arms, legs, tails)\n- Reworked existing parts (feline, canine heads) a little\n- fixed minor issues\n- Credits to GwendiWendi for giving me tons of ideas and letting me use her characters as refs\n\n[i]+Feel free to share your thoughts with me about the mod[/i]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsVanillaParts.png]Click for Preview[/url]",
-		"author": "SongJo",
-		"modversion": "1.4",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsVanillaParts_v1.4.zip"
-	},
-	{
 		"name": "Sugerør's Character Parts",
 		"description": "Adds more stuff for character creation. If you notice any issues just yell at me ^^\nNew:\n- 7 new hairstyles\n- 2 new dragon heads, horns and ears\n- 1 new canine head and ear\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrCharacterParts.png]Click for Preview[/url]",
 		"author": "Sugerør",
@@ -1871,6 +1855,14 @@
 		"modversion": "1.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MooPills1.1.zip"
+	},
+	{
+		"name": "SongsVanillaParts",
+		"description": "※ Description \n- Adds 43 body parts for vanilla species (Canine, Feline, Equine, Dragon)\n- 14 for Dragon: 2 head, 6 ears, 3 horns, 2 feet, 1 tail\n- 7 for Equine: 1 head, 1 hooves, 3 tails, 1 horn, 1 penis\n- 7 for Canine: 4 heads, 2 ears, 1 tail\n- 4 for Feline: 3 heads, 1 ears\n- 11 for universal: 2 legs, 4 arms, 3 tails, 2 breasts\n- Compatible with Balls Extra and Hypertus\n\n※Update (1.4.3)\n- New 2 Universal parts (breasts)\n- Added Hypertus patch for the penis and breasts\n\n[i]+Feel free to @me about the mod[/i]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsVanillaParts.png]Click for Preview[/url]",
+		"author": "SongJo",
+		"modversion": "1.4.3",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsVanillaParts_v1.4.3.zip"
 	}
 	]
 }
