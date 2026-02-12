@@ -1825,14 +1825,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FnafJumpscare.zip"
 	},
 	{
-		"name": "Songs Insect Species",
-		"description": "※ Description \n- Adds 2 new species (bee, moth)\n- Beetle Species is planned to be added in a future update\n\n※(0.7)\n- Added new species: Moths\n- Added 1 universal body part that shares by both species\n- Bee species now spawn with 5 orange–yellow colors, no skin patterns\n\n+ Feel free to share your thoughts about the mod\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsInsectSpecies.png]Click for Preview[/url]",
-		"author": "SongJo",
-		"modversion": "0.7",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsInsectSpecies_v0.7.zip"
-	},
-	{
 		"name": "Songs Hair Pack",
 		"description": "※ Description \nadds 42 hair styles\n\n※ Update (ver1.8)\n3 new hair styles (Credits to Starborker and Tenten)\nReworked some existing hairstyles that I previously drew with a mouse\nOverall polish\n\n+ Feel free to share your thoughts about the mod\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongshairPack.png]Click for Preview[/url]",
 		"author": "SongJo",
@@ -1871,6 +1863,14 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CumInSelf1.0.zip"
+	},
+	{
+		"name": "Songs Insect Species",
+		"description": "※ Description \n- Adds 3 new species (bee, moth, beetle)\n- Spider Species is planned to be added in a future update\n\n※(0.8)\n- Added new species: Beetles\n\n[i]+ Feel free to share your thoughts about the mod[/i]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsInsectSpecies.png]Click for Preview[/url]",
+		"author": "SongJo",
+		"modversion": "0.8",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsInsectSpecies_v0.8.zip"
 	}
 	]
 }
