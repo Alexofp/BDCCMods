@@ -1825,14 +1825,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongshairPack_v1.8.zip"
 	},
 	{
-		"name": "Anal Beads",
-		"description": "Adds anal beads. Just a simple sex toy. You can find it in the general vendomat. Now can be used by NPCs, no visuals yet",
-		"author": "AlexLover",
-		"modversion": "0.2",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnalBeads.zip"
-	},
-	{
 		"name": "Moo Pills",
 		"description": "Adds a pill that relieves sore breasts, and improve lactation\n\npill can be bought at the medical vendomat, or cheated in the Medical category in the debug menu\n\nUPDATE 1.1:\nfixed a case where lactation doesn't start when getting the \"Permanent Lactation\" perk (either via pill or by picking it as a starting perk)\nmade the Permanent Lactation perk a starting perk cause inherent perks somehow blank the Buffs tab in skills.",
 		"author": "Material Defender",
@@ -1871,6 +1863,22 @@
 		"modversion": "0.3.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WatersportsKink.zip"
+	},
+	{
+		"name": "No Futa",
+		"description": "Makes all static characters who were Futa into not Futa.\nWhat's new: can now choose to have some futas if you only have problems with some of the girls having dicks but not others (separate versions are in the game's discord). If you want no Futas ever use the Full Package version only, Aisha is stand alone and needs no other files to work, all other requires the Foreman Mod Base to work properly. So far only artica's and Aisha's content is finished, but still didn't fix animations and she can still produce cum sometimes, all others will still mention them having dicks even though the charater models don't.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NoFuta.png]Click for Preview[/url]",
+		"author": "Foreman",
+		"modversion": "Alpha2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NoFutaFullPackage.zip"
+	},
+	{
+		"name": "Anal Beads",
+		"description": "Adds anal beads. Just a simple sex toy. You can find it in the general vendomat. Now can be used by NPCs, no visuals yet\n\nUpdate: Now can actually be used by npcs (previously required you to have anal beads already inserted)",
+		"author": "AlexLover",
+		"modversion": "0.2.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnalBeads.zip"
 	}
 	]
 }
