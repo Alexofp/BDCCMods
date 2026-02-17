@@ -1879,6 +1879,22 @@
 		"modversion": "0.2.2",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnalBeads.zip"
+	},
+	{
+		"name": "MoldyT's Big Tails",
+		"description": "Adds 6 New Tails and 14 (not including base skin) additional skin patterns for them. \n\n2 Feline Tails: \nSnow Leopard Tail and Fluffy Leopard Tail\n\n2 Canine Tails: \nFeral Wolf Tail and Puffy Wolf Tail\n\n2 Mouth Tails\n\nIf they don't work ping me, I did not test it with any other mods.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoldyTBigTails.png]Click for Preview[/url]",
+		"author": "MoldyT",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoldyTBigTails.zip"
+	},
+	{
+		"name": "More Cow Clothes",
+		"description": "Ever thought the vanilla cow underwear was too little? \nWell, I added a bit more!\nThis mod includes the following:\n\nCow-Print Stockings for the arms and legs\nAn alternative to the arm stockings that act as bondage mittens. They look like cow hooves!\nA cowbell collar! (Please note, using this collar is non-permanent unless you use the datapack engine, or you can use the scripting tool to manipulate :3)\n\nAll assets are drawn be me, fully tested. Enjoy!",
+		"author": "WolfStarArt",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreCowClothes.zip"
 	}
 	]
 }
