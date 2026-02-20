@@ -1554,7 +1554,7 @@
 	},
 	{
 		"name": "Chastity For Everyone",
-		"description": "[b](/!\ Requires FoxLib,   Requires Chastity Cage Flat Remix /!\)[/b]\n\nMake random NPCs spawn with permanent or non-permanent chastity cages. It's customizable: you are able to change rules for inmates, guards, engineers, nurses, as well as for specific gender. You can also choose a chance of spawning a flat and/or permanent cage variants. Currently doesn't affect any non-random NPCs. Additionally, adds chastity police mechanic - staff can now stop player or NPC inmates who somehow got rid of their cages, including the player. Mod options are available thanks to FoxLib (go to the Mods Options in the main menu)\n\nChangelog: \n• Updated to the new game version (0.1.12fix4);\n• Fix for a bug when you were still stopped by the guards even if you finished Eliza's obedience training and decided to be released from chastity;\n• New setting allowing you to apply any setting changes you make to old NPCs (although, it won't uncage them);\n• Default inspection chance is now 50%;\n• Minor settings' description improvements.\n\nDisclaimer:\nThis new version won't preserve any info on NPCs from previous versions.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ChastityForEveryone.png]Click for Preview[/url]",
+		"description": "[b](! Requires FoxLib,   Requires Chastity Cage Flat Remix !)[/b]\n\nMake random NPCs spawn with permanent or non-permanent chastity cages. It's customizable: you are able to change rules for inmates, guards, engineers, nurses, as well as for specific gender. You can also choose a chance of spawning a flat and/or permanent cage variants. Currently doesn't affect any non-random NPCs. Additionally, adds chastity police mechanic - staff can now stop player or NPC inmates who somehow got rid of their cages, including the player. Mod options are available thanks to FoxLib (go to the Mods Options in the main menu)\n\nChangelog: \n• Updated to the new game version (0.1.12fix4);\n• Fix for a bug when you were still stopped by the guards even if you finished Eliza's obedience training and decided to be released from chastity;\n• New setting allowing you to apply any setting changes you make to old NPCs (although, it won't uncage them);\n• Default inspection chance is now 50%;\n• Minor settings' description improvements.\n\nDisclaimer:\nThis new version won't preserve any info on NPCs from previous versions.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ChastityForEveryone.png]Click for Preview[/url]",
 		"author": "Noro",
 		"modversion": "2.21.1",
 		"gameversion": "*",
@@ -1849,14 +1849,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CumInSelf1.0.zip"
 	},
 	{
-		"name": "Songs Insect Species",
-		"description": "※ Description \n- Adds 3 new species (bee, moth, beetle)\n- Spider Species is planned to be added in a future update\n\n※(0.8)\n- Added new species: Beetles\n\n[i]+ Feel free to share your thoughts about the mod[/i]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsInsectSpecies.png]Click for Preview[/url]",
-		"author": "SongJo",
-		"modversion": "0.8",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsInsectSpecies_v0.8.zip"
-	},
-	{
 		"name": "Watersports Kink",
 		"description": "Adds some watersports content. Includes a skill, a full set of perks, the ability to piss during combat and sex, and a few scenes. None of the added content involves pre-existing characters at this time.\n\nChanges in v0.3.0:\n- Added ability to pee during tribadism\n- Added ability to pee when getting oral to your vagina\n- Meat toilet scene is now free to enter even without any levels in the skill\n- XP awarded to the skill now scales based on how much pee is involved. This should make leveling the skill a lot faster.\n- If you have both a vagina and a penis, you now get to choose which one you pee with when selecting the 'Piss On' button during sex\n- Added starting perk that you can take during character creation to unlock peeing during combat and sex\n- Fixed the Meat Toilet scene not giving any XP\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WatersportsKink.png]Click for Preview[/url]",
 		"author": "Frivolous",
@@ -1895,6 +1887,14 @@
 		"modversion": "Beta2.1 Avy slut wall update",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NoFutaFullPackage.zip"
+	},
+	{
+		"name": "Songs Insect Species",
+		"description": "※ Description \n- Adds 4 new species (Bee, Moth, Beetle, Spider)\n- Compatible with Hypertus mod\n\n※(0.9)\n- Added new species: Spiders\n- Now it's compatible with Hypertus mod\n\n[i]+ Feel free to share your thoughts about the mod[/i]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsInsectSpecies.png]Click for Preview[/url]",
+		"author": "SongJo",
+		"modversion": "0.9",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsInsectSpecies_v0.9.zip"
 	}
 	]
 }
