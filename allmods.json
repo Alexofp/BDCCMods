@@ -1895,6 +1895,14 @@
 		"modversion": "0.9",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsInsectSpecies_v0.9.zip"
+	},
+	{
+		"name": "GreenThumb_alpha",
+		"description": "A proof-of-concept for adding a gardening system to the greenhouse.\nTHIS IS UNFINISHED\nLooking for feedback before I start adding more stuff. \nWhen stuff breaks, check mod options to enable debug mode.\n\nFeatures:\n- Gardening! As an alternative to mining, harvesting gives many credits at once, but you have to wait for them to grow.\n- Totally unbalanced! I just made up some numbers. Please give feedback.\n- A character!\n- Only 3 crops idk how farming works.\n- An unfinished quest\n- lots of debug stuff\n- naked apron\n\n\nPlanned:\nfix bugs (you can ping me if you find one)\nprobably gonna adjust many things based on feedback",
+		"author": "bringlebangul",
+		"modversion": "0.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GreenThumb_alpha.zip"
 	}
 	]
 }
