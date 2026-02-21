@@ -1903,6 +1903,14 @@
 		"modversion": "0.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GreenThumb_alpha.zip"
+	},
+	{
+		"name": "Uncageable",
+		"description": "Prevents any items tagged BDSMRestraint from being equipped to the player's dick (by youself or NPCs). Usually refers to chastity cages but also applies to some modded items. Visually breaks some chastity enforced scenes.\n\nSince certain NPCs can get spammy equipping these, the chastity items are not recovered.\nThe intent was to make this compatible with any mods (e.g. MoreBDSMstuff, Goo Bondage) present today and in the future, so equip-success messsages may still play during scenes or may show 'Error: No item found'.\n\nLast update for 0.1.12fix4\nReport issues to [url=https://github.com/ethengart/EGBDCCMods]https://github.com/ethengart/EGBDCCMods[/url]",
+		"author": "EthenGart",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Uncageable.zip"
 	}
 	]
 }
