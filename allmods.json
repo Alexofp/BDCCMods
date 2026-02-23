@@ -1633,14 +1633,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnonsAquaticSpeciesV1.5.zip"
 	},
 	{
-		"name": "Sugerør's Species Pack",
-		"description": "Adds Bears, Crocodiles and Orcs to the game. If you notice any issues, just yell at me ^^\nNew: New bodyparts for the Crocodiles (two heads) and Orcs (one head and one set of ears)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrSpeciesPack.png]Click for Preview[/url]",
-		"author": "Sugerør",
-		"modversion": "1.2",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SugerrSpeciesPackV1.2.zip"
-	},
-	{
 		"name": "Purple's Slugcats",
 		"description": "Adds anthropomorphic slugcats from Rain World, with some extra customization for more slugcat representation.\nChangelog: minor fix to the tails (would detach from the body in certain sex poses)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PurplesScugs.png]Click for Preview[/url]",
 		"author": "Purplexion",
@@ -1897,20 +1889,28 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsInsectSpecies_v0.9.zip"
 	},
 	{
-		"name": "GreenThumb_alpha",
-		"description": "A proof-of-concept for adding a gardening system to the greenhouse.\nTHIS IS UNFINISHED\nLooking for feedback before I start adding more stuff. \nWhen stuff breaks, check mod options to enable debug mode.\n\nFeatures:\n- Gardening! As an alternative to mining, harvesting gives many credits at once, but you have to wait for them to grow.\n- Totally unbalanced! I just made up some numbers. Please give feedback.\n- A character!\n- Only 3 crops idk how farming works.\n- An unfinished quest\n- lots of debug stuff\n- naked apron\n\n\nPlanned:\nfix bugs (you can ping me if you find one)\nprobably gonna adjust many things based on feedback",
-		"author": "bringlebangul",
-		"modversion": "0.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GreenThumb_alpha.zip"
-	},
-	{
 		"name": "Uncageable",
 		"description": "Prevents any items tagged BDSMRestraint from being equipped to the player's dick (by youself or NPCs). Usually refers to chastity cages but also applies to some modded items. Visually breaks some chastity enforced scenes.\n\nSince certain NPCs can get spammy equipping these, the chastity items are not recovered.\nThe intent was to make this compatible with any mods (e.g. MoreBDSMstuff, Goo Bondage) present today and in the future, so equip-success messsages may still play during scenes or may show 'Error: No item found'.\n\nLast update for 0.1.12fix4\nReport issues to [url=https://github.com/ethengart/EGBDCCMods]https://github.com/ethengart/EGBDCCMods[/url]",
 		"author": "EthenGart",
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Uncageable.zip"
+	},
+	{
+		"name": "Sugerør's Species Pack",
+		"description": "Adds Bears, Crocodiles and Orcs to the game. If you notice any issues, just yell at me ^^\nNew: Fixed an issue with an incorrectly named gd file. Should be good now!\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrSpeciesPack.png]Click for Preview[/url]",
+		"author": "Sugerør",
+		"modversion": "1.2fix1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SugerrSpeciesPackV1.2fix1.zip"
+	},
+	{
+		"name": "GreenThumb_alpha",
+		"description": "A proof-of-concept for adding a gardening system to the greenhouse.\nTHIS IS UNFINISHED\nLooking for feedback before I start adding more stuff.\nWhen stuff breaks, check mod options to enable debug mode.\n\nFeatures:\n- Gardening! As an alternative to mining, harvesting gives many credits at once, but you have to wait for them to grow.\n- Totally unbalanced! I just made up some numbers. Please give feedback.\n- A character!\n- Only 3 crops idk how farming works.\n- lots of debug stuff\n- naked apron\n\nChangelog:\n- Added quest for naughty inmates to prove they won't cause trouble in the greenhouse\n- Added some stuff for talking to Wyra the gardener (incomplete)\n- The greenhouse is now off-limits at night time. Go to bed, inmate.\n\nPlanned:\nfix bugs (you can ping me if you find one)\nprobably gonna adjust many things based on feedback",
+		"author": "bringlebangul",
+		"modversion": "0.1.5",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GreenThumb_alpha.zip"
 	}
 	]
 }
