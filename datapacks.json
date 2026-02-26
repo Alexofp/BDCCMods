@@ -4123,12 +4123,12 @@
 			"id": "starhordersdatapack",
 			"name": "StarHorders Character Pack",
 			"author": "StarHorder",
-			"version": "0.3",
-			"description": "\n\n-# :RED: Tara; meandom rabbit woman\n-# :ORANGE: Mickey; Thieving himbo gshepard\n-# :PURPLE: Eoinm: The Mutt.\n-# :PURPLE: Kal, Blessed by the Cerv, Daughter of Ful.: hyper endowed Vixe person.\n-# :GREEN: Diana: dummy thicc arctic fox(?) milf. \n-# :GREEN: Lannie Rae: Bootied Dalmatian\n-# :BLUE: Alexia: chromed up seccie\n-# :YELLOW: Danielle Slattery: Snobby Vixe Woman\n-# :YELLOW: Lyra: glittery Skunk engie\n\n-# The Callbox is a scene that enables the usage of the sexEngine with characters you typically wouldn't have such freedom with. certain characters will require you to progress through their story to \"get their number\". Play the fucking game.\n\nWhat's new?\n-# updated Kal and Eoinm to use the new hairstyles generously made by Songjo <3\n",
+			"version": "0.3.1",
+			"description": "\n\n-# :RED: Tara; meandom rabbit woman\n-# :ORANGE: Mickey; Thieving himbo gshepard\n-# :PURPLE: Eoinm: The Mutt.\n-# :PURPLE: Kal, Blessed by the Cerv, Daughter of Ful.: hyper endowed Vixe person.\n-# :GREEN: Diana: dummy thicc arctic fox(?) milf. \n-# :GREEN: Lannie Rae: Bootied Dalmatian\n-# :BLUE: Alexia: chromed up seccie\n-# :YELLOW: Danielle Slattery: Snobby Vixe Woman\n-# :YELLOW: Lyra: glittery Skunk engie\n\n-# The Callbox is a scene that enables the usage of the sexEngine with characters you typically wouldn't have such freedom with. certain characters will require you to progress through their story to \"get their number\". Play the fucking game.\n\nWhat's new?\n-# Fixed up The scene with Alexia and Danielle to reflect the new location\n-# Touched up Eoinm and Tara's impactplay scene.\n-# Removed MoreBdsmStuff dependency. ",
 			"contains": "Contains: 9 characters, 7 scenes",
 			"download": "datapacks/starhordersdatapack.res",
-			"lastedit": 1771908975,
-			"filesize": 3125208,
+			"lastedit": 1772082335,
+			"filesize": 3126895,
 			"requiredDatapacks": [
 
 			],
@@ -4142,7 +4142,6 @@
 				"FoxedBDCC_v0.1.0.zip",
 				"EirasTrashSpeciesV1.3.zip",
 				"WintersFluffyBodypartsV1.8.zip",
-				"MoreBDSMstuff.zip",
 				"SongshairPack_v1.8.zip"
 			],
 			"preview": "datapack_previews/starhordersdatapack.png"
