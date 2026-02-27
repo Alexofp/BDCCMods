@@ -1617,14 +1617,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PiercingsMod_v1.3.zip"
 	},
 	{
-		"name": "Chastity Belts Mod",
-		"description": "Adds a new BDSM restrain type of chastity belts. They come in every combination of covering penis/vagina/anus. Sold by the Announcer.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ChastityBeltsMod.png]Click for Preview[/url]",
-		"author": "Noro",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ChastityBeltsMod_v1.0.zip"
-	},
-	{
 		"name": "Anons Aquatic Species",
 		"description": "CREDIT: Original by Anon, Bodywriting by Lucci\nDESCRIPTION: Packaged the Shark Species and the seahorse species under one mod since they share a body to minimise duplicating parts unnessecarily.\nCOMPATABILITY: Hypertus, WintersTaperedPenises\nCHANGELOG: Fixed an incorrect ID in the Tapered Penises compat files\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsAquaticSpecies.png]Click for Preview[/url]",
 		"author": "Anon, Avery Winters",
@@ -1911,6 +1903,14 @@
 		"modversion": "1.3",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SugerrSpeciesPackV1.3.zip"
+	},
+	{
+		"name": "Chastity Belts Mod",
+		"description": "Adds a new BDSM restrain type of chastity belts with a permanent variant as well. They come in every combination of covering penis/vagina/anus. Sold by the Announcer and Mirri.\n\nChangelog: \n• Added permanent variants, sold by Mirri, permanent variants covering the anus are only available through the debug menu.\n• New model for Vagina Chastity Belt (no anus cover) - now without the cut-out for a penis.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ChastityBeltsMod.png]Click for Preview[/url]",
+		"author": "Noro",
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ChastityBeltsMod_v1.1.zip"
 	}
 	]
 }
