@@ -1911,6 +1911,14 @@
 		"modversion": "1.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ChastityBeltsMod_v1.1.zip"
+	},
+	{
+		"name": "Stamina Pills",
+		"description": "Adds a pill that increases Stamina by 100, when used in combat will apply only to the opponent. Can also be used in sex.\nCan be bought at the Medical Vendomat.",
+		"author": "Material Defender",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/StaminaPills1.0.zip"
 	}
 	]
 }
