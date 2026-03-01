@@ -4145,6 +4145,26 @@
 				"SongshairPack_v1.8.zip"
 			],
 			"preview": "datapack_previews/starhordersdatapack.png"
+		},
+		{
+			"id": "keypad",
+			"name": "Keypad Lock (code)",
+			"author": "WolfStarArt",
+			"version": "1",
+			"description": "Hey, datapack story creators! Ever wanted a keypad lock for your story? Well, now you have a free, open source keypad system to be used in any way! All I ask is that I am creditited if you do decide to use this. Thanks!\n",
+			"contains": "Contains: 1 character, 1 scene",
+			"download": "datapacks/keypad.res",
+			"lastedit": 1772341745,
+			"filesize": 35480,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			]
 		}
 	]
 }
