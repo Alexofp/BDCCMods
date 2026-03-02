@@ -1785,14 +1785,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SearchBarDeselect.zip"
 	},
 	{
-		"name": "SoundMod",
-		"description": "[b]SIZE: 27.8MB (big file warning)[/b]\n\nThis mod implements a simple audio system, using FoxLib. !!WILL NOT WORK WITHOUT LATEST VERSION OF FOXLIB!! There are four audio triggers for now: tease, pleasure, struggle, and orgasm. Settings can be adjusted in Mod Options. Check the readme in the .zip to learn how to make your own sound set.\n\nFeatures:\n-- Four sound effects plus a gagged variant of each!\n-- Tease: triggers when player's Lust stat increases\n-- Struggle: triggers when player starts to struggle against restraints\n-- Pleasure: triggers when a player's Arousal stat increases\n-- Orgasm: triggers when player orgasms\n-- Sound packs! Place a bunch of sounds in a folder, and FoxLib will select one at random, so you don't hear the exact same sound clip all the time\n-- Make your own sound packs! Instructions in the readme! In the .zip!\n-- Comes with one feminine and one masculine sound pack\n-- Full of bugs and broken bits! Guaranteed to cause crashes, save often folks\n-- Compatibility with pre-written scenes is not very likely\n\nCredits:\nOpenNSFW sound pack | JeremyColeNSFW | LewdKitzu | VelvetSheetzVA | geministarsign1\nShared under Creative Commons license -- [url=https://opennsfw.carrd.co/]https://opennsfw.carrd.co/[/url]\n\nChangelog v0.5 beta:\n-- sound pitch variance now works!\n-- added detection for sexEngine 'hadStim' flag, so now it can tell if you're getting smexy times even if lust value is capped at max\n\nIf sound doesn't play or you see a 'Failed to locate FoxAudio SoundModule:' message in the console, try switching the voicepack in mod options and switching it back.\n\nPlanned:\nfix bugs (you can ping me if you find one)",
-		"author": "bringlebangul",
-		"modversion": "0.5b",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod0.5beta.zip"
-	},
-	{
 		"name": "FNAF Jumpscare",
 		"description": "Adds a 1/1000 chance to trigger the FNAF 2 Foxy jumpscare whenever time passes, complete with audio. Configurable with FoxLib, but it isn't required.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FnafJumpscare.png]Click for Preview[/url]",
 		"author": "Frivolous",
@@ -1865,14 +1857,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreCowClothes.zip"
 	},
 	{
-		"name": "No Futa",
-		"description": "Makes all static Futas into females\nWhat's new: Avy can't wait to test out her new fuckhole, after beating her in the Arena go to the slutwall and see what's new, make sure to pop a breeder pill before you fuck her pussy, she loves getting pregnant so cum a lot in her. Also a few other scenes involving avy got updated, but you can't breed her in those scenes so who cares.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NoFuta.png]Click for Preview[/url]",
-		"author": "Foreman",
-		"modversion": "Beta2.1 Avy slut wall update",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NoFutaFullPackage.zip"
-	},
-	{
 		"name": "Songs Insect Species",
 		"description": "※ Description \n- Adds 4 new species (Bee, Moth, Beetle, Spider)\n- Compatible with Hypertus mod\n\n※(0.9)\n- Added new species: Spiders\n- Now it's compatible with Hypertus mod\n\n[i]+ Feel free to share your thoughts about the mod[/i]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsInsectSpecies.png]Click for Preview[/url]",
 		"author": "SongJo",
@@ -1887,14 +1871,6 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Uncageable.zip"
-	},
-	{
-		"name": "Chastity Belts Mod",
-		"description": "Adds a new BDSM restrain type of chastity belts with a permanent variant as well. They come in every combination of covering penis/vagina/anus. Sold by the Announcer and Mirri.\n\nChangelog: \n• Added permanent variants, sold by Mirri, permanent variants covering the anus are only available through the debug menu.\n• New model for Vagina Chastity Belt (no anus cover) - now without the cut-out for a penis.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ChastityBeltsMod.png]Click for Preview[/url]",
-		"author": "Noro",
-		"modversion": "1.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ChastityBeltsMod_v1.1.zip"
 	},
 	{
 		"name": "Stamina Pills",
@@ -1919,6 +1895,38 @@
 		"modversion": "0.2",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GreenThumb_alpha.zip"
+	},
+	{
+		"name": "No Futa",
+		"description": "Makes all static Futas into females\nWhat's new: Fixed Broken Code, so make sure to try out Avy's new fuckhole now. after beating her in the Arena go to the slutwall and see what's new, make sure to pop a breeder pill before you fuck her pussy, she loves getting pregnant so cum a lot in her. Also some of the final fight scene got updated so be sure to breed her there too. Also a few other scenes involving avy got updated, but you can't breed her in those scenes so who cares.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NoFuta.png]Click for Preview[/url]",
+		"author": "Foreman",
+		"modversion": "Beta2.1fix1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NoFutaFullPackagebeta2.1fix1.zip"
+	},
+	{
+		"name": "Chastity Belts Mod",
+		"description": "Adds a new BDSM restrain type of chastity belts with a permanent variant as well. They come in every combination of covering penis/vagina/anus. Sold by the Announcer and Mirri.\n\nChangelog: \n• Small update: for variants not blocking the penis - they are now auto adjusting themselves to provide \"cut-out\" for a penis, if a character has one.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ChastityBeltsMod.png]Click for Preview[/url]",
+		"author": "Noro",
+		"modversion": "1.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ChastityBeltsMod_v1.2.zip"
+	},
+	{
+		"name": "SoundMod",
+		"description": "[b]SIZE: 34.3MB (big file warning)[/b]\n\nThis mod implements a simple audio system, using FoxLib. !!WILL NOT WORK WITHOUT LATEST VERSION OF FOXLIB!! There are four audio triggers for now: tease, pleasure, struggle, and orgasm. Settings can be adjusted in Mod Options. Check the readme in the .zip to learn how to make your own sound set.\n\nFeatures:\n- Four sound effects plus a gagged variant of each!\n- Tease: triggers when player's Lust stat increases\n- Struggle: triggers when player starts to struggle against restraints\n- Pleasure: triggers when a player's Arousal stat increases\n- Orgasm: triggers when player orgasms\n- Sound packs! Place a bunch of sounds in a folder, and FoxLib will select one at random, so you don't hear the exact same sound clip all the time\n- Make your own sound packs! Instructions in the readme! In the .zip!\n- Comes with one feminine and one masculine sound pack\n- Full of bugs and broken bits! No refunds!\n- This relies on using GameExtenders.gd to hook into the game\n- Therefore, it will not work 100% with pre-written scenes\n\nCredits:\n- OpenNSFW sound pack | JeremyColeNSFW | LewdKitzu | VelvetSheetzVA | geministarsign1\n- Shared under Creative Commons license -- [url=https://opennsfw.carrd.co/]https://opennsfw.carrd.co/[/url] \n\nChangelog v0.6:\n- Cleaned up the code for initializing the module. Idk maybe it's faster now.\n- Hopefully managed to fix the bug where the voicepack in mod options doesn't get set\n- Added framework for non-voice sound effects. Now, how to implement those...\n- Prepare for EVEN BIGGER filesize once that happens...\n\nPlanned:\n- fix bugs (you can ping me if you find one)",
+		"author": "bringlebangul",
+		"modversion": "0.6b",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_beta.zip"
+	},
+	{
+		"name": "6 7 Spanking",
+		"description": "Changes it so that when subs are counting while being spanked, they are spanked twice at 6 so that they must say '6 7' instead of just 6 and then 7.\n\nI will not apologize for art.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/67Spanking.png]Click for Preview[/url]",
+		"author": "Frivolous",
+		"modversion": "1.0.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/67Spanking.zip"
 	}
 	]
 }
