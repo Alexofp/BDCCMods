@@ -1553,14 +1553,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/UwuSpeak_v1.3.zip"
 	},
 	{
-		"name": "Chastity For Everyone",
-		"description": "[b](! Requires FoxLib,   Requires Chastity Cage Flat Remix !)[/b]\n\nMake random NPCs spawn with permanent or non-permanent chastity cages. It's customizable: you are able to change rules for inmates, guards, engineers, nurses, as well as for specific gender. You can also choose a chance of spawning a flat and/or permanent cage variants. Currently doesn't affect any non-random NPCs. Additionally, adds chastity police mechanic - staff can now stop player or NPC inmates who somehow got rid of their cages, including the player. Mod options are available thanks to FoxLib (go to the Mods Options in the main menu)\n\nChangelog: \n• Updated to the new game version (0.1.12fix4);\n• Fix for a bug when you were still stopped by the guards even if you finished Eliza's obedience training and decided to be released from chastity;\n• New setting allowing you to apply any setting changes you make to old NPCs (although, it won't uncage them);\n• Default inspection chance is now 50%;\n• Minor settings' description improvements.\n\nDisclaimer:\nThis new version won't preserve any info on NPCs from previous versions.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ChastityForEveryone.png]Click for Preview[/url]",
-		"author": "Noro",
-		"modversion": "2.21.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ChastityForEveryone_v2.21.1.zip"
-	},
-	{
 		"name": "Heat and Behavior Traits",
 		"description": "This mod provides species-specific effects. A significant amount of work has been done to migrate to the new code. The effects in this mod now have three states: Stable, It's Heat, and Tired. The effects depend on the current genitalia set and breast size, covering seven different combos, which opens up extensive possibilities for adding gender-specific behavior in the future.\n- Not all species have migrated to the new code yet (~40% complete).\n- Expands the status system, adding special effects for over 60 standard, modified, and duplicated species (e.g., ID \"deer\" and \"Deer\").\n- Effects can be stronger in Heat and weaker in Tired.\n- Starting trait \"Permanent Heat\"\n- Effects still need to be balanced and lored.\n- Anyone can suggest changing icon colors, images, and effects in different states, or request to make the transition earlier for a specific species.\n- Currently updated species (Species not mentioned use the old code for now): Alendi, Ariral, Avali, Avian, Bat, Bovine, Canine, Charizard, Cow, Deer, Demon, Dragon, Elf, Equine, Feline, Goat, Human, Ice Jogauni, Kobold, Mew, Nano Android, Possum, Protogen, Rabbit, Raccoon, Rat, Red Panda, Shark, Sheep, South Sergal, Squirrel, Synth",
 		"author": "Ellie Nibbles",
@@ -1897,14 +1889,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GreenThumb_alpha.zip"
 	},
 	{
-		"name": "No Futa",
-		"description": "Makes all static Futas into females\nWhat's new: Fixed Broken Code, so make sure to try out Avy's new fuckhole now. after beating her in the Arena go to the slutwall and see what's new, make sure to pop a breeder pill before you fuck her pussy, she loves getting pregnant so cum a lot in her. Also some of the final fight scene got updated so be sure to breed her there too. Also a few other scenes involving avy got updated, but you can't breed her in those scenes so who cares.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NoFuta.png]Click for Preview[/url]",
-		"author": "Foreman",
-		"modversion": "Beta2.1fix1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NoFutaFullPackagebeta2.1fix1.zip"
-	},
-	{
 		"name": "Chastity Belts Mod",
 		"description": "Adds a new BDSM restrain type of chastity belts with a permanent variant as well. They come in every combination of covering penis/vagina/anus. Sold by the Announcer and Mirri.\n\nChangelog: \n• Small update: for variants not blocking the penis - they are now auto adjusting themselves to provide \"cut-out\" for a penis, if a character has one.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ChastityBeltsMod.png]Click for Preview[/url]",
 		"author": "Noro",
@@ -1927,6 +1911,30 @@
 		"modversion": "1.0.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/67Spanking.zip"
+	},
+	{
+		"name": "Random Inmate Number",
+		"description": "Your character will now have a random inmate number upon entering BDCC. Excludes canonically taken numbers by default. Works on existing games as well (hopefully), and causes no permanent damage to your savefile. Configurable with FoxLib, which isn't required.\n\n\ni made it so other mods can add their own characters' inmate numbers to the canon exclusion list, there's a text file with an example included in the mod\ni'm not sure i got all the canon numbers, so please tell me if i missed any (i only included rahi's)\ni made this just to cleanse the evil done by the... other mod\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/RandomInmateNumber.png]Click for Preview[/url]",
+		"author": "Selinoccino",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RandomInmateNumber.zip"
+	},
+	{
+		"name": "No Futa",
+		"description": "Makes all static Futas into females\nWhat's new: Fixed Broken Code, so make sure to try out Avy's new fuckhole now. after beating her in the Arena go to the slutwall and see what's new, make sure to pop a breeder pill before you fuck her pussy, she loves getting pregnant so cum a lot in her. Also some of the final fight scene got updated so be sure to breed her there too. Also a few other scenes involving avy got updated, but you can't breed her in those scenes so who cares.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NoFuta.png]Click for Preview[/url]",
+		"author": "Foreman",
+		"modversion": "Beta2.1fix2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NoFutaFullPackage.zip"
+	},
+	{
+		"name": "Chastity For Everyone",
+		"description": "[b](! Requires FoxLib,   Requires Chastity Cage Flat Remix, NEW: Requires Chastity Belts Mod 1.2 !) [/b]\n\nMake random NPCs spawn with permanent or non-permanent chastity cages and/or belts. It's customizable: you are able to change rules for inmates, guards, engineers, nurses, as well as for specific gender. You can also choose a chance of spawning a flat/belt/permanent chastity variants. Currently doesn't affect any static NPCs. Additionally, adds chastity police mechanic - staff can now stop player or NPC inmates who got rid of their mandated cages, including the player. Mod options are available thanks to FoxLib (go to the [Mods Options] in the main menu).\n\nChangelog: \n• Added chastity belts as a variant of chastity for NPC spawn and for the player from permanent chastity starting perk, from the intro scene and from obedience training BUT without further story elements for vagina belt variant (you can only get locked in the belt and that is pretty much it for now)\n• Added scene near engineering storage room that allows the player to remove permanent chastity belts (you have to have access to the engineering). (It may or may not remain the option in future versions)\n• renamed \"Male chastity\" perk to \"Permanent chastity\" and changed the description accordingly (cosmetic change).\n\n• Player will always be put permanent variants of chastity in case of getting locked back up during inspection scene\n• If datapack characters should be affected by the mod is now a option in settings\n• Removed the ability for inmates/player to lock inspectors in permanent variants of chastity during the chastity inspection scene, let's say med bay always has spare keys ;)\n• Default inspection chance is now back to 35%\n• Smaller code improvements and bugfixes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ChastityForEveryone.png]Click for Preview[/url]",
+		"author": "Noro",
+		"modversion": "2.3",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ChastityForEveryone_v2.3.zip"
 	}
 	]
 }
