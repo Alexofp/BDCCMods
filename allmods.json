@@ -1897,14 +1897,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ChastityBeltsMod_v1.2.zip"
 	},
 	{
-		"name": "SoundMod",
-		"description": "[b]SIZE: 34.3MB (big file warning)[/b]\n\nThis mod implements a simple audio system, using FoxLib. !!WILL NOT WORK WITHOUT LATEST VERSION OF FOXLIB!! There are four audio triggers for now: tease, pleasure, struggle, and orgasm. Settings can be adjusted in Mod Options. Check the readme in the .zip to learn how to make your own sound set.\n\nFeatures:\n- Four sound effects plus a gagged variant of each!\n- Tease: triggers when player's Lust stat increases\n- Struggle: triggers when player starts to struggle against restraints\n- Pleasure: triggers when a player's Arousal stat increases\n- Orgasm: triggers when player orgasms\n- Sound packs! Place a bunch of sounds in a folder, and FoxLib will select one at random, so you don't hear the exact same sound clip all the time\n- Make your own sound packs! Instructions in the readme! In the .zip!\n- Comes with one feminine and one masculine sound pack\n- Full of bugs and broken bits! No refunds!\n- This relies on using GameExtenders.gd to hook into the game\n- Therefore, it will not work 100% with pre-written scenes\n\nCredits:\n- OpenNSFW sound pack | JeremyColeNSFW | LewdKitzu | VelvetSheetzVA | geministarsign1\n- Shared under Creative Commons license -- [url=https://opennsfw.carrd.co/]https://opennsfw.carrd.co/[/url] \n\nChangelog v0.6:\n- Cleaned up the code for initializing the module. Idk maybe it's faster now.\n- Hopefully managed to fix the bug where the voicepack in mod options doesn't get set\n- Added framework for non-voice sound effects. Now, how to implement those...\n- Prepare for EVEN BIGGER filesize once that happens...\n\nPlanned:\n- fix bugs (you can ping me if you find one)",
-		"author": "bringlebangul",
-		"modversion": "0.6b",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_beta.zip"
-	},
-	{
 		"name": "6 7 Spanking",
 		"description": "Changes it so that when subs are counting while being spanked, they are spanked twice at 6 so that they must say '6 7' instead of just 6 and then 7.\n\nI will not apologize for art.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/67Spanking.png]Click for Preview[/url]",
 		"author": "Frivolous",
@@ -1935,6 +1927,14 @@
 		"modversion": "2.3",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ChastityForEveryone_v2.3.zip"
+	},
+	{
+		"name": "SoundMod",
+		"description": "[b]SIZE: 45.5MB (big file warning)[/b]\n\nThis mod implements a simple audio system, using FoxLib. !!WILL NOT WORK WITHOUT LATEST VERSION OF FOXLIB!! There are four audio triggers for the player character: tease, pleasure, struggle, and orgasm. There are also limited sound effects which can play during sex. Settings can be adjusted in Mod Options. Check the readme in the .zip to learn how to add your own sound clips.\n\nFeatures:\nFour sound effects plus a gagged variant of each!\nTease: triggers when player's Lust stat increases\nStruggle: triggers when player starts to struggle against restraints\nPleasure: triggers when a player's Arousal stat increases\nOrgasm: triggers when player orgasms\nSound packs!\nMake your own sound packs! Instructions in the readme! In the .zip!\nComes with one feminine and one masculine sound pack\nSound effects! During sex, some actions will play sound effects (only the ones I could easily detect)\nFull of bugs and broken bits! No refunds!\nThis relies on using GameExtenders.gd to hook into the game\nTherefore, it will not work 100% with pre-written scenes\n\nCredits:\nOpenNSFW sound pack | JeremyColeNSFW | LewdKitzu | VelvetSheetzVA | geministarsign1\nShared under Creative Commons license -- [url=https://opennsfw.carrd.co/]https://opennsfw.carrd.co/[/url]\n\nChangelog v0.7:\nMade the file size BIGGER.\nAdded sound effects, which have their own folder in the module and are played on a different audio channel!\nAdded some easy-to-detect sound effects for spanking, hitting, hypnosis, and cumming.\nAdded some clothing sounds and chains clinking, but they don't work all the time and sometimes just don't play at all. Working on it.\nFor cumming sound effect, you can set characters with no penis to ave squirting sounds instead of cum noises.\n\nPlanned:\nfix bugs (you can ping me if you find one)",
+		"author": "bringlebangul",
+		"modversion": "0.7b",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_beta.zip"
 	}
 	]
 }
