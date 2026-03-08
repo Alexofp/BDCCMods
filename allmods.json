@@ -1721,14 +1721,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SurgeonScrubs.zip"
 	},
 	{
-		"name": "Race Bonus Mod Plus",
-		"description": "Added different buffs to some playable bace and modded races, while also changing up the original mod by Humoi.\n\nCurrent Vanilla and modded races that are moddified by the mod:\n--Vanilla--\nHuman\nDragon\nDemon\nCanine\nFeline\nEquine\n\n--Modded--\nBovine\nDeer\nLopunny\nRabbit\nShark\nHoundoom\nLycanrocs - Midday, Midnight, Dusk\nSquirrel\nProtogen\nCrow\nLucario\nSkullwolf\nGardevoir\nAll of Scalie Expansion\nSeahorse\nEevee\nFlareon\nJolteon\nVaporeon\nEspeon\nUmbreon\nLeafeon\nGlaceon\nSylveon\nOrc\nBear\nCrocodile\n\nAdded this update, Rebalanced Gardevoir, Buffed Human, Added Winters Pokemon Collection and Sugerr Species Pack races. Sorry for not updating, I got demotivated to work on this and looked to playing other games for awhile. I am sorta back now, enjoy! If there are other races you want me to add, please do recommend. I may ask for ideas though on some.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/RaceBonusModPlus.png]Click for Preview[/url]",
-		"author": "Person on the Internet",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RaceBonusModPlus.zip"
-	},
-	{
 		"name": "Cum On Self",
 		"description": "Allows the player to cum on themselves during masturbation and in combat (though if in combat will lose the encounter), should only be available if the player has either a penis or vagina and is either in the cell or in public with 3+ exhibitionism (only tested with both parts and higher exhibitionism) \n\nUPDATE 1.1: fixed an edge case where if player has a total of more than 100% instant cum generation, can cause the player to pretend to have 0% instant cum generation instead.\nNOTE: can happen with the vanilla Cum option.",
 		"author": "Material Defender",
@@ -1935,6 +1927,14 @@
 		"modversion": "0.7b",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_beta.zip"
+	},
+	{
+		"name": "Race Bonus Mod Plus",
+		"description": "Added different buffs to some playable bace and modded races, while also changing up the original mod by Humoi.\n\nCurrent Vanilla and modded races that are moddified by the mod:\n--Vanilla--\nHuman\nDragon\nDemon\nCanine\nFeline\nEquine\n\n--Modded--\nBovine\nDeer\nLopunny\nRabbit\nShark\nHoundoom\nLycanrocs - Midday, Midnight, Dusk\nSquirrel\nProtogen\nCrow\nLucario\nSkullwolf\nGardevoir\nAll of Scalie Expansion\nSeahorse\nEevee\nFlareon\nJolteon\nVaporeon\nEspeon\nUmbreon\nLeafeon\nGlaceon\nSylveon\nOrc\nBear\nCrocodile\nZordian\nCharizard\nRaichu\nNido\nMew\n\nAdded this update: Sylvanos's Zordian Species compatibility (On request) and compatibility with APPV1 Pokémon races!\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/RaceBonusModPlus.png]Click for Preview[/url]",
+		"author": "Person on the Internet (Chaos)",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RaceBonusModPlus.zip"
 	}
 	]
 }
