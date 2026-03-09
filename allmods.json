@@ -1841,14 +1841,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreCowClothes.zip"
 	},
 	{
-		"name": "Songs Insect Species",
-		"description": "※ Description \n- Adds 4 new species (Bee, Moth, Beetle, Spider)\n- Compatible with Hypertus mod\n\n※(0.9)\n- Added new species: Spiders\n- Now it's compatible with Hypertus mod\n\n[i]+ Feel free to share your thoughts about the mod[/i]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsInsectSpecies.png]Click for Preview[/url]",
-		"author": "SongJo",
-		"modversion": "0.9",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsInsectSpecies_v0.9.zip"
-	},
-	{
 		"name": "Uncageable",
 		"description": "Prevents any items tagged BDSMRestraint from being equipped to the player's dick (by youself or NPCs). Usually refers to chastity cages but also applies to some modded items. Visually breaks some chastity enforced scenes.\n\nSince certain NPCs can get spammy equipping these, the chastity items are not recovered.\nThe intent was to make this compatible with any mods (e.g. MoreBDSMstuff, Goo Bondage) present today and in the future, so equip-success messsages may still play during scenes or may show 'Error: No item found'.\n\nLast update for 0.1.12fix4\nReport issues to [url=https://github.com/ethengart/EGBDCCMods]https://github.com/ethengart/EGBDCCMods[/url]",
 		"author": "EthenGart",
@@ -1935,6 +1927,14 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RaceBonusModPlus.zip"
+	},
+	{
+		"name": "Songs Insect Species",
+		"description": "※ Description \nAdds 4 new species (Bee, Moth, Beetle, Spider)\nCompatible with Hypertus mod\n\n※(1.0)\nThe neck fluff is moved from body to ear so it can be colored (Credits to Avery Winters)\nFor characters with neck fluff from the previous version, you need to edit the character and reapply the part to color it.\n\n[i]+ Feel free to share your thoughts about the mod[/i]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsInsectSpecies.png]Click for Preview[/url]",
+		"author": "SongJo",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsInsectSpecies_v1.0.zip"
 	}
 	]
 }
