@@ -1943,6 +1943,14 @@
 		"modversion": "1.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SugerrHumanoidSpeciesV1.1.zip"
+	},
+	{
+		"name": "Che_susAgeSystem",
+		"description": "What it does:\n\n- assigns an age to all NPCs;\n- age is given randomly in the range from 18 to 45 years.\n- age is shown under the character’s name;\n\nalso in this mod:\n\n4.adds a separate Age panel to the Debug tab;\nin this panel you can:\n4.1 search for loaded characters;\n4.2 seeing current age;\n4.3 change age manually;\n4.4 randomize age using the button.\n\nHow saving works:\n\nage is stored separately for each save;\n\nafter exiting the game and loading the same save, the age remains the same;\n\nWhen playing a new game, the ages are generated anew.\n\nNew in 1.2:\nAdded display of the player's age on the right character panel.\n\nAdded separate fields “Name” and “Age”  for creating a character in the new game\n\nAdded a random age button when creating a character in a new game:\n\n\"4 - random age\"\n\nAdded random name buttons during character creation in a new game:\n\n\"2 - random male name\"\n\"3 - random female name\"\n\nAdded support for online name generation:\nif the Internet is available, the mod tries to get new names online;\notherwise it falls back to the local list.\n\nCharacter age categories have been changed:\n18 — Teen\n19–27 — Young\n28–39 — Adult\n40–60 — Mature\n61–80 — Older\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/Che_susAgeSystem.png]Click for Preview[/url]",
+		"author": "che",
+		"modversion": "1.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Che_susAgeSystemVer1.2.zip"
 	}
 	]
 }
