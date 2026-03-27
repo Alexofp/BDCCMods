@@ -1945,20 +1945,20 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Uncageable.zip"
 	},
 	{
-		"name": "Brutal Dreams Correctional Center",
-		"description": "Makes the game more difficult!\n\nInmates you encounter have a 5% chance to attack you\nAn Inmate will chase you down to attack\nCharacters that lose their clothes will go to the Laundry room to replace them!\n\nJust a quick fix, last version of the mod was ancient",
-		"author": "Mindstormsman",
-		"modversion": "1.7.1",
-		"gameversion": "0.1.12",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BrutalDreamsCorrectionalCenter.zip"
-	},
-	{
 		"name": "Songs Mustelid Species",
 		"description": "※ Description \nAdds mustelid species\n2 head (weasel, ferret), 2 tails, 2 ears, 1 horn (for the eye mask) parts\n\n[i]+ Feel free to share your thoughts about the mod[/i]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsMustelidSpecies.png]Click for Preview[/url]",
 		"author": "SongJo",
 		"modversion": "0.9",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsMustelidSpecies_v0.9.zip"
+	},
+	{
+		"name": "Brutal Dreams Correctional Center",
+		"description": "Makes the game more difficult!\n\nInmates you encounter have a 5% chance to attack you\nAn Inmate will chase you down to attack\nCharacters that lose their clothes will go to the Laundry room to replace them!\n\nAnother quick fix,\ncopied Lucci's version of the Replace Clothes Goal to fix datapack npcs trying to replace their clothes when they already have clothes",
+		"author": "Mindstormsman",
+		"modversion": "1.7.2",
+		"gameversion": "0.1.12",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BrutalDreamsCorrectionalCenter.zip"
 	}
 	]
 }

@@ -4165,6 +4165,27 @@
 				"SongsInsectSpecies_v0.6fix1.zip"
 			],
 			"preview": "datapack_previews/BUZZBUZZ.png"
+		},
+		{
+			"id": "NewOcs",
+			"name": "New Characters for songs mod",
+			"author": "TenTen",
+			"version": "1.0",
+			"description": "No description provided",
+			"contains": "Contains: 2 characters",
+			"download": "datapacks/NewOcs.res",
+			"lastedit": 1774591137,
+			"filesize": 12523,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"SongsHoofySpecies_v0.9.4.zip"
+			],
+			"preview": "datapack_previews/NewOcs.png"
 		}
 	]
 }
