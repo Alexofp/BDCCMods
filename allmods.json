@@ -1975,6 +1975,14 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HelpYourOwner.zip"
+	},
+	{
+		"name": "MorePoses",
+		"description": "Adds more sex poses to dynamic sex scenes, using animations from pre-written scenes. For penetrative sex: adds SexOverTable, SexHanging, RopesSex, SexStealth, SexUrinal. For oral sex: adds SexOralTable, ChairOral, RopesOralSex. Use 'switch pose' during sex. \nTable is available as an option in the canteen, laundry room, and the spaces around the central platform.\nChair is the same as Table.\nHanging is available when the sub has bound wrists and you are near a wall.\nRopes is available in the fight club floor (any space)(but not slutwall).\nStealth is available when in public and the sub is not already totally naked.\nUrinal is available in the two bathrooms.\n\nThis edits the base game sexactivity files. This might get broken by game updates.\n(please let me know if you find any typos)",
+		"author": "bringlebangul",
+		"modversion": "0.5",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MorePoses.zip"
 	}
 	]
 }
