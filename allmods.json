@@ -1505,14 +1505,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SensitivityPill.zip"
 	},
 	{
-		"name": "CraftingLib",
-		"description": "Adds a modular crafting system, allowing other modules to add or overwrite recipes for their own or basegame items, add their own ingredients (or overwrite existing ones), and add alternative recipes for items. Recipes are separated by workbench type, and have no limits to ingredient/item combinations for their requirements and outputs (ingredients are exclusive to a workbench). Does nothing on its own.\n\nVersion 1.0.2:\n- Fixed a softlock that happened when you interacted with an invalid workbench\n\nVersion 1.0.3:\n- Fixed being unable to throw away ingredients.",
-		"author": "Selinoccino",
-		"modversion": "1.0.3",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CraftingLib_v1.0.3.zip"
-	},
-	{
 		"name": "Anons Sheathed Human Penis",
 		"description": "Human penis with a sheath on it. Similar to the update by Winter 'Eira without overwriting the base human penis.\nCOMPATIBILITY: Hypertus & BallsExtra\nCHANGELOG: removed some unnescessary code from the BallsExtra Compat that was causing missing penis errors.\nNOTE: @ Me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsSheathedHumanPenis.png]Click for Preview[/url]",
 		"author": "Anon, Avery Winters",
@@ -1977,10 +1969,18 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HelpYourOwner.zip"
 	},
 	{
+		"name": "CraftingLib",
+		"description": "Adds a modular crafting system, allowing other modules to add or overwrite recipes for their own or basegame items, add their own ingredients (or overwrite existing ones), and add alternative recipes for items. Recipes are separated by workbench type, and have no limits to ingredient/item combinations for their requirements and outputs (ingredients are exclusive to a workbench). Does nothing on its own.\n\nVersion 1.0.2:\n- Fixed a softlock that happened when you interacted with an invalid workbench\n\nVersion 1.0.3:\n- Fixed being unable to throw away ingredients.\n\nVersion 1.1:\nFixed a lot of stuff\nTried to make the code cleaner a tiny bit\nAdded fluid filtering for workbenches",
+		"author": "Selinoccino",
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CraftingLib_v1.1.zip"
+	},
+	{
 		"name": "MorePoses",
-		"description": "Adds more sex poses to dynamic sex scenes, using animations from pre-written scenes. For penetrative sex: adds SexOverTable, SexHanging, RopesSex, SexStealth, SexUrinal. For oral sex: adds SexOralTable, ChairOral, RopesOralSex. Use 'switch pose' during sex. \nTable is available as an option in the canteen, laundry room, and the spaces around the central platform.\nChair is the same as Table.\nHanging is available when the sub has bound wrists and you are near a wall.\nRopes is available in the fight club floor (any space)(but not slutwall).\nStealth is available when in public and the sub is not already totally naked.\nUrinal is available in the two bathrooms.\n\nThis edits the base game sexactivity files. This might get broken by game updates.\n(please let me know if you find any typos)",
+		"description": "Adds more sex poses to dynamic sex scenes, using animations from pre-written scenes. For penetrative sex: adds SexOverTable, SexHanging, RopesSex, SexStealth, SexUrinal. For oral sex: adds SexOralTable, ChairOral, RopesOralSex. Use 'switch pose' during sex. \nTable is available as an option in the canteen, laundry room, and the spaces around the central platform.\nChair is the same as Table.\nHanging is available when the sub has bound wrists and you are near a wall.\nRopes is available in the fight club floor (any space)(but not slutwall).\nStealth is available when in public and the sub is not already totally naked.\nUrinal is available in the two bathrooms.\nIf your player cell is upgraded to hold slaves and you bought all the 'furniture', you can use all the poses there. Because why not.\n\nChangelog v0.6:\nfixed typos\nfixed possible crash when using wrist restraints that can't be struggled out of, causing the function that gets the item name to be angy\nadded conditions for using all poses in the player's cell\n\nThis edits the base game sexActivity files. This might get broken by game updates.\n(please let me know if you find any typos)",
 		"author": "bringlebangul",
-		"modversion": "0.5",
+		"modversion": "0.6",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MorePoses.zip"
 	}
