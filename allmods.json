@@ -1049,14 +1049,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RockysBar.zip"
 	},
 	{
-		"name": "KeysMod",
-		"description": "Removes the ability to use restraint keys on smartlocked restraints. Now the only way to rid yourself of smartlocks is to do what they tell you to.\nthis MIGHT cause some restraints to not be able to be removed at all if the smartlock tells you to do something with a blocked body part",
-		"author": "Kaio",
-		"modversion": "1.0",
-		"gameversion": "0.1.9",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/KeysMod.zip"
-	},
-	{
 		"name": "Kaio's QOL",
 		"description": "A small QOL mod that changes things I wanted to change. Current changes:\n1.) BFFs! Characters above 50% affection will no longer lose affection over time. However, Characters under -50% affection will not gain affection over time either.",
 		"author": "Kaio",
@@ -1983,6 +1975,14 @@
 		"modversion": "0.6",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MorePoses.zip"
+	},
+	{
+		"name": "KeysMod",
+		"description": "Removes the ability to use restraint keys on smartlocked restraints. Now the only way to rid yourself of smartlocks is to do what they tell you to.\nthis MIGHT cause some restraints to not be able to be removed at all if the smartlock tells you to do something with a blocked body part\n\nChangelog 1.1:\nFixed a minor (major) bug that made it impossible to have sex\n\n(please tell me if it breaks again)",
+		"author": "Kaio",
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/KeysMod.zip"
 	}
 	]
 }
