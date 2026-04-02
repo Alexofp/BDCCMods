@@ -4167,15 +4167,15 @@
 			"preview": "datapack_previews/BUZZBUZZ.png"
 		},
 		{
-			"id": "NewOcs",
-			"name": "New Characters for songs mod",
-			"author": "TenTen",
+			"id": "TyeTenTen",
+			"name": "TyeTenTen",
+			"author": "No author",
 			"version": "1.0",
 			"description": "No description provided",
-			"contains": "Contains: 2 characters",
-			"download": "datapacks/NewOcs.res",
-			"lastedit": 1774591137,
-			"filesize": 12523,
+			"contains": "Contains: 1 character",
+			"download": "datapacks/TyeTenTen.res",
+			"lastedit": 1775106218,
+			"filesize": 8202,
 			"requiredDatapacks": [
 
 			],
@@ -4183,9 +4183,30 @@
 
 			},
 			"requiredMods": [
-				"SongsHoofySpecies_v0.9.4.zip"
+
 			],
-			"preview": "datapack_previews/NewOcs.png"
+			"preview": "datapack_previews/TyeTenTen.png"
+		},
+		{
+			"id": "newocs",
+			"name": "Oc from Songs mod",
+			"author": "TenTen",
+			"version": "1.0",
+			"description": "No description provided",
+			"contains": "Contains: 3 characters",
+			"download": "datapacks/newocs.res",
+			"lastedit": 1775106230,
+			"filesize": 14371,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"SongsMustelidSpecies_v0.9.zip"
+			],
+			"preview": "datapack_previews/newocs.png"
 		}
 	]
 }
