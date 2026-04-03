@@ -4207,6 +4207,27 @@
 				"SongsMustelidSpecies_v0.9.zip"
 			],
 			"preview": "datapack_previews/newocs.png"
+		},
+		{
+			"id": "ofFangsanddrags",
+			"name": "Fangs and drags ",
+			"author": "TenTen",
+			"version": "1.0",
+			"description": "No description provided",
+			"contains": "Contains: 2 characters",
+			"download": "datapacks/ofFangsanddrags.res",
+			"lastedit": 1775193533,
+			"filesize": 10851,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/ofFangsanddrags.png"
 		}
 	]
 }
