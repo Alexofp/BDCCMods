@@ -1961,14 +1961,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CraftingLib_v1.1.zip"
 	},
 	{
-		"name": "MorePoses",
-		"description": "Adds more sex poses to dynamic sex scenes, using animations from pre-written scenes. For penetrative sex: adds SexOverTable, SexHanging, RopesSex, SexStealth, SexUrinal. For oral sex: adds SexOralTable, ChairOral, RopesOralSex. Use 'switch pose' during sex. \nTable is available as an option in the canteen, laundry room, and the spaces around the central platform.\nChair is the same as Table.\nHanging is available when the sub has bound wrists and you are near a wall.\nRopes is available in the fight club floor (any space)(but not slutwall).\nStealth is available when in public and the sub is not already totally naked.\nUrinal is available in the two bathrooms.\nIf your player cell is upgraded to hold slaves and you bought all the 'furniture', you can use all the poses there. Because why not.\n\nChangelog v0.6:\nfixed typos\nfixed possible crash when using wrist restraints that can't be struggled out of, causing the function that gets the item name to be angy\nadded conditions for using all poses in the player's cell\n\nThis edits the base game sexActivity files. This might get broken by game updates.\n(please let me know if you find any typos)",
-		"author": "bringlebangul",
-		"modversion": "0.6",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MorePoses.zip"
-	},
-	{
 		"name": "KeysMod",
 		"description": "Removes the ability to use restraint keys on smartlocked restraints. Now the only way to rid yourself of smartlocks is to do what they tell you to.\nthis MIGHT cause some restraints to not be able to be removed at all if the smartlock tells you to do something with a blocked body part\n\nChangelog 1.1:\nFixed a minor (major) bug that made it impossible to have sex\n\n(please tell me if it breaks again)",
 		"author": "Kaio",
@@ -1993,8 +1985,16 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AdditionalDragonPenisPack1.zip"
 	},
 	{
+		"name": "MorePoses",
+		"description": "Adds more sex poses to dynamic sex scenes, using animations from pre-written scenes. For penetrative sex: adds SexOverTable, SexHanging, RopesSex, SexStealth, SexUrinal. For oral sex: adds SexOralTable, ChairOral, RopesOralSex. Use 'switch pose' during sex. \n--Table is available as an option in the canteen, laundry room, and the spaces around the central platform.\n--Chair is the same as Table.\n--Hanging is available when the sub has bound wrists and you are near a wall.\n--Ropes is available in the fight club floor (any space)(but not slutwall).\n--Stealth is available when in public and the sub is not already totally naked.\n--Urinal is available in the two bathrooms.\n--If your player cell is upgraded to hold slaves and you bought all the 'furniture', you can use all the poses there. Because why not.\n\nChangelog v0.61:\nfixed typos\n\nThis edits the base game sexActivity files. This might get broken by game updates.\n(please let me know if you find any typos)",
+		"author": "bringlebangul",
+		"modversion": "0.61",
+		"gameversion": "0.1.12",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MorePoses.zip"
+	},
+	{
 		"name": "No Futa",
-		"description": "Remove the dicks of all Static dickgirls\nWhat's New: Changed all of Nova's scene so now the text won't be saying she has a dick\nWhat's Next: I'll go though Risha's scene and remove anything that says she has a cock, something tells me she won't be happy about that, but doesn't matter as long as you're happy about it\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NoFuta.png]Click for Preview[/url]",
+		"description": "Remove the dicks of all Static dickgirls\nWhat's New: Changed all of Nova's scene so now the text won't be saying she has a dick\nWhat's Next: I'll go though Risha's scene and remove anything that says she has a cock, something tells me she won't be happy about that, but doesn't matter as long as you're happy about it\nWhat's New: Fix an error in artica's cell tease scene\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NoFuta.png]Click for Preview[/url]",
 		"author": "Foreman",
 		"modversion": "Beta 3 Nova update",
 		"gameversion": "*",
