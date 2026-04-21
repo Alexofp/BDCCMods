@@ -2010,9 +2010,9 @@
 	},
 	{
 		"name": "Fluidex",
-		"description": "Adds a new TF pill that lets you change what fluids are produced by different parts of the body.\n\n1.2\nChanged \"Ivy nectar\" to \"IvyNectar\" to hopefully correct data errors and added water as a fluid option. \n1.1\nUnintentional bugged item now removed.\n1.0 \nInitial release.\n\nNote: To add additional fluids to the available options, simply add the fluid ID to fluids:Array under getPillOptions() in the ChangeFluidTypeTF file. Additionally, this mod does not modify the relevant fluids or create new ones; it pulls from the selection of fluids in-game.",
+		"description": "Adds a new TF pill that lets you change what fluids are produced by different parts of the body.\n\n1.3\nReplaced hardcoding of fluid options with a more flexible system, now should be able to support any modded fluids by default.\n1.2\nChanged \"Ivy nectar\" to \"IvyNectar\" to hopefully correct data errors and added water as a fluid option. \n1.1\nUnintentional bugged item now removed.\n1.0 \nInitial release.\n\n(Feel free to go wild with adding new fluid types to the game! Fluidex should hopefully now be able to have them as options!)",
 		"author": "Thermal Dragon",
-		"modversion": "1.2",
+		"modversion": "1.3",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Fluidex.zip"
 	}
