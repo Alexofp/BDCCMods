@@ -929,14 +929,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersRabbitPenisPatch.zip"
 	},
 	{
-		"name": "QuickStart",
-		"description": "Skip the introductory scenes and go straight to the cellblock after character creation.\n\nAs a bonus, you're given the option to set your encounter preferences before the first batch of NPC pawns generate. No need to prune unwanted character types from your list after the fact!\n\nTested on BDCC 0.1.8, down to 0.1.1. Compatibility on other versions is not guaranteed.\n\nFYI: You miss out on 20-50 XP you can earn by fighting Risha in the opening. This mod assumes you chose not to fight her during intake; if you were trying to start the game as quickly as possible, you probably would have done that anyway.",
-		"author": "MOONHALO",
-		"modversion": "1.03",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/QuickStart_v1.03.zip"
-	},
-	{
 		"name": "Goo Bondage",
 		"description": "Adds new restraints with custom effects. If you like weird and goopy bondage things, you might like this. These are added to the pool of NPC restraints and The Announcer's shop.\nMouth:\nGoo Mask\nTorso:\nGoo Boobs\nGooey Corset\nGooey Vest\nGooey Lingerie\nPenis:\nNull Bulge (P)\nSentinel Cage\nVagina:\nNull Bulge (V)\nSentinel Plug (V)\nAnus:\nSentinel Plug (A)\n\nNon-restraint versions of some of the torso items are also sold in the vendomat.\n\nGoo Boobs and Goo Mask are designed to alter one of the character's body parts on equip and restore it when unequipped, but the on-equip code is only called if you manually \"Put On\" in the inventory or have it forced on you in sex. Debug commands (i.e. \"Force Smart Lock\") and the checkpoint guard won't call it. These items will be missing some effects/visuals in those cases, so I've excluded them from the checkpoint guard's available restraints. Could probably fix with an override, but I'm avoiding overrides with this mod.\n\nWhat's new in version 2.1.0:\nAdded a vaginal variant of Sentinel Plug and renamed the original to differentiate the two\nUpdated Sentinel Plugs, Null Bulges, and Goo Boobs to give sensitivity-related (de)buffs\nAdded the Sentinel Cage, a faux-chastity cage/bulge that encases the penis and leaves it accessible but empty.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GooBondage.png]Click for preview[/url]",
 		"author": "Jaycred",
@@ -1306,11 +1298,11 @@
 	},
 	{
 		"name": "CharacterToDatapackExport",
-		"description": "Export yourself or a dynamic character to a datapack.\n\nTo export a character, go to the Me menu, select Export, and follow the instructions from there.\n\nv1.2:\n- FIXED: Individual bodypart skins and colors wouldn't export properly on 0.1.10 and higher, due to changes to the save data structure.\n- Backwards compatible with older game versions, so you should be able to export characters between newer and older game versions without issue (tested up to 0.1.11).",
+		"description": "Export yourself or a dynamic character to a datapack.\n\nTo export a character, go to the Me menu, select Export, and follow the instructions from there.\n\nv1.2:\n- FIXED: Individual bodypart skins and colors wouldn't export properly on 0.1.10 and higher, due to changes to the save data structure.\n- Backwards compatible with older game versions, so you should be able to export characters between newer and older game versions without issue (tested up to 0.2.1).",
 		"author": "MOONHALO",
 		"modversion": "1.2",
 		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CharacterToDatapackExport_v1.2.zip"
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CharacterToDatapackExport.zip"
 	},
 	{
 		"name": "Eiras Trash Species",
@@ -1661,7 +1653,7 @@
 		"description": "Allows you to use characters from datapacks as the player character on a new save\n\nv2.0:\n- Moved all functionality into a module. Conflicts with updates to the character creator are far less likely moving forward.\n- Personality and fetish previews now display as text descriptions, instead of their raw numerical values\n- FIXED: A refactor to the fetish system published in 0.1.10 caused issues with importing newer datapack characters in newer versions. The mod should now work across now all versions up to 0.1.12",
 		"author": "MOONHALO",
 		"modversion": "2.0",
-		"gameversion": "0.1.12",
+		"gameversion": "0.2.1",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DatapackCharacterToPlayer.zip"
 	},
 	{
@@ -2016,5 +2008,13 @@
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Fluidex.zip"
 	}
+	{
+		"name": "QuickStart",
+		"description": "Skip the introductory scenes and go straight to the cellblock after character creation.\n\nAs a bonus, you're given the option to set your encounter preferences before the first batch of NPC pawns generate. No need to prune unwanted character types from your list after the fact!\n\nTested on BDCC 0.1.8, down to 0.1.1. Compatibility on other versions is not guaranteed.\n\nFYI: You miss out on 20-50 XP you can earn by fighting Risha in the opening. This mod assumes you chose not to fight her during intake; if you were trying to start the game as quickly as possible, you probably would have done that anyway.",
+		"author": "MOONHALO",
+		"modversion": "2.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/QuickStartV2.zip"
+	},
 	]
 }
