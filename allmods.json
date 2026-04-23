@@ -1545,14 +1545,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PowerArmorR1.zip"
 	},
 	{
-		"name": "No Futa",
-		"description": "Change all Futa static charaters to female still in beta so might still mention penis on these characters and animations might look weird without them having penis\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NoHerm.png]Click for Preview[/url]",
-		"author": "Foreman",
-		"modversion": "Beta1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NoHermBeta1ArticaUpdate.zip"
-	},
-	{
 		"name": "Mirri breed fix",
 		"description": "Should make it so Mirri can get pregnant after reaching the final rank",
 		"author": "Foreman",
@@ -1953,22 +1945,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AdditionalDragonPenisPack1.zip"
 	},
 	{
-		"name": "MorePoses",
-		"description": "Adds more sex poses to dynamic sex scenes, using animations from pre-written scenes. For penetrative sex: adds SexOverTable, SexHanging, RopesSex, SexStealth, SexUrinal. For oral sex: adds SexOralTable, ChairOral, RopesOralSex. Use 'switch pose' during sex. \n--Table is available as an option in the canteen, laundry room, and the spaces around the central platform.\n--Chair is the same as Table.\n--Hanging is available when the sub has bound wrists and you are near a wall.\n--Ropes is available in the fight club floor (any space)(but not slutwall).\n--Stealth is available when in public and the sub is not already totally naked.\n--Urinal is available in the two bathrooms.\n--If your player cell is upgraded to hold slaves and you bought all the 'furniture', you can use all the poses there. Because why not.\n\nChangelog v0.61:\nfixed typos\n\nThis edits the base game sexActivity files. This might get broken by game updates.\n(please let me know if you find any typos)",
-		"author": "bringlebangul",
-		"modversion": "0.61",
-		"gameversion": "0.1.12",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MorePoses.zip"
-	},
-	{
-		"name": "No Futa",
-		"description": "Remove the dicks of all Static dickgirls\nWhat's New: Changed all of Nova's scene so now the text won't be saying she has a dick\nWhat's Next: I'll go though Risha's scene and remove anything that says she has a cock, something tells me she won't be happy about that, but doesn't matter as long as you're happy about it\nWhat's New: Fix an error in artica's cell tease scene\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NoFuta.png]Click for Preview[/url]",
-		"author": "Foreman",
-		"modversion": "Beta 3 Nova update",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NoFutaFullPackage.zip"
-	},
-	{
 		"name": "GreenThumb_alpha",
 		"description": "A proof-of-concept for adding a gardening system to the greenhouse.\nTHIS IS UNFINISHED\nSend feedback or suggestions in the discord!\nWhen something breaks, check mod options to enable debug mode.\n\nFeatures:\n-- Gardening! As an alternative to mining, harvesting gives many credits at once, but you have to wait for them to grow.\n--Totally unbalanced! I just made up some numbers. Please give feedback.\n-- A character!\n-- Several crops!\n-- One sidequest!\n-- One sex scene! Grow some cucumbers!\n-- Crop effect! When you grow stuff, some of it gets sent to the canteen and eating gives extra bonuses.\n--lots of debug stuff\n-- naked apron\n\nChangelog:\n-- Tried to make my dumb hack method of saving growbeds as flags more stable. \n-- Added option to reset growbed flags in the debug menu - use this if you can't plant seeds\n-- some dialogue for Wyra\n-- fuck the cucumber\n\n\nPlanned:\nfix bugs (you can ping me if you find one)\nprobably gonna adjust many things based on feedback",
 		"author": "bringlebangul",
@@ -2007,7 +1983,7 @@
 		"modversion": "1.3",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Fluidex.zip"
-	}
+	},
 	{
 		"name": "QuickStart",
 		"description": "Skip the introductory scenes and go straight to the cellblock after character creation.\n\nAs a bonus, you're given the option to set your encounter preferences before the first batch of NPC pawns generate. No need to prune unwanted character types from your list after the fact!\n\nTested on BDCC 0.1.8, down to 0.1.1. Compatibility on other versions is not guaranteed.\n\nFYI: You miss out on 20-50 XP you can earn by fighting Risha in the opening. This mod assumes you chose not to fight her during intake; if you were trying to start the game as quickly as possible, you probably would have done that anyway.",
@@ -2016,5 +1992,21 @@
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/QuickStartV2.zip"
 	},
+	{
+		"name": "MorePoses",
+		"description": "Adds more sex poses to dynamic sex scenes, using animations from pre-written scenes. For penetrative sex: adds SexOverTable, SexHanging, RopesSex, SexStealth, SexUrinal. For oral sex: adds SexOralTable, ChairOral, RopesOralSex. Use 'switch pose' during sex. \n--Table is available as an option in the canteen, laundry room, and the spaces around the central platform.\n--Chair is the same as Table.\n--Hanging is available when the sub has bound wrists and you are near a wall.\n--Ropes is available in the fight club floor (any space)(but not slutwall).\n--Stealth is available when in public and the sub is not already totally naked.\n--Urinal is available in the two bathrooms.\n--If your player cell is upgraded to hold slaves and you bought all the 'furniture', you can use all the poses there. Because why not.\n\nChangelog v0.7:\n--compatibility with 0.2.1 (EGG!)\n--attempt to solve \"FIX DESCRIPTOR\" - if game loses track of current pose it picks one at random\n--can now keep same pose when switching holes\n\nThis edits the base game sexActivity files. This will get broken by game updates.\n(please let me know if you find any typos)",
+		"author": "bringlebangul",
+		"modversion": "0.7",
+		"gameversion": "0.2.1",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MorePoses.zip"
+	},
+	{
+		"name": "No Futa",
+		"description": "Remove the dicks of all Static dickgirls\nWhat's Next: Last step is going over all the scenes I've worked on and claen up the animations that doesn't look right without a dick and also making sure they don't produce male gender fluid without a dick, next update will be the offical release\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NoFuta.png]Click for Preview[/url]",
+		"author": "Foreman",
+		"modversion": "Beta 4.1 Risha update",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NoFutaFullPackage.zip"
+	}
 	]
 }
