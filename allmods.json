@@ -1649,14 +1649,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DatapackCharacterToPlayer.zip"
 	},
 	{
-		"name": "ClothingRevamp",
-		"description": "The actions to displace clothes such as 'open shirt' can now be applied by selecting a worn item in the inventory screen. This applies to all uniforms & underwear (that you can get without cheats). Each action has new visuals to go along with it. Clothing items which share textures - like 'sporty' items - have been given their own appearance (e.g. stripes), to better distinguish them.\n\nFeatures:\n-Worn clothing items can now be shifted to expose chest or privates. Clothing state is managed by selecting equipped items from the inventory.\n-This hooks into the battle tease actions, so exhibitionist requirements and exp apply.\n-Adds new models for 'lace' and 'sporty' variants of undergarments to better distinguish them.\n-Adds new models for inmate uniforms and underwear for the shifted aside states.\n-Clothing that is damaged enough to expose privates can't be shifted, because it's pointless and also cuts down the number of model states I have to make.\n-Compatible with 'MoreUniforms' uniforms.\n-NPC doms have a 10% chance to shift clothing instead of removing it during sex.\n-Can shift clothes during sex, may lead to strange-looking graphics in some positions (haven't tested all)\n\nChangelog 1.4:\n-Hard-coded exceptions for MoreUniforms shirtonly and shortsonly uniforms, which uniquely use the 'body' slot but use the itemstate for underwear.\n-CheckRemoved now checks if the item is removed or covers any bodyparts, so doms shouldn't get mad if you shift instead of remove an item when ordered.\n-Should fix npcs getting stuck in infinite loop when trying to undress.\n-Added compatibility for MoreUniforms cowprint underwear.\n\nPlanned:\nCome up with some NPC logic that decides when to remove and when to shift aside.\nMaybe add a reduced effect of the exhibitionist perks when fully exposed but not nude?",
-		"author": "bringlebangul",
-		"modversion": "1.4",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ClothingRevamp1.4.zip"
-	},
-	{
 		"name": "StruggleLust",
 		"description": "Currently, there's old code in the struggling scene that would prevent struggling at max lust. This mod simply enables it. When at max lust, all struggle options will be grayed out and the option to masturbate appears.",
 		"author": "bringlebangul",
@@ -1817,14 +1809,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RandomInmateNumber.zip"
 	},
 	{
-		"name": "Chastity For Everyone",
-		"description": "[b](! Requires FoxLib,   Requires Chastity Cage Flat Remix, NEW: Requires Chastity Belts Mod 1.2 !) [/b]\n\nMake random NPCs spawn with permanent or non-permanent chastity cages and/or belts. It's customizable: you are able to change rules for inmates, guards, engineers, nurses, as well as for specific gender. You can also choose a chance of spawning a flat/belt/permanent chastity variants. Currently doesn't affect any static NPCs. Additionally, adds chastity police mechanic - staff can now stop player or NPC inmates who got rid of their mandated cages, including the player. Mod options are available thanks to FoxLib (go to the [Mods Options] in the main menu).\n\nChangelog: \n• Added chastity belts as a variant of chastity for NPC spawn and for the player from permanent chastity starting perk, from the intro scene and from obedience training BUT without further story elements for vagina belt variant (you can only get locked in the belt and that is pretty much it for now)\n• Added scene near engineering storage room that allows the player to remove permanent chastity belts (you have to have access to the engineering). (It may or may not remain the option in future versions)\n• renamed \"Male chastity\" perk to \"Permanent chastity\" and changed the description accordingly (cosmetic change).\n\n• Player will always be put permanent variants of chastity in case of getting locked back up during inspection scene\n• If datapack characters should be affected by the mod is now a option in settings\n• Removed the ability for inmates/player to lock inspectors in permanent variants of chastity during the chastity inspection scene, let's say med bay always has spare keys ;)\n• Default inspection chance is now back to 35%\n• Smaller code improvements and bugfixes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ChastityForEveryone.png]Click for Preview[/url]",
-		"author": "Noro",
-		"modversion": "2.3",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ChastityForEveryone_v2.3.zip"
-	},
-	{
 		"name": "SoundMod",
 		"description": "[b]SIZE: 45.5MB (big file warning)[/b]\n\nThis mod implements a simple audio system, using FoxLib. !!WILL NOT WORK WITHOUT LATEST VERSION OF FOXLIB!! There are four audio triggers for the player character: tease, pleasure, struggle, and orgasm. There are also limited sound effects which can play during sex. Settings can be adjusted in Mod Options. Check the readme in the .zip to learn how to add your own sound clips.\n\nFeatures:\nFour sound effects plus a gagged variant of each!\nTease: triggers when player's Lust stat increases\nStruggle: triggers when player starts to struggle against restraints\nPleasure: triggers when a player's Arousal stat increases\nOrgasm: triggers when player orgasms\nSound packs!\nMake your own sound packs! Instructions in the readme! In the .zip!\nComes with one feminine and one masculine sound pack\nSound effects! During sex, some actions will play sound effects (only the ones I could easily detect)\nFull of bugs and broken bits! No refunds!\nThis relies on using GameExtenders.gd to hook into the game\nTherefore, it will not work 100% with pre-written scenes\n\nCredits:\nOpenNSFW sound pack | JeremyColeNSFW | LewdKitzu | VelvetSheetzVA | geministarsign1\nShared under Creative Commons license -- [url=https://opennsfw.carrd.co/]https://opennsfw.carrd.co/[/url]\n\nChangelog v0.7:\nMade the file size BIGGER.\nAdded sound effects, which have their own folder in the module and are played on a different audio channel!\nAdded some easy-to-detect sound effects for spanking, hitting, hypnosis, and cumming.\nAdded some clothing sounds and chains clinking, but they don't work all the time and sometimes just don't play at all. Working on it.\nFor cumming sound effect, you can set characters with no penis to ave squirting sounds instead of cum noises.\n\nPlanned:\nfix bugs (you can ping me if you find one)",
 		"author": "bringlebangul",
@@ -1889,28 +1873,12 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsMustelidSpecies_v0.9.zip"
 	},
 	{
-		"name": "Brutal Dreams Correctional Center",
-		"description": "Makes the game more difficult!\n\nInmates you encounter have a 5% chance to attack you\nAn Inmate will chase you down to attack\nCharacters that lose their clothes will go to the Laundry room to replace them!\n\nAnother quick fix,\ncopied Lucci's version of the Replace Clothes Goal to fix datapack npcs trying to replace their clothes when they already have clothes",
-		"author": "Mindstormsman",
-		"modversion": "1.7.2",
-		"gameversion": "0.1.12",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BrutalDreamsCorrectionalCenter.zip"
-	},
-	{
 		"name": "CondomSabotage",
 		"description": "Adds the ability to sabotage a used condom from your inventory, increasing the chance it breaks when used",
 		"author": "Selinoccino",
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CondomSabotage.zip"
-	},
-	{
-		"name": "HelpYourOwner",
-		"description": "In soft slavery, your owner can now approach you and ask/demand you help them remove restraints.",
-		"author": "bringlebangul",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HelpYourOwner.zip"
 	},
 	{
 		"name": "CraftingLib",
@@ -1969,14 +1937,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsHoofySpecies_v0.9.5.zip"
 	},
 	{
-		"name": "Sugerør's Xenomorph Species",
-		"description": "Adds Xenomorphs into the game\nNew: Added a version of the head without lips\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrXenomorphSpecies.png]Click for Preview[/url]",
-		"author": "Sugerør",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SugerrXenomorphSpecies.zip"
-	},
-	{
 		"name": "Fluidex",
 		"description": "Adds a new TF pill that lets you change what fluids are produced by different parts of the body.\n\n1.3\nReplaced hardcoding of fluid options with a more flexible system, now should be able to support any modded fluids by default.\n1.2\nChanged \"Ivy nectar\" to \"IvyNectar\" to hopefully correct data errors and added water as a fluid option. \n1.1\nUnintentional bugged item now removed.\n1.0 \nInitial release.\n\n(Feel free to go wild with adding new fluid types to the game! Fluidex should hopefully now be able to have them as options!)",
 		"author": "Thermal Dragon",
@@ -2007,6 +1967,46 @@
 		"modversion": "Beta 4.1 Risha update",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NoFutaFullPackage.zip"
+	},
+	{
+		"name": "Sugerør's Xenomorph Species",
+		"description": "Adds Xenomorphs into the game\nNew: Added a version of the head without lips\nNew: Fixed an issue with the limp penis model, I also added a hypertus compatibility for the penis\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrXenomorphSpecies.png]Click for Preview[/url]",
+		"author": "Sugerør",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SugerrXenomorphSpecies.zip"
+	},
+	{
+		"name": "ClothingRevamp",
+		"description": "The actions to displace clothes such as 'open shirt' can now be applied by selecting a worn item in the inventory screen. This applies to all uniforms & underwear (that you can get without cheats). Each action has new visuals to go along with it. Clothing items which share textures - like 'sporty' items - have been given their own appearance (e.g. stripes), to better distinguish them.\n\nFeatures:\n-Worn clothing items can now be shifted to expose chest or privates. Clothing state is managed by selecting equipped items from the inventory.\n-This hooks into the battle tease actions, so exhibitionist requirements and exp apply.\n-Adds new models for 'lace' and 'sporty' variants of undergarments to better distinguish them.\n-Adds new models for inmate uniforms and underwear for the shifted aside states.\n-Clothing that is damaged enough to expose privates can't be shifted, because it's pointless and also cuts down the number of model states I have to make.\n-Compatible with 'MoreUniforms' uniforms.\n-NPC doms have a 10% chance to shift clothing instead of removing it during sex.\n-Can shift clothes during sex, may lead to strange-looking graphics in some positions (haven't tested all)\n\nChangelog 1.4:\n-Hard-coded exceptions for MoreUniforms shirtonly and shortsonly uniforms, which uniquely use the 'body' slot but use the itemstate for underwear.\n-CheckRemoved now checks if the item is removed or covers any bodyparts, so doms shouldn't get mad if you shift instead of remove an item when ordered.\n-Should fix npcs getting stuck in infinite loop when trying to undress.\n-Added compatibility for MoreUniforms cowprint underwear.\n\nPlanned:\nCome up with some NPC logic that decides when to remove and when to shift aside.\nMaybe add a reduced effect of the exhibitionist perks when fully exposed but not nude?\n\nQUICK FIX FOR 0.2.1 COMPATIBILITY and 0.2.2 i guess",
+		"author": "bringlebangul",
+		"modversion": "1.4",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ClothingRevamp1.4.zip"
+	},
+	{
+		"name": "HelpYourOwner",
+		"description": "In soft slavery, your owner can now approach you and ask/demand you help them remove restraints.\n\nQUICK FIX FOR 0.2.1 COMPATIBILITY and 0.2.2 i guess",
+		"author": "bringlebangul",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HelpYourOwner.zip"
+	},
+	{
+		"name": "Chastity For Everyone",
+		"description": "[b](! Requires FoxLib,  Requires Chastity Cage Flat Remix, Requires Chastity Belts Mod 1.2 !)[/b]\n\nMakes random NPCs spawn with permanent or non-permanent chastity cages and/or belts. It's customizable: you are able to change rules for inmates, guards, engineers, nurses, as well as for specific gender. You can also choose a chance of spawning a flat/belt/permanent chastity variants. Currently doesn't affect any static NPCs. You can also pick to be put in chastity belts (as well as chastity cages) during game's intro scenes. Additionally, adds chastity police mechanic - staff can now stop player or NPC inmates who got rid of their mandated cages, and who is a good inmate! Mod options (see pic) are available thanks to FoxLib (go to the [Mods Options] in the main menu).\n\nChangelog: \n• Fixed inspection scene not working in latest mod version due to 2 unused variables.\n• Finally added random inspection scene! Although one part of it is still WIP.\n• During the inspection scenes player will not be put into different type of belt, if they were assigned one.\n• Added an 1.5h global cooldown for chastity inspections from player being inspected and 20 min one if NPC was inspected.\n• The default inmate chastity chance is now 50% instead of 90%\n• Improvements had been made to text in scenes and in options.\n• Code improvements.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ChastityForEveryone.png]Click for Preview[/url]",
+		"author": "Noro",
+		"modversion": "2.31",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ChastityForEveryone_v2.31.zip"
+	},
+	{
+		"name": "Brutal Dreams Correctional Center",
+		"description": "Makes the game more difficult!\n\nInmates you encounter have a 5% chance to attack you\nAn Inmate will chase you down to attack\nCharacters that lose their clothes will go to the Laundry room to replace them!\n\nAnother quick fix,\ncopied Lucci's version of the Replace Clothes Goal to fix datapack npcs trying to replace their clothes when they already have clothes\n\nquick fix for the new update",
+		"author": "Mindstormsman",
+		"modversion": "1.7.3",
+		"gameversion": "0.2.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BrutalDreamsCorrectionalCenter.zip"
 	}
 	]
 }
