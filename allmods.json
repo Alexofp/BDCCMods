@@ -1969,14 +1969,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NoFutaFullPackage.zip"
 	},
 	{
-		"name": "Sugerør's Xenomorph Species",
-		"description": "Adds Xenomorphs into the game\nNew: Added a version of the head without lips\nNew: Fixed an issue with the limp penis model, I also added a hypertus compatibility for the penis\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrXenomorphSpecies.png]Click for Preview[/url]",
-		"author": "Sugerør",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SugerrXenomorphSpecies.zip"
-	},
-	{
 		"name": "ClothingRevamp",
 		"description": "The actions to displace clothes such as 'open shirt' can now be applied by selecting a worn item in the inventory screen. This applies to all uniforms & underwear (that you can get without cheats). Each action has new visuals to go along with it. Clothing items which share textures - like 'sporty' items - have been given their own appearance (e.g. stripes), to better distinguish them.\n\nFeatures:\n-Worn clothing items can now be shifted to expose chest or privates. Clothing state is managed by selecting equipped items from the inventory.\n-This hooks into the battle tease actions, so exhibitionist requirements and exp apply.\n-Adds new models for 'lace' and 'sporty' variants of undergarments to better distinguish them.\n-Adds new models for inmate uniforms and underwear for the shifted aside states.\n-Clothing that is damaged enough to expose privates can't be shifted, because it's pointless and also cuts down the number of model states I have to make.\n-Compatible with 'MoreUniforms' uniforms.\n-NPC doms have a 10% chance to shift clothing instead of removing it during sex.\n-Can shift clothes during sex, may lead to strange-looking graphics in some positions (haven't tested all)\n\nChangelog 1.4:\n-Hard-coded exceptions for MoreUniforms shirtonly and shortsonly uniforms, which uniquely use the 'body' slot but use the itemstate for underwear.\n-CheckRemoved now checks if the item is removed or covers any bodyparts, so doms shouldn't get mad if you shift instead of remove an item when ordered.\n-Should fix npcs getting stuck in infinite loop when trying to undress.\n-Added compatibility for MoreUniforms cowprint underwear.\n\nPlanned:\nCome up with some NPC logic that decides when to remove and when to shift aside.\nMaybe add a reduced effect of the exhibitionist perks when fully exposed but not nude?\n\nQUICK FIX FOR 0.2.1 COMPATIBILITY and 0.2.2 i guess",
 		"author": "bringlebangul",
@@ -2005,8 +1997,24 @@
 		"description": "Makes the game more difficult!\n\nInmates you encounter have a 5% chance to attack you\nAn Inmate will chase you down to attack\nCharacters that lose their clothes will go to the Laundry room to replace them!\n\nAnother quick fix,\ncopied Lucci's version of the Replace Clothes Goal to fix datapack npcs trying to replace their clothes when they already have clothes\n\nquick fix for the new update",
 		"author": "Mindstormsman",
 		"modversion": "1.7.3",
-		"gameversion": "0.2.2",
+		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BrutalDreamsCorrectionalCenter.zip"
+	},
+	{
+		"name": "Sugerør's Xenomorph Species",
+		"description": "Adds Xenomorphs into the game\nNew: Added a version of the head without lips\nNew: Fixed an issue with the flat chest spawning on females and the like.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrXenomorphSpecies.png]Click for Preview[/url]",
+		"author": "Sugerør",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SugerrXenomorphSpecies.zip"
+	},
+	{
+		"name": "Puppy Restrains",
+		"description": "Adds Puppy restrains previously only accessed via some scenes. Obtain this item at annoucer's shop. This mod is in early development stage. Note bugs WILL appear, back up your save\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PuppyRestraintsMod.png]Click for Preview[/url]",
+		"author": "concussion",
+		"modversion": "0.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PuppyRestraintsMod.zip"
 	}
 	]
 }
