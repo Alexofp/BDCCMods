@@ -4228,6 +4228,27 @@
 
 			],
 			"preview": "datapack_previews/ofFangsanddrags.png"
+		},
+		{
+			"id": "gift",
+			"name": "Gift for Feigr",
+			"author": "Oc: Feigr Work:Tenten",
+			"version": "1.0",
+			"description": "just a gift",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/gift_tenten.res",
+			"lastedit": 1777269578,
+			"filesize": 6357,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/gift.png"
 		}
 	]
 }
