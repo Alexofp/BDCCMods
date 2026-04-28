@@ -1993,14 +1993,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BrutalDreamsCorrectionalCenter.zip"
 	},
 	{
-		"name": "Puppy Restrains",
-		"description": "Adds Puppy restrains previously only accessed via some scenes. Obtain this item at annoucer's shop. This mod is in early development stage. Note bugs WILL appear, back up your save\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PuppyRestraintsMod.png]Click for Preview[/url]",
-		"author": "concussion",
-		"modversion": "0.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PuppyRestraintsMod.zip"
-	},
-	{
 		"name": "Hypertus",
 		"description": "\n[b]WARNING: This contains hyper stuff, if you dislike it then leave[/b]\n\nHypertus adds hyper-sized bodyparts (breast, penises, vagina, and anus.) to BDCC, along with several new features!\n\nThese features include:\n* New skill tree and perks. Get bonuses as your hyper bodyparts grow!\n* Go beyond vanilla size limits. Dicks as big as a person! Or even larger!\n* NPC support! (Requires additional mod - Hypertus Species Compatibility Layers)\n* Compatible with several modded species and bodyparts! (see list below)\n- Synth Bodyparts\n- Fluffy Bodyparts\n- Avali Species Bodyparts\n- Ace's Aviary Addon Bodyparts\n- Trans Scar Chest\n- Crow Species Bodyparts\n- Deer Species Bodypart\n- Knotted Horse Cock\n- Barbed Equine Penis\n- Spined Dragon Penis\n\nIf you have any feedback send it in mods-discussion and ping me,\nor open an issue on [url=https://github.com/CanInBad/HypertusMod/issues]github[/url].\n# Changelog\n+ change metadata to newer version.\n+ change checking editor logic, only meant to load stuff when in editor only as the mod is shipped without those files.\n+ change description. Thanks lucci1138. [url=https://github.com/CanInBad/HypertusMod/issues/10]#10[/url]\n* fixes not able to buy the raygun with no hyperable breast or penis [url=https://github.com/CanInBad/HypertusMod/issues/21]#21[/url] \n\nR6-6:\n - emergency quick fix\n - if you have the shouldPrint configuration installed; it should print total of 2 messages each day. one for gaining hyperable xp and another XP refund\n - next minor revision will be about adding hyperable cloaca or something idk i don't really like the oviposition that much, ill find a way or suggest them\n - foxlib config probably coming next major revision with many breaking changes \n",
 		"author": "CanInBad",
@@ -2015,6 +2007,14 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SugerrXenomorphSpecies.zip"
+	},
+	{
+		"name": "Puppy Restrains",
+		"description": "Adds Puppy restrains previously only accessed via some scenes. Obtain this item at annoucer's shop. This mod is in early development stage. Note bugs WILL appear, back up your save\n\nChangelog: Removed ability to start a fight while wearing the restrains, correct puppy animations now should play when having sex with an npc, somewhat fixed standing animation appearing over puppy one while approaching an npc.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PuppyRestraintsMod.png]Click for Preview[/url]",
+		"author": "concussion",
+		"modversion": "0.2b",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PuppyRestraintsMod.zip"
 	}
 	]
 }
