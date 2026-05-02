@@ -1993,14 +1993,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR6-6.zip"
 	},
 	{
-		"name": "Sugerør's Xenomorph Species",
-		"description": "Adds Xenomorphs into the game\nNew: Fixed the cock being referred to as a human cock, I also changed the ovulation code, should work now\nHopefully this is the last time I need to fix something TwT.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrXenomorphSpecies.png]Click for Preview[/url]",
-		"author": "Sugerør",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SugerrXenomorphSpecies.zip"
-	},
-	{
 		"name": "Puppy Restrains",
 		"description": "Adds Puppy restrains previously only accessed via some scenes. Obtain this item at annoucer's shop. This mod is in early development stage. Note bugs WILL appear, back up your save\n\nChangelog: Removed ability to start a fight while wearing the restrains, correct puppy animations now should play when having sex with an npc, somewhat fixed standing animation appearing over puppy one while approaching an npc.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PuppyRestraintsMod.png]Click for Preview[/url]",
 		"author": "concussion",
@@ -2015,6 +2007,14 @@
 		"modversion": "0.3.5",
 		"gameversion": "0.2.4,0.1.12,0.1.11,0.1.10",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/JunkieRehabilitation.zip"
+	},
+	{
+		"name": "Sugerør's Xenomorph Species",
+		"description": "Adds Xenomorphs into the game\nNew: Added hyper breast, Fixed hyper skills not showing.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrXenomorphSpecies.png]Click for Preview[/url]",
+		"author": "Sugerør",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SugerrXenomorphSpecies.zip"
 	}
 	]
 }
