@@ -1697,14 +1697,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SearchBarDeselect.zip"
 	},
 	{
-		"name": "FNAF Jumpscare",
-		"description": "Adds a 1/1000 chance to trigger the FNAF 2 Foxy jumpscare whenever time passes, complete with audio. Configurable with FoxLib, but it isn't required.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FnafJumpscare.png]Click for Preview[/url]",
-		"author": "Frivolous",
-		"modversion": "1.0.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FnafJumpscare.zip"
-	},
-	{
 		"name": "Songs Hair Pack",
 		"description": "※ Description \nadds 42 hair styles\n\n※ Update (ver1.8)\n3 new hair styles (Credits to Starborker and Tenten)\nReworked some existing hairstyles that I previously drew with a mouse\nOverall polish\n\n+ Feel free to share your thoughts about the mod\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongshairPack.png]Click for Preview[/url]",
 		"author": "SongJo",
@@ -1727,14 +1719,6 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CumInSelf1.0.zip"
-	},
-	{
-		"name": "Watersports Kink",
-		"description": "Adds some watersports content. Includes a skill, a full set of perks, the ability to piss during combat and sex, and a few scenes. None of the added content involves pre-existing characters at this time.\n\nChanges in v0.3.0:\n- Added ability to pee during tribadism\n- Added ability to pee when getting oral to your vagina\n- Meat toilet scene is now free to enter even without any levels in the skill\n- XP awarded to the skill now scales based on how much pee is involved. This should make leveling the skill a lot faster.\n- If you have both a vagina and a penis, you now get to choose which one you pee with when selecting the 'Piss On' button during sex\n- Added starting perk that you can take during character creation to unlock peeing during combat and sex\n- Fixed the Meat Toilet scene not giving any XP\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WatersportsKink.png]Click for Preview[/url]",
-		"author": "Frivolous",
-		"modversion": "0.3.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WatersportsKink.zip"
 	},
 	{
 		"name": "Anal Beads",
@@ -2015,6 +1999,22 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SugerrXenomorphSpecies.zip"
+	},
+	{
+		"name": "FNAF Jumpscare",
+		"description": "Adds a 1/1000 chance to trigger the FNAF 2 Foxy jumpscare whenever time passes, complete with audio. Configurable with FoxLib, but it isn't required.\n\nNothing new, just making sure it's working in the new update.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FnafJumpscare.png]Click for Preview[/url]",
+		"author": "Frivolous",
+		"modversion": "1.0.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FnafJumpscare.zip"
+	},
+	{
+		"name": "Watersports Kink",
+		"description": "Adds some watersports content. Includes a skill, a full set of perks, the ability to piss during combat and sex, and a few scenes. None of the added content involves pre-existing characters at this time.\n\nChanges in v0.3.1:\nSwapped to using new built-in piss stuff\nFixed the softlock when trying to be a meat toilet\nFixed extra \"Pee\" button when you're in a cell that could be yours but isn't\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WatersportsKink.png]Click for Preview[/url]",
+		"author": "Frivolous",
+		"modversion": "0.3.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WatersportsKink.zip"
 	}
 	]
 }

@@ -4249,6 +4249,27 @@
 
 			],
 			"preview": "datapack_previews/gift.png"
+		},
+		{
+			"id": "MilesDemonCat",
+			"name": "Miles The Demon Cat",
+			"author": "MilesKiyaAnny",
+			"version": "It is just a character sooo 1.0",
+			"description": "Miles The Demon Cat, She is hungry. Feed me\nShe was arrested for order two number 9s, a number 9 large, a number 6 with extra dip, a number 7, two number 45s, one with cheese, and a large soda. Those order were costing a fortune for the company as she order them every 12 hours for [REDACTED] a un-imaginable orgy of [REDACTED]. She still hungry and sometime call out for Pizza after put down and extra tame to be in this prison. Maybe someone can change her? or tame! ",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/MilesTheDemonCat.res",
+			"lastedit": 1777791513,
+			"filesize": 7483,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"SugerrCharacterPartsV1.3.zip"
+			],
+			"preview": "datapack_previews/MilesDemonCat.png"
 		}
 	]
 }
