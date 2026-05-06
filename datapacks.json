@@ -4270,6 +4270,27 @@
 				"SugerrCharacterPartsV1.3.zip"
 			],
 			"preview": "datapack_previews/MilesDemonCat.png"
+		},
+		{
+			"id": "Cvss9nJayDatapack",
+			"name": "cvss9n's jay oc",
+			"author": "cvss9n",
+			"version": "1.0",
+			"description": "one character, a dominant demon male.",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/Cvss9nJayDatapack.res",
+			"lastedit": 1778047175,
+			"filesize": 7703,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"Clothes_Megapack.zip"
+			],
+			"preview": "datapack_previews/Cvss9nJayDatapack.png"
 		}
 	]
 }
