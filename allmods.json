@@ -1929,14 +1929,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MorePoses.zip"
 	},
 	{
-		"name": "No Futa",
-		"description": "Remove the dicks of all Static dickgirls\nWhat's Next: Last step is going over all the scenes I've worked on and claen up the animations that doesn't look right without a dick and also making sure they don't produce male gender fluid without a dick, next update will be the offical release\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NoFuta.png]Click for Preview[/url]",
-		"author": "Foreman",
-		"modversion": "Beta 4.1 Risha update",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NoFutaFullPackage.zip"
-	},
-	{
 		"name": "ClothingRevamp",
 		"description": "The actions to displace clothes such as 'open shirt' can now be applied by selecting a worn item in the inventory screen. This applies to all uniforms & underwear (that you can get without cheats). Each action has new visuals to go along with it. Clothing items which share textures - like 'sporty' items - have been given their own appearance (e.g. stripes), to better distinguish them.\n\nFeatures:\n-Worn clothing items can now be shifted to expose chest or privates. Clothing state is managed by selecting equipped items from the inventory.\n-This hooks into the battle tease actions, so exhibitionist requirements and exp apply.\n-Adds new models for 'lace' and 'sporty' variants of undergarments to better distinguish them.\n-Adds new models for inmate uniforms and underwear for the shifted aside states.\n-Clothing that is damaged enough to expose privates can't be shifted, because it's pointless and also cuts down the number of model states I have to make.\n-Compatible with 'MoreUniforms' uniforms.\n-NPC doms have a 10% chance to shift clothing instead of removing it during sex.\n-Can shift clothes during sex, may lead to strange-looking graphics in some positions (haven't tested all)\n\nChangelog 1.4:\n-Hard-coded exceptions for MoreUniforms shirtonly and shortsonly uniforms, which uniquely use the 'body' slot but use the itemstate for underwear.\n-CheckRemoved now checks if the item is removed or covers any bodyparts, so doms shouldn't get mad if you shift instead of remove an item when ordered.\n-Should fix npcs getting stuck in infinite loop when trying to undress.\n-Added compatibility for MoreUniforms cowprint underwear.\n\nPlanned:\nCome up with some NPC logic that decides when to remove and when to shift aside.\nMaybe add a reduced effect of the exhibitionist perks when fully exposed but not nude?\n\nQUICK FIX FOR 0.2.1 COMPATIBILITY and 0.2.2 i guess",
 		"author": "bringlebangul",
@@ -2015,6 +2007,14 @@
 		"modversion": "0.3.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WatersportsKink.zip"
+	},
+	{
+		"name": "No Futa",
+		"description": "Remove the dicks of all Static dickgirls\nWhat's New: Finished up making sure they won't produce cum and adjusted the animation, if an animation still looks weird it's because I couldn't find an appropriate animation, if you wish to suggest a better animation, made a better animation, or rewrote the scene to work with an existing animation ping me\n\nWhat's Next: Nothing, for now\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NoFuta.png]Click for Preview[/url]",
+		"author": "Foreman",
+		"modversion": "1.0 offical release",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NoFutaFullPackage.zip"
 	}
 	]
 }
