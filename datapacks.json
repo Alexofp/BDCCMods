@@ -4272,12 +4272,12 @@
 			"id": "DragonSlave",
 			"name": "Dragon Slave",
 			"author": "Katz",
-			"version": "Resurgent 0.03",
-			"description": "Now YOU can be the slave! Give yourself body and soul to Alexander Katzen, a powerful dragon who seems to be missing his collar and refuses to wear clothes. He takes nudity as an invitation, so be careful walking around nude where he can find you! Please note that a lot of content is unfinished and some is placeholder. Also, Katz is wildly overleveled for now. I'll balance him once I have more content prepared for it.\n\nWarning: This is a Beta. Save your game before using. Do not attempt while doing the portal panties quest. Will make Artica's quest harder.\n\nChangelog: The sleep sex thing works now! You'll know it when you see it. Trust. Totally the only thing I added. I swear.\n\nContact: Visit the BDCC Discord and hunt me down if you have any questions or requests.\n\nCredits: MooCow for the very nice art.",
+			"version": "Resurgent 0.03c",
+			"description": "Now YOU can be the slave! Give yourself body and soul to Alexander Katzen, a powerful dragon who seems to be missing his collar and refuses to wear clothes. He takes nudity as an invitation, so be careful walking around nude where he can find you! Please note that a lot of content is unfinished and some is placeholder. Also, Katz is wildly overleveled for now. I'll balance him once I have more content prepared for it.\n\nWarning: This is a Beta. Save your game before using. Do not attempt while doing the portal panties quest. Will make Artica's quest harder.\n\nChangelog: Fixed a minor softlock. I swear I don't know why I'm so bad about softlocking.\n\nContact: Visit the BDCC Discord and hunt me down if you have any questions or requests.\n\nCredits: MooCow for the very nice art.",
 			"contains": "Contains: 3 characters, 23 scenes",
 			"download": "datapacks/DragonSlave.res",
-			"lastedit": 1778218013,
-			"filesize": 2473261,
+			"lastedit": 1778306610,
+			"filesize": 2477110,
 			"requiredDatapacks": [
 
 			],
@@ -4290,6 +4290,31 @@
 				"WintersEquinePenisesV1.5.zip"
 			],
 			"preview": "datapack_previews/DragonSlave.PNG"
+		},
+		{
+			"id": "ZeroCabNPC",
+			"name": "Zero The Cabbit",
+			"author": "CabbitZero",
+			"version": "1.0",
+			"description": "Adding my sona to the game ^ ^\nMade out of bordeom\n",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/ZeroCabNPC.res",
+			"lastedit": 1778306616,
+			"filesize": 9848,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"Rabbit_Species.zip",
+				"WintersFluffyBodypartsV1.8.zip",
+				"HypertusR6-6.zip",
+				"Clothes_Megapack.zip",
+				"MoreUniformsVer7.zip"
+			],
+			"preview": "datapack_previews/ZeroCabNPC.png"
 		}
 	]
 }
