@@ -2031,6 +2031,14 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/OrnateChastity_v1.0.zip"
+	},
+	{
+		"name": "NPC Generation Settings",
+		"description": "Requires FoxLib\n\nAdds ~500 settings via FoxLib to tweak NPC Generation\nThe most basic settings are a couple of toggles to enable parts of the mod\nThe default settings will make the mod do nothing\n\nFetishes are a special case,\nmodded generation with default values will make new NPCs mostly neutral to all fetishes\n\nAllows you to tweak:\nFeminimity and Thickness RNG for each (internal) gender\nPersonalities RNG\nFetish RNG\nLust Intrest RNG\n\nInteresting Note for other Modders\nIn the making of this mod I've stumbled across a way to 'find and replace' a file in the base game.\n\nvar someFile = load('res://someFile')\nvar originalCode = someFile.source_code\nvar modifiedCode = originalCode.replace('target', 'replacement')\nsomeFile.source_code = modifiedCode\nsomeFile.reload()\n\nThis allows us to modify files that we otherwise would not be able to\nallows for a higher level of compatability with other mods\nand can help reduce volatility of some mods when the game updates\n(cough cough, Broken Dreams)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NpcGenSettings.png]Click for Preview[/url]",
+		"author": "Mindstormsman",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NpcGenSettings_1-0.zip"
 	}
 	]
 }
