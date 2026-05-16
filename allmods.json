@@ -1881,14 +1881,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AdditionalDragonPenisPack1.zip"
 	},
 	{
-		"name": "GreenThumb_alpha",
-		"description": "A proof-of-concept for adding a gardening system to the greenhouse.\nTHIS IS UNFINISHED\nSend feedback or suggestions in the discord!\nWhen something breaks, check mod options to enable debug mode.\n\nFeatures:\n-- Gardening! As an alternative to mining, harvesting gives many credits at once, but you have to wait for them to grow.\n--Totally unbalanced! I just made up some numbers. Please give feedback.\n-- A character!\n-- Several crops!\n-- One sidequest!\n-- One sex scene! Grow some cucumbers!\n-- Crop effect! When you grow stuff, some of it gets sent to the canteen and eating gives extra bonuses.\n--lots of debug stuff\n-- naked apron\n\nChangelog:\n-- Tried to make my dumb hack method of saving growbeds as flags more stable. \n-- Added option to reset growbed flags in the debug menu - use this if you can't plant seeds\n-- some dialogue for Wyra\n-- fuck the cucumber\n\n\nPlanned:\nfix bugs (you can ping me if you find one)\nprobably gonna adjust many things based on feedback",
-		"author": "bringlebangul",
-		"modversion": "0.3",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GreenThumb_alpha.zip"
-	},
-	{
 		"name": "SongsVanillaParts",
 		"description": "※ Description \nAdds 45 body parts for vanilla species\n16 for Dragon: 2 head, 6 ears, 3 horns, 2 feet, 1 tail\n7 for Equine: 1 head, 1 hooves, 3 tails, 1 horn, 1 penis\n7 for Canine: 4 heads, 2 ears, 1 tail\n4 for Feline: 3 heads, 1 ears\n11 for universal: 2 legs, 4 arms, 3 tails, 2 breasts\nCompatible with Balls Extra and Hypertus\n\n※Update (1.4.5)\nNew 2 Dragon heads (credits to ₪₪₪Noro₪₪₪)\nFixed an issue where the breast part didn’t work with the Hypertus mod\n\n[i]+Feel free to @me about the mod[/i]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsVanillaParts.png]Click for Preview[/url]",
 		"author": "SongJo",
@@ -2009,14 +2001,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WatersportsKink.zip"
 	},
 	{
-		"name": "Bully Breeding",
-		"description": "Ever just wanted to teach the gym bullies a lesson via sex? Well now you can, just go to the weight station and when the gang tries to make you pay and inevitably lose, you'll have time to snag any one of the three bullies. Now you can have your way with three smoking hot douchebags. Remember to get the girl pregnant and have the boys get you pregnant, they'll absolutely love that\n\nThis is the fixed version, old version was broken",
-		"author": "Foreman",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BullyBreeding.zip"
-	},
-	{
 		"name": "Ornate Chastity",
 		"description": "A mod that currently adds a stylized cat-head chastity cage, more cages will be available in the future. \nIf you have any particular chastity models that you would like to see in the game let me know.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/OrnateChastity.png]Click for Preview[/url]",
 		"author": "Noro",
@@ -2039,6 +2023,22 @@
 		"modversion": "1.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NpcGenSettings_1-1.zip"
+	},
+	{
+		"name": "GreenThumb_alpha",
+		"description": "A proof-of-concept for adding a gardening system to the greenhouse.\nTHIS IS UNFINISHED\nSend feedback or suggestions in the discord!\nWhen something breaks, check mod options to enable debug mode.\n\nFeatures:\n-- Gardening! As an alternative to mining, harvesting gives many credits at once, but you have to wait for them to grow.\n--Totally unbalanced! I just made up some numbers. Please give feedback.\n-- A character!\n-- Several crops!\n-- One sidequest!\n-- One sex scene! Grow some cucumbers!\n-- Crop effect! When you grow stuff, some of it gets sent to the canteen and eating gives extra bonuses.\n--lots of debug stuff\n-- naked apron\n\nChangelog:\n-- Trigger for quest is now staff reputation level 3 (used to just check if non-zero, oops)\n\nPlanned:\nfix bugs (you can ping me if you find one)\nprobably gonna adjust many things based on feedback",
+		"author": "bringlebangul",
+		"modversion": "0.31",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GreenThumb_alpha.zip"
+	},
+	{
+		"name": "Bully Breeding",
+		"description": "Ever just wanted to teach the gym bullies a lesson via sex? Well now you can, just go to the weight station and when the gang tries to make you pay and inevitably lose, you'll have time to snag any one of the three bullies. Now you can have your way with three smoking hot douchebags. Remember to get the girl pregnant and have the boys get you pregnant, they'll absolutely love that\nWhat's New: should now be compatible with mods that changes the bully gang scene, Also now the bullies have personalities, likes and dislikes",
+		"author": "Foreman",
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BullyBreeding1.1.zip"
 	}
 	]
 }

@@ -4315,6 +4315,27 @@
 				"MoreUniformsVer7.zip"
 			],
 			"preview": "datapack_previews/ZeroCabNPC.png"
+		},
+		{
+			"id": "MedicMinibossKitty",
+			"name": "Marshmallow (Mewgenics)",
+			"author": "CabbitZero",
+			"version": "1.0",
+			"description": "Adds the act II cleric miniboss from mewgenics",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/MedicMinibossKitty.res",
+			"lastedit": 1778909709,
+			"filesize": 6800,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/MedicMinibossKitty.png"
 		}
 	]
 }
