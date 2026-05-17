@@ -2039,6 +2039,14 @@
 		"modversion": "1.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BullyBreeding1.1.zip"
+	},
+	{
+		"name": "GirlCum Collector",
+		"description": "(POWERLOOM RECOMENDED)\nDescription: adds a new toy sold by general vendromat and medical. Cant be taken off until its capacity reaches max (requires vagina) \nFeatures: \n-collection of girlcum outside of eliza\n-1 new item\nUpcoming:\n-making it a restraint so you can force it onto npcs and they can force it onto you reason: i dont know how to make it work\n-an actual icon and model a model would involve changing the massive tscn file and im not spending hours doing that but the hypnosis related item should have a model\n-a hypnosis related item (coming soon)\n-being able to buy body fluids from npcs \n-spreader bars/yokes?\n-hanging bondage  (where stocks are, acts like stocks) (coming soon)\n-name change with more items?\n\nfeel free to dm me / ping me for recomendations",
+		"author": "stinkyfentman",
+		"modversion": "1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GirlCumCollector.zip"
 	}
 	]
 }
