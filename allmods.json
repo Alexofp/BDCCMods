@@ -2047,6 +2047,14 @@
 		"modversion": "1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GirlCumCollector.zip"
+	},
+	{
+		"name": "Sugerør's Starting Perks",
+		"description": "Adds 8 starting perks to the game, some of them make stuff harder and the rest makes certain things easier.",
+		"author": "Sugerør",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SugerrStartingPerksV1.0.zip"
 	}
 	]
 }
