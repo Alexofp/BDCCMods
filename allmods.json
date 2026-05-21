@@ -2058,9 +2058,9 @@
 	},
 	{
 		"name": "Hanging Ropes Restraint",
-		"description": "Adds 1 new BDSM Restraint that forces you to be hung in ropes where the stocks are (acts like stocks, its suspension bondage) \nFeatures: \nNpcs forcing restraints onto you\nNpcs forcing sex (or not) onto you\nObtainment: unobtainable by player, forced in sex\nFuture plans: not sure yet, give me recomendations\nSUPPORTS MORE BONDAGE AND GOO BONDAGE",
+		"description": "Adds 1 new BDSM Restraint that forces you to be hung in ropes where the stocks are (acts like stocks, its suspension bondage) \nFeatures: \nNpcs forcing restraints onto you\nNpcs forcing sex (or not) onto you\nObtainment: unobtainable by player, forced in sex\nFuture plans: not sure yet, give me recomendations\nSUPPORTS MORE BONDAGE AND GOO BONDAGE\n\nMod ver: 1.1\nsmall update: added \"Try rope bondage\" to the location where stocks are\nAnother small update: changed the acutal sex inside it to not be \"tease\" and to be \"sex instead\"",
 		"author": "stinkyfentman",
-		"modversion": "1.0",
+		"modversion": "1.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HangingRopesRestraint.zip"
 	}
