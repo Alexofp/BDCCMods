@@ -1737,14 +1737,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoldyTBigTails.zip"
 	},
 	{
-		"name": "More Cow Clothes",
-		"description": "Ever thought the vanilla cow underwear was too little? \nWell, I added a bit more!\nThis mod includes the following:\n\nCow-Print Stockings for the arms and legs\nAn alternative to the arm stockings that act as bondage mittens. They look like cow hooves!\nA cowbell collar! (Please note, using this collar is non-permanent unless you use the datapack engine, or you can use the scripting tool to manipulate :3)\n\nAll assets are drawn be me, fully tested. Enjoy!",
-		"author": "WolfStarArt",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreCowClothes.zip"
-	},
-	{
 		"name": "Stamina Pills",
 		"description": "Adds a pill that increases Stamina by 100, when used in combat will apply only to the opponent. Can also be used in sex.\nCan be bought at the Medical Vendomat.",
 		"author": "Material Defender",
@@ -2063,6 +2055,14 @@
 		"modversion": "1.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HangingRopesRestraint.zip"
+	},
+	{
+		"name": "More Cow Clothes",
+		"description": "Ever thought the vanilla cow underwear was too little? \nWell, I added a bit more!\nThis mod includes the following:\n\nCow-Print Stockings for the arms and legs\nAn alternative to the arm stockings that act as bondage mittens. They look like cow hooves!\nA cowbell collar! (Please note, using this collar is non-permanent unless you use the datapack engine, or you can use the scripting tool to manipulate :3)\nNEW! A chastity device shaped like a cow udder! Covers both the penis and vagina while taking up the \"unique\" inventory spot.\n\nAll assets are drawn be me, fully tested. Enjoy!",
+		"author": "WolfStarArt",
+		"modversion": "2.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreCowClothes.zip"
 	}
 	]
 }
