@@ -4336,6 +4336,26 @@
 
 			],
 			"preview": "datapack_previews/MedicMinibossKitty.png"
+		},
+		{
+			"id": "collaroff",
+			"name": "CollarOff",
+			"author": "Подъемный Кран",
+			"version": "1.0",
+			"description": "Ever wanted to get rid of damn collar on your neck? Now you can! There's button in right bottom corner of main prison floor, near laundry that allows you to remove collar or get it back on. (Doesn't affect any collars except for inmate collar and doesn't effect scenes)",
+			"contains": "Contains: 1 scene",
+			"download": "datapacks/sd05m4r.res",
+			"lastedit": 1779516546,
+			"filesize": 5319,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			]
 		}
 	]
 }
