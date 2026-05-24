@@ -2063,9 +2063,7 @@
 		"modversion": "R6-7",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR6-7.zip"
-	}
-	]
-},
+	},
 	{
 		"name": "Fellini Mod",
 		"description": "Adds 9 cosmetic items and 2 bodyparts, all based on Pulchra Fellini from ZZZ.\n\nThese include:\nBoots, Choker, 2 Crop tops (dyeable), Jacket, Mask, Leg pouches, Shorts, Gloves, Fellini hair and Fellini tail\n\nAll cosmetic items can be bought from the vendomat, bought from the announcer or dropped by Pulchra NPC (datapack not included with this mod)\n\nUpdate 1.1:\n-Added a couple of scripts and items that enable the quests from Pulchra Fellini datapack to function.\n\nUpdate 1.2:\n-Fixed the Error! button showing up in the yard\n-Added more scripts to allow the datapack to function properly\n-Added the ability to wear the choker\n-Added Fellini gloves\n-Improved Fellini Jacket \n\nUpdate 1.3\n[Debugging and options update]\n\n-Improved Debug menu\n-Debug menu now available without finishing prologue\n-Added global mod options that synchronize across saves (Access them by talking to Pulchra in the yard)\n-Added Fellini Tail species options (Feline by default)\n-Added Fellini Hair options for NPC spawns (disabled by default)\n\nUpdate 1.3.1\n-Fellini Mask now only appears when the character's mouth is closed\n(You can now suck dick without it being unrealistic :p)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FelliniMod.png]Click for Preview[/url]",
@@ -2074,3 +2072,5 @@
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FelliniMod.zip"
 	}
+	]
+}
