@@ -2071,6 +2071,14 @@
 		"modversion": "1.3.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FelliniMod.zip"
+	},
+	{
+		"name": "NPC Body Customizer",
+		"description": "Lets you mass-edit NPC body parts for new and existing NPCs. Go to Me > Encounters > Body parts to get started.\n\nWarning: I have tested this mod a fair amount, but there are probably ways of breaking the game. Editing static NPCs is possible but I haven't tested it at all, probably it can break some vanilla scenes (or at least the writing may not adapt to the edits). I also do not recommend editing NPCs from datapacks (except for datapacks that just add characters and don't have any scenes, those are probably fine). Because some people are incapable of reading, there is another warning the first time you open the editor interface.\n\nIf you don't know what to do after clicking through the warning, click \"Help\" for instructions.\n\nThis mod is not redundant to NPC Generation Settings (or vice-versa). NPC Generation Settings is good if you want to edit e.g. femininity or thickness, this mod is good if you have some modded body parts and want NPCs to use them, if you want some NPCs to have exotic equipment like anus wombs, to make NPCs flat or busty, etc.",
+		"author": "Kevin",
+		"modversion": "0.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NPCBodyCustomizer.zip"
 	}
 	]
 }
