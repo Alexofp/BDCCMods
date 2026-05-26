@@ -1937,14 +1937,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BrutalDreamsCorrectionalCenter.zip"
 	},
 	{
-		"name": "Puppy Restrains",
-		"description": "Adds Puppy restrains previously only accessed via some scenes. Obtain this item at annoucer's shop. This mod is in early development stage. Note bugs WILL appear, back up your save\n\nChangelog: Removed ability to start a fight while wearing the restrains, correct puppy animations now should play when having sex with an npc, somewhat fixed standing animation appearing over puppy one while approaching an npc.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PuppyRestraintsMod.png]Click for Preview[/url]",
-		"author": "concussion",
-		"modversion": "0.2b",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PuppyRestraintsMod.zip"
-	},
-	{
 		"name": "JunkieRehabilitation",
 		"description": "Adds a new drug which allows to rehabilitate defeated Drug Den junkies into cellblock inmates, in case you wish to meet them again.\n\nThe pill can sometimes be found as loot. Alternatively, you can purchase it for 100 credits from the Med Lobby's vendomat.\n\nCompatibility\n`/Modules/DrugDenModule/DrugDen/DrugDenEncounterTemplateScene.gd` is overridden to allow all of this to happen.\n\n`DrugDenEncounterBossScene.gd`, `DrugDenEncounterFirstScene.gd`, `DrugDenEncounterInstantFightScene.gd`, `DrugDenEventWhoreScene.gd` and `DrugDenEventWhoreSubScene.gd` are overridden to modify path to the class they inherit. No other lines were changed besides line 44 in the boss scene.\n\n[color=#CCE4FF]source code[/color] – [url=https://git.frisk.space/keerifox/BDCC-JunkieRehabilitation]git.frisk.space[/url] [color=#B9B9B9]or[/color] [url=https://github.com/keerifox/BDCC-JunkieRehabilitation]github[/url]\n[color=#FFCCEA]personal website[/color] – [url=https://keeri.place]keeri.place[/url] [color=#FFCCEA]<3[/color]",
 		"author": "keerifox",
@@ -2079,6 +2071,14 @@
 		"modversion": "0.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NPCBodyCustomizer.zip"
+	},
+	{
+		"name": "Puppy Restrains",
+		"description": "Adds Puppy restrains previously only accessed via some scenes. Obtain this item at annoucer's shop. This mod is in early development stage. Note bugs WILL appear, back up your save.\n\nChangelog: Major bug fixes, improved on conditioning wearing the restraints for a long time adds status effect.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PuppyRestraintsMod.png]Click for Preview[/url]",
+		"author": "concussion",
+		"modversion": "0.3b",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PuppyRestraintsMod.zip"
 	}
 	]
 }
