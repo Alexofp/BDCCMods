@@ -1985,14 +1985,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NoFutaFullPackage.zip"
 	},
 	{
-		"name": "NPC Generation Settings",
-		"description": "Requires FoxLib\n\nAdds ~500 settings via FoxLib to tweak NPC Generation\nThe most basic settings are a couple of toggles to enable parts of the mod\nThe default settings will make the mod do nothing\n\nFetishes are a special case,\nmodded generation with default values will make new NPCs mostly neutral to all fetishes\n\nAllows you to tweak:\nFeminimity and Thickness RNG for each (internal) gender\nPersonalities RNG\nFetish RNG\nLust Intrest RNG\n\nChanges\nrather than replacing the entire generate function,\nreplaced only the 4 functions that calculate the values settings are added for\nTechnical\nnow uses an array of hooks with PlaceBeforeTarget, Target, and PlaceAfterTarget\nallowing for multiple edits in multiple locations\n\nInteresting Note for other Modders\nIn the making of this mod I've stumbled across a way to 'find and replace' a file in the base game.\n\nvar someFile = load('res://someFile')\nvar originalCode = someFile.source_code\nvar modifiedCode = originalCode.replace('target', 'replacement')\nsomeFile.source_code = modifiedCode\nsomeFile.reload()\n\nThis allows us to modify files that we otherwise would not be able to\nallows for a higher level of compatability with other mods\nand can help reduce volatility of some mods when the game updates\n(cough cough, Brutal Dreams)\n\nChanges\nFixed typo in json,\n  comment about unstable mods said \"Broken Dreams\" instead of \"Brutal Dreams\"\nTechnical\n  Rather than replacing the entire generate function replaced only the 4 functions that calculate the values settings are added for\n  Now uses an array of hooks with PlaceBeforeTarget, Target, and PlaceAfterTarget allowing for multiple edits in multiple locations\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NpcGenSettings.png]Click for Preview[/url]",
-		"author": "Mindstormsman",
-		"modversion": "1.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NpcGenSettings_1-1.zip"
-	},
-	{
 		"name": "GreenThumb_alpha",
 		"description": "A proof-of-concept for adding a gardening system to the greenhouse.\nTHIS IS UNFINISHED\nSend feedback or suggestions in the discord!\nWhen something breaks, check mod options to enable debug mode.\n\nFeatures:\n-- Gardening! As an alternative to mining, harvesting gives many credits at once, but you have to wait for them to grow.\n--Totally unbalanced! I just made up some numbers. Please give feedback.\n-- A character!\n-- Several crops!\n-- One sidequest!\n-- One sex scene! Grow some cucumbers!\n-- Crop effect! When you grow stuff, some of it gets sent to the canteen and eating gives extra bonuses.\n--lots of debug stuff\n-- naked apron\n\nChangelog:\n-- Trigger for quest is now staff reputation level 3 (used to just check if non-zero, oops)\n\nPlanned:\nfix bugs (you can ping me if you find one)\nprobably gonna adjust many things based on feedback",
 		"author": "bringlebangul",
@@ -2087,6 +2079,14 @@
 		"modversion": "0.2",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FocusPill.zip"
+	},
+	{
+		"name": "NPC Generation Settings",
+		"description": "Requires FoxLib\n\nAdds ~500 settings via FoxLib to tweak NPC Generation\nThe most basic settings are a couple of toggles to enable parts of the mod\nThe default settings will make the mod do nothing\n\nFetishes are a special case,\nmodded generation with default values will make new NPCs mostly neutral to all fetishes\n\nAllows you to tweak:\nFeminimity and Thickness RNG for each (internal) gender\nPersonalities RNG\nFetish RNG\nLust Intrest RNG\n\nChanges 1.2\nfixed inability to set negative float values on options\n\nChanges 1.1\nrather than replacing the entire generate function,\nreplaced only the 4 functions that calculate the values settings are added for\nTechnical\nnow uses an array of hooks with PlaceBeforeTarget, Target, and PlaceAfterTarget\nallowing for multiple edits in multiple locations\n\nInteresting Note for other Modders\nIn the making of this mod I've stumbled across a way to 'find and replace' a file in the base game.\n\nvar someFile = load('res://someFile')\nvar originalCode = someFile.source_code\nvar modifiedCode = originalCode.replace('target', 'replacement')\nsomeFile.source_code = modifiedCode\nsomeFile.reload()\n\nThis allows us to modify files that we otherwise would not be able to\nallows for a higher level of compatability with other mods\nand can help reduce volatility of some mods when the game updates\n(cough cough, Brutal Dreams)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NpcGenSettings.png]Click for Preview[/url]",
+		"author": "Mindstormsman",
+		"modversion": "1.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NpcGenSettings_1-2.zip"
 	}
 	]
 }
