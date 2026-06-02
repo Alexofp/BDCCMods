@@ -2041,14 +2041,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WoodenHorseRestraint.zip"
 	},
 	{
-		"name": "Hypertus",
-		"description": "\n[b]WARNING: This contains hyper stuff, if you dislike it then leave[/b]\n\nHypertus adds hyper-sized bodyparts (breast, penises, vagina, and anus.) to BDCC, along with several new features!\n\nThese features include:\n* New skill tree and perks. Get bonuses as your hyper bodyparts grow!\n* Go beyond vanilla size limits. Dicks as big as a person! Or even larger!\n* NPC support! (Requires additional mod - Hypertus Species Compatibility Layers)\n* Compatible with several modded species and bodyparts! (see list below)\n- Synth Bodyparts\n- Fluffy Bodyparts\n- Avali Species Bodyparts\n- Ace's Aviary Addon Bodyparts\n- Trans Scar Chest\n- Crow Species Bodyparts\n- Deer Species Bodypart\n- Knotted Horse Cock\n- Barbed Equine Penis\n- Spined Dragon Penis\n\nIf you have any feedback send it in mods-discussion and ping me,\nor open an issue on [url=https://github.com/CanInBad/HypertusMod/issues]github[/url].\n# Changelog\n- hadPerk -> hasPerk in cum production\n- added bunch of ovipositor bodyparts, the normal pregency stuff work with ovipositor so there is no new perks",
-		"author": "CanInBad",
-		"modversion": "R6-7",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR6-7.zip"
-	},
-	{
 		"name": "Fellini Mod",
 		"description": "Adds 9 cosmetic items and 2 bodyparts, all based on Pulchra Fellini from ZZZ.\n\nThese include:\nBoots, Choker, 2 Crop tops (dyeable), Jacket, Mask, Leg pouches, Shorts, Gloves, Fellini hair and Fellini tail\n\nAll cosmetic items can be bought from the vendomat, bought from the announcer or dropped by Pulchra NPC (datapack not included with this mod)\n\nUpdate 1.1:\n-Added a couple of scripts and items that enable the quests from Pulchra Fellini datapack to function.\n\nUpdate 1.2:\n-Fixed the Error! button showing up in the yard\n-Added more scripts to allow the datapack to function properly\n-Added the ability to wear the choker\n-Added Fellini gloves\n-Improved Fellini Jacket \n\nUpdate 1.3\n[Debugging and options update]\n\n-Improved Debug menu\n-Debug menu now available without finishing prologue\n-Added global mod options that synchronize across saves (Access them by talking to Pulchra in the yard)\n-Added Fellini Tail species options (Feline by default)\n-Added Fellini Hair options for NPC spawns (disabled by default)\n\nUpdate 1.3.1\n-Fellini Mask now only appears when the character's mouth is closed\n(You can now suck dick without it being unrealistic :p)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FelliniMod.png]Click for Preview[/url]",
 		"author": "Mari",
@@ -2087,6 +2079,14 @@
 		"modversion": "1.2",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NpcGenSettings_1-2.zip"
+	},
+	{
+		"name": "Hypertus",
+		"description": "\n[b]WARNING: This contains hyper stuff, if you dislike it then leave[/b]\n\nHypertus adds hyper-sized bodyparts (breast, penises, vagina, and anus.) to BDCC, along with several new features!\n\nThese features include:\n* New skill tree and perks. Get bonuses as your hyper bodyparts grow!\n* Go beyond vanilla size limits. Dicks as big as a person! Or even larger!\n* NPC support! (Requires additional mod - Hypertus Species Compatibility Layers)\n* Compatible with several modded species and bodyparts! (see list below)\n- Synth Bodyparts\n- Fluffy Bodyparts\n- Avali Species Bodyparts\n- Ace's Aviary Addon Bodyparts\n- Trans Scar Chest\n- Crow Species Bodyparts\n- Deer Species Bodypart\n- Knotted Horse Cock\n- Barbed Equine Penis\n- Spined Dragon Penis\n\nIf you have any feedback send it in mods-discussion and ping me,\nor open an issue on [url=https://github.com/CanInBad/HypertusMod/issues]github[/url].\n# Changelog\n- hadPerk -> hasPerk in cum production\n- added bunch of ovipositor bodyparts, the normal pregency stuff work with ovipositor so there is no new perks\n- fixed breastsizes not showing their name properly; this is why testing is required",
+		"author": "CanInBad",
+		"modversion": "R6-8",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR6-8.zip"
 	}
 	]
 }
