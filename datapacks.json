@@ -4356,6 +4356,27 @@
 			"requiredMods": [
 
 			]
+		},
+		{
+			"id": "pup_scenes",
+			"name": "Pup Scenes",
+			"author": "Icmado",
+			"version": "0.3",
+			"description": "More things to do around the prison, while in concussion's Puppy Restraints.\n\nDabauchery added:\n- Avoidable culinary fraud and unsanitary dietary practises\n- Less than minimum wage labour\n- Warm \"water\"\n\nCW:\n- Petplay and humiliaton (duh)\n- Watersports (optional)\n- Dub-con (avoidable)\n\nCurrently overrides: (Puppy restraints required)\n- Eating in canteen\n- Showering on main floor\n\nAdds: (Puppy restraints recommended, mittens will work as well)\n- Working in the mines",
+			"contains": "Contains: 3 scenes",
+			"download": "datapacks/pup_scenes.res",
+			"lastedit": 1780463704,
+			"filesize": 116619,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"PuppyRestraintsMod.zip",
+				"FoxLib"
+			]
 		}
 	]
 }
