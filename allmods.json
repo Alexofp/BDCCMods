@@ -2087,6 +2087,22 @@
 		"modversion": "R6-8",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR6-8.zip"
+	},
+	{
+		"name": "Urinal Punishment",
+		"description": "[WARNING: Watersports content]\n\nAdds being locked into the urinals as a punishment. Works similarly to the stocks; you can lock up NPC's, and they can lock up you, or each other. Visiting NPC's can either help free you, or use you as a meat toilet and relieve themselves...\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/Urinal_Punishment.png]Click for Preview[/url]",
+		"author": "driftcatch",
+		"modversion": "0.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Urinal_Punishment.zip"
+	},
+	{
+		"name": "MoldyT's Bodypart Expansion",
+		"description": "Various credits to : CaninBad, Songjo, Winters, Kitsu, Natalie, and Selinoccino\n\nDescription\nAdds a large amount of tails, wings, and a visible pussy to the game.\n\nTails: Several Canine (and fox), Feline, and variety tails for any and all species. All tails are large and most contain multiple skins for them. \nWings: Mostly membrane wings with a few feathered ones as well. They can be selected in the \"Horn\" slot if you'd like a body part, otherwise you'd need to go to the vending machine to grab them and equip in the \"unique\" slot. Setting has them only at the vending but can be swapped for both pc and npc.\nPussy: Visible Canine pussy with even an additional pattern for it.\n\nP.S. also adds a scene for a triple dye channel system for items, but only works for the wings atm. Someone could use it to make items with multiple dye streams but would need this mod as a prereq as is. \n\nIf they don't work ping me, I did not test it with any other mods and never will.\nIF YOU HAVE MY OLD TAIL MOD GET RID OF IT FOR THIS\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoldyBodypartExpansion.png]Click for Preview[/url]",
+		"author": "MoldyT",
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoldyBodypartExpansion.zip"
 	}
 	]
 }
