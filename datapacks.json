@@ -4377,6 +4377,35 @@
 				"PuppyRestraintsMod.zip",
 				"FoxLib"
 			]
+		},
+		{
+			"id": "PackCHARACTERScreations",
+			"name": "Pack characters of Ouroboros",
+			"author": "Ouroboros",
+			"version": "1.0",
+			"description": "I make the various character creations available to those who want them.",
+			"contains": "Contains: 8 characters",
+			"download": "datapacks/PackCARACTERScreations.res",
+			"lastedit": 1780638244,
+			"filesize": 34551,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"MoldyBodypartExpansion.zip",
+				"AdditionalDragonPenisPack1.zip",
+				"SongsVanillaParts_v1.4.3.zip",
+				"SongshairPack_v1.8.zip",
+				"FelliniMod.zip",
+				"WintersCanineBarbedPenisV1.1.zip",
+				"SkulldogSpeciesVer2.zip",
+				"WintersFluffyBodypartsV1.8.zip",
+				"SnowsWombTattoos.zip"
+			],
+			"preview": "datapack_previews/PackCHARACTERScreations.png"
 		}
 	]
 }

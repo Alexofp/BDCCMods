@@ -2049,14 +2049,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FelliniMod.zip"
 	},
 	{
-		"name": "Puppy Restrains",
-		"description": "Adds Puppy restrains previously only accessed via some scenes. Obtain this item at annoucer's shop. This mod is in early development stage. Note bugs WILL appear, back up your save.\n\nChangelog: Major bug fixes, improved on conditioning wearing the restraints for a long time adds status effect.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PuppyRestraintsMod.png]Click for Preview[/url]",
-		"author": "concussion",
-		"modversion": "0.3b",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PuppyRestraintsMod.zip"
-	},
-	{
 		"name": "NPC Body Customizer",
 		"description": "Lets you mass-edit NPC body parts for new and existing NPCs. Go to Me > Encounters > Body parts to get started.\n\nWarning: I have tested this mod a fair amount, but there are probably ways of breaking the game. Editing static NPCs is possible but I haven't tested it at all, probably it can break some vanilla scenes (or at least the writing may not adapt to the edits). I also do not recommend editing NPCs from datapacks (except for datapacks that just add characters and don't have any scenes, those are probably fine). Because some people are incapable of reading, there is another warning the first time you open the editor interface.\n\nIf you don't know what to do after clicking through the warning, click \"Help\" for instructions.\n\nThis mod is not redundant to NPC Generation Settings (or vice-versa). NPC Generation Settings is good if you want to edit e.g. femininity or thickness, this mod is good if you have some modded body parts and want NPCs to use them, if you want some NPCs to have exotic equipment like anus wombs, to make NPCs flat or busty, etc.\n\nChangelog:\n- 0.1.1 - Fixed attribute filters doing the opposite of what they say they will do.",
 		"author": "Kevin",
@@ -2071,14 +2063,6 @@
 		"modversion": "0.2",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FocusPill.zip"
-	},
-	{
-		"name": "NPC Generation Settings",
-		"description": "Requires FoxLib\n\nAdds ~500 settings via FoxLib to tweak NPC Generation\nThe most basic settings are a couple of toggles to enable parts of the mod\nThe default settings will make the mod do nothing\n\nFetishes are a special case,\nmodded generation with default values will make new NPCs mostly neutral to all fetishes\n\nAllows you to tweak:\nFeminimity and Thickness RNG for each (internal) gender\nPersonalities RNG\nFetish RNG\nLust Intrest RNG\n\nChanges 1.2\nfixed inability to set negative float values on options\n\nChanges 1.1\nrather than replacing the entire generate function,\nreplaced only the 4 functions that calculate the values settings are added for\nTechnical\nnow uses an array of hooks with PlaceBeforeTarget, Target, and PlaceAfterTarget\nallowing for multiple edits in multiple locations\n\nInteresting Note for other Modders\nIn the making of this mod I've stumbled across a way to 'find and replace' a file in the base game.\n\nvar someFile = load('res://someFile')\nvar originalCode = someFile.source_code\nvar modifiedCode = originalCode.replace('target', 'replacement')\nsomeFile.source_code = modifiedCode\nsomeFile.reload()\n\nThis allows us to modify files that we otherwise would not be able to\nallows for a higher level of compatability with other mods\nand can help reduce volatility of some mods when the game updates\n(cough cough, Brutal Dreams)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NpcGenSettings.png]Click for Preview[/url]",
-		"author": "Mindstormsman",
-		"modversion": "1.2",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NpcGenSettings_1-2.zip"
 	},
 	{
 		"name": "Hypertus",
@@ -2103,6 +2087,22 @@
 		"modversion": "1.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoldyBodypartExpansion.zip"
+	},
+	{
+		"name": "NPC Generation Settings",
+		"description": "Requires FoxLib\n\nAdds ~500 settings via FoxLib to tweak NPC Generation\nThe most basic settings are a couple of toggles to enable parts of the mod\nThe default settings will make the mod do nothing\n\nFetishes are a special case,\nmodded generation with default values will make new NPCs mostly neutral to all fetishes\n\nAllows you to tweak:\nFeminimity and Thickness RNG for each (internal) gender\nPersonalities RNG\nFetish RNG\nLust Intrest RNG\n\nChanges 1.3\nfixed fetish generation\nwas indexing into the key string rather than the array it corresponds with, oops\n\nChanges 1.2\nfixed inability to set negative float values on options\n\nChanges 1.1\nrather than replacing the entire generate function,\nreplaced only the 4 functions that calculate the values settings are added for\nTechnical\nnow uses an array of hooks with PlaceBeforeTarget, Target, and PlaceAfterTarget\nallowing for multiple edits in multiple locations\n\nInteresting Note for other Modders\nIn the making of this mod I've stumbled across a way to 'find and replace' a file in the base game.\n\nvar someFile = load('res://someFile')\nvar originalCode = someFile.source_code\nvar modifiedCode = originalCode.replace('target', 'replacement')\nsomeFile.source_code = modifiedCode\nsomeFile.reload()\n\nThis allows us to modify files that we otherwise would not be able to\nallows for a higher level of compatability with other mods\nand can help reduce volatility of some mods when the game updates\n(cough cough, Brutal Dreams)\n\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NpcGenSettings.png]Click for Preview[/url]",
+		"author": "Mindstormsman",
+		"modversion": "1.3",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NpcGenSettings_1-3.zip"
+	},
+	{
+		"name": "Puppy Restrains",
+		"description": "Adds Puppy restrains previously only accessed via some scenes. Obtain this item at annoucer's shop. This mod is in early development stage. Note bugs WILL appear, back up your save.\n\nChangelog: Bug fixes, new skill tree.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PuppyRestraintsMod.png]Click for Preview[/url]",
+		"author": "concussion",
+		"modversion": "0.4b",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PuppyRestraintsMod.zip"
 	}
 	]
 }
