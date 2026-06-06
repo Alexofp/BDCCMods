@@ -2103,6 +2103,14 @@
 		"modversion": "0.4b",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PuppyRestraintsMod.zip"
+	},
+	{
+		"name": "VoreMod",
+		"description": "Adds a Vore skill tree that allows you to swallow NPCs whole. Swallowed NPCs are digested over time, providing buffs for each digested NPC. (This mod is still in early development, expect bugs and other issues.)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/VoreMod.png]Click for Preview[/url]",
+		"author": "bebrenkov_01",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/VoreMod.zip"
 	}
 	]
 }
