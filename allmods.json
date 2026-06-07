@@ -2097,20 +2097,20 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NpcGenSettings_1-3.zip"
 	},
 	{
-		"name": "Puppy Restrains",
-		"description": "Adds Puppy restrains previously only accessed via some scenes. Obtain this item at annoucer's shop. This mod is in early development stage. Note bugs WILL appear, back up your save.\n\nChangelog: Bug fixes, new skill tree.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PuppyRestraintsMod.png]Click for Preview[/url]",
-		"author": "concussion",
-		"modversion": "0.4b",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PuppyRestraintsMod.zip"
-	},
-	{
 		"name": "VoreMod",
-		"description": "Adds a Vore skill tree that allows you to swallow NPCs whole. Swallowed NPCs are digested over time, providing buffs for each digested NPC. (This mod is still in early development, expect bugs and other issues.)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/VoreMod.png]Click for Preview[/url]",
+		"description": "Adds a Vore skill tree that allows you to swallow NPCs whole. Swallowed NPCs are digested over time, providing buffs for each digested NPC. (new version of the mod, now NPCs can swallow the player, and several bugs have been fixed. sorry I deleted it first, I had to)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/VoreMod.png]Click for Preview[/url]",
 		"author": "bebrenkov_01",
-		"modversion": "1.0",
+		"modversion": "1.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/VoreMod.zip"
+	},
+	{
+		"name": "Puppy Restrains",
+		"description": "Adds Puppy restrains previously only accessed via some scenes. Obtain this item at annoucer's shop. This mod is in early development stage. Note bugs WILL appear, back up your save.\n\nChangelog: Bug fixes, added reputation and fixed pup effect not wearing off in 2 weeks time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PuppyRestraintsMod.png]Click for Preview[/url]",
+		"author": "concussion",
+		"modversion": "0.5b",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PuppyRestraintsMod.zip"
 	}
 	]
 }
