@@ -4406,6 +4406,26 @@
 				"PuppyRestraintsMod.zip",
 				"FoxLib"
 			]
+		},
+		{
+			"id": "EscapeForTwo",
+			"name": "Escape for two - the hollow chronicles",
+			"author": "Outmist",
+			"version": "1.0",
+			"description": "Short description:\n\nAn old crate outside your cell. Inside - escape blueprints. Designed for two.\n\nYour partner is Hollow - a silent grey wolf with tired eyes. He doesn't trust words. He watches what you do.\n\nYou'll steal tools, bribe informants, sneak past guards. Every choice matters. Trust is built in silence - and lost in a second.\n\n12 endings. Your decisions shape Hollow's fate, your bond, and the final escape.\n\n(To begin, wake up in the cell.)\n\nThis is my first datapack and it may not be very interesting or useful to anyone, but if you play it and like it, I will be pleased.",
+			"contains": "Contains: 5 characters, 17 scenes, 5 quests",
+			"download": "datapacks/EscapeForTwo.res",
+			"lastedit": 1780897310,
+			"filesize": 682900,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"Clothes_Megapack.zip"
+			]
 		}
 	]
 }

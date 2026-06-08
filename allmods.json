@@ -1945,14 +1945,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/JunkieRehabilitation.zip"
 	},
 	{
-		"name": "Sugerør's Xenomorph Species",
-		"description": "Adds Xenomorphs into the game\nNew: Added hyper breast, Fixed hyper skills not showing.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrXenomorphSpecies.png]Click for Preview[/url]",
-		"author": "Sugerør",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SugerrXenomorphSpecies.zip"
-	},
-	{
 		"name": "FNAF Jumpscare",
 		"description": "Adds a 1/1000 chance to trigger the FNAF 2 Foxy jumpscare whenever time passes, complete with audio. Configurable with FoxLib, but it isn't required.\n\nNothing new, just making sure it's working in the new update.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FnafJumpscare.png]Click for Preview[/url]",
 		"author": "Frivolous",
@@ -2111,6 +2103,22 @@
 		"modversion": "0.5b",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PuppyRestraintsMod.zip"
+	},
+	{
+		"name": "Sugerør's Xenomorph Species",
+		"description": "Adds Xenomorphs into the game\nNew: Fixed a mistake in the hypertus code.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrXenomorphSpecies.png]Click for Preview[/url]",
+		"author": "Sugerør",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SugerrXenomorphSpecies.zip"
+	},
+	{
+		"name": "Sugerør's Scolipede Species",
+		"description": "Adds Scolipede into the game\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrScolipedeSpecies.png]Click for Preview[/url]",
+		"author": "Sugerør",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SugerrScolipedeSpecies.zip"
 	}
 	]
 }
