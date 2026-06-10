@@ -2119,6 +2119,14 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SugerrScolipedeSpecies.zip"
+	},
+	{
+		"name": "PlayerPortrait",
+		"description": "Allows you to add portraits for your player character, and overlays depending on pain and lust levels.\n\nFor instructions on how to use, see README.txt file inside the zip archive.\n\n\n(i'm gonna be honest, i didn't test this much, but it seems to be working :P)",
+		"author": "Selinoccino",
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PlayerPortrait_v1.1.zip"
 	}
 	]
 }
