@@ -2127,6 +2127,14 @@
 		"modversion": "1.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PlayerPortrait_v1.1.zip"
+	},
+	{
+		"name": "Impale Device",
+		"description": "Adds a public impale device. You can lock others inside it or get locked inside yourself. Paying credits activates the machine's vibrations, making the character inside cum.\nThe device can be found in main halls\n\nMy first mod and first time using blender for animations, so please ping me if you find any bugs\n\nthere probably would be some content updates, I have few ideas in mind.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ImpaleDeviceModule.png]Click for Preview[/url]",
+		"author": "Doggo :3",
+		"modversion": "0.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ImpaleDeviceModule.zip"
 	}
 	]
 }
