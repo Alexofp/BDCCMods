@@ -2135,6 +2135,14 @@
 		"modversion": "0.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ImpaleDeviceModule.zip"
+	},
+	{
+		"name": "Skulldog Species",
+		"description": "Canines with a skull head. Sometimes they're just the perfect wife material ;w;\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SkulldogSpecies.png]Click for Preview[/url]\n\n[color=#CCE4FF]source code[/color] – [url=https://git.frisk.space/keerifox/BDCC-SkulldogSpecies]git.frisk.space[/url]\n[color=#FFCCEA]personal website[/color] – [url=https://keeri.place]keeri.place[/url] [color=#FFCCEA]<3[/color]",
+		"author": "keerifox",
+		"modversion": "0.3.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SkulldogSpecies.zip"
 	}
 	]
 }
