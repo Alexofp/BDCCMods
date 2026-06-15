@@ -2143,6 +2143,30 @@
 		"modversion": "1.2",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/VoreMod.zip"
+	},
+	{
+		"name": "Async Graffiti",
+		"description": "Take note: this is just a beta test version. There are still a lot of unpolished things, the mod is pretty much unmoderated and bypassable. I'm posting it now just to test if the concept even makes sense.\n\nAdds an online graffiti placement system.\nYou can leave graffiti on walls in every room in the game, and other players who have this mod installed can see it.\nTo make graffiti, go to the \"Me\" tab and click \"Leave graffiti\". First, you will need to register your nickname. After it's registered, you can start leaving graffiti.\nThere are a few text options, such as bold, italic, changeable font and color.\nThere is a limit of 10 graffiti per hour.\n\nPlease use your Discord nickname if possible. Don't impersonate others. After registration, your nick is unchangeable. If you really want it changed, you can just ping me.\n\nDo not mess with or delete the async_graffiti_settings.json file! It is essential for the mod to work properly.\n\nI'm aware there are ways to bypass some stuff, but please be fair and don't do this.\nI'll be banning all sorts of spam, so please leave graffiti with messages that make sense. I will delete meaningless gibberish.\nIf you find any bugs, encounter any problems, or just have an idea what to add to make the mod better, feel free to ping me.\n\nShoutout to Mindstormsman for the idea!",
+		"author": "Doggo :3",
+		"modversion": "0.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AsyncGraffiti.zip"
+	},
+	{
+		"name": "Songs MH Species",
+		"description": "※ Description \n- Adds 3 Monster Hunter series species:Tobi-kadachi, Odogaron, Rathalos(Rathian)\n- big credits to Firaxalos\n\n+ Feel free to share your thoughts about the mod\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsMHSpecies.png]Click for Preview[/url]",
+		"author": "SongJo",
+		"modversion": "0.9.5",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsMHSpecies_0.9.5.zip"
+	},
+	{
+		"name": "Bunny Suit Mod",
+		"description": "Creators: Stinkyfentman (coding) and @WSA (Da bird & Shark) (art)\nadds a bunny suit and a questline for it (to obtain it for free)\n\nFuture plans:\nadd a bunny suit club somewhere",
+		"author": "stinkyfentman&WSA",
+		"modversion": "0.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BunnySuitMod.zip"
 	}
 	]
 }
