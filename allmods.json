@@ -2129,14 +2129,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SkulldogSpecies.zip"
 	},
 	{
-		"name": "PlayerPortrait",
-		"description": "Allows you to add portraits for your player character, and overlays depending on pain, arousal and lust levels.\n\nFor instructions on how to use, see README.txt file inside the zip archive.\n\nVersion 1.2:\n- You can now change the portraits folder to any folder in your device, saved individually per savegame, from the \"me\" menu. Default path is (BDCC user data)/PlayerPortraits\n- Added arousal variants, which work the same as the lust and hurt variants.\n\n\n(again, i didn't test this much, but it should work)",
-		"author": "Selinoccino",
-		"modversion": "1.2",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PlayerPortrait_v1.2.zip"
-	},
-	{
 		"name": "VoreMod",
 		"description": "Adds a Vore skill tree that allows you to swallow NPCs whole. Swallowed NPCs are digested over time, providing buffs for each digested NPC. (New mod version, several serious bugs have been fixed. Also in this update, I've added a new item, new perks, and new types of vore.)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/VoreMod.png]Click for Preview[/url]",
 		"author": "bebrenkov_01",
@@ -2167,6 +2159,14 @@
 		"modversion": "0.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BunnySuitMod.zip"
+	},
+	{
+		"name": "PlayerPortrait",
+		"description": "Allows you to add portraits for your player character, and overlays depending on pain, arousal and lust levels.\n\nFor instructions on how to use, see README.txt file inside the zip archive.\n\nVersion 1.3:\nYou can now change the max amount of other characters that can be present for your portrait to be visible with FoxLib\n\n\n(this will likely be the final version of the mod for the foreseeable future unless some update breaks it, which i doubt will happen :P)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PlayerPortrait.png]Click for Preview[/url]",
+		"author": "Selinoccino",
+		"modversion": "1.3",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PlayerPortrait_v1.3.zip"
 	}
 	]
 }

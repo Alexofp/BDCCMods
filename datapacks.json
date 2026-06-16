@@ -4387,27 +4387,6 @@
 			"preview": "datapack_previews/PackCHARACTERScreations.png"
 		},
 		{
-			"id": "pup_scenes",
-			"name": "Pup Scenes",
-			"author": "Icmado",
-			"version": "0.4",
-			"description": "More things to do around the prison, while in concussion's Puppy Restraints.\n\nDabauchery added:\n- Avoidable culinary fraud and unsanitary dietary practises\n- Less than minimum wage labour\n- Warm \"water\"\n\nCW:\n- Petplay and humiliaton (duh)\n- Watersports (optional)\n- Dub-con (avoidable)\n\nCurrently overrides: (Puppy restraints required)\n- Eating in canteen\n- Showering on main floor\n\nAdds: (Puppy restraints recommended, mittens will work as well)\n- Working in the mines\n- Sleeping in the mines or medical if it's late\n\nNow with EXP!",
-			"contains": "Contains: 4 scenes",
-			"download": "datapacks/pup_scenes.res",
-			"lastedit": 1780721884,
-			"filesize": 126771,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-				"PuppyRestraintsMod.zip",
-				"FoxLib"
-			]
-		},
-		{
 			"id": "EscapeForTwo",
 			"name": "Escape for two - the hollow chronicles",
 			"author": "Outmist",
@@ -4425,6 +4404,27 @@
 			},
 			"requiredMods": [
 				"Clothes_Megapack.zip"
+			]
+		},
+		{
+			"id": "pup_scenes",
+			"name": "Pup Scenes",
+			"author": "Icmado",
+			"version": "0.4.5",
+			"description": "More things to do around the prison, while in concussion's Puppy Restraints.\n\nDabauchery added:\n- Avoidable culinary fraud and unsanitary dietary practises\n- Less than minimum wage labour\n- Warm \"water\"\n\nCW:\n- Petplay and humiliaton (duh)\n- Watersports (optional)\n- Dub-con (avoidable)\n\nCurrently overrides: (Puppy restraints required)\n- Eating in canteen\n- Showering on main floor\n\nAdds: (Puppy restraints recommended, mittens will work as well)\n- Working in the mines\n- Sleeping in the mines or medical if it's late\n\nNow with EXP!\n0.4.5:\nInteracting with Inmates gives you pup rep!\nFixed overrides overriding showers and canteen while free from restaints.\n",
+			"contains": "Contains: 4 scenes",
+			"download": "datapacks/pup_scenes.res",
+			"lastedit": 1781588581,
+			"filesize": 128098,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"PuppyRestraintsMod.zip",
+				"FoxLib"
 			]
 		}
 	]
