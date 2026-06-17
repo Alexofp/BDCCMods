@@ -2167,6 +2167,14 @@
 		"modversion": "1.3",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PlayerPortrait_v1.3.zip"
+	},
+	{
+		"name": "PortalPanties-Change-HaremDontGenerateMales",
+		"description": "WARNING: Don't use this mod, if you use cloaca only, it will crash with the panties. Couldn't yet figure out how to fix that.\n\nDisables and changes some code to allow for a harem of all females with PC being the sole male inmate. Otherwise, the random events will sometimes spawn males, even if the spawnrate for males is 0%.\nSacrificed the portalpanties sleep event for this. The initial quest will still feature a few generated males, but after you 'forget' them, no more should spawn from the portalpanties events.\nRandom events work. Shower scene works(doesn't needlessly spawn a male). Vaginal action has been increased in frequency.",
+		"author": "Casual BDCC Enjoyer",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PortalPanties-Change-HaremDontGenerateMales.zip"
 	}
 	]
 }
