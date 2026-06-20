@@ -4426,6 +4426,29 @@
 				"PuppyRestraintsMod.zip",
 				"FoxLib"
 			]
+		},
+		{
+			"id": "SCP1471A",
+			"name": "malo",
+			"author": "kingsparrow",
+			"version": "0.1.0",
+			"description": "No description provided",
+			"contains": "Contains: 1 character, 1 scene",
+			"download": "datapacks/malo.res",
+			"lastedit": 1781935395,
+			"filesize": 11091,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"SkulldogSpecies.zip",
+				"WintersFluffyBodypartsV1.8.zip",
+				"SongsVanillaParts_v1.4.5.zip"
+			],
+			"preview": "datapack_previews/SCP1471A.png"
 		}
 	]
 }
