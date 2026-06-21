@@ -2145,14 +2145,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AsyncGraffiti.zip"
 	},
 	{
-		"name": "Songs MH Species",
-		"description": "※ Description \n- Adds 3 Monster Hunter series species:Tobi-kadachi, Odogaron, Rathalos(Rathian)\n- big credits to Firaxalos\n\n+ Feel free to share your thoughts about the mod\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsMHSpecies.png]Click for Preview[/url]",
-		"author": "SongJo",
-		"modversion": "0.9.5",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsMHSpecies_0.9.5.zip"
-	},
-	{
 		"name": "Bunny Suit Mod",
 		"description": "Creators: Stinkyfentman (coding) and @WSA (Da bird & Shark) (art)\nadds a bunny suit and a questline for it (to obtain it for free)\n\nFuture plans:\nadd a bunny suit club somewhere",
 		"author": "stinkyfentman&WSA",
@@ -2175,6 +2167,30 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PortalPanties-Change-HaremDontGenerateMales.zip"
+	},
+	{
+		"name": "Songs MH Species",
+		"description": "※ Description \nAdds 3 Monster Hunter series species:Tobi-kadachi, Odogaron, Rathalos(Rathian)\nbig credits to Firaxalos\n\n※Update(0.9.5fix1)\nfixed some incorrectly written code (thanks to Avery Winters)\n\n+ Feel free to share your thoughts about the mod\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsMHSpecies.png]Click for Preview[/url]",
+		"author": "SongJo",
+		"modversion": "0.9.5fix1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsMHSpecies_0.9.5fix1.zip"
+	},
+	{
+		"name": "20 Egg Ovipositors",
+		"description": "This mod doubles the number of eggs the Ovipositor produces to 20 and greatly increases the rate at which they produce eggs.\nFor all the egg sluts ;3",
+		"author": "Lazarus",
+		"modversion": "0.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/20EggOvipositors.zip"
+	},
+	{
+		"name": "Portal Extension",
+		"description": "This is an effort to take Rahi's vanilla portal module, gut it, and expand it with new items, options, and content.\n\nNotes for version: As of the moment, this is the core concept state. I've proven that it can function without breaking. It comes with three core items: A jockstrap, crotchless panties, and a mask. The mask adds entirely new content I wrote myself, the other two items are just modifcations of the panties. As of the moment there are no new character interactions and the fleshlights are not included. I wanted to get this out to get input, suggestions and field testing.\n\nNotes for version: Small update. Fixed a bug where scenes would play without having items equipped, and added buffs/effects for the new oral scenes.",
+		"author": "Dequire",
+		"modversion": "0.1.5",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PortalExtension.zip"
 	}
 	]
 }
