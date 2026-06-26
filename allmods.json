@@ -1361,14 +1361,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MaxModVer2.3.zip"
 	},
 	{
-		"name": "Winters Fluffy Bodyparts",
-		"description": "CREDIT: Original by Anon\nDESCRIPTION: An expansion of the fluff bodyparts adding a few new parts to the original list including clawed hands, fluffy hoofs and a body with neck fluff. Dynamic NPC Canines, Felines and Equines will now spawn with fluffy bodyparts by default. \nCOMPATABILITY: Hypertus, Bodywriting\nCHANGELOG: Added mod options to enable or disable the Dynamic NPC's spawning with fluffy parts\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersFluffyBodyparts.png]Click for Preview[/url]",
-		"author": "Avery Winters",
-		"modversion": "1.8",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersFluffyBodypartsV1.8.zip"
-	},
-	{
 		"name": "Issix Mod",
 		"description": "[url=https://git.frisk.space/Frisk/Issix-mod]Issix Mod adds player slavery with major pet-play themes.[/url]\n\nIt's me again with even more bugfixes!\n- Fixed bugs\n  - Fixed Azazel's scenes not showing up (#90)\n  - Fixed call error in Azazel's first corruption scene\n  - Added the character portrait for Nova's scene\n- Per feedback increased chance for Azazel's scenes happening\n- Added more tiles where the random pet scenes can occur (stairs near the stocks)\n- Applied a little improvement when describing some modded bodypart names in scenes so numbers are stripped off the end\n\nFull changelog on my [url=https://git.frisk.space/Frisk/Issix-mod/releases]git instance[/url].\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/IssixMod.png]Click for Preview[/url]",
 		"author": "Frisk",
@@ -2145,14 +2137,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PortalPanties-Change-HaremDontGenerateMales.zip"
 	},
 	{
-		"name": "Songs MH Species",
-		"description": "※ Description \nAdds 3 Monster Hunter series species:Tobi-kadachi, Odogaron, Rathalos(Rathian)\nbig credits to Firaxalos\n\n※Update(0.9.5fix1)\nfixed some incorrectly written code (thanks to Avery Winters)\n\n+ Feel free to share your thoughts about the mod\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsMHSpecies.png]Click for Preview[/url]",
-		"author": "SongJo",
-		"modversion": "0.9.5fix1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsMHSpecies_0.9.5fix1.zip"
-	},
-	{
 		"name": "20 Egg Ovipositors",
 		"description": "This mod doubles the number of eggs the Ovipositor produces to 20 and greatly increases the rate at which they produce eggs.\nFor all the egg sluts ;3",
 		"author": "Lazarus",
@@ -2199,6 +2183,30 @@
 		"modversion": "0.2",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AsyncGraffiti.zip"
+	},
+	{
+		"name": "Songs MH Species",
+		"description": "※ Description \nAdds 4 Monster Hunter series species:\nTobi-kadachi, Odogaron, Rathalos(Rathian), Mizutsune\nbig credits to Firaxalos\n\n+ Feel free to share your thoughts about the mod\n\n※ Update(0.9.6)\nAdded Mizutsune species (credits to Cyrus Cyber)\nminor fixses\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsMHSpecies.png]Click for Preview[/url]",
+		"author": "SongJo",
+		"modversion": "0.9.6",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsMHSpecies_0.9.6.zip"
+	},
+	{
+		"name": "Winters Fluffy Bodyparts",
+		"description": "CREDIT: Based on assets from Max-Maxou & Suger0r\nDESCRIPTION: An expansion of the fluff bodyparts adding a few new parts to the original list including clawed hands, fluffy hoofs and a body with neck fluff. Dynamic NPC Canines, Felines and Equines will now spawn with fluffy bodyparts by default. \nCOMPATABILITY: Hypertus, Bodywriting\nCHANGELOG: Added a new default set of fluffy parts, old parts are now named scruffy. Added mod options to pick between which set is the default\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersFluffyBodyparts.png]Click for Preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "2.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersFluffyBodypartsV2.1.zip"
+	},
+	{
+		"name": "Twine Interface Translator-Scenes",
+		"description": "A modified and improved scene converter to allow scene development in Twine. It is intended to allow visualizing, isolating of components, and reduce typing for faster and easier creation of complex nonlinear scenes. A sample scene is included in the mod as text that can be pasted into a .twee file and imported to Twine to understand the syntax and features.\nTwine can be downloaded or used online at twinery.org\nDependencies: FoxLib\n\nNote: Please inform me of any bugs, unexpected behavior, or any formatting that is disliked.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/TwineInterfaceTranslator-Scenes.png]Click for Preview[/url]",
+		"author": "Draderos",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/TwineInterfaceTranslator-ScenesV1.0.zip"
 	}
 	]
 }
