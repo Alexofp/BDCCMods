@@ -2193,20 +2193,20 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsMHSpecies_0.9.6.zip"
 	},
 	{
-		"name": "Winters Fluffy Bodyparts",
-		"description": "CREDIT: Based on assets from Max-Maxou & Suger0r\nDESCRIPTION: An expansion of the fluff bodyparts adding a few new parts to the original list including clawed hands, fluffy hoofs and a body with neck fluff. Dynamic NPC Canines, Felines and Equines will now spawn with fluffy bodyparts by default. \nCOMPATABILITY: Hypertus, Bodywriting\nCHANGELOG: Added a new default set of fluffy parts, old parts are now named scruffy. Added mod options to pick between which set is the default\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersFluffyBodyparts.png]Click for Preview[/url]",
-		"author": "Avery Winters",
-		"modversion": "2.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersFluffyBodypartsV2.1.zip"
-	},
-	{
 		"name": "Twine Interface Translator-Scenes",
 		"description": "A modified and improved scene converter to allow scene development in Twine. It is intended to allow visualizing, isolating of components, and reduce typing for faster and easier creation of complex nonlinear scenes. A sample scene is included in the mod as text that can be pasted into a .twee file and imported to Twine to understand the syntax and features.\nTwine can be downloaded or used online at twinery.org\nDependencies: FoxLib\n\nNote: Please inform me of any bugs, unexpected behavior, or any formatting that is disliked.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/TwineInterfaceTranslator-Scenes.png]Click for Preview[/url]",
 		"author": "Draderos",
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/TwineInterfaceTranslator-ScenesV1.0.zip"
+	},
+	{
+		"name": "Winters Fluffy Bodyparts",
+		"description": "CREDIT: Based on assets from Max-Maxou & Suger0r\nDESCRIPTION: An expansion of the fluff bodyparts adding a few new parts to the original list including clawed hands, fluffy hoofs and a body with neck fluff. Dynamic NPC Canines, Felines and Equines will now spawn with fluffy bodyparts by default. \nCOMPATABILITY: Hypertus, Bodywriting\nCHANGELOG: fixed hypertus compat\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersFluffyBodyparts.png]Click for Preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "2.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersFluffyBodypartsV2.2.zip"
 	}
 	]
 }
