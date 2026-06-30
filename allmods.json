@@ -2145,14 +2145,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/20EggOvipositors.zip"
 	},
 	{
-		"name": "Portal Extension",
-		"description": "This is an effort to take Rahi's vanilla portal module, gut it, and expand it with new items, options, and content.\n\nNotes for version: As of the moment, this is the core concept state. I've proven that it can function without breaking. It comes with three core items: A jockstrap, crotchless panties, and a mask. The mask adds entirely new content I wrote myself, the other two items are just modifcations of the panties. As of the moment there are no new character interactions and the fleshlights are not included. I wanted to get this out to get input, suggestions and field testing.\n\nNotes for version: Small update. Fixed a bug where scenes would play without having items equipped, and added buffs/effects for the new oral scenes.",
-		"author": "Dequire",
-		"modversion": "0.1.5",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PortalExtension.zip"
-	},
-	{
 		"name": "SongsVanillaParts",
 		"description": "※ Description \nAdds 45 body parts for vanilla species\n16 for Dragon: 2 head, 6 ears, 3 horns, 2 feet, 1 tail\n7 for Equine: 1 head, 1 hooves, 3 tails, 1 horn, 1 penis\n7 for Canine: 4 heads, 2 ears, 1 tail\n4 for Feline: 3 heads, 1 ears\n11 for universal: 2 legs, 4 arms, 3 tails, 2 breasts\nCompatible with Balls Extra and Hypertus\n\n※Update (1.4.5)\nNew 2 Dragon heads (credits to ₪₪₪Noro₪₪₪)\nFixed an issue where the breast part didn’t work with the Hypertus mod\n\n※Update (1.4.5fix1)\nfixed an issue where a different model showed when Dragon Head 3's mouth was open (thanks to 'Noro / Valerius the Fox')\n\n[i]+Feel free to @me about the mod[/i]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsVanillaParts.png]Click for Preview[/url]",
 		"author": "SongJo",
@@ -2207,6 +2199,14 @@
 		"modversion": "2.2",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersFluffyBodypartsV2.2.zip"
+	},
+	{
+		"name": "Portal Extension",
+		"description": "A mod that takes and extends the vanilla portal content with new items and scenes. Currently it's at the proof of concept stage, the fleshlight does not work with the new items and scenes.\n\nRelease Notes: Fixed and expanded on the shower and sleeping scenes, incorporating the new items and content. Fixed up some code structure for future expansion.\nKnown issues: The icon for one of the new items doesn't display when exported, but it works in the editor fine. You can still equip certain bondage equipment with the portal items as well, this is a problem with the base game's categorization. At current I have to hard code equipment checks for specific items to exclude most chastity equipment.",
+		"author": "Dequire",
+		"modversion": "0.1.6",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PortalExtension.zip"
 	}
 	]
 }
