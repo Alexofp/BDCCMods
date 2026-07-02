@@ -1785,14 +1785,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SugerrHumanoidSpeciesV1.1.zip"
 	},
 	{
-		"name": "Che_susAgeSystem",
-		"description": "What it does:\n\n- assigns an age to all NPCs;\n- age is given randomly in the range from 18 to 45 years.\n- age is shown under the character’s name;\n\nalso in this mod:\n\n4.adds a separate Age panel to the Debug tab;\nin this panel you can:\n4.1 search for loaded characters;\n4.2 seeing current age;\n4.3 change age manually;\n4.4 randomize age using the button.\n\nHow saving works:\n\nage is stored separately for each save;\n\nafter exiting the game and loading the same save, the age remains the same;\n\nWhen playing a new game, the ages are generated anew.\n\nNew in 1.2:\nAdded display of the player's age on the right character panel.\n\nAdded separate fields “Name” and “Age”  for creating a character in the new game\n\nAdded a random age button when creating a character in a new game:\n\n\"4 - random age\"\n\nAdded random name buttons during character creation in a new game:\n\n\"2 - random male name\"\n\"3 - random female name\"\n\nAdded support for online name generation:\nif the Internet is available, the mod tries to get new names online;\notherwise it falls back to the local list.\n\nCharacter age categories have been changed:\n18 — Teen\n19–27 — Young\n28–39 — Adult\n40–60 — Mature\n61–80 — Older\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/Che_susAgeSystem.png]Click for Preview[/url]",
-		"author": "che",
-		"modversion": "1.2",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Che_susAgeSystemVer1.2.zip"
-	},
-	{
 		"name": "Uncageable",
 		"description": "Prevents any items tagged BDSMRestraint from being equipped to the player's dick (by yourself or NPCs). Usually refers to chastity cages but also applies to some modded items. Visually breaks some chastity enforced scenes.\n\nSince certain NPCs can get spammy equipping these, the chastity items are not recovered.\nThe intent was to make this compatible with any mods (e.g. MoreBDSMstuff, Goo Bondage) present today and in the future, so equip-success messages may still play during scenes or may show 'Error: No item found'.\nSome story related chastity items (PortalPanties) are intentionally not affected so that it doesn't soft-lock those story arcs.\n\n1.1: Fix for some mods that only specify the ChastityCage item tag and a generic inventory slot\n1.0: Update for 0.1.12fix4\nReport issues to [url=https://github.com/ethengart/EGBDCCMods]https://github.com/ethengart/EGBDCCMods[/url]",
 		"author": "EthenGart",
@@ -2207,6 +2199,14 @@
 		"modversion": "0.1.6",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PortalExtension.zip"
+	},
+	{
+		"name": "Age System",
+		"description": "What it does:\n\n- assigns an age to all NPCs;\n- age is given randomly in the range from 18 to 45 years.\n- age is shown under the character’s name;\n\nalso in this mod:\n\n4.adds a separate Age panel to the Debug tab;\nin this panel you can:\n4.1 search for loaded characters;\n4.2 seeing current age;\n4.3 change age manually;\n4.4 randomize age using the button.\n\nHow saving works:\n\nage is stored separately for each save;\n\nafter exiting the game and loading the same save, the age remains the same;\n\nWhen playing a new game, the ages are generated anew.\n\nNew in 1.2:\nAdded display of the player's age on the right character panel.\n\nAdded separate fields “Name” and “Age”  for creating a character in the new game\n\nAdded a random age button when creating a character in a new game:\n\n\"4 - random age\"\n\nAdded random name buttons during character creation in a new game:\n\n\"2 - random male name\"\n\"3 - random female name\"\n\nAdded support for online name generation:\nif the Internet is available, the mod tries to get new names online;\notherwise it falls back to the local list.\n\nCharacter age categories have been changed:\n18 — Teen\n19–27 — Young\n28–39 — Adult\n40–60 — Mature\n61–80 — Older\n\nChangeLog 1.2 → 1.3:\n• Fixed a bug that made it impossible to exit when entering the \"me\" menu.\n• Added the \"Age\" tab in the game settings — you can set the age range (minimum/maximum), which is used for random generation. The minimum age must be at least 18 years old.\n• Age is now assigned only for dynamic nps. For other nps, the age can only be set manually using the debug panel.\n• Age Debugging Panel: now only those who have been assigned an age are shown (if the NPCs do not appear in the tab, walk around the map to different places) to see all the nps, the \"Show all characters\" button has been added. \n• The \"Clear age\" button has been added (removes the age of an npc).\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/Che_susAgeSystem.png]Click for Preview[/url]",
+		"author": "che",
+		"modversion": "1.3",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Che_susAgeSystemVer1.3.zip"
 	}
 	]
 }
