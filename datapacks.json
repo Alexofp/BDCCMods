@@ -4449,6 +4449,33 @@
 			"requiredMods": [
 				"Clothes_Megapack.zip"
 			]
+		},
+		{
+			"id": "MalygorzDatapack",
+			"name": "Centzontōtōchtin",
+			"author": "Malygorz",
+			"version": "0.2.5",
+			"description": "A proof of concept for a datapack I'm working on.\n\t\nTrigger Warnings (On top of like everything else this game has)\n- Gore\n- Suicide",
+			"contains": "Contains: 8 characters, 11 scenes, 1 quest",
+			"download": "datapacks/MalygorzDatapack.res",
+			"lastedit": 1783315488,
+			"filesize": 690031,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"FoxLib",
+				"MoreUniformsVer7.zip",
+				"Clothes_Megapack.zip",
+				"Contraband_Clothes.zip",
+				"Contraband_Clothes_2.zip",
+				"furskinV1.zip",
+				"MaxModVer2.3.zip",
+				"WintersFluffyBodypartsV1.8.zip"
+			]
 		}
 	]
 }
