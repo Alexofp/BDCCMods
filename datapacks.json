@@ -4452,14 +4452,14 @@
 		},
 		{
 			"id": "MalygorzDatapack",
-			"name": "Centzontōtōchtin",
+			"name": "Centzon Tōtōchtin",
 			"author": "Malygorz",
 			"version": "0.2.5",
 			"description": "A proof of concept for a datapack I'm working on.\n\t\nTrigger Warnings (On top of like everything else this game has)\n- Gore\n- Suicide",
-			"contains": "Contains: 8 characters, 11 scenes, 1 quest",
+			"contains": "Contains: 8 characters, 12 scenes, 1 quest",
 			"download": "datapacks/MalygorzDatapack.res",
-			"lastedit": 1783315488,
-			"filesize": 690031,
+			"lastedit": 1783401960,
+			"filesize": 743843,
 			"requiredDatapacks": [
 
 			],
@@ -4468,14 +4468,30 @@
 			},
 			"requiredMods": [
 				"FoxLib",
-				"MoreUniformsVer7.zip",
-				"Clothes_Megapack.zip",
 				"Contraband_Clothes.zip",
-				"Contraband_Clothes_2.zip",
-				"furskinV1.zip",
-				"MaxModVer2.3.zip",
-				"WintersFluffyBodypartsV1.8.zip"
+				"MaxModVer2.3.zip"
 			]
+		},
+		{
+			"id": "RynSkin",
+			"name": "SnowboundSkins",
+			"author": "SnowboundStar",
+			"version": "1.0",
+			"description": "Skins I, SnowboundStar, have made\nCurrently only contains one skin, but if I make more they will be added to this pack",
+			"contains": "Contains: 1 skin",
+			"download": "datapacks/RynSkin.res",
+			"lastedit": 1783401966,
+			"filesize": 127842,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/RynSkin.png"
 		}
 	]
 }
