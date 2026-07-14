@@ -2169,14 +2169,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AsyncGraffiti.zip"
 	},
 	{
-		"name": "Songs MH Species",
-		"description": "※ Description \nAdds 4 Monster Hunter series species:\nTobi-kadachi, Odogaron, Rathalos(Rathian), Mizutsune\nbig credits to Firaxalos\n\n+ Feel free to share your thoughts about the mod\n\n※ Update(0.9.6)\nAdded Mizutsune species (credits to Cyrus Cyber)\nminor fixses\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsMHSpecies.png]Click for Preview[/url]",
-		"author": "SongJo",
-		"modversion": "0.9.6",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsMHSpecies_0.9.6.zip"
-	},
-	{
 		"name": "Twine Interface Translator-Scenes",
 		"description": "A modified and improved scene converter to allow scene development in Twine. It is intended to allow visualizing, isolating of components, and reduce typing for faster and easier creation of complex nonlinear scenes. A sample scene is included in the mod as text that can be pasted into a .twee file and imported to Twine to understand the syntax and features.\nTwine can be downloaded or used online at twinery.org\nDependencies: FoxLib\n\nNote: Please inform me of any bugs, unexpected behavior, or any formatting that is disliked.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/TwineInterfaceTranslator-Scenes.png]Click for Preview[/url]",
 		"author": "Draderos",
@@ -2239,6 +2231,14 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MilkingSkillTreeMastery.zip"
+	},
+	{
+		"name": "Songs MH Species",
+		"description": "※ Description \n- Adds 5 Monster Hunter series species:\n- Tobi-kadachi, Odogaron, Rathalos(Rathian), Mizutsune, Kulve taroth\n- both Mizutsune and Kulve has slited version of their penis (+slit cage)\n- big credits to Firaxalos\n- compatible with hypertus\n\n+ Feel free to share your thoughts about the mod\n\n※ Update(0.9.7)\n- Added Kulve species (credits to Cyrus Cyber)\n- fixed hypertus compatibility\n- minor fixes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsMHSpecies.png]Click for Preview[/url]",
+		"author": "SongJo",
+		"modversion": "0.9.7",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsMHSpecies_0.9.7.zip"
 	}
 	]
 }
