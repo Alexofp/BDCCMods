@@ -4492,6 +4492,44 @@
 
 			],
 			"preview": "datapack_previews/RynSkin.png"
+		},
+		{
+			"id": "cute545",
+			"name": "hot male character pack",
+			"author": "Jayden The Fox",
+			"version": "1.0",
+			"description": "No description provided",
+			"contains": "Contains: 7 characters",
+			"download": "datapacks/cute545.res",
+			"lastedit": 1784352028,
+			"filesize": 44732,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"ClothingRevamp1.4.zip",
+				"EditedPawsVer2.zip",
+				"AnonsProtogenSpeciesV1.2.zip",
+				"MoreUniformsVer7.zip",
+				"WintersDeerSpeciesV1.0.zip",
+				"AnonsBaseSpeciesExpansionV1.2.zip",
+				"AnonsAvianSpeciesV1.3.zip",
+				"Rabbit_Species.zip",
+				"AdditionalDragonPenisPack1.zip",
+				"SongsVanillaParts_v1.4.5.zip",
+				"SugerrSpeciesPackV1.5.zip",
+				"MoldyBodypartExpansion.zip",
+				"SkulldogSpecies.zip",
+				"SongsMHSpecies_0.9.7.zip",
+				"Che_susAgeSystemVer1.3.zip",
+				"MoreBDSMstuff.zip",
+				"WintersFluffyBodypartsV2.2.zip",
+				"ThighHighs.zip"
+			],
+			"preview": "datapack_previews/cute545.png"
 		}
 	]
 }
