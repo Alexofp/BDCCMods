@@ -4530,6 +4530,29 @@
 				"ThighHighs.zip"
 			],
 			"preview": "datapack_previews/cute545.png"
+		},
+		{
+			"id": "Starfox_Incarcerated",
+			"name": "Starfox",
+			"author": "Aetheri",
+			"version": "1.0",
+			"description": "A large group of galactic outsiders have been caught and arrested by Alpha Corp for operating spacecraft without proper tags. The self proclaimed 'Star Fox' and 'Star Wolf' are now residing at the BDCC facility and will have to learn to adjust to their new lives.",
+			"contains": "Contains: 9 characters, 2 scenes",
+			"download": "datapacks/Starfox_Incarcerated.res",
+			"lastedit": 1784439719,
+			"filesize": 94920,
+			"requiredDatapacks": [
+				"krystalpack"
+			],
+			"reqDatapackToName": {
+				"krystalpack": "KrystalPack"
+			},
+			"requiredMods": [
+				"MoldyBodypartExpansion.zip",
+				"AnonsAvianSpeciesV1.3.zip",
+				"SongshairPack_v1.8.zip"
+			],
+			"preview": "datapack_previews/Starfox_Incarcerated.png"
 		}
 	]
 }
