@@ -4553,6 +4553,29 @@
 				"SongshairPack_v1.8.zip"
 			],
 			"preview": "datapack_previews/Starfox_Incarcerated.png"
+		},
+		{
+			"id": "789211",
+			"name": "Hanu ",
+			"author": "Hanu",
+			"version": "1.0",
+			"description": "It's just my own Sona in the game, nothing special. ",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/789211.res",
+			"lastedit": 1784523943,
+			"filesize": 9044,
+			"requiredDatapacks": [
+				"sugerorsskinpack"
+			],
+			"reqDatapackToName": {
+				"sugerorsskinpack": "Sugerør's Skin Pack"
+			},
+			"requiredMods": [
+				"SongshairPack_v1.8.zip",
+				"WintersFluffyBodypartsV2.2.zip",
+				"EirasTrashSpeciesV1.3.zip"
+			],
+			"preview": "datapack_previews/789211.png"
 		}
 	]
 }
