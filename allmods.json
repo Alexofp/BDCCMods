@@ -657,14 +657,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WaterPistolVer1.0.0.zip"
 	},
 	{
-		"name": "BallsExtra",
-		"description": "Adds extra settings for balls in character creation that have actual impact and tweaks the dynamic npcs to also have varied balls settings (configurable if FoxLib installed).\n\nIncompatible with Hyperus.\nIf you want to use a custom dick, make sure their script extends \"res://Modules/BallsExtraModule/Base/BodypartBetterPenis.gd\" instead of BodypartPenis.\nYou can edit this yourself or beg a dev to add it for you.",
-		"author": "NatiM6",
-		"modversion": "1.4.1",
-		"gameversion": "0.1.6,0.1.7,0.1.8,0.1.9,0.1.10,0.1.11",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BallsExtra.zip"
-	},
-	{
 		"name": "CumSpill",
 		"description": "Adds cum-through to the generic sex scenes when cumming inside during anal. (Fluid transfer not implemented yet, purely visual)",
 		"author": "NatiM6",
@@ -2105,14 +2097,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PortalPanties-Change-HaremDontGenerateMales.zip"
 	},
 	{
-		"name": "20 Egg Ovipositors",
-		"description": "This mod doubles the number of eggs the Ovipositor produces to 20 and greatly increases the rate at which they produce eggs.\nFor all the egg sluts ;3",
-		"author": "Lazarus",
-		"modversion": "0.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/20EggOvipositors.zip"
-	},
-	{
 		"name": "SongsVanillaParts",
 		"description": "※ Description \nAdds 45 body parts for vanilla species\n16 for Dragon: 2 head, 6 ears, 3 horns, 2 feet, 1 tail\n7 for Equine: 1 head, 1 hooves, 3 tails, 1 horn, 1 penis\n7 for Canine: 4 heads, 2 ears, 1 tail\n4 for Feline: 3 heads, 1 ears\n11 for universal: 2 legs, 4 arms, 3 tails, 2 breasts\nCompatible with Balls Extra and Hypertus\n\n※Update (1.4.5)\nNew 2 Dragon heads (credits to ₪₪₪Noro₪₪₪)\nFixed an issue where the breast part didn’t work with the Hypertus mod\n\n※Update (1.4.5fix1)\nfixed an issue where a different model showed when Dragon Head 3's mouth was open (thanks to 'Noro / Valerius the Fox')\n\n[i]+Feel free to @me about the mod[/i]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsVanillaParts.png]Click for Preview[/url]",
 		"author": "SongJo",
@@ -2217,14 +2201,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsMHSpecies_0.9.7.zip"
 	},
 	{
-		"name": "More BDSM stuff",
-		"description": "Adds more restraints and toys.\n12 leather items, 8 latex items, 9 toys and cages, 7 items with optional styles\nEverything is sold by Announcer.\n\nСhanges:\n-Several new items: \nlatex corset \nlatex blindfold\nlatex ankle and wrist cuffs \nleather muzzle ring gag \nshock cage (by Khurum)\n\n-New icons for most items (and a new preview).\n-Redesigned the latex ring gag model for every head in the main game.\n-Redesigned the latex mittens.\n-New styles for latex suit (penis and cages)\n-New model for bitchsuit (only for self petplay scenes), tell what you think about it\n\nIMPORTANT\nI added sorting/priority for NPCs when equipping restraints on player. It works simply - when you have at least 2 items from the same set, NPCs will only equip items from that set on you. BUT this affects the main files, and may cause a crash if some mod affects the same file, in short, tell me if something breaks.\n\nHave you encountered the problem with the endless dynamic sex scene? Sometimes it was my fault. The ring had to be changed. It now applies the effect in four stages. It generally slows down the sex scene, but after a few orgasms, it inflicts a debuff. Tell me if something breaks, this is first time I'm making status effects.\n\nI also got into the collar (only the main one) and added 3 styles to it. In plan to make it possible for NPCs to change it. \n\nFixes:\n-Toys will no longer change stats when turned off.\n-Fixed a clothing glitch with the rabbit mod. \n-Fix latex muzzle ring gag. \n-Fix petplay scene bugs. \n-There may have been more of them, but I have already forgotten about them.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreBDSMstuff.png]Click for preview[/url]",
-		"author": "DrDurka",
-		"modversion": "0.4",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreBDSMstuff.zip"
-	},
-	{
 		"name": "GirlCum Collector",
 		"description": "adds a girlcum collector\n\n0.1.1:\nadded tightness adjuster\nadded useless buttons\nbugfixes\n\nNEEDS POWERLOOM MOD",
 		"author": "stinkyfentman",
@@ -2263,6 +2239,30 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_masc.zip"
+	},
+	{
+		"name": "More BDSM stuff",
+		"description": "Adds more restraints and toys.\n12 leather items, 8 latex items, 9 toys and cages, 7 items with optional styles\nEverything is sold by Announcer.\n\nСhanges:\n-Several new items: \nlatex corset \nlatex blindfold\nlatex ankle and wrist cuffs \nleather muzzle ring gag \nshock cage (by Khurum)\n\n-New icons for most items (and a new preview).\n-Redesigned the latex ring gag model for every head in the main game.\n-Redesigned the latex mittens.\n-New styles for latex suit (penis and cages)\n-New model for bitchsuit (only for self petplay scenes), tell what you think about it\n\nIMPORTANT\nI added sorting/priority for NPCs when equipping restraints on player. It works simply - when you have at least 2 items from the same set, NPCs will only equip items from that set on you. BUT this affects the main files, and may cause a crash if some mod affects the same file, in short, tell me if something breaks.\n\nHave you encountered the problem with the endless dynamic sex scene? Sometimes it was my fault. The ring had to be changed. It now applies the effect in four stages. It generally slows down the sex scene, but after a few orgasms, it inflicts a debuff. Tell me if something breaks, this is first time I'm making status effects.\n\nI also got into the collar (only the main one) and added 3 styles to it. In plan to make it possible for NPCs to change it. \n\nFixes:\n-Toys will no longer change stats when turned off.\n-Fixed a clothing glitch with the rabbit mod. \n-Fix latex muzzle ring gag. \n-Fix petplay scene bugs. \n-There may have been more of them, but I have already forgotten about them.\n\nFix1:\n-Fix latex cuffs texture glitch. \n-Fix several problems with latex suit.\n-Fix missing cage texture.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreBDSMstuff.png]Click for preview[/url]",
+		"author": "DrDurka",
+		"modversion": "0.4fix1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreBDSMstuff.zip"
+	},
+	{
+		"name": "BallsExtra",
+		"description": "Updated by Avery Winters\nAdds extra settings for balls in character creation that have actual impact and tweaks the dynamic npcs to also have varied balls settings (configurable if FoxLib installed).\n\nIncompatible with Hyperus.\nIf you want to use a custom dick, make sure their script extends \"res://Modules/BallsExtraModule/Base/BodypartBetterPenis.gd\" instead of BodypartPenis.\nYou can edit this yourself or beg a dev to add it for you.\n\n1.5 Changelog:\nAdded options to Ovipositor penis.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BallsExtraWinterUpdate.png]Click for preview[/url]",
+		"author": "NatiM6",
+		"modversion": "1.5",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BallsExtra.zip"
+	},
+	{
+		"name": "20 Egg Ovipositors",
+		"description": "This mod doubles the number of eggs the Ovipositor produces to 20 and greatly increases the rate at which they produce eggs.\nFor all the egg sluts ;3\nChangelog: Added compatability for BallsExtra",
+		"author": "Lazarus",
+		"modversion": "0.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/20EggOvipositorsWinterUpdate.zip"
 	}
 	]
 }
