@@ -4576,32 +4576,6 @@
 				"EirasTrashSpeciesV1.3.zip"
 			],
 			"preview": "datapack_previews/789211.png"
-		},
-		{
-			"id": "YellowF",
-			"name": "Yellow the female protogen",
-			"author": "Yellowprotogen",
-			"version": "Current version available",
-			"description": "I am testing this out now, seeing if i can work this out.",
-			"contains": "Contains: 1 character, 3 scenes",
-			"download": "datapacks/YellowF.res",
-			"lastedit": 1784699064,
-			"filesize": 384387,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-				"FoxLib",
-				"AnonsProtogenSpeciesV1.2.zip",
-				"RaceBonusModPlus.zip",
-				"MoreBDSMstuff.zip",
-				"SnootGearVer1.1.4.zip",
-				"NoPretendSex.zip"
-			],
-			"preview": "datapack_previews/YellowF.png"
 		}
 	]
 }
