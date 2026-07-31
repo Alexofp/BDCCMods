@@ -2271,6 +2271,22 @@
 		"modversion": "0.4.0",
 		"gameversion": "0.3.0",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SneakUpTease.zip"
+	},
+	{
+		"name": "PatternableClothing",
+		"description": "Allows items to have more than one color channel. Does nothing on its own.\n\nOriginally part of MoldyBodypartExpansion.\n\n(didn't do any testing but it should still work, (badly-written) usage instructions in the scripts themselves)",
+		"author": "Selinoccino",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PatternableClothing_v1.0.zip"
+	},
+	{
+		"name": "SoundMod_legacy",
+		"description": "File size: 48.32MB\nThis is the all-in-one version of soundmod. Large file size!!\nThis mod implements a simple audio system, using FoxLib. WILL NOT WORK WITHOUT LATEST VERSION OF FOXLIB! There are four audio triggers for the player character: tease, pleasure, struggle, and orgasm. There are also limited sound effects which can play during sex. Settings can be adjusted in Mod Options.\n\nWhat's different from SoundMod:\n--All sound files are included in the mod, just install it and go\n--Probably maybe works on mobile\n--Can't add your own sounds\n--Fewer sound variants at slightly lower quality to reduce file size",
+		"author": "bringlebangul",
+		"modversion": "0.7",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_legacy.zip"
 	}
 	]
 }
