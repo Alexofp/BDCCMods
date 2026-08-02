@@ -1993,14 +1993,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Urinal_Punishment.zip"
 	},
 	{
-		"name": "MoldyT's Bodypart Expansion",
-		"description": "Various credits to : CaninBad, Songjo, Winters, Kitsu, Natalie, and Selinoccino\n\nDescription\nAdds a large amount of tails, wings, and a visible pussy to the game.\n\nTails: Several Canine (and fox), Feline, and variety tails for any and all species. All tails are large and most contain multiple skins for them. \nWings: Mostly membrane wings with a few feathered ones as well. They can be selected in the \"Horn\" slot if you'd like a body part, otherwise you'd need to go to the vending machine to grab them and equip in the \"unique\" slot. Setting has them only at the vending but can be swapped for both pc and npc.\nPussy: Visible Canine pussy with even an additional pattern for it.\n\nP.S. also adds a scene for a triple dye channel system for items, but only works for the wings atm. Someone could use it to make items with multiple dye streams but would need this mod as a prereq as is. \n\nIf they don't work ping me, I did not test it with any other mods and never will.\nIF YOU HAVE MY OLD TAIL MOD GET RID OF IT FOR THIS\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoldyBodypartExpansion.png]Click for Preview[/url]",
-		"author": "MoldyT",
-		"modversion": "1.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoldyBodypartExpansion.zip"
-	},
-	{
 		"name": "NPC Generation Settings",
 		"description": "Requires FoxLib\n\nAdds ~500 settings via FoxLib to tweak NPC Generation\nThe most basic settings are a couple of toggles to enable parts of the mod\nThe default settings will make the mod do nothing\n\nFetishes are a special case,\nmodded generation with default values will make new NPCs mostly neutral to all fetishes\n\nAllows you to tweak:\nFeminimity and Thickness RNG for each (internal) gender\nPersonalities RNG\nFetish RNG\nLust Intrest RNG\n\nChanges 1.3\nfixed fetish generation\nwas indexing into the key string rather than the array it corresponds with, oops\n\nChanges 1.2\nfixed inability to set negative float values on options\n\nChanges 1.1\nrather than replacing the entire generate function,\nreplaced only the 4 functions that calculate the values settings are added for\nTechnical\nnow uses an array of hooks with PlaceBeforeTarget, Target, and PlaceAfterTarget\nallowing for multiple edits in multiple locations\n\nInteresting Note for other Modders\nIn the making of this mod I've stumbled across a way to 'find and replace' a file in the base game.\n\nvar someFile = load('res://someFile')\nvar originalCode = someFile.source_code\nvar modifiedCode = originalCode.replace('target', 'replacement')\nsomeFile.source_code = modifiedCode\nsomeFile.reload()\n\nThis allows us to modify files that we otherwise would not be able to\nallows for a higher level of compatability with other mods\nand can help reduce volatility of some mods when the game updates\n(cough cough, Brutal Dreams)\n\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NpcGenSettings.png]Click for Preview[/url]",
 		"author": "Mindstormsman",
@@ -2287,6 +2279,14 @@
 		"modversion": "0.7",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_legacy.zip"
+	},
+	{
+		"name": "MoldyT's Bodypart Expansion",
+		"description": "Various art credits to : CaninBad, Songjo, Kitsu, and Natalie\n\nCode help : Selinoccino, Winters, and Moon_Halo\n\nDescription\nAdds a large amount of tails, wings, and a visible pussy to the game.\n\nTail: Several Canine (and fox), Feline, Shark, Mouth, and variety tails for any and all species. All tails are large and most contain multiple skins for them. \nWing: Mostly membrane wings with a few feathered ones as well. They can be selected in the WING slot\nPussy: Visible Canine pussy with even an additional pattern for it.\n\nIf they don't work ping me, I did not test it with any other mods and never will. Wings might have been changed on characters with them so might have to edit your character to fix it.\n\nIF YOU HAVE MY OLD TAIL MOD GET RID OF IT FOR THIS\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoldyBodypartExpansion.png]Click for Preview[/url]",
+		"author": "MoldyT",
+		"modversion": "2.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoldyBodypartExpansion.zip"
 	}
 	]
 }
