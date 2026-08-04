@@ -4075,33 +4075,6 @@
 			]
 		},
 		{
-			"id": "starhordersdatapack",
-			"name": "StarHorders Character Pack",
-			"author": "StarHorder",
-			"version": "0.3.1",
-			"description": "\n\n-# :RED: Tara; meandom rabbit woman\n-# :ORANGE: Mickey; Thieving himbo gshepard\n-# :PURPLE: Eoinm: The Mutt.\n-# :PURPLE: Kal, Blessed by the Cerv, Daughter of Ful.: hyper endowed Vixe person.\n-# :GREEN: Diana: dummy thicc arctic fox(?) milf. \n-# :GREEN: Lannie Rae: Bootied Dalmatian\n-# :BLUE: Alexia: chromed up seccie\n-# :YELLOW: Danielle Slattery: Snobby Vixe Woman\n-# :YELLOW: Lyra: glittery Skunk engie\n\n-# The Callbox is a scene that enables the usage of the sexEngine with characters you typically wouldn't have such freedom with. certain characters will require you to progress through their story to \"get their number\". Play the fucking game.\n\nWhat's new?\n-# Fixed up The scene with Alexia and Danielle to reflect the new location\n-# Touched up Eoinm and Tara's impactplay scene.\n-# Removed MoreBdsmStuff dependency. ",
-			"contains": "Contains: 9 characters, 7 scenes",
-			"download": "datapacks/starhordersdatapack.res",
-			"lastedit": 1772082335,
-			"filesize": 3126895,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-				"AnimalPussies_v3.0.zip",
-				"Rabbit_Species.zip",
-				"FoxLib",
-				"FoxedBDCC_v0.1.0.zip",
-				"EirasTrashSpeciesV1.3.zip",
-				"WintersFluffyBodypartsV1.8.zip",
-				"SongshairPack_v1.8.zip"
-			],
-			"preview": "datapack_previews/starhordersdatapack.png"
-		},
-		{
 			"id": "keypad",
 			"name": "Keypad Lock (code)",
 			"author": "WolfStarArt",
@@ -4576,6 +4549,61 @@
 				"EirasTrashSpeciesV1.3.zip"
 			],
 			"preview": "datapack_previews/789211.png"
+		},
+		{
+			"id": "starhordersdatapack",
+			"name": "StarHorders Character Pack",
+			"author": "StarHorder",
+			"version": "0.3.2",
+			"description": "\n\n-# :RED: Tara; meandom rabbit woman\n-# :ORANGE: Mickey; Thieving himbo gshepard\n-# :PURPLE: Eoinm: The Mutt.\n-# :PURPLE: Kal, Blessed by the Cerv, Daughter of Ful.: hyper endowed Vixe person.\n-# :GREEN: Diana: dummy thicc arctic fox(?) milf. \n-# :GREEN: Lannie Rae: Bootied Dalmatian\n-# :BLUE: Alexia: chromed up seccie\n-# :YELLOW: Danielle Slattery: Snobby Vixe Woman\n-# :YELLOW: Lyra: glittery Skunk engie\n\n-# The Callbox is a scene that enables the usage of the sexEngine with characters you typically wouldn't have such freedom with. certain characters will require you to progress through their story to \"get their number\". Play the fucking game.\n\nWhat's new?\n-# Now uses MoldyT's bodyparts instead of the old animalpussies mod.\n-# Adjusts the flesh colour of Lyra's ears.",
+			"contains": "Contains: 9 characters, 7 scenes",
+			"download": "datapacks/starhordersdatapack.res",
+			"lastedit": 1785824999,
+			"filesize": 3128547,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"Rabbit_Species.zip",
+				"FoxLib",
+				"EirasTrashSpeciesV1.3.zip",
+				"WintersFluffyBodypartsV2.2.zip",
+				"MoldyBodypartExpansion.zip"
+			],
+			"preview": "datapack_previews/starhordersdatapack.png"
+		},
+		{
+			"id": "LeetosCharacterPack",
+			"name": "LeetosCharacterPack",
+			"author": "Leeto",
+			"version": "1.0",
+			"description": "Contains 16 characters (13 inmates and 3 guards). Most are OCs.* All characters have unique fetishes / personalities /  likes and dislikes. Inmates begin at level 0, the guards are a bit tougher. A few of the female characters (Tori and Snava) have vaginal chastity rings by default. Due to the large number of characters and species, this pack does have quite a few dependencies.\n\n*Exceptions are Romsca and (sort of) Flaney, from the Redwall franchise.\n\nCharacter list:\n\nTori Two-Hoof: female hippogriff, anal only, sub\nSaura: female raptor, switch\nFlaney: female rat, switch\nArynaxi: female dragon, sub\nRomsca: female ferret, switch\nSnava: female kobold (dragon), anal only, dom\nDryxavi: female dragon, sub\n\nRaxytarcyl: male dragon, sub\nValk: male hawk, sub\nDrome: male raptor, sub\nBlaine: male rat, dom\nGiaco: male human, dom\nHan: male chicken, dom\n\nLeeto: male raptor, dom\nHermelyn: female stoat, dom\nJaivyn: male human, dom\n\n",
+			"contains": "Contains: 16 characters",
+			"download": "datapacks/LeetosCharacterPack.res",
+			"lastedit": 1785825016,
+			"filesize": 81363,
+			"requiredDatapacks": [
+				"sugerorsskinpack"
+			],
+			"reqDatapackToName": {
+				"sugerorsskinpack": "Sugerør's Skin Pack"
+			},
+			"requiredMods": [
+				"AnonsAvianSpeciesV1.3.zip",
+				"MoldyBodypartExpansion.zip",
+				"MoreUniformsVer7.zip",
+				"SongshairPack_v1.8.zip",
+				"SongsMustelidSpecies_v0.9.zip",
+				"SongsVanillaParts_v1.4.5fix1.zip",
+				"AnonsBaseSpeciesExpansionV1.2.zip",
+				"AdditionalDragonPenisPack1.zip",
+				"ThighHighs.zip",
+				"EirasTrashSpeciesV1.3.zip"
+			],
+			"preview": "datapack_previews/LeetosCharacterPack.png"
 		}
 	]
 }

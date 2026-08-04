@@ -1833,44 +1833,12 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/QuickStartV2.zip"
 	},
 	{
-		"name": "MorePoses",
-		"description": "Adds more sex poses to dynamic sex scenes, using animations from pre-written scenes. For penetrative sex: adds SexOverTable, SexHanging, RopesSex, SexStealth, SexUrinal. For oral sex: adds SexOralTable, ChairOral, RopesOralSex. Use 'switch pose' during sex. \n--Table is available as an option in the canteen, laundry room, and the spaces around the central platform.\n--Chair is the same as Table.\n--Hanging is available when the sub has bound wrists and you are near a wall.\n--Ropes is available in the fight club floor (any space)(but not slutwall).\n--Stealth is available when in public and the sub is not already totally naked.\n--Urinal is available in the two bathrooms.\n--If your player cell is upgraded to hold slaves and you bought all the 'furniture', you can use all the poses there. Because why not.\n\nChangelog v0.7:\n--compatibility with 0.2.1 (EGG!)\n--attempt to solve \"FIX DESCRIPTOR\" - if game loses track of current pose it picks one at random\n--can now keep same pose when switching holes\n\nThis edits the base game sexActivity files. This will get broken by game updates.\n(please let me know if you find any typos)",
-		"author": "bringlebangul",
-		"modversion": "0.7",
-		"gameversion": "0.2.1",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MorePoses.zip"
-	},
-	{
-		"name": "ClothingRevamp",
-		"description": "The actions to displace clothes such as 'open shirt' can now be applied by selecting a worn item in the inventory screen. This applies to all uniforms & underwear (that you can get without cheats). Each action has new visuals to go along with it. Clothing items which share textures - like 'sporty' items - have been given their own appearance (e.g. stripes), to better distinguish them.\n\nFeatures:\n-Worn clothing items can now be shifted to expose chest or privates. Clothing state is managed by selecting equipped items from the inventory.\n-This hooks into the battle tease actions, so exhibitionist requirements and exp apply.\n-Adds new models for 'lace' and 'sporty' variants of undergarments to better distinguish them.\n-Adds new models for inmate uniforms and underwear for the shifted aside states.\n-Clothing that is damaged enough to expose privates can't be shifted, because it's pointless and also cuts down the number of model states I have to make.\n-Compatible with 'MoreUniforms' uniforms.\n-NPC doms have a 10% chance to shift clothing instead of removing it during sex.\n-Can shift clothes during sex, may lead to strange-looking graphics in some positions (haven't tested all)\n\nChangelog 1.4:\n-Hard-coded exceptions for MoreUniforms shirtonly and shortsonly uniforms, which uniquely use the 'body' slot but use the itemstate for underwear.\n-CheckRemoved now checks if the item is removed or covers any bodyparts, so doms shouldn't get mad if you shift instead of remove an item when ordered.\n-Should fix npcs getting stuck in infinite loop when trying to undress.\n-Added compatibility for MoreUniforms cowprint underwear.\n\nPlanned:\nCome up with some NPC logic that decides when to remove and when to shift aside.\nMaybe add a reduced effect of the exhibitionist perks when fully exposed but not nude?\n\nQUICK FIX FOR 0.2.1 COMPATIBILITY and 0.2.2 i guess",
-		"author": "bringlebangul",
-		"modversion": "1.4",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ClothingRevamp1.4.zip"
-	},
-	{
-		"name": "HelpYourOwner",
-		"description": "In soft slavery, your owner can now approach you and ask/demand you help them remove restraints.\n\nQUICK FIX FOR 0.2.1 COMPATIBILITY and 0.2.2 i guess",
-		"author": "bringlebangul",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HelpYourOwner.zip"
-	},
-	{
 		"name": "Chastity For Everyone",
 		"description": "[b](! Requires FoxLib,  Requires Chastity Cage Flat Remix, Requires Chastity Belts Mod 1.2 !)[/b]\n\nMakes random NPCs spawn with permanent or non-permanent chastity cages and/or belts. It's customizable: you are able to change rules for inmates, guards, engineers, nurses, as well as for specific gender. You can also choose a chance of spawning a flat/belt/permanent chastity variants. Currently doesn't affect any static NPCs. You can also pick to be put in chastity belts (as well as chastity cages) during game's intro scenes. Additionally, adds chastity police mechanic - staff can now stop player or NPC inmates who got rid of their mandated cages, and who is a good inmate! Mod options (see pic) are available thanks to FoxLib (go to the [Mods Options] in the main menu).\n\nChangelog: \n• Fixed inspection scene not working in latest mod version due to 2 unused variables.\n• Finally added random inspection scene! Although one part of it is still WIP.\n• During the inspection scenes player will not be put into different type of belt, if they were assigned one.\n• Added an 1.5h global cooldown for chastity inspections from player being inspected and 20 min one if NPC was inspected.\n• The default inmate chastity chance is now 50% instead of 90%\n• Improvements had been made to text in scenes and in options.\n• Code improvements.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ChastityForEveryone.png]Click for Preview[/url]",
 		"author": "Noro",
 		"modversion": "2.31",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ChastityForEveryone_v2.31.zip"
-	},
-	{
-		"name": "Brutal Dreams Correctional Center",
-		"description": "Makes the game more difficult!\n\nInmates you encounter have a 5% chance to attack you\nAn Inmate will chase you down to attack\nCharacters that lose their clothes will go to the Laundry room to replace them!\n\nAnother quick fix,\ncopied Lucci's version of the Replace Clothes Goal to fix datapack npcs trying to replace their clothes when they already have clothes\n\nquick fix for the new update",
-		"author": "Mindstormsman",
-		"modversion": "1.7.3",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BrutalDreamsCorrectionalCenter.zip"
 	},
 	{
 		"name": "FNAF Jumpscare",
@@ -2185,38 +2153,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GirlCumCollector.zip"
 	},
 	{
-		"name": "SoundMod",
-		"description": "This mod implements a simple audio system, using FoxLib. FoxLib MUST be placed BEFORE this mod in the mod load order. There are four audio triggers for the player character: tease, pleasure, struggle, and orgasm. There are also limited sound effects which can play during sex. Settings can be adjusted in Mod Options. Audio files not included due to file size, they are now downloaded seperately.\n\nFeatures:\n \n- Four sound effects plus a gagged variant of each! Tease, struggle, pleasure, and orgasm\n- Limited sound effects for spanking, adding restraints, cum/squirt, light plaps\n- Add your own sounds! Check Mod Options. Supports .mp3, .ogg, and .wav\n- Audio sold seperately, the file size is too big\n- Guaranteed to break at some point, seriously this mod is held together by a thread\n- This relies on using GameExtenders.gd to hook into the game\n- Therefore, it will not work properly with pre-written scenes\n\nCredits:\nOpenNSFW sound pack | JeremyColeNSFW | LewdKitzu | VelvetSheetzVA | geministarsign1\nShared under Creative Commons license -- [url=https://opennsfw.carrd.co/]https://opennsfw.carrd.co/[/url]\n\nChangelog v1.0:\n \n- Complete overhaul of sound loading! Audio files are now kept in the user data directory.\n- The mod itself has NO audio files. Download the other zip files, go to Mod Options, click the button to open audio folder, and extract the .zip files there. Then restart the game.\n- It is now possible to load audio from the user data directory at runtime, so you can add your own without using the editor import!\n- As a consequence, the mod load order MUST be as follows: FoxLib is before (above) this mod.\n- Added some light plapping to sex; it only loops for a few seconds each turn, because there is absolutely no way to make it sync with the animation and it bothered me.\n\n(note: not tested on android)\n\nPlanned:\n \n- fix bugs (you can ping me if you find one)",
-		"author": "bringlebangul",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod.zip"
-	},
-	{
-		"name": "SoundMod Effects",
-		"description": "Size: 18MB. Go to Mod Options, click the button to open audio folder, and extract the .zip files there. Then restart the game. [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction1.png]Instruction 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction2.png]Instruction 2[/url]",
-		"author": "bringlebangul",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_Effects.zip"
-	},
-	{
-		"name": "SoundMod Fem",
-		"description": "Size: 11MB. Go to Mod Options, click the button to open audio folder, and extract the .zip files there. Then restart the game. [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction1.png]Instruction 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction2.png]Instruction 2[/url]",
-		"author": "bringlebangul",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_fem.zip"
-	},
-	{
-		"name": "SoundMod Masc",
-		"description": "Size: 6MB. Go to Mod Options, click the button to open audio folder, and extract the .zip files there. Then restart the game. [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction1.png]Instruction 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction2.png]Instruction 2[/url]",
-		"author": "bringlebangul",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_masc.zip"
-	},
-	{
 		"name": "More BDSM stuff",
 		"description": "Adds more restraints and toys.\n12 leather items, 8 latex items, 9 toys and cages, 7 items with optional styles\nEverything is sold by Announcer.\n\nСhanges:\n-Several new items: \nlatex corset \nlatex blindfold\nlatex ankle and wrist cuffs \nleather muzzle ring gag \nshock cage (by Khurum)\n\n-New icons for most items (and a new preview).\n-Redesigned the latex ring gag model for every head in the main game.\n-Redesigned the latex mittens.\n-New styles for latex suit (penis and cages)\n-New model for bitchsuit (only for self petplay scenes), tell what you think about it\n\nIMPORTANT\nI added sorting/priority for NPCs when equipping restraints on player. It works simply - when you have at least 2 items from the same set, NPCs will only equip items from that set on you. BUT this affects the main files, and may cause a crash if some mod affects the same file, in short, tell me if something breaks.\n\nHave you encountered the problem with the endless dynamic sex scene? Sometimes it was my fault. The ring had to be changed. It now applies the effect in four stages. It generally slows down the sex scene, but after a few orgasms, it inflicts a debuff. Tell me if something breaks, this is first time I'm making status effects.\n\nI also got into the collar (only the main one) and added 3 styles to it. In plan to make it possible for NPCs to change it. \n\nFixes:\n-Toys will no longer change stats when turned off.\n-Fixed a clothing glitch with the rabbit mod. \n-Fix latex muzzle ring gag. \n-Fix petplay scene bugs. \n-There may have been more of them, but I have already forgotten about them.\n\nFix1:\n-Fix latex cuffs texture glitch. \n-Fix several problems with latex suit.\n-Fix missing cage texture.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreBDSMstuff.png]Click for preview[/url]",
 		"author": "DrDurka",
@@ -2281,10 +2217,74 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_legacy.zip"
 	},
 	{
+		"name": "ClothingRevamp",
+		"description": "The actions to displace clothes such as 'open shirt' can now be applied by selecting a worn item in the inventory screen. This applies to all uniforms & underwear (that you can get without cheats). Each action has new visuals to go along with it. Clothing items which share textures - like 'sporty' items - have been given their own appearance (e.g. stripes), to better distinguish them.\n\nUpdated for v0.3.0+ compatibility - base game now includes option to select a certain clothing piece in undress actions. This may be redundant with ClothingRevamp undress actions, but it will still work either way.",
+		"author": "bringlebangul",
+		"modversion": "1.5",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ClothingRevamp.zip"
+	},
+	{
+		"name": "HelpYourOwner",
+		"description": "In soft slavery, your owner can now approach you and ask/demand you help them remove restraints.\n\nFix for v0.3.0+ compatibility",
+		"author": "bringlebangul",
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HelpYourOwner.zip"
+	},
+	{
+		"name": "SoundMod",
+		"description": "This mod implements a simple audio system, using FoxLib. FoxLib MUST be placed BEFORE this mod in the mod load order. There are four audio triggers for the player character: tease, pleasure, struggle, and orgasm. There are also limited sound effects which can play during sex. Settings can be adjusted in Mod Options. Audio files not included due to file size, they are now downloaded seperately.\n\nFeatures:\n \n- Four sound effects plus a gagged variant of each! Tease, struggle, pleasure, and orgasm\n- Limited sound effects for spanking, adding restraints, cum/squirt, light plaps\n- Add your own sounds! Check Mod Options. Supports .mp3, .ogg, and .wav\n- Audio sold seperately, the file size is too big\n- Guaranteed to break at some point, seriously this mod is held together by a thread\n- This relies on using GameExtenders.gd to hook into the game\n- Therefore, it will not work properly with pre-written scenes\n\nCredits:\nOpenNSFW sound pack | JeremyColeNSFW | LewdKitzu | VelvetSheetzVA | geministarsign1\nShared under Creative Commons license -- [url=https://opennsfw.carrd.co/]https://opennsfw.carrd.co/[/url]\n\nChangelog v1.1:\n --Tested compatibility with v0.3.0+\n--New button in mod options: 'Did I do it right?'. Should hopefully help troubleshooting.\n--Adjusted some timing.\n--Known bug: sometimes background audio will play twice or not play at all. Help.\n\n(confirmed - not compatible with android. Try the legacy version.)\n\nPlanned:\nfix bugs (you can ping me if you find one)",
+		"author": "bringlebangul",
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod.zip"
+	},
+	{
+		"name": "SoundMod Effects",
+		"description": "Size: 18MB. Go to Mod Options, click the button to open audio folder, and extract the .zip files there. Then restart the game. [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction1.png]Instruction 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction2.png]Instruction 2[/url]",
+		"author": "bringlebangul",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_Effects.zip"
+	},
+	{
+		"name": "SoundMod Fem",
+		"description": "Size: 11MB. Go to Mod Options, click the button to open audio folder, and extract the .zip files there. Then restart the game. [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction1.png]Instruction 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction2.png]Instruction 2[/url]",
+		"author": "bringlebangul",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_fem.zip"
+	},
+	{
+		"name": "SoundMod Masc",
+		"description": "Size: 6MB. Go to Mod Options, click the button to open audio folder, and extract the .zip files there. Then restart the game. [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction1.png]Instruction 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction2.png]Instruction 2[/url]",
+		"author": "bringlebangul",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_masc.zip"
+	},
+	{
+		"name": "MorePoses",
+		"description": "Adds more sex poses to dynamic sex scenes, using animations from pre-written scenes. For penetrative sex: adds SexOverTable, SexHanging, RopesSex, SexStealth, SexUrinal. For oral sex: adds SexOralTable, ChairOral, RopesOralSex. Use 'switch pose' during sex. \n--Table is available as an option in the canteen, laundry room, and the spaces around the central platform.\n--Chair is the same as Table.\n--Hanging is available when the sub has bound wrists and you are near a wall.\n--Ropes is available in the fight club floor (any space)(but not slutwall).\n--Stealth is available when in public and the sub is not already totally naked.\n--Urinal is available in the two bathrooms.\n--If your player cell is upgraded to hold slaves and you bought all the 'furniture', you can use all the poses there. Because why not.\n\nChangelog v0.7:\n--compatibility fix for 0.3.0+\n\nThis edits the base game sexActivity files. This will get broken by major game updates.\n(please let me know if you find any typos)",
+		"author": "bringlebangul",
+		"modversion": "0.8",
+		"gameversion": "0.3.1",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MorePoses.zip"
+	},
+	{
+		"name": "Brutal Dreams Correctional Center",
+		"description": "Makes the game more difficult!\n  \nInmate Encounters:\nInmates you encounter have a 5% chance to attack you\nSome Inmates will chase you down to attack!\nExpanded the list of locations that they won't chase you to\n  \nSex:\nIf a Dom undresses a Sub the item is deleted\nCharacters that have their clothes removed will go to the laundry to get new ones!\n  \nHard Struggling:\nTime to complete the minigame halved\nStamina cost to play the minigame quintupled (5x!!)\nBlindfold hint disabled\nExtra time to complete the minigame when blindfolded removed\n  \nChanges 1.7.4:\nMade some of the most volatile code changes use\nthe hooks system I made for NPC Generation Settings\n\nThanks to aaron1218 for the idea!",
+		"author": "Mindstormsman",
+		"modversion": "1.7.4",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BrutalDreamsCorrectionalCenter.zip"
+	},
+	{
 		"name": "MoldyT's Bodypart Expansion",
-		"description": "Various art credits to : CaninBad, Songjo, Kitsu, and Natalie\n\nCode help : Selinoccino, Winters, and Moon_Halo\n\nDescription\nAdds a large amount of tails, wings, and a visible pussy to the game.\n\nTail: Several Canine (and fox), Feline, Shark, Mouth, and variety tails for any and all species. All tails are large and most contain multiple skins for them. \nWing: Mostly membrane wings with a few feathered ones as well. They can be selected in the WING slot\nPussy: Visible Canine pussy with even an additional pattern for it.\n\nIf they don't work ping me, I did not test it with any other mods and never will. Wings might have been changed on characters with them so might have to edit your character to fix it.\n\nIF YOU HAVE MY OLD TAIL MOD GET RID OF IT FOR THIS\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoldyBodypartExpansion.png]Click for Preview[/url]",
+		"description": "Various art credits to : CaninBad, Songjo, Kitsu, and Natalie\n\nCode help : Selinoccino, Winters, and Moon_Halo\n\nDescription\nAdds a large amount of tails, wings, and a visible pussy to the game.\n\nTail: Several Canine (and fox), Feline, Shark, Mouth, and variety tails for any and all species. All tails are large and most contain multiple skins for them. \nWing: Mostly membrane wings with a few feathered ones as well. They can be selected in the WING slot\nPussy: Visible Canine pussy with even an additional pattern for it.\n\nIf they don't work ping me, I did not test it with any other mods and never will. Added more canine tails as well as fixed a generation bug.\n\nIF YOU HAVE MY OLD TAIL MOD GET RID OF IT FOR THIS\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoldyBodypartExpansion.png]Click for Preview[/url]",
 		"author": "MoldyT",
-		"modversion": "2.0",
+		"modversion": "2.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoldyBodypartExpansion.zip"
 	}
