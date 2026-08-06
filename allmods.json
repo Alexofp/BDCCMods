@@ -2217,38 +2217,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HelpYourOwner.zip"
 	},
 	{
-		"name": "SoundMod",
-		"description": "This mod implements a simple audio system, using FoxLib. FoxLib MUST be placed BEFORE this mod in the mod load order. There are four audio triggers for the player character: tease, pleasure, struggle, and orgasm. There are also limited sound effects which can play during sex. Settings can be adjusted in Mod Options. Audio files not included due to file size, they are now downloaded seperately.\n\nFeatures:\n \n- Four sound effects plus a gagged variant of each! Tease, struggle, pleasure, and orgasm\n- Limited sound effects for spanking, adding restraints, cum/squirt, light plaps\n- Add your own sounds! Check Mod Options. Supports .mp3, .ogg, and .wav\n- Audio sold seperately, the file size is too big\n- Guaranteed to break at some point, seriously this mod is held together by a thread\n- This relies on using GameExtenders.gd to hook into the game\n- Therefore, it will not work properly with pre-written scenes\n\nCredits:\nOpenNSFW sound pack | JeremyColeNSFW | LewdKitzu | VelvetSheetzVA | geministarsign1\nShared under Creative Commons license -- [url=https://opennsfw.carrd.co/]https://opennsfw.carrd.co/[/url]\n\nChangelog v1.1:\n --Tested compatibility with v0.3.0+\n--New button in mod options: 'Did I do it right?'. Should hopefully help troubleshooting.\n--Adjusted some timing.\n--Known bug: sometimes background audio will play twice or not play at all. Help.\n\n(confirmed - not compatible with android. Try the legacy version.)\n\nPlanned:\nfix bugs (you can ping me if you find one)",
-		"author": "bringlebangul",
-		"modversion": "1.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod.zip"
-	},
-	{
-		"name": "SoundMod Effects",
-		"description": "Size: 18MB. Go to Mod Options, click the button to open audio folder, and extract the .zip files there. Then restart the game. [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction1.png]Instruction 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction2.png]Instruction 2[/url]",
-		"author": "bringlebangul",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_Effects.zip"
-	},
-	{
-		"name": "SoundMod Fem",
-		"description": "Size: 11MB. Go to Mod Options, click the button to open audio folder, and extract the .zip files there. Then restart the game. [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction1.png]Instruction 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction2.png]Instruction 2[/url]",
-		"author": "bringlebangul",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_fem.zip"
-	},
-	{
-		"name": "SoundMod Masc",
-		"description": "Size: 6MB. Go to Mod Options, click the button to open audio folder, and extract the .zip files there. Then restart the game. [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction1.png]Instruction 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction2.png]Instruction 2[/url]",
-		"author": "bringlebangul",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_masc.zip"
-	},
-	{
 		"name": "MorePoses",
 		"description": "Adds more sex poses to dynamic sex scenes, using animations from pre-written scenes. For penetrative sex: adds SexOverTable, SexHanging, RopesSex, SexStealth, SexUrinal. For oral sex: adds SexOralTable, ChairOral, RopesOralSex. Use 'switch pose' during sex. \n--Table is available as an option in the canteen, laundry room, and the spaces around the central platform.\n--Chair is the same as Table.\n--Hanging is available when the sub has bound wrists and you are near a wall.\n--Ropes is available in the fight club floor (any space)(but not slutwall).\n--Stealth is available when in public and the sub is not already totally naked.\n--Urinal is available in the two bathrooms.\n--If your player cell is upgraded to hold slaves and you bought all the 'furniture', you can use all the poses there. Because why not.\n\nChangelog v0.7:\n--compatibility fix for 0.3.0+\n\nThis edits the base game sexActivity files. This will get broken by major game updates.\n(please let me know if you find any typos)",
 		"author": "bringlebangul",
@@ -2295,6 +2263,38 @@
 		"modversion": "1.51",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ClothingRevamp.zip"
+	},
+	{
+		"name": "SoundMod",
+		"description": "This mod implements a simple audio system, using FoxLib. FoxLib MUST be placed BEFORE this mod in the mod load order. There are four audio triggers for the player character: tease, pleasure, struggle, and orgasm. There are also limited sound effects which can play during sex. Settings can be adjusted in Mod Options. Audio files not included due to file size, they are now downloaded seperately.\n\nFeatures:\n\n-- Four sound effects plus a gagged variant of each! Tease, struggle, pleasure, and orgasm\n-- Limited sound effects for spanking, adding restraints, cum/squirt, light plaps\n-- Add your own sounds! Check Mod Options. Supports .mp3, .ogg, and .wav\n-- Audio sold seperately, the file size is too big\n-- Guaranteed to break at some point, seriously this mod is held together by a thread\n-- This relies on using GameExtenders.gd to hook into the game. Therefore, it will not work properly with pre-written scenes\n\nCredits:\nOpenNSFW sound pack | JeremyColeNSFW | LewdKitzu | VelvetSheetzVA | geministarsign1\nShared under Creative Commons license -- [url=https://opennsfw.carrd.co/]https://opennsfw.carrd.co/[/url]\n\nChangelog v1.2:\n --Tested compatibility with v0.3.2\n--Many bugfixes. Sounds should play more when they are supposed to, and should not play when they aren't.\n--Update to Effects audio files - a few sounds were Ultra-HD and took up like 5 MB, so I reduced the quality to normal. Should make loading faster.\n--Known bug: rarely, the sound triggers don't get processed for a turn, idk\n\n(confirmed - not compatible with android. Try the legacy version.)\n\nPlanned:\nfix bugs (you can ping me if you find one)\nlooking into having ambient sounds as BGM",
+		"author": "bringlebangul",
+		"modversion": "1.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod.zip"
+	},
+	{
+		"name": "SoundMod Effects",
+		"description": "Size: 11MB. Go to Mod Options, click the button to open audio folder, and extract the .zip files there. Then restart the game. [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction1.png]Instruction 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction2.png]Instruction 2[/url]",
+		"author": "bringlebangul",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_Effects.zip"
+	},
+	{
+		"name": "SoundMod Fem",
+		"description": "Size: 11MB. Go to Mod Options, click the button to open audio folder, and extract the .zip files there. Then restart the game. [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction1.png]Instruction 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction2.png]Instruction 2[/url]",
+		"author": "bringlebangul",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_fem.zip"
+	},
+	{
+		"name": "SoundMod Masc",
+		"description": "Size: 6MB. Go to Mod Options, click the button to open audio folder, and extract the .zip files there. Then restart the game. [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction1.png]Instruction 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction2.png]Instruction 2[/url]",
+		"author": "bringlebangul",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_masc.zip"
 	}
 	]
 }
