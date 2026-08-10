@@ -2233,22 +2233,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BrutalDreamsCorrectionalCenter.zip"
 	},
 	{
-		"name": "MoldyT's Bodypart Expansion",
-		"description": "Various art credits to : CaninBad, Songjo, Kitsu, and Natalie\n\nCode help : Selinoccino, Winters, and Moon_Halo\n\nDescription\nAdds a large amount of tails, wings, and a visible pussy to the game.\n\nTail: Several Canine (and fox), Feline, Shark, Mouth, and variety tails for any and all species. All tails are large and most contain multiple skins for them. \nWing: Mostly membrane wings with a few feathered ones as well. They can be selected in the WING slot\nPussy: Visible Canine pussy with even an additional pattern for it.\n\nIf they don't work ping me, I did not test it with any other mods and never will. Added more canine tails as well as fixed a generation bug.\n\nIF YOU HAVE MY OLD TAIL MOD GET RID OF IT FOR THIS\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoldyBodypartExpansion.png]Click for Preview[/url]",
-		"author": "MoldyT",
-		"modversion": "2.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoldyBodypartExpansion.zip"
-	},
-	{
-		"name": "Winters Fluffy Bodyparts",
-		"description": "CREDIT: Based on assets from Max-Maxou & Suger0r\nDESCRIPTION: . Dynamic NPC Canines, Felines and Equines will now spawn with fluffy bodyparts and dragons will spawn with scaled by default. \nCOMPATABILITY: Hypertus, Bodywriting, Foxlib\nCHANGELOG: Added BuffFluffyBodyparts & ScaledBodyparts. Changed ID of softdigilegs to better match with the rest of the types\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\nWARNING: SOME SMALL ID CHANGES TO SOFTDIGILEGS WILL CAUSE MISSING LEGS. Unfortunately thats the cost of scaled and buff parts.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersFluffyBodyparts.png]Click for Preview[/url]",
-		"author": "Avery Winters",
-		"modversion": "2.3",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersFluffyBodypartsV2.3.zip"
-	},
-	{
 		"name": "FluffyFix",
 		"description": "Small, one-time* use mod to try to fix saves using the old version of Winters Fluffy Bodyparts mod (before 2.3).\n\nBy default only affects dynamic NPCs (including datapack ones I think?), but it can be configured with FoxLib to affect the player and/or characters from other mods as well.\n\n*characters from other mods (and datapacks too I think?) don't save their bodyparts and will need the mod to be kept active until they're updated",
 		"author": "Selinoccino",
@@ -2295,6 +2279,46 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_masc.zip"
+	},
+	{
+		"name": "MoldyT's Bodypart Expansion",
+		"description": "Various art credits to : CaninBad, Songjo, Kitsu, and Natalie\n\nCode help : Selinoccino, Winters, and Moon_Halo\n\nDescription\nAdds a large amount of tails, wings, and a visible pussy to the game.\n\nTail: Several Canine (and fox), Feline, Shark, Mouth, and variety tails for any and all species. All tails are large and most contain multiple skins for them. \nWing: Mostly membrane wings with a few feathered ones as well. They can be selected in the WING slot\nPussy: Visible Canine pussy with even an additional pattern for it.\n\nIf they don't work ping me, I did not test it with any other mods and never will. Added more canine tails as well as fixed a generation bug.\nChangelog: made the wings use colouring from the wings slot not the horns slot\n\nIF YOU HAVE MY OLD TAIL MOD GET RID OF IT FOR THIS\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoldyBodypartExpansion.png]Click for Preview[/url]",
+		"author": "MoldyT",
+		"modversion": "2.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoldyBodypartExpansionWinterUpdate.zip"
+	},
+	{
+		"name": "Winters Fluffy Bodyparts",
+		"description": "CREDIT: Based on assets from Max-Maxou & Suger0r\nDESCRIPTION: . Dynamic NPC Canines, Felines and Equines will now spawn with fluffy bodyparts and dragons will spawn with scaled by default. \nCOMPATABILITY: Hypertus, Bodywriting, Foxlib\nCHANGELOG: Added neck fluff body, fixed hypertus compat. removed foxlib options pending a new archetype system mod to handle applying all the new body types\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\nWARNING: SOME SMALL ID CHANGES TO SOFTDIGILEGS WILL CAUSE MISSING LEGS. Unfortunately thats the cost of scaled and buff parts.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersFluffyBodyparts.png]Click for Preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "2.4",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersFluffyBodypartsV2.4.zip"
+	},
+	{
+		"name": "ExpandedBodyparts",
+		"description": "DESCRIPTION: More bodyparts and even more muscles! (Credit to Avery Winters, Songjo, and others as more parts are added, as this mod is mostly just tweaks and merging of there diferent assets.\nAUTHOR: Astro\nNOTE: This is a test/prototype version and thus only adds one set of legs that is currently marked as being for all species.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ExpandedBodyparts.png]Click for Preview[/url]",
+		"author": "Thermal Dragon",
+		"modversion": "0.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ExpandedBodyparts.zip"
+	},
+	{
+		"name": "RAT Bodypart Archetypes",
+		"description": "CREDIT: Coded by Selinoccino\nDESCRIPTION: A system designed to assign archetypes to species allowing for alternate bodypart selections within Dynamic character generation\nCOMPATABILITY: WintersFluffyBodyparts, Hypertus, Bodywriting, Foxlib\nCHANGELOG: Mod created\nNOTE: @ me or @Selinoccino  make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\nNOTE: DESIGNED TO BE USED ALONGSIDE WINTERS FLUFFY BODYPARTS\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/RAT_BodypartArchetypes.png]Click for Preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "0.4",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RAT_BodypartArchetypesV0.4.zip"
+	},
+	{
+		"name": "Winters Rabbit Species Update",
+		"description": "CREDIT: Orignal by Fantos\nDESCRIPTION: Adds rabbit species and an update to the original by fantos. Removes the Rabbit legs as they dont scale with thickness and now uses fluffy parts if installed. Rabbits now spawn with eggy parts becuase easter bunny thats why \nCOMPATABILITY: Hypertus, Bodywriting, RAT_BodypartArchetypes, WintersFluffyBodyparts\nCHANGELOG: removed rabbit legs and added compat for fluffy parts, quick change for compat with RAT_bodypartarchetypes\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersRabbitSpecies.png]Click for Preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "1.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersRabbitSpeciesUpdate.zip"
 	}
 	]
 }
