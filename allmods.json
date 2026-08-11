@@ -2057,14 +2057,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SugerrDraconicSeaMonsv1.0.zip"
 	},
 	{
-		"name": "Piercings Mod",
-		"description": "Adds customizable piercings for player character and NPCs, sold in medical vendomat. Currently only face piercings. You can choose what specific parts of the set you want to see on your character. They're dyeable too. Over 300 models in total!\n\nCurrently supports following mods: \nAnons Skulldog Species, Anons Base Species Expansion v1.2, Eiras Trash Species v1.3, Scaile Expansion v2.1, Sergal Species v0.9., SongsVanillaParts v1.4.5, Sugerør's Character Parts v1.3.\n\nFor yet unsupported species game chooses random model upon equipping - so you could possibly try to make some of them fit.\n\nChangelog: \n• Added new piercing part to the face piercings: eyebrow piercing - changed up piercings for some species or simply added the new piece.\n• Full support for SongsVanillaParts in its latest version.\n• Fixed piercings being misaligned, when a character was wearing a ball gag or canine dildo gag.\n• Redid some models, or some pars of models' textures.\n• Re-exported all PNGs and educed file sizes.\n\n\n@ me on game's discord (mods-discussion channel) if you have any suggestions or find any bugs.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PiercingsMod.png]Click for Preview[/url]",
-		"author": "Noro",
-		"modversion": "1.4",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PiercingsMod_v1.4.zip"
-	},
-	{
 		"name": "Async Graffiti",
 		"description": "Take note: this is just a beta test version. There are still a lot of unpolished things, and the mod is pretty much unmoderated and bypassable.\n\nYou can leave graffiti on walls in every room in the game, and other players who have this mod installed can see it.\nTo make graffiti, go to the \"Me\" tab and click \"Leave graffiti\", or open \"Graffiti\" in a room. First, you will need to register your nickname. After it's registered, you can start leaving graffiti.\nThere are a few text options, such as bold, italic, changeable font and color.\nThere is a limit of 10 graffiti per hour.\n\nPlease use your Discord nickname if possible. Don't impersonate others. After registration, your nick is unchangeable. If you really want it changed, you can just ping me.\n\nDo not mess with or delete the async_graffiti_settings.json file! It is essential for the mod to work properly.\n\nI'm aware there are ways to bypass some stuff, but please be fair and don't do this.\nI'll be banning all sorts of spam, so please leave graffiti with messages that make sense. I will delete meaningless gibberish.\nIf you find any bugs, encounter any problems, or just have an idea what to add to make the mod better, feel free to ping me.\n\nCHANGELOG ver 0.2:\nAdded the ability to like and unlike other players' graffiti.\nThere is also a whole new profile system. Each player has their own profile with some basic stats like followers and likes, and you can follow other players.\nThere is also a leaderboard button that lets you see the player with the most likes, the player with the most followers, and the single graffiti with the most likes.\n\nShoutout to Mindstormsman for the idea!",
 		"author": "Doggo :3",
@@ -2319,6 +2311,14 @@
 		"modversion": "1.2",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersRabbitSpeciesUpdate.zip"
+	},
+	{
+		"name": "Piercings Mod",
+		"description": "Adds customizable piercings for player character and NPCs, sold in medical vendomat. You can buy face, nipple and penis piercings. You can customise what specific parts of the set you want to see on your character. They're dyeable too. Over 360 models in total!\n\nCurrently supports following mods: \nAlendiSpecies v1.3, Anons Skulldog Species, Anons Base Species Expansion v1.2, Eiras Trash Species v1.3, More Dragon Penis v1.0, Scaile Expansion v2.1, Sergal Species v0.9., SongsVanillaParts v1.4.5, Sugerør's Character Parts v1.3.\n\nFor yet unsupported species game chooses random model upon equipping - so you could possibly try to make some of them fit.\n\nChangelog: \n• Added nipple piercings! Three variants: barbell, ring and big ring. You can pick one at a time.\n• Added penis piercings! Only frenum ladder type of piercings for now. Compatible with base game and all of the penises in supported mods, as well for AlendiSpecies (v1.3) and More Dragon Penis (v1.0) so far. \n• Fixed a bug where piercings wouldn't show in slave's inventory listing, thus couldn't have been removed.\n• Added 'Re-randomise' button for face and penis piercigns if the bodypart of the player character is not supported yet.\n• Randomised model for piercings should now persistent through the game loads.\n\n\nAcknowledgement:\nThanks to the amazing @Selinoccino for help with making the penis and nipple piercings work correctly!\n\n\n@ me on game's discord (mods-discussion channel or Noro's mods den thread) if you have any suggestions or find any bugs\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PiercingsMod.png]Click for Preview[/url]",
+		"author": "Noro",
+		"modversion": "1.5",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PiercingsMod_v1.5.zip"
 	}
 	]
 }
