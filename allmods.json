@@ -961,14 +961,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HeelsSuit.zip"
 	},
 	{
-		"name": "Winters Canine Barbed Penis",
-		"description": "A canine variant penis with barbs ideal for a canine/feline hybrid.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersCanineBarbedPenis.png]Click for Preview[/url]",
-		"author": "Avery Winters",
-		"modversion": "1.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersCanineBarbedPenisV1.1.zip"
-	},
-	{
 		"name": "Animal Pussies",
 		"description": "This adds various animal pussies to the game, in this version there are:\n-Canine\n-Equine\n-Feline\n-Cloaca (including anus)\n-Sergal (if you have the Sergal species active)\n\n[b]IMPORTANT[/b]!: This replaces both Canine Pussy and Equine Pussy mods, remove them from your list before playing.\n\nEach pussy has different descriptions, elasticity, resistance, capacity and comfortable insertion values. There are no visible bodyparts, but this is for people who want some variety. The cloaca is difficult do with how the game works, a bodypart can only be one type of orifice, but pretend that they're combined.\n\nBy default, only the base species will spawn with their respective pussies, and will always spawn with one instead of the regular vagina. At character creation, only these species will have the respective pussy available. If you want more species to spawn with them, you must use FoxLib, but FoxLib isn't  required.\n\nHypertus compatibility:\nIf you have Hypertus active, all new hyper characters will spawn with a hyper pussy. \n\nSpecies mod compatibility:\n-If you have the Sergal species (not the Southern one), the Sergal pussy will be added to the list. It technically has a prehensile clitoris, even if nothing can be done with it (yet).\n-Laquine will spawn with the Equine pussy.\n-Nano Android will spawn with the pussy corresponding to their species if available.\n-If you have the Human Replacer Bits mod, Furless Felines will spawn with a feline pussy.\n\nFoxLib ModsOptions compabibility:\nIf you have FoxLib, you can set a few options:\n-You can choose to use any pussy with any species at character creation.\n-You can choose to have relatively equal chances for the normal vagina to spawn instead of always the animal pussies.\n-You can customize every species to have NPCs have the pussy you want (in the \"advanced\" options), it's only a checkbox instead of percentages, a species can have more than one pussy available. \n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnimalPussies.png]Click for Preview[/url]",
 		"author": "Raznaak",
@@ -1279,14 +1271,6 @@
 		"modversion": "1.2",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CharacterToDatapackExport.zip"
-	},
-	{
-		"name": "Eiras Trash Species",
-		"description": "CREDIT: Original Species by Anon and Fantos. Code by Avery Winters. New Raccoon Parts and Red Panda drawn by Moldy Tub. Project Lead kind of is Winter 'Eira (me)\nDESCRIPTION: A compilation of several species many would consider trash enjoyers includes: Bat, Possum, Rat/Mouse, Raccoons, Squirrels, and a bonus RED PANDA!\nCOMPATIBILITY: Hypertus\nNOTE: @ Me or make a thread if anything is broken\nPatch Notes: Fixed missing squirrel head when equipped with gags\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EirasTrashSpecies.png]Click for Preview[/url]",
-		"author": "Anon, Fantos, Avery Winters, Moldy Tub",
-		"modversion": "1.3",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EirasTrashSpeciesV1.3.zip"
 	},
 	{
 		"name": "Winters Human Removals",
@@ -1615,22 +1599,6 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FrivolousPopupAds.zip"
-	},
-	{
-		"name": "FoxedBDCC",
-		"description": "Add more feature to BDCC using FoxLib (Note: Don't forget to download FoxLib to use this mod)\n\nFor now it only add one end game skills in the fertility tab\n\nThis mod is the reason why I made FoxLib, and felt bad uploading FoxLib without a mod that uses it too",
-		"author": "Fox2Code",
-		"modversion": "0.1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxedBDCC_v0.1.0.zip"
-	},
-	{
-		"name": "FoxLib",
-		"description": "][/color]\nGame version: 0.1.7+ (Recommended: 0.1.12fix4)\nFilename: FoxLib_v0.10.4.zip\n[center][color=#00FFFF][b][shake rate=5 level=7][[[[/shake] Modding enhancer for BDCC [shake rate=5 level=7]]]][/shake][/b][/color] [/center]\n[center][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][/center]\n[center][color=#FF8000][u]/!\\[/u] Don't forget to delete old versions of the mod when updating [u]/!\\[/u][/color] [/center]\n\nAdd cool [rainbow freq=0.1 sat=1 val=1]features[/rainbow] for users:\n- A mod configuration menu\n- A custom theme engine\n- Dynamic mod hotfixes\n- GameTest engine to test the integrity of the loaded mod list\n\nBut mainly add many features and abilities for BDCC mods such as:\n- Adding custom CrotchBlock for datapacks\n- Adding new perks level tiers\n- Controlling more game UI elements\n- Saving NPC Skills/Perk data\n- Handling fatal errors via GUI\n- Configuring mods via in game Menu\n- Registering custom entries to the ModularDialogue system\n- Preventing your mod from being loaded twice\n- Add custom player status bars\n- Playing custom mod Audio\n\nFoxLib also additionally expose more capabilities to datapacks too, please check the in-game editor to see the new blocks FoxLib adds! [wave amp=10 freq=4]:D[/wave]\n\nFoxLib will also use code generation instead of replacing game code for maximum compatibility with your existing mods, you can see in the file list that FoxLib doesn't replace any game files!\n\n[color=#00FFFF]F[/color]ox[color=#00FFFF]L[/color]ib [color=#00FFFF]M[/color]od[color=#00FFFF]H[/color]elper (Aka. [color=#00FFFF]FLMH[/color].py) is a build tool for developers to ease development of FoxLib mods. It provide warnings to improve your mods code and is the current tool used to package FoxLib!\n\nFor more info on how to use FoxLib API or FoxLib ModHelper, please check the bundled or [color=#2222FF][url=https://git.frisk.space/Fox2Code/FoxLib/src/branch/master/Docs]online[/url][/color] documentation!\nFoxLib source code is hosted at: [color=#2222FF][url=https://git.frisk.space/Fox2Code/FoxLib]https://git.frisk.space/Fox2Code/FoxLib[/url][/color]\n(Or you can read FoxLib source-code by extracting it)\n[center][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][/center]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FoxLib.png]Click for preview[/url]",
-		"author": "Fox2Code",
-		"modversion": "0.10.4[color=",
-		"gameversion": "0.1.12",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxLib_v0.10.4.zip"
 	},
 	{
 		"name": "PrisonArtsMod",
@@ -2009,14 +1977,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SkulldogSpecies.zip"
 	},
 	{
-		"name": "VoreMod",
-		"description": "Adds a Vore skill tree that allows you to swallow NPCs whole. Swallowed NPCs are digested over time, providing buffs for each digested NPC. (New mod version, several serious bugs have been fixed. Also in this update, I've added a new item, new perks, and new types of vore.)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/VoreMod.png]Click for Preview[/url]",
-		"author": "bebrenkov_01",
-		"modversion": "1.2",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/VoreMod.zip"
-	},
-	{
 		"name": "Bunny Suit Mod",
 		"description": "Creators: Stinkyfentman (coding) and @WSA (Da bird & Shark) (art)\nadds a bunny suit and a questline for it (to obtain it for free)\n\nFuture plans:\nadd a bunny suit club somewhere",
 		"author": "stinkyfentman&WSA",
@@ -2281,44 +2241,100 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoldyBodypartExpansionWinterUpdate.zip"
 	},
 	{
-		"name": "Winters Fluffy Bodyparts",
-		"description": "CREDIT: Based on assets from Max-Maxou & Suger0r\nDESCRIPTION: . Dynamic NPC Canines, Felines and Equines will now spawn with fluffy bodyparts and dragons will spawn with scaled by default. \nCOMPATABILITY: Hypertus, Bodywriting, Foxlib\nCHANGELOG: Added neck fluff body, fixed hypertus compat. removed foxlib options pending a new archetype system mod to handle applying all the new body types\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\nWARNING: SOME SMALL ID CHANGES TO SOFTDIGILEGS WILL CAUSE MISSING LEGS. Unfortunately thats the cost of scaled and buff parts.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersFluffyBodyparts.png]Click for Preview[/url]",
-		"author": "Avery Winters",
-		"modversion": "2.4",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersFluffyBodypartsV2.4.zip"
-	},
-	{
-		"name": "ExpandedBodyparts",
-		"description": "DESCRIPTION: More bodyparts and even more muscles! (Credit to Avery Winters, Songjo, and others as more parts are added, as this mod is mostly just tweaks and merging of there diferent assets.\nAUTHOR: Astro\nNOTE: This is a test/prototype version and thus only adds one set of legs that is currently marked as being for all species.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ExpandedBodyparts.png]Click for Preview[/url]",
-		"author": "Thermal Dragon",
-		"modversion": "0.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ExpandedBodyparts.zip"
-	},
-	{
-		"name": "RAT Bodypart Archetypes",
-		"description": "CREDIT: Coded by Selinoccino\nDESCRIPTION: A system designed to assign archetypes to species allowing for alternate bodypart selections within Dynamic character generation\nCOMPATABILITY: WintersFluffyBodyparts, Hypertus, Bodywriting, Foxlib\nCHANGELOG: Mod created\nNOTE: @ me or @Selinoccino  make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\nNOTE: DESIGNED TO BE USED ALONGSIDE WINTERS FLUFFY BODYPARTS\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/RAT_BodypartArchetypes.png]Click for Preview[/url]",
-		"author": "Avery Winters",
-		"modversion": "0.4",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RAT_BodypartArchetypesV0.4.zip"
-	},
-	{
-		"name": "Winters Rabbit Species Update",
-		"description": "CREDIT: Orignal by Fantos\nDESCRIPTION: Adds rabbit species and an update to the original by fantos. Removes the Rabbit legs as they dont scale with thickness and now uses fluffy parts if installed. Rabbits now spawn with eggy parts becuase easter bunny thats why \nCOMPATABILITY: Hypertus, Bodywriting, RAT_BodypartArchetypes, WintersFluffyBodyparts\nCHANGELOG: removed rabbit legs and added compat for fluffy parts, quick change for compat with RAT_bodypartarchetypes\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersRabbitSpecies.png]Click for Preview[/url]",
-		"author": "Avery Winters",
-		"modversion": "1.2",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersRabbitSpeciesUpdate.zip"
-	},
-	{
 		"name": "Piercings Mod",
 		"description": "Adds customizable piercings for player character and NPCs, sold in medical vendomat. You can buy face, nipple and penis piercings. You can customise what specific parts of the set you want to see on your character. They're dyeable too. Over 360 models in total!\n\nCurrently supports following mods: \nAlendiSpecies v1.3, Anons Skulldog Species, Anons Base Species Expansion v1.2, Eiras Trash Species v1.3, More Dragon Penis v1.0, Scaile Expansion v2.1, Sergal Species v0.9., SongsVanillaParts v1.4.5, Sugerør's Character Parts v1.3.\n\nFor yet unsupported species game chooses random model upon equipping - so you could possibly try to make some of them fit.\n\nChangelog: \n• Added nipple piercings! Three variants: barbell, ring and big ring. You can pick one at a time.\n• Added penis piercings! Only frenum ladder type of piercings for now. Compatible with base game and all of the penises in supported mods, as well for AlendiSpecies (v1.3) and More Dragon Penis (v1.0) so far. \n• Fixed a bug where piercings wouldn't show in slave's inventory listing, thus couldn't have been removed.\n• Added 'Re-randomise' button for face and penis piercigns if the bodypart of the player character is not supported yet.\n• Randomised model for piercings should now persistent through the game loads.\n\n\nAcknowledgement:\nThanks to the amazing @Selinoccino for help with making the penis and nipple piercings work correctly!\n\n\n@ me on game's discord (mods-discussion channel or Noro's mods den thread) if you have any suggestions or find any bugs\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PiercingsMod.png]Click for Preview[/url]",
 		"author": "Noro",
 		"modversion": "1.5",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PiercingsMod_v1.5.zip"
+	},
+	{
+		"name": "VoreMod",
+		"description": "Adds a Vore skill tree that allows you to swallow NPCs whole. Swallowed NPCs are digested over time, providing buffs for each digested NPC. (I've finally finished the new version of the mod. I'm sorry it took a long time before I released it. but I hope you gona like it. I added the resizing system as I wanted, and now you can shrink the npc and carry it in your pocket, use it as a dildo or butt/vaginal plug. But of course the size system is very limited so as not to cause critical bugs in the game. however, there are probably a lot of bugs in mod that I and my teammate couldn't notice, so if you find a bug, I'll be glad if you let me know about it.)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/VoreMod.png]Click for Preview[/url]",
+		"author": "bebrenkov_01",
+		"modversion": "1.3",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/VoreMod.zip"
+	},
+	{
+		"name": "RAT Bodypart Archetypes",
+		"description": "CREDIT: Coded by Selinoccino\nDESCRIPTION: A system designed to assign archetypes to species allowing for alternate bodypart selections within Dynamic character generation. Replaces the mod options for my other species mods\nCOMPATABILITY: Foxlib\nCHANGELOG: Removed archetypes to be built into mods directly\nNOTE: @ me or @Selinoccino  make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\nNOTE: DOES NOTHING ON ITS OWN, PROVIDES THE FRAMEWORK FOR OTHER MODS TO ADD ARCHETYPES TO DYNAMIC NPC GEN\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/RAT_BodypartArchetypes.png]Click for Preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RAT_BodypartArchetypesV1.0.zip"
+	},
+	{
+		"name": "Winters Hell Beasts Species",
+		"description": "CREDIT: Coded by Selinoccino\nDESCRIPTION: A fork of Anons Hellhound demon replacer that adds archetypes for Hell Kitties & Hellponies if you also have RAT_BodypartArchetypes\nCOMPATABILITY: WintersFluffyBodyparts, RAT_BodypartArchetypes\nCHANGELOG: Mod Created\nNOTE: @ me or @Selinoccino  make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\nNOTE: Adds archetypes handled by RAT_BodypartArchetypes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersHellBeastsSpecies.png]Click for Preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersHellBeastsSpeciesV1.0.zip"
+	},
+	{
+		"name": "Winters Fluffy Bodyparts",
+		"description": "CREDIT: Based on assets from Max-Maxou & Suger0r\nDESCRIPTION: . Dynamic NPC Canines, Felines and Equines will now spawn with fluffy bodyparts and dragons will spawn with scaled by default. \nCOMPATABILITY: Hypertus, Bodywriting, RAT_BodypartArchetypes\nCHANGELOG: Added archetypes\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\nNOTE: Adds archetypes handled by RAT_BodypartArchetypes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersFluffyBodyparts.png]Click for Preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "2.5",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersFluffyBodypartsV2.5.zip"
+	},
+	{
+		"name": "Eiras Trash Species",
+		"description": "CREDIT: Original Species by Anon and Fantos. Code by Avery Winters. New Raccoon Parts and Red Panda drawn by Moldy Tub. Project Lead kind of is Winter 'Eira (me)\nDESCRIPTION: A compilation of several species many would consider trash enjoyers includes: Bat, Possum, Rat/Mouse, Raccoons, Squirrels, and a bonus RED PANDA!\nCOMPATIBILITY: WintersFluffyBodyparts, AnonsSheathedHumanPenis, Hypertus, RAT_BodypartArchetypes\nCHANGELOG: Added archetypes\nNOTE: @ Avery Winters for issues or feedback. There is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\nNOTE: Adds archetypes handled by RAT_BodypartArchetypes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EirasTrashSpecies.png]Click for Preview[/url]",
+		"author": "Anon, Fantos, Avery Winters, Moldy Tub",
+		"modversion": "1.4",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EirasTrashSpeciesV1.4.zip"
+	},
+	{
+		"name": "Winters Canine Barbed Penis",
+		"description": "CREDIT: Avery Winters\nDESCRIPTION: A canine variant penis with barbs ideal for a canine/feline hybrid.\nCOMPATIBILITY: Hypertus, BallsExtra\nCHANGELOG: Removed the vein\nNOTE: @ Avery Winters for issues or feedback. There is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersCanineBarbedPenis.png]Click for Preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "1.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersCanineBarbedPenisV1.2.zip"
+	},
+	{
+		"name": "Winters Rabbit Species Update",
+		"description": "CREDIT: Orignal by Fantos\nDESCRIPTION: . Add rabbit species and an update to the original by fantos. Removes the Rabbit legs as they dont scale with thickness and now uses fluffy parts if installed. Rabbits now spawn with eggy parts becuase easter bunny thats why \nCOMPATABILITY: Hypertus, Bodywriting, RAT_BodypartArchetypes, WintersFluffyBodyparts\nCHANGELOG: Moved archetypes locally in this mod\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\nNOTE: Adds archetypes handled by RAT_BodypartArchetypes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersRabbitSpecies.png]Click for Preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "1.3",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersRabbitSpeciesUpdateV1.3.zip"
+	},
+	{
+		"name": "FoxedBDCC",
+		"description": "Add more feature to BDCC using FoxLib (Note: Don't forget to download FoxLib to use this mod)\n\nFor now it only add one end game skills in the fertility tab\n\nThis mod is the reason why I made FoxLib, and felt bad uploading FoxLib without a mod that uses it too",
+		"author": "Fox2Code",
+		"modversion": "0.1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxedBDCC_v0.1.0.zip"
+	},
+	{
+		"name": "FoxLib",
+		"description": "][/color]\nGame version: 0.1.7+ (Recommended: 0.3.2)\nFilename: FoxLib_v0.10.5.zip\n[center][color=#00FFFF][b][shake rate=5 level=7][[[[/shake] Modding enhancer for BDCC [shake rate=5 level=7]]]][/shake][/b][/color] [/center]\n[center][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][/center]\n[center][color=#FF8000][u]/!\\[/u] Don't forget to delete old versions of the mod when updating [u]/!\\[/u][/color] [/center]\n\nAdd cool [rainbow freq=0.1 sat=1 val=1]features[/rainbow] for users:\n- A mod configuration menu\n- A custom theme engine\n- Dynamic mod hotfixes\n- GameTest engine to test the integrity of the loaded mod list\n\nBut mainly add many features and abilities for BDCC mods such as:\n- Adding custom CrotchBlock for datapacks\n- Adding new perk level tiers\n- Controlling more game UI elements\n- Saving NPC Skills/Perk data\n- Handling fatal errors via GUI\n- Configuring mods via in game Menu\n- Registering custom entries to the ModularDialogue system\n- Preventing your mod from being loaded twice\n- Add custom player status bars\n- Playing custom mod Audio\n\nFoxLib also additionally exposes more capabilities to datapacks too, please check the in-game editor to see the new blocks FoxLib adds! [wave amp=10 freq=4]:D[/wave]\n\nFoxLib will also use code generation instead of replacing game code for maximum compatibility with your existing mods. You can see in the file list that FoxLib doesn't replace any game files!\n\n[color=#00FFFF]F[/color]ox[color=#00FFFF]L[/color]ib [color=#00FFFF]M[/color]od[color=#00FFFF]H[/color]elper (Aka. [color=#00FFFF]FLMH[/color].py) is a build tool for developers to ease development of FoxLib mods. It provides warnings to improve all mods code and is the current tool used to package FoxLib and other mods made by Fox2Code!\n\nFor more info on how to use FoxLib API or FoxLib ModHelper, please check the bundled or [color=#2222FF][url=https://git.frisk.space/Fox2Code/FoxLib/src/branch/master/Docs]online[/url][/color] documentation!\nFoxLib source code is hosted at: [color=#2222FF][url=https://git.frisk.space/Fox2Code/FoxLib]https://git.frisk.space/Fox2Code/FoxLib[/url][/color]\n(Or you can read FoxLib source-code by extracting it)\n[center][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][/center]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FoxLib.png]Click for preview[/url]",
+		"author": "Fox2Code",
+		"modversion": "0.10.5[color=",
+		"gameversion": "0.3.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxLib_v0.10.5.zip"
+	},
+	{
+		"name": "PowerBottom",
+		"description": "Allows you to use sub poses while domming. You still have control over what happens. NPCs shouldn't be able to use these, as it feels janky if they do.\n\nNotes:\nMy first mod, mostly hacked together from existing game code in two afternoons. It probably has issues, but I didn't notice any in my limited testing. Please report any you find to me. Also unlikely to be compatible with any mods that affect the sex engine. They will either not interact or break completely. I haven't done any compatibility testing.",
+		"author": "hare brained goofball",
+		"modversion": "1.0",
+		"gameversion": "0.3.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PowerBottom_1.0.zip"
+	},
+	{
+		"name": "ExpandedBodyparts",
+		"description": "DESCRIPTION: More bodyparts and even more muscles! (Credit to Avery Winters, Songjo, and others as more parts are added, as this mod is mostly just tweaks and merging of their different assets.\nNOTE: This is a test/prototype version, and thus all added parts are currently marked as being for all species.\nCHANGELOG:\nV0.2.1 - Hotfix for issues with subfolders.\nV0.2 - Major file reorganizing (from scratch) and added 13 new fit arms.\nV0.1 - Initial prototype release.\nV0.0 - Development soup.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ExpandedBodyparts.png]Click for Preview[/url]",
+		"author": "Thermal Dragon",
+		"modversion": "0.2.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ExpandedBodyparts.zip"
 	}
 	]
 }
