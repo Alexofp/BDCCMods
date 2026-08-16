@@ -4360,27 +4360,6 @@
 			"preview": "datapack_previews/PackCHARACTERScreations.png"
 		},
 		{
-			"id": "pup_scenes",
-			"name": "Pup Scenes",
-			"author": "Icmado",
-			"version": "0.4.5",
-			"description": "More things to do around the prison, while in concussion's Puppy Restraints.\n\nDabauchery added:\n- Avoidable culinary fraud and unsanitary dietary practises\n- Less than minimum wage labour\n- Warm \"water\"\n\nCW:\n- Petplay and humiliaton (duh)\n- Watersports (optional)\n- Dub-con (avoidable)\n\nCurrently overrides: (Puppy restraints required)\n- Eating in canteen\n- Showering on main floor\n\nAdds: (Puppy restraints recommended, mittens will work as well)\n- Working in the mines\n- Sleeping in the mines or medical if it's late\n\nNow with EXP!\n0.4.5:\nInteracting with Inmates gives you pup rep!\nFixed overrides overriding showers and canteen while free from restaints.\n",
-			"contains": "Contains: 4 scenes",
-			"download": "datapacks/pup_scenes.res",
-			"lastedit": 1781588581,
-			"filesize": 128098,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-				"PuppyRestraintsMod.zip",
-				"FoxLib"
-			]
-		},
-		{
 			"id": "SCP1471A",
 			"name": "malo",
 			"author": "kingsparrow",
@@ -4663,6 +4642,28 @@
 				"MoldyBodypartExpansionWinterUpdate.zip"
 			],
 			"preview": "datapack_previews/AstrosWIPCharacterPack.png"
+		},
+		{
+			"id": "pup_scenes",
+			"name": "Pup Scenes",
+			"author": "Icmado",
+			"version": "0.7_beta",
+			"description": "More things to do around the prison, while in concussion's Puppy Restraints.\n\nDabauchery added:\n- Avoidable culinary fraud and unsanitary dietary practises\n- Less than minimum wage labour\n- Warm \"water\"\n- Being a public nuisance\n\nCW:\n- Petplay and humiliaton (duh)\n- Watersports (optional)\n- Dub-con (avoidable)\n\nBitchsuit not required:\n- Working in the mines, with hands unavailable\n- A working treadmill in the gym area!\n\nIf you are wearing one you won't be able to normally:\n- Eat at the canteen\n- Shower\n- Access certain areas\n- Use most of the gym equipment (brand new Bullies encounter).\n\nBrand new stuff:\n- A treadmill (usable both with and without puppy restraints)\n- The ability to wash off the body markings (finally)\n- Placeholder text (everybody loves those)\n- An actual reason to be wearing the bitchsuit all day! (Talk with Risha)\n- A mostly working intergration with DrDurka's MoreBDSMStuff Bitchsuit! \n\nNotes:\n- This is a beta build, some things are unfinished.\n- You can try to play with only one of the restraint mods required (Foxlib IS mandatory), game may not implode (not implosion not guaranteed).",
+			"contains": "Contains: 8 scenes, 1 quest",
+			"download": "datapacks/pup_scenes.res",
+			"lastedit": 1786858866,
+			"filesize": 568178,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"PuppyRestraintsMod.zip",
+				"FoxLib",
+				"MoreBDSMstuff.zip"
+			]
 		}
 	]
 }
