@@ -769,14 +769,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AutoLubeMod.zip"
 	},
 	{
-		"name": "Nano Revolution",
-		"description": "CONTENT WARNING: This mod has some force transformation content. This will warn you when it is about to happen.\nSo this mod is inspired by one of the in-game scenes, where you check the unfinished nano android program, and Sentinel-X, the prototype trying to transform you into the nano android. Unfortunately, this program was stopped by Captain, and Sentinel-X lost its power before full transformation.\nNow, let's imagine what if Alex persuaded Captain to continue that program. Introducing Nano Revolution Mod, this mod realizes the nano android program.\n\nCurrent Features:\n-A new semi-playable specie, nano android. Usually, these androids are perfect guards, following every command and easy to manage. \n(You cannot choose this race in the start of the game, but maybe something terrible (or exciting for some people) could happen when entering a certain room in the engineering bay.)\n-A new dynamic npc type, the nano android. Will frisk you and force tougher punishment if you keep refusing their request. Be careful\n-A semi completed new skill tree that is closely related to confronting these nano guards.\n\nFuture plan (rank by priority):\nFully developed nano engineering skill tree. You can make something really powerful with this skill.\nMore nano android type. nano engineers, nurses, and even android sextoys, enrich the BDCC life.\nMature nano species side path. A new skill tree that is closely related to how to use your new body.\nSince Alex is in charge of this program, more story line and interaction with Alex when you accidentally turn into nano android.\n\nHave fun with these nano androids~ If you have any suggestions, bug reports, typo reports, and even story suggestions, feel free to send me these messages. They will be very helpful for my future development. XD\n\nvHi! Sorry for such a long time after the last update. I've finally got some time to continue this work. \n\nv0.5.0 Update - Nano Interaction Continued:\n-Fully make use of the new interaction system. Two new pawn types!  Nano sex doll and guard. They will randomly spawn in BDCC, interact with other inmates and NPCs. Specifically Sex doll will offer sex, and the nano guard will frisk the inmate once per day.\n\n-New skill tree unlocked! Once you activate your nano transformation, you'll gain access to some truly fascinating abilities—including the power to convert others into nano-androids. But be warned: this process will fully erase target identity. The choice is yours.\n\n-Humoi can now offer you some hints to help you progress your nano journey! “Talk” with her and check her “Suggestion”.\n\n-Add a small perk to Nano Engineering Skill\n\n-Temporarily remove some old scenes, will add back in the future.\n\nFuture plan (rank by priority):\n-Since Alex is in charge of this program, more story line and interaction with Alex when you accidentally turn into nano android. \n\n-Fully matured nano skill trees. You can make something really powerful with these skills.\n\n-Even More nano android types. nano engineers, nurses, and servers fully under your command , enrich the BDCC life. \n\n-Mature nano species side path. Extend a new skill tree that is closely related to how to use your new body.\n\nSome Extra Stuff:\nYea, finally figuring out how to work with Rahi’s excellent interaction system. To be honest, this system has really high potential. So, I want to use this update to show how we can use this new system to create a more dynamic BDCC environment. \n\nBug Report, Suggestion? Always welcome!\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NanoRevolutionPoster.png]Click for preview[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NanoRevolutionPoster2.png]Preview 2[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NanoRevolutionPoster3.png]Preview 3[/url]",
-		"author": "Humoiww",
-		"modversion": "0.5.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NanoRevolutionMod_v0.5.0.zip"
-	},
-	{
 		"name": "Suzanne",
 		"description": "im feeling depressed so have this monkey cosmetic, colorable with baked in shadow\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SuzanneHeadCosmetic.png]Click for Preview[/url]",
 		"author": "CanInBad",
@@ -1287,14 +1279,6 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/LazyBulldogReplacer.zip"
-	},
-	{
-		"name": "Alendi Species",
-		"description": "A kind of strange alien cat from the outskirts of known space. Sabretooth, four ears, no breasts, and total fluffiness. As it turns out, inhabitants of other worlds who don't know the local rules also end up in jail here... \n- Built-in alendi penis supports Balls Extra (I hope), Hypertus support is WIP.\n- Works better with the 'WintersFluffyBodyparts' (floof bodyparts) and 'AnonsBaseSpeciesExpansion' (for sabretooth heads) mods.\n- Adds penis with barbs trait and special ears as its own parts..\n- Tests are needed due to my unusual development methods (this is my first mod)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AlendiSpecies.png]Click for Preview[/url]",
-		"author": "Ellie Nibbles",
-		"modversion": "1.3",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AlendiSpecies.zip"
 	},
 	{
 		"name": "More Uniforms",
@@ -2335,6 +2319,22 @@
 		"modversion": "0.9.8",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsMHSpecies_0.9.8.zip"
+	},
+	{
+		"name": "Nano Revolution",
+		"description": "Hi again! Sorry it's been so long since the last update :NotLikeThis:. I've finally got some time to work on the mod again, and this update brings it back up to date with the base game.\n\nThis update is also pretty much a rework of the mod's overall structure:\n\nCustom Alex route KILLED\nOld transformation route KILLED\n\nIn their place, I've added several new systems and started moving the mod in a more independent direction.\n\nCheck out the update log below for all the new stuff!\n\nv0.6.0 Update - Nano Revolution Reborn:\n-The previous quests have been replaced with a clearer and simpler introductory questline.\n\n-Digging deeper into Nano Androids (extract/eat core) can now expose you to contamination.(With very cool UI change) \n\n-Once your contamination reaches a certain level (i.e. 100%), a new transformation scene may be triggered.\n\n-All Alex-related content has been removed, and the previous transformation system is now fully gone.\n\nSome Extra Stuff:\n\nHonestly, I held back on this mod for quite a while because Alex is Rahi's character, and I didn't want to take things too far or make something that felt disrespectful.:rahinotlikethis:  Once I decided to rebuild the mod around its own systems instead, things became much easier.\n\nAlso, this mod is now one of the relatively few mods that directly mess around with the Interaction System , custom Pawns and UI Change . In other words:\n\nThere will probably be bugs. A lot of bugs.\n\nEspecially compatibility issues with other mods. :NotLikeThis:\n\nSo if you find anything broken, weird, or just have some ideas or suggestions, please let me know!\n\nBug reports and suggestions are always welcome!\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NanoRevolutionMod.png]Click for preview[/url]",
+		"author": "Humoiww",
+		"modversion": "0.6.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NanoRevolutionMod_v0.6.0.zip"
+	},
+	{
+		"name": "Alendi Species",
+		"description": "Updated by Avery Winters. A kind of strange alien cat from the outskirts of known space. Sabretooth, four ears, no breasts, and total fluffiness. As it turns out, inhabitants of other worlds who don't know the local rules also end up in jail here... \nChangelog: Added missing hypertus files for species, fixed penis skins for hypertus, fixed compat with WintersFluffyBodyparts, added compat for RAT_BodypartArchetypes.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AlendiSpecies.png]Click for Preview[/url]",
+		"author": "Ellie Nibbles",
+		"modversion": "1.4",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AlendiSpecies(WintersUpdate).zip"
 	}
 	]
 }
