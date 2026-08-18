@@ -4537,31 +4537,6 @@
 			"preview": "datapack_previews/LeetosCharacterPack.png"
 		},
 		{
-			"id": "YellowF",
-			"name": "Yellow the female protogen",
-			"author": "Yellowprotogen",
-			"version": "Current version available",
-			"description": "This has Yellow the protogen. ill let her be an encounter for now, but that may change(note:try not to fight her, as i made her ridiculously strong and durable, the real only way is to ramp up her lust. or be a nice person and befriend her the non-sexual route.)\nCombat Hint: She really likes bondage.\nHER TALKING IN ENCOUNTERS IS NOT CANON. SHE CANNOT SPEAK BY ANY MEANS(She can moan tho~ also purr too.)",
-			"contains": "Contains: 1 character, 3 scenes",
-			"download": "datapacks/YellowF.res",
-			"lastedit": 1786078633,
-			"filesize": 1042112,
-			"requiredDatapacks": [
-
-			],
-			"reqDatapackToName": {
-
-			},
-			"requiredMods": [
-				"FoxLib",
-				"AnonsProtogenSpeciesV1.2.zip",
-				"RaceBonusModPlus.zip",
-				"MoreBDSMstuff.zip",
-				"NoPretendSex.zip"
-			],
-			"preview": "datapack_previews/YellowF.png"
-		},
-		{
 			"id": "starhordersdatapack",
 			"name": "StarHorders Character Pack",
 			"author": "StarHorder",
@@ -4663,6 +4638,37 @@
 				"EirasTrashSpeciesV1.3.zip"
 			],
 			"preview": "datapack_previews/789211.png"
+		},
+		{
+			"id": "YellowF",
+			"name": "Yellow the female protogen",
+			"author": "Yellowprotogen",
+			"version": "V0.0.3",
+			"description": "This is Yellow the protogen. She can be found through finding something near your cell, and then looking around the stocks platform.\nAll required mods are FoxLib, AnonsProtogenSpeciesV1.2 or newer versions, MoreBDSMstuff, MorePoses(maybe not but havent tested), MoreUniformsVer7 or superior, and NoPretendSex(so it doesnt look weird)\nAll other mods are mostly likely or ARE purely for quality of life.\nEncounters have been disabled for her, as they can affect the static version still.(will change in the future by creating a dynamic clone.)",
+			"contains": "Contains: 1 character, 5 scenes",
+			"download": "datapacks/YellowF.res",
+			"lastedit": 1787030402,
+			"filesize": 1233199,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"FoxLib",
+				"AnonsProtogenSpeciesV1.2.zip",
+				"RaceBonusModPlus.zip",
+				"MoreBDSMstuff.zip",
+				"NoPretendSex.zip",
+				"MorePoses.zip",
+				"MoreUniformsVer7.zip",
+				"NudityPoliceVer1.3.13.zip",
+				"HangingRopesRestraint.zip",
+				"PowerBottom_1.0.zip",
+				"SnootGearVer1.1.4.zip"
+			],
+			"preview": "datapack_previews/YellowF.png"
 		}
 	]
 }
