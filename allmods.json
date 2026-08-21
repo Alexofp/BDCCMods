@@ -2321,14 +2321,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AlendiSpecies(WintersUpdate).zip"
 	},
 	{
-		"name": "ScaleTweak",
-		"description": "Tool to tweak/adjust existing animations in the game. Can save and load edits to ScaleTweakSave.json in Mods folder. Access through the debug menu. Requires a lot of patience.\n\nFeatures:\n-- Adds a panel in the debug menu allowing you to scale and offset characters, as well as editing the rotation of joints.\n-- Save pose modifications to ScaleTweakSave.json, located in the Mods folder.\n-- Load pose modifications from the .json\n-- Works best for small changes, or on scenes where the character doesn't move very much. It's a tweak.\n-- If a button is locked, it's because you need to set other options first.\n-- If the panel doesn't show up in the debug menu, do one move/turn on the map to trigger a UI update.\n-- Might apply pose edits from the .json to normal gameplay, but this is still experimental and probably won't work.\n-- If it does work and you don't want it to, rename or delete ScaleTweakSave.json.\n\nCan I make new animations???!?!?!!\nNo. The ScaleTweakSave file only contains the difference from the base pose. The animation applies over top of the pose and cannot be changed.\n\nHeight difference mod?!??!!?!?!\nNo. This is a tool which is necessary in order to make such a mod without having to use Blender.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ScaleTweak.png]Click for Preview[/url]",
-		"author": "bringlebangul",
-		"modversion": "0.1.4",
-		"gameversion": "0.3.2",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ScaleTweak.zip"
-	},
-	{
 		"name": "ExpandedBodyparts",
 		"description": "DESCRIPTION: More bodyparts and even more muscles! (Credit to Avery Winters, Songjo, Firaxalos, Anon, and others as more parts are added, as this mod is mostly just tweaks and merging of their different assets.\nNOTE: This is a test/prototype version, and thus all added parts are currently marked as being for all species unless otherwise mentioned.\nCHANGELOG:\nV0.3 - Added a bunch of buff bodies and more (including some Protogen only bodies)!\nV0.2.1 - Hotfix for issues with subfolders.\nV0.2 - Major file reorganizing (from scratch) and added 13 new fit arms.\nV0.1 - Initial prototype release.\nV0.0 - Development soup.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ExpandedBodyparts.png]Click for Preview[/url]",
 		"author": "Thermal Dragon",
@@ -2343,6 +2335,14 @@
 		"modversion": "0.4.0",
 		"gameversion": "0.3.*,0.3.2,0.3.1,0.3.0,0.2.5,0.2.4,0.1.12,0.1.11,0.1.10",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/JunkieRehabilitation.zip"
+	},
+	{
+		"name": "ScaleTweak",
+		"description": "Tool to tweak/adjust existing animations in the game. Can save and load edits to ScaleTweakSave.json in Mods folder. Access through the debug menu. Requires a lot of patience.\n\nFeatures:\n-- Adds a panel in the debug menu allowing you to scale and offset characters, as well as editing the rotation of joints.\n-- Save pose modifications to ScaleTweakSave.json, located in the Mods folder.\n-- Load pose modifications from the .json\n-- Works best for small changes, or on scenes where the character doesn't move very much. It's a tweak.\n-- If a button is locked, it's because you need to set other options first.\n-- If the panel doesn't show up in the debug menu, do one move/turn on the map to trigger a UI update.\n-- Might apply pose edits from the .json to normal gameplay, but this is still experimental and probably won't work.\n-- If it does work and you don't want it to, rename or delete ScaleTweakSave.json.\n\nChangelog v0.1.5:\nFixed many bugs, including one which messed up the .json. \nNow you can paste the settings you just saved onto another state of the same animation, makes things less tedious\n\nCan I make new animations???!?!?!!\nNo. The ScaleTweakSave file only contains the difference from the base pose. The animation applies over top of the pose and cannot be changed.\n\nHeight difference mod?!??!!?!?!\nNo. This is a tool which is necessary in order to make such a mod without having to use Blender.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ScaleTweak.png]Click for Preview[/url]",
+		"author": "bringlebangul",
+		"modversion": "0.1.5",
+		"gameversion": "0.3.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ScaleTweak.zip"
 	}
 	]
 }
