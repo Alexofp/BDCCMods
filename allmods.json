@@ -1993,14 +1993,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsVanillaParts_v1.4.5fix1.zip"
 	},
 	{
-		"name": "Sugerør's Draconic Sea Mons Species",
-		"description": "Adds Lugia and Dragonite into the game\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrDraconicSeaMons.png]Click for Preview[/url]",
-		"author": "Sugerør",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SugerrDraconicSeaMonsv1.0.zip"
-	},
-	{
 		"name": "Async Graffiti",
 		"description": "Take note: this is just a beta test version. There are still a lot of unpolished things, and the mod is pretty much unmoderated and bypassable.\n\nYou can leave graffiti on walls in every room in the game, and other players who have this mod installed can see it.\nTo make graffiti, go to the \"Me\" tab and click \"Leave graffiti\", or open \"Graffiti\" in a room. First, you will need to register your nickname. After it's registered, you can start leaving graffiti.\nThere are a few text options, such as bold, italic, changeable font and color.\nThere is a limit of 10 graffiti per hour.\n\nPlease use your Discord nickname if possible. Don't impersonate others. After registration, your nick is unchangeable. If you really want it changed, you can just ping me.\n\nDo not mess with or delete the async_graffiti_settings.json file! It is essential for the mod to work properly.\n\nI'm aware there are ways to bypass some stuff, but please be fair and don't do this.\nI'll be banning all sorts of spam, so please leave graffiti with messages that make sense. I will delete meaningless gibberish.\nIf you find any bugs, encounter any problems, or just have an idea what to add to make the mod better, feel free to ping me.\n\nCHANGELOG ver 0.2:\nAdded the ability to like and unlike other players' graffiti.\nThere is also a whole new profile system. Each player has their own profile with some basic stats like followers and likes, and you can follow other players.\nThere is also a leaderboard button that lets you see the player with the most likes, the player with the most followers, and the single graffiti with the most likes.\n\nShoutout to Mindstormsman for the idea!",
 		"author": "Doggo :3",
@@ -2105,14 +2097,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BiggerGangbangs.zip"
 	},
 	{
-		"name": "SneakUpTease",
-		"description": "Adds an alternate interaction upon meeting a guard, engineer or a nurse in an off-limits cell. In this diverging outcome, the trespassing inmate is not immediately detected, and is presented with an opportunity to sneak up on staff. Occasionally, while exploring the space prison, you may also find yourself on the receiving end of this encounter.\n\n[color=#E1FFCC]<update highlights>[/color]\nv0.4.0\n- Caught pawns can now attempt a role reversal! These include multiple scenarios for both successful and failed outcomes: 4 short ones, 4 medium and 1 minigame. It took me a month to put together, but even if you manage to experience everything within a few minutes, I hope it'll liven up the sandbox character interactions at least a little bit!\n- Descriptions of enticement received much more flavor, they're almost like strawberry now..\n- Impatient begging now results in full submission.\n\nv0.3.5\n- Pawns now have things to say to each other while fucking~\n- Ability to apply lube at the start.\n[color=#E1FFCC]</>[/color]\n\n- Wearing loud restraints increases the detection rate. On the other paw, wearing staff uniform may trick pawns that have low perception.\n\n- Explicit interactions require successfully enticing the creature into submission. Failing that, available options are limited to playful teasing (which is valid).\n\n- You may edit the files to sidestep consent play, it's fiction and I'm not here to police it. Do note that it's a core mechanic and an intended way to experience the mod.\n\n- There are some branching paths as well as modular dialogues, with the hope to keep each encounter a little more distinct and tailored to some of the character attributes.\n\nCompatibility\n`/Game/InteractionSystem/Interactions/CaughtOffLimits.gd` is overridden to allow a detour into the alternate interaction, and to include two methods to compute its chances. Any other file is a new addition and shouldn't cause conflicts as long as the filenames are unique.\n\n[color=#CCE4FF]source code[/color] – [url=https://git.frisk.space/keerifox/BDCC-SneakUpTease]git.frisk.space[/url] [color=#B9B9B9]or[/color] [url=https://github.com/keerifox/BDCC-SneakUpTease]github[/url]\n[color=#FFCCEA]personal website[/color] – [url=https://keeri.place]keeri.place[/url] [color=#FFCCEA]<3[/color]",
-		"author": "keerifox",
-		"modversion": "0.4.0",
-		"gameversion": "0.3.*,0.3.2,0.3.1,0.3.0",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SneakUpTease.zip"
-	},
-	{
 		"name": "PatternableClothing",
 		"description": "Allows items to have more than one color channel. Does nothing on its own.\n\nOriginally part of MoldyBodypartExpansion.\n\n(didn't do any testing but it should still work, (badly-written) usage instructions in the scripts themselves)",
 		"author": "Selinoccino",
@@ -2169,38 +2153,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ClothingRevamp.zip"
 	},
 	{
-		"name": "SoundMod",
-		"description": "This mod implements a simple audio system, using FoxLib. FoxLib MUST be placed BEFORE this mod in the mod load order. There are four audio triggers for the player character: tease, pleasure, struggle, and orgasm. There are also limited sound effects which can play during sex. Settings can be adjusted in Mod Options. Audio files not included due to file size, they are now downloaded seperately.\n\nFeatures:\n\n-- Four sound effects plus a gagged variant of each! Tease, struggle, pleasure, and orgasm\n-- Limited sound effects for spanking, adding restraints, cum/squirt, light plaps\n-- Add your own sounds! Check Mod Options. Supports .mp3, .ogg, and .wav\n-- Audio sold seperately, the file size is too big\n-- Guaranteed to break at some point, seriously this mod is held together by a thread\n-- This relies on using GameExtenders.gd to hook into the game. Therefore, it will not work properly with pre-written scenes\n\nCredits:\nOpenNSFW sound pack | JeremyColeNSFW | LewdKitzu | VelvetSheetzVA | geministarsign1\nShared under Creative Commons license -- [url=https://opennsfw.carrd.co/]https://opennsfw.carrd.co/[/url]\n\nChangelog v1.2:\n --Tested compatibility with v0.3.2\n--Many bugfixes. Sounds should play more when they are supposed to, and should not play when they aren't.\n--Update to Effects audio files - a few sounds were Ultra-HD and took up like 5 MB, so I reduced the quality to normal. Should make loading faster.\n--Known bug: rarely, the sound triggers don't get processed for a turn, idk\n\n(confirmed - not compatible with android. Try the legacy version.)\n\nPlanned:\nfix bugs (you can ping me if you find one)\nlooking into having ambient sounds as BGM",
-		"author": "bringlebangul",
-		"modversion": "1.2",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod.zip"
-	},
-	{
-		"name": "SoundMod Effects",
-		"description": "Size: 11MB. Go to Mod Options, click the button to open audio folder, and extract the .zip files there. Then restart the game. [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction1.png]Instruction 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction2.png]Instruction 2[/url]",
-		"author": "bringlebangul",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_Effects.zip"
-	},
-	{
-		"name": "SoundMod Fem",
-		"description": "Size: 11MB. Go to Mod Options, click the button to open audio folder, and extract the .zip files there. Then restart the game. [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction1.png]Instruction 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction2.png]Instruction 2[/url]",
-		"author": "bringlebangul",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_fem.zip"
-	},
-	{
-		"name": "SoundMod Masc",
-		"description": "Size: 6MB. Go to Mod Options, click the button to open audio folder, and extract the .zip files there. Then restart the game. [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction1.png]Instruction 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction2.png]Instruction 2[/url]",
-		"author": "bringlebangul",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_masc.zip"
-	},
-	{
 		"name": "MoldyT's Bodypart Expansion",
 		"description": "Various art credits to : CaninBad, Songjo, Kitsu, and Natalie\n\nCode help : Selinoccino, Winters, and Moon_Halo\n\nDescription\nAdds a large amount of tails, wings, and a visible pussy to the game.\n\nTail: Several Canine (and fox), Feline, Shark, Mouth, and variety tails for any and all species. All tails are large and most contain multiple skins for them. \nWing: Mostly membrane wings with a few feathered ones as well. They can be selected in the WING slot\nPussy: Visible Canine pussy with even an additional pattern for it.\n\nIf they don't work ping me, I did not test it with any other mods and never will. Added more canine tails as well as fixed a generation bug.\nChangelog: made the wings use colouring from the wings slot not the horns slot\n\nIF YOU HAVE MY OLD TAIL MOD GET RID OF IT FOR THIS\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoldyBodypartExpansion.png]Click for Preview[/url]",
 		"author": "MoldyT",
@@ -2215,14 +2167,6 @@
 		"modversion": "1.5",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PiercingsMod_v1.5.zip"
-	},
-	{
-		"name": "VoreMod",
-		"description": "Adds a Vore skill tree that allows you to swallow NPCs whole. Swallowed NPCs are digested over time, providing buffs for each digested NPC. (I've finally finished the new version of the mod. I'm sorry it took a long time before I released it. but I hope you gona like it. I added the resizing system as I wanted, and now you can shrink the npc and carry it in your pocket, use it as a dildo or butt/vaginal plug. But of course the size system is very limited so as not to cause critical bugs in the game. however, there are probably a lot of bugs in mod that I and my teammate couldn't notice, so if you find a bug, I'll be glad if you let me know about it.)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/VoreMod.png]Click for Preview[/url]",
-		"author": "bebrenkov_01",
-		"modversion": "1.3",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/VoreMod.zip"
 	},
 	{
 		"name": "RAT Bodypart Archetypes",
@@ -2281,22 +2225,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PowerBottom_1.0.zip"
 	},
 	{
-		"name": "FoxedBDCC",
-		"description": "Add more feature to BDCC using FoxLib (Note: Don't forget to download FoxLib to use this mod)\n\nFor now it only add one end game skills in the fertility tab\n\nThis mod is the reason why I made FoxLib, and felt bad uploading FoxLib without a mod that uses it too",
-		"author": "Fox2Code",
-		"modversion": "0.1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxedBDCC_v0.1.0.zip"
-	},
-	{
-		"name": "FoxLib",
-		"description": "][/color]\nGame version: 0.1.7+ (Recommended: 0.3.2)\nFilename: FoxLib_v0.10.6.zip\n[center][color=#00FFFF][b][shake rate=5 level=7][[[[/shake] Modding enhancer for BDCC [shake rate=5 level=7]]]][/shake][/b][/color] [/center]\n[center][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][/center]\n[center][color=#FF8000][u]/!\\[/u] Don't forget to delete old versions of the mod when updating [u]/!\\[/u][/color] [/center]\n\nAdd cool [rainbow freq=0.1 sat=1 val=1]features[/rainbow] for users:\n- A mod configuration menu\n- A custom theme engine\n- Dynamic mod hotfixes\n- GameTest engine to test the integrity of the loaded mod list\n\nBut mainly add many features and abilities for BDCC mods such as:\n- Adding custom CrotchBlock for datapacks\n- Adding new perk level tiers\n- Controlling more game UI elements\n- Saving NPC Skills/Perk data\n- Handling fatal errors via GUI\n- Configuring mods via in game Menu\n- Registering custom entries to the ModularDialogue system\n- Preventing your mod from being loaded twice\n- Add custom player status bars\n- Playing custom mod Audio\n\nFoxLib also additionally exposes more capabilities to datapacks too, please check the in-game editor to see the new blocks FoxLib adds! [wave amp=10 freq=4]:D[/wave]\n\nFoxLib will also use code generation instead of replacing game code for maximum compatibility with your existing mods. You can see in the file list that FoxLib doesn't replace any game files!\n\n[color=#00FFFF]F[/color]ox[color=#00FFFF]L[/color]ib [color=#00FFFF]M[/color]od[color=#00FFFF]H[/color]elper (Aka. [color=#00FFFF]FLMH[/color].py) is a build tool for developers to ease development of FoxLib mods. It provides warnings to improve all mods code and is the current tool used to package FoxLib and other mods made by Fox2Code!\n\nFor more info on how to use FoxLib API or FoxLib ModHelper, please check the bundled or [color=#2222FF][url=https://git.frisk.space/Fox2Code/FoxLib/src/branch/master/Docs]online[/url][/color] documentation!\nFoxLib source code is hosted at: [color=#2222FF][url=https://git.frisk.space/Fox2Code/FoxLib]https://git.frisk.space/Fox2Code/FoxLib[/url][/color]\n(Or you can read FoxLib source-code by extracting it)\n[center][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][/center]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FoxLib.png]Click for preview[/url]",
-		"author": "Fox2Code",
-		"modversion": "0.10.6[color=",
-		"gameversion": "0.3.2",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxLib_v0.10.6.zip"
-	},
-	{
 		"name": "Songs MH Species",
 		"description": "※ Description \n- Adds 6 Monster Hunter series species:\n- Tobi-kadachi, Odogaron, Rathalos(Rathian), Mizutsune, Kulve taroth, Nergigante\n- All species has slitted version of their penis (+slit cage)\n- big credits to Firaxalos\n- compatible with Hypertus and Balls Extra\n\n+ Feel free to share your thoughts about the mod\n\n※ Update(0.9.8)\n- Added Nergigante species (credits to Firaxalos)\n- Added slitted penis to all species\n- Added Balls Extra compatibility\n- minor fixes and corrections\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsMHSpecies.png]Click for Preview[/url]",
 		"author": "SongJo",
@@ -2337,20 +2265,12 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ScaleTweak.zip"
 	},
 	{
-		"name": "JunkieRehabilitation",
-		"description": "Adds a new drug which allows to rehabilitate defeated Drug Den junkies into cellblock inmates, in case you wish to meet them again.\n\nThe pill can sometimes be found as loot. Alternatively, you can purchase it for 100 credits from the Med Lobby's vendomat.\n\n[color=#E1FFCC]<update highlights>[/color]\nv0.4.0\n- Some of the rescued inmates might have names you've not seen before! These were handpicked by me, so there should be many charming names and nicknames. At the same time, I cannot be trusted naming creatures~\n- The pills now have side effects which may cause slight changes to personality or fetish interests. While adverse on the first two floors, they somehow tend to turn quite beneficial once one progresses just a little further into the den..\n- Added quick access to consumable items when approaching encounters. It's not that I'm trying to compete with the rescued critters for the amount of delivered comfort..\n[color=#E1FFCC]</>[/color]\n\nCompatibility\n`/Modules/DrugDenModule/DrugDen/DrugDenEncounterTemplateScene.gd` is overridden to allow all of this to happen.\n\n`DrugDenEncounterBossScene.gd`, `DrugDenEncounterFirstScene.gd`, `DrugDenEncounterInstantFightScene.gd`, `DrugDenEventWhoreScene.gd` and `DrugDenEventWhoreSubScene.gd` are overridden to modify path to the class they inherit. No other lines were changed besides line 44 in the boss scene.\n\n[color=#CCE4FF]source code[/color] – [url=https://git.frisk.space/keerifox/BDCC-JunkieRehabilitation]git.frisk.space[/url] [color=#B9B9B9]or[/color] [url=https://github.com/keerifox/BDCC-JunkieRehabilitation]github[/url]\n[color=#FFCCEA]personal website[/color] – [url=https://keeri.place]keeri.place[/url] [color=#FFCCEA]<3[/color]",
-		"author": "keerifox",
-		"modversion": "0.4.1",
-		"gameversion": "0.3.*,0.3.2,0.3.1,0.3.0,0.2.5,0.2.4,0.1.12,0.1.11,0.1.10",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/JunkieRehabilitation.zip"
-	},
-	{
-	"name": "Insertion Bulges",
-	"description": "[b]Bodies stretch around what is inside them[/b]\nInstead of an oversized shaft drawing straight through the body it is in, the body swells around it and the inserted stretch is hidden.\n\n[b]Please read first:[/b]\n-- This is a very early release. It may not work at all on your setup, and it may look wrong in scenes I have not reached yet.\n-- It has only been tested against the [b]vanilla game[/b]. It may not work alongside other mods, and it replaces some of the game's own files, so anything else that touches bodyparts, skins or the doll is likely to conflict.\n-- Tell me what breaks and I will look at it.\n\n[b]Mod Features:[/b]\n-- Works on anal, vaginal and throat\n-- Any cock in the game, and all eight rigged strapons\n-- Detection is purely geometric, so hand written scenes and modded parts are covered with nothing scripted per scene\n-- Depth follows the animation on its own, so the bulge moves with the thrust\n-- Size is measured from the shaft's own artwork: a knot or an equine flare reads as it goes in\n-- A big shaft in a tight hole reacts harder, using the game's own free room measure\n-- Two bulges per character, so double penetration and spitroasts both work\n\n[b]Requires:[/b]\n-- Advanced skin shaders enabled in Options, Display. Without them the mod does nothing.\n\n[b]Known limits:[/b]\n-- Clothing does not bulge, rigged clothes do not use the skin shader\n-- Dildos, fuck machines and tentacles are not covered yet\n\n[i]Ping me for bugs and feedback[/i]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/InsertionBulges.png]Click for Preview[/url]",
-	"author": "xrob1",
-	"modversion": "1.0",
-	"gameversion": "0.3.2",
-	"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/InsertionBulges_v1.0.zip"
+		"name": "Insertion Bulges",
+		"description": "[b]Bodies stretch around what is inside them[/b]\nInstead of an oversized shaft drawing straight through the body it is in, the body swells around it and the inserted stretch is hidden.\n\n[b]Please read first:[/b]\n-- This is a very early release. It may not work at all on your setup, and it may look wrong in scenes I have not reached yet.\n-- It has only been tested against the [b]vanilla game[/b]. It may not work alongside other mods, and it replaces some of the game's own files, so anything else that touches bodyparts, skins or the doll is likely to conflict.\n-- Tell me what breaks and I will look at it.\n\n[b]Mod Features:[/b]\n-- Works on anal, vaginal and throat\n-- Any cock in the game, and all eight rigged strapons\n-- Detection is purely geometric, so hand written scenes and modded parts are covered with nothing scripted per scene\n-- Depth follows the animation on its own, so the bulge moves with the thrust\n-- Size is measured from the shaft's own artwork: a knot or an equine flare reads as it goes in\n-- A big shaft in a tight hole reacts harder, using the game's own free room measure\n-- Two bulges per character, so double penetration and spitroasts both work\n\n[b]Requires:[/b]\n-- Advanced skin shaders enabled in Options, Display. Without them the mod does nothing.\n\n[b]Known limits:[/b]\n-- Clothing does not bulge, rigged clothes do not use the skin shader\n-- Dildos, fuck machines and tentacles are not covered yet\n\n[i]Ping me for bugs and feedback[/i]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/InsertionBulges.png]Click for Preview[/url]",
+		"author": "xrob1",
+		"modversion": "1.0",
+		"gameversion": "0.3.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/InsertionBulges_v1.0.zip"
 	},
 	{
 		"name": "ClippingBarrier",
@@ -2361,6 +2281,118 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ClippingBarrier.zip"
 	},
 	{
+		"name": "FoxedBDCC",
+		"description": "Add more feature to BDCC using FoxLib (Note: Don't forget to download FoxLib to use this mod)\n\nFor now it only add one end game skills in the fertility tab\n\nThis mod is the reason why I made FoxLib, and felt bad uploading FoxLib without a mod that uses it too",
+		"author": "Fox2Code",
+		"modversion": "0.1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxedBDCC_v0.1.0.zip"
+	},
+	{
+		"name": "FoxLib",
+		"description": "][/color]\nGame version: 0.1.7+ (Recommended: 0.3.2)\nFilename: FoxLib_v0.10.7.zip\n[center][color=#00FFFF][b][shake rate=5 level=7][[[[/shake] Modding enhancer for BDCC [shake rate=5 level=7]]]][/shake][/b][/color] [/center]\n[center][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][/center]\n[center][color=#FF8000][u]/!\\[/u] Don't forget to delete old versions of the mod when updating [u]/!\\[/u][/color] [/center]\n\nAdd cool [rainbow freq=0.1 sat=1 val=1]features[/rainbow] for users:\n- A mod configuration menu\n- A custom theme engine\n- Dynamic mod hotfixes\n- GameTest engine to test the integrity of the loaded mod list\n\nBut mainly add many features and abilities for BDCC mods such as:\n- Adding custom CrotchBlock for datapacks\n- Adding new perk level tiers\n- Controlling more game UI elements\n- Saving NPC Skills/Perk data\n- Handling fatal errors via GUI\n- Configuring mods via in game Menu\n- Registering custom entries to the ModularDialogue system\n- Preventing your mod from being loaded twice\n- Add custom player status bars\n- Playing custom mod Audio\n\nFoxLib also additionally exposes more capabilities to datapacks too, please check the in-game editor to see the new blocks FoxLib adds! [wave amp=10 freq=4]:D[/wave]\n\nFoxLib will also use code generation instead of replacing game code for maximum compatibility with your existing mods. You can see in the file list that FoxLib doesn't replace any game files!\n\n[color=#00FFFF]F[/color]ox[color=#00FFFF]L[/color]ib [color=#00FFFF]M[/color]od[color=#00FFFF]H[/color]elper (Aka. [color=#00FFFF]FLMH[/color].py) is a build tool for developers to ease development of FoxLib mods. It provides warnings to improve all mods code and is the current tool used to package FoxLib and other mods made by Fox2Code!\n\nFor more info on how to use FoxLib API or FoxLib ModHelper, please check the bundled or [color=#2222FF][url=https://git.frisk.space/Fox2Code/FoxLib/src/branch/master/Docs]online[/url][/color] documentation!\nFoxLib source code is hosted at: [color=#2222FF][url=https://git.frisk.space/Fox2Code/FoxLib]https://git.frisk.space/Fox2Code/FoxLib[/url][/color]\n(Or you can read FoxLib source-code by extracting it)\n[center][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][/center]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FoxLib.png]Click for preview[/url]",
+		"author": "Fox2Code",
+		"modversion": "0.10.7[color=",
+		"gameversion": "0.3.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxLib_v0.10.7.zip"
+	},
+	{
+		"name": "SoundMod",
+		"description": "This mod implements a simple audio system, using FoxLib. There are four audio triggers for the player character: tease, pleasure, struggle, and orgasm. There are also limited sound effects which can play during sex. There's an experimental setting for adding BGM. Settings can be adjusted in Mod Options. Audio files not included due to file size, they are now downloaded seperately.\n\nFeatures:\n \n-- Four sound effects plus a gagged variant of each! Tease, struggle, pleasure, and orgasm\n-- Limited sound effects for spanking, adding restraints, cum/squirt, light plaps\n-- Add your own sounds! Drop them in the proper audio folder and they'll get loaded! Check the README!\n-- Audio sold seperately, the file size is too big\n-- Guaranteed to break at some point, seriously this mod is held together by a thread\n-- This relies on using GameExtenders.gd to hook into the game. Therefore, it will not work properly with pre-written scenes\n\nCredits:\nOpenNSFW sound pack | JeremyColeNSFW | LewdKitzu | VelvetSheetzVA | geministarsign1\nShared under Creative Commons license -- [url=https://opennsfw.carrd.co/]https://opennsfw.carrd.co/[/url]\n\nChangelog v1.3:\n --it works with new foxlib yay!\n--CHANGED FOLDER NAMES. If you got v1.2 working, you'll need to rename the audio folders you unzipped so they start with \"SoundMod_\"\n--You can also just download the audio files from the mod browser and unzip them in the mods folder - SoundMod now checks both locations\n--Experimental BGM feature. Make sure you assign BGM in the mod options menu. Bring your own music.\n--Known bug: rarely, the sound triggers don't get processed for a turn, idk\n\n(confirmed - not compatible with android. Try the SoundMod legacy version.)",
+		"author": "bringlebangul",
+		"modversion": "1.3",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod.zip"
+	},
+	{
+		"name": "SoundMod Effects",
+		"description": "Size: 11MB. Go to Mod Options, click the button to open audio folder, and extract the .zip files there. Then restart the game. [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction1.png]Instruction 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction2.png]Instruction 2[/url]",
+		"author": "bringlebangul",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_Effects.zip"
+	},
+	{
+		"name": "SoundMod Fem",
+		"description": "Size: 11MB. Go to Mod Options, click the button to open audio folder, and extract the .zip files there. Then restart the game. [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction1.png]Instruction 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction2.png]Instruction 2[/url]",
+		"author": "bringlebangul",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_pack_fem-1.zip"
+	},
+	{
+		"name": "SoundMod Masc",
+		"description": "Size: 6MB. Go to Mod Options, click the button to open audio folder, and extract the .zip files there. Then restart the game. [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction1.png]Instruction 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction2.png]Instruction 2[/url]",
+		"author": "bringlebangul",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_pack_masc-1.zip"
+	},
+	{
+		"name": "SoundMod BGM",
+		"description": "Size: 500KB. Go to Mod Options, click the button to open audio folder, and extract the .zip files there. Then restart the game. [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction1.png]Instruction 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction2.png]Instruction 2[/url]",
+		"author": "bringlebangul",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_BGM.zip"
+	},
+	{
+		"name": "VoreMod",
+		"description": "Adds a Vore skill tree that allows you to swallow NPCs whole. Swallowed NPCs are digested over time, providing buffs for each digested NPC. (I've read the complaints and fixed some issues with the mod. if one of the problems you mentioned is not fixed, write about it, I tried to fix everything, but there is a chance that something may still work strangely or badly. New perks have been introduced to solve several problems.)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/VoreMod.png]Click for Preview[/url]",
+		"author": "bebrenkov_01",
+		"modversion": "1.3.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/VoreMod.zip"
+	},
+	{
+		"name": "Sugerør's Draconic Sea Mons Species",
+		"description": "Adds Lugia and Dragonite into the game\nNew: Fixed an issue with the dragonite tail clipping oddly in some poses.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrDraconicSeaMons.png]Click for Preview[/url]",
+		"author": "Sugerør",
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SugerrDraconicSeaMonsv1.1.zip"
+	},
+	{
+		"name": "OrbitalStrike",
+		"description": "Adds a dumb joke attack.",
+		"author": "bringlebangul",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/OrbitalStrike.zip"
+	},
+	{
+		"name": "Gangbang Initiator",
+		"description": "I've always felt the gangbang mechanic in this game is underutilized so I've cooked up little module.\n\nAdds a \"Gangbang Initiator\" perk to the Sex Slave skill tree (unlocks at skill level 10). Once learned, talking to an NPC gives you the option to ask them to join a group you're putting together. Recruit up to 6 people this way, then trigger the scene with any of them to start it.\n\nThe actual encounter cycles through DP, spitroast, and full gangbang positions with the group (simillar to Artica), refreshing who's involved as it goes. Everyone in the group (including the pc) rotates through giving and receiving.\n\n(This is my first mod ;; plz tell me if something's not right. Note for other modders: this mod overrides Talking.gd wholesale to add its options, so it will conflict with any other mod that also modifies that file :vvvvv)\n\nAdria\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GangbangInitiator.png]Click for Preview[/url]",
+		"author": "Adria",
+		"modversion": "1.0.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GangbangInitiator.zip"
+	},
+	{
+		"name": "Fashion of the Emerald Serpent",
+		"description": "I have been given the gracious liberty to work with @JokeMysterious and his new project, The Emerald Serpent.\n\nMore specifically, the outfits and a bit writing (turns out, we have similar writing styles.).\n\nBut I've been give the green light to show off early the outfits I've made!\n\nIncluded is:\nSerpent Piercings - Nipple piercings with a banner\nSerpent Loincloth - A loincloth that covers the penis \nOrnate Serpent Collar - A collar worn by all the snakes in the Harem\nControlled Ornate Serpent Collar - A special Serpent Collar with restraining properties\n!More will be added!\n\nEverything bar the Controlled collar is sold by the Announcer (or available for free via the debug menu)\n(MADE IN POWERLOOM)",
+		"author": "JokeMysterious/WolfStarArt",
+		"modversion": "1.0",
+		"gameversion": "0.3.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/serpentfashion.zip"
+	},
+	{
+		"name": "SneakUpTease",
+		"description": "Adds an alternate interaction upon meeting a guard, engineer or a nurse in an off-limits cell. In this diverging outcome, the trespassing inmate is not immediately detected, and is presented with an opportunity to sneak up on staff. Occasionally, while exploring the space prison, you may also find yourself on the receiving end of this encounter.\n\n[color=#E1FFCC]<update highlights>[/color]\nv0.4.0\n- Caught pawns can now attempt a role reversal! These include multiple scenarios for both successful and failed outcomes: 4 short ones, 4 medium and 1 minigame. It took me a month to put together, but even if you manage to experience everything within a few minutes, I hope it'll liven up the sandbox character interactions at least a little bit!\n- Descriptions of enticement received much more flavor, they're almost like strawberry now..\n- Impatient begging now results in full submission.\n\nv0.3.5\n- Pawns now have things to say to each other while fucking~\n- Ability to apply lube at the start.\n[color=#E1FFCC]</>[/color]\n\n- Wearing loud restraints increases the detection rate. On the other paw, wearing staff uniform may trick pawns that have low perception.\n\n- Explicit interactions require successfully enticing the creature into submission. Failing that, available options are limited to playful teasing (which is valid).\n\n- You may edit the files to sidestep consent play, it's fiction and I'm not here to police it. Do note that it's a core mechanic and an intended way to experience the mod.\n\n- There are some branching paths as well as modular dialogues, with the hope to keep each encounter a little more distinct and tailored to some of the character attributes.\n\nCompatibility\n`/Game/InteractionSystem/Interactions/CaughtOffLimits.gd` is overridden to allow a detour into the alternate interaction, and to include two methods to compute its chances. Any other file is a new addition and shouldn't cause conflicts as long as the filenames are unique.\n\n[color=#CCE4FF]source code[/color] – [url=https://git.frisk.space/keerifox/BDCC-SneakUpTease]git.frisk.space[/url] [color=#B9B9B9]or[/color] [url=https://github.com/keerifox/BDCC-SneakUpTease]github[/url]\n[color=#FFCCEA]personal website[/color] – [url=https://keeri.place]keeri.place[/url] [color=#FFCCEA]<3[/color]",
+		"author": "keerifox",
+		"modversion": "0.4.1",
+		"gameversion": "0.3.*,0.3.2,0.3.1,0.3.0",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SneakUpTease.zip"
+	},
+	{
+		"name": "JunkieRehabilitation",
+		"description": "Adds a new drug which allows to rehabilitate defeated Drug Den junkies into cellblock inmates, in case you wish to meet them again.\n\nThe pill can sometimes be found as loot. Alternatively, you can purchase it for 100 credits from the Med Lobby's vendomat.\n\n[color=#E1FFCC]<update highlights>[/color]\nv0.4.0\n- Some of the rescued inmates might have names you've not seen before! These were handpicked by me, so there should be many charming names and nicknames. At the same time, I cannot be trusted naming creatures~\n- The pills now have side effects which may cause slight changes to personality or fetish interests. While adverse on the first two floors, they somehow tend to turn quite beneficial once one progresses just a little further into the den..\n- Added quick access to consumable items when approaching encounters. It's not that I'm trying to compete with the rescued critters for the amount of delivered comfort..\n[color=#E1FFCC]</>[/color]\n\nCompatibility\n`/Modules/DrugDenModule/DrugDen/DrugDenEncounterTemplateScene.gd` is overridden to allow all of this to happen.\n\n`DrugDenEncounterBossScene.gd`, `DrugDenEncounterFirstScene.gd`, `DrugDenEncounterInstantFightScene.gd`, `DrugDenEventWhoreScene.gd` and `DrugDenEventWhoreSubScene.gd` are overridden to modify path to the class they inherit. No other lines were changed besides line 44 in the boss scene.\n\n[color=#CCE4FF]source code[/color] – [url=https://git.frisk.space/keerifox/BDCC-JunkieRehabilitation]git.frisk.space[/url] [color=#B9B9B9]or[/color] [url=https://github.com/keerifox/BDCC-JunkieRehabilitation]github[/url]\n[color=#FFCCEA]personal website[/color] – [url=https://keeri.place]keeri.place[/url] [color=#FFCCEA]<3[/color]",
+		"author": "keerifox",
+		"modversion": "0.4.2",
+		"gameversion": "0.3.*,0.3.2,0.3.1,0.3.0,0.2.5,0.2.4,0.1.12,0.1.11,0.1.10",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/JunkieRehabilitation.zip"
+	},
+  {
 	"name": "Oral Knotting",
 	"description": "[b]Knots now catch in throats, not just holes[/b]\nAdds a knotting state to every oral activity: a dom with a knot can pop it in the sub's throat as they cum, a sub can knot the dom's throat during a blowjob, and in 69 both of them can end up locked in each other at once.\n\n[b]While knotted:[/b]\n-- Nobody can pull away, switch focus or stop the scene. \"Pull out\" has a chance to fail each turn, and failing stretches that throat a little more.\n-- A throat too small for the knot chokes on it, losing consciousness turn after turn.\n-- The dolls actually seat together, so the cock is fully inside the mouth instead of hanging halfway out (the base game has no such pose for these scenes).\n\n[b]Works in:[/b]\n-- Normal, forced, stocks, puppy and 69 oral scenes\n-- On the player from either side\n\n[b]Optional FoxLib support:[/b]\n-- Two 0-100 sliders under mod options: how often the AI goes for the knot, and how likely the knot is to catch\n-- Without FoxLib the mod runs on its defaults (67 / 70)\n\n[b]Note:[/b]\n-- Replaces SexOral.gd, DomOralSexOnSub.gd and SixtyNine.gd, so it collides with other mods that overwrite those\n\n[i]For bug reports or feedback contact me at: xrob8370@gmail.com[/i]",
 	"author": "xrob1",
