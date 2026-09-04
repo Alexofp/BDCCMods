@@ -2359,6 +2359,14 @@
 		"modversion": "1.0.1",
 		"gameversion": "0.3.2",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ClippingBarrier.zip"
+	},
+	{
+	"name": "Oral Knotting",
+	"description": "[b]Knots now catch in throats, not just holes[/b]\nAdds a knotting state to every oral activity: a dom with a knot can pop it in the sub's throat as they cum, a sub can knot the dom's throat during a blowjob, and in 69 both of them can end up locked in each other at once.\n\n[b]While knotted:[/b]\n-- Nobody can pull away, switch focus or stop the scene. \"Pull out\" has a chance to fail each turn, and failing stretches that throat a little more.\n-- A throat too small for the knot chokes on it, losing consciousness turn after turn.\n-- The dolls actually seat together, so the cock is fully inside the mouth instead of hanging halfway out (the base game has no such pose for these scenes).\n\n[b]Works in:[/b]\n-- Normal, forced, stocks, puppy and 69 oral scenes\n-- On the player from either side\n\n[b]Optional FoxLib support:[/b]\n-- Two 0-100 sliders under mod options: how often the AI goes for the knot, and how likely the knot is to catch\n-- Without FoxLib the mod runs on its defaults (67 / 70)\n\n[b]Note:[/b]\n-- Replaces SexOral.gd, DomOralSexOnSub.gd and SixtyNine.gd, so it collides with other mods that overwrite those\n\n[i]For bug reports or feedback contact me at: xrob8370@gmail.com[/i]",
+	"author": "xrob1",
+	"modversion": "1.0",
+	"gameversion": "0.3.2",
+	"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/OralKnotting_v1.0.zip"
 	}
 	]
 }
