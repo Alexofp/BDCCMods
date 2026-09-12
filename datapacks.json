@@ -4669,6 +4669,27 @@
 			"requiredMods": [
 
 			]
+		},
+		{
+			"id": "cutieskin",
+			"name": "Cutie Leotard Skin",
+			"author": "cvss9n",
+			"version": "1.0",
+			"description": "No description provided",
+			"contains": "Contains: 1 skin",
+			"download": "datapacks/cutieskin.res",
+			"lastedit": 1789189835,
+			"filesize": 254077,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/cutieskin.png"
 		}
 	]
 }
