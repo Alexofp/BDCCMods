@@ -2217,14 +2217,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PowerBottom_1.0.zip"
 	},
 	{
-		"name": "Songs MH Species",
-		"description": "※ Description \n- Adds 6 Monster Hunter series species:\n- Tobi-kadachi, Odogaron, Rathalos(Rathian), Mizutsune, Kulve taroth, Nergigante\n- All species has slitted version of their penis (+slit cage)\n- big credits to Firaxalos\n- compatible with Hypertus and Balls Extra\n\n+ Feel free to share your thoughts about the mod\n\n※ Update(0.9.8)\n- Added Nergigante species (credits to Firaxalos)\n- Added slitted penis to all species\n- Added Balls Extra compatibility\n- minor fixes and corrections\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsMHSpecies.png]Click for Preview[/url]",
-		"author": "SongJo",
-		"modversion": "0.9.8",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsMHSpecies_0.9.8.zip"
-	},
-	{
 		"name": "Nano Revolution",
 		"description": "Hi again! Sorry it's been so long since the last update :NotLikeThis:. I've finally got some time to work on the mod again, and this update brings it back up to date with the base game.\n\nThis update is also pretty much a rework of the mod's overall structure:\n\nCustom Alex route KILLED\nOld transformation route KILLED\n\nIn their place, I've added several new systems and started moving the mod in a more independent direction.\n\nCheck out the update log below for all the new stuff!\n\nv0.6.0 Update - Nano Revolution Reborn:\n-The previous quests have been replaced with a clearer and simpler introductory questline.\n\n-Digging deeper into Nano Androids (extract/eat core) can now expose you to contamination.(With very cool UI change) \n\n-Once your contamination reaches a certain level (i.e. 100%), a new transformation scene may be triggered.\n\n-All Alex-related content has been removed, and the previous transformation system is now fully gone.\n\nSome Extra Stuff:\n\nHonestly, I held back on this mod for quite a while because Alex is Rahi's character, and I didn't want to take things too far or make something that felt disrespectful.:rahinotlikethis:  Once I decided to rebuild the mod around its own systems instead, things became much easier.\n\nAlso, this mod is now one of the relatively few mods that directly mess around with the Interaction System , custom Pawns and UI Change . In other words:\n\nThere will probably be bugs. A lot of bugs.\n\nEspecially compatibility issues with other mods. :NotLikeThis:\n\nSo if you find anything broken, weird, or just have some ideas or suggestions, please let me know!\n\nBug reports and suggestions are always welcome!\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NanoRevolutionMod.png]Click for preview[/url]",
 		"author": "Humoiww",
@@ -2287,46 +2279,6 @@
 		"modversion": "0.10.7[color=",
 		"gameversion": "0.3.2",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxLib_v0.10.7.zip"
-	},
-	{
-		"name": "SoundMod",
-		"description": "This mod implements a simple audio system, using FoxLib. There are four audio triggers for the player character: tease, pleasure, struggle, and orgasm. There are also limited sound effects which can play during sex. There's an experimental setting for adding BGM. Settings can be adjusted in Mod Options. Audio files not included due to file size, they are now downloaded seperately.\n\nFeatures:\n \n-- Four sound effects plus a gagged variant of each! Tease, struggle, pleasure, and orgasm\n-- Limited sound effects for spanking, adding restraints, cum/squirt, light plaps\n-- Add your own sounds! Drop them in the proper audio folder and they'll get loaded! Check the README!\n-- Audio sold seperately, the file size is too big\n-- Guaranteed to break at some point, seriously this mod is held together by a thread\n-- This relies on using GameExtenders.gd to hook into the game. Therefore, it will not work properly with pre-written scenes\n\nCredits:\nOpenNSFW sound pack | JeremyColeNSFW | LewdKitzu | VelvetSheetzVA | geministarsign1\nShared under Creative Commons license -- [url=https://opennsfw.carrd.co/]https://opennsfw.carrd.co/[/url]\n\nChangelog v1.3:\n --it works with new foxlib yay!\n--CHANGED FOLDER NAMES. If you got v1.2 working, you'll need to rename the audio folders you unzipped so they start with \"SoundMod_\"\n--You can also just download the audio files from the mod browser and unzip them in the mods folder - SoundMod now checks both locations\n--Experimental BGM feature. Make sure you assign BGM in the mod options menu. Bring your own music.\n--Known bug: rarely, the sound triggers don't get processed for a turn, idk\n\n(confirmed - not compatible with android. Try the SoundMod legacy version.)",
-		"author": "bringlebangul",
-		"modversion": "1.3",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod.zip"
-	},
-	{
-		"name": "SoundMod Effects",
-		"description": "Size: 11MB. Go to Mod Options, click the button to open audio folder, and extract the .zip files there. Then restart the game. [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction1.png]Instruction 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction2.png]Instruction 2[/url]",
-		"author": "bringlebangul",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_Effects.zip"
-	},
-	{
-		"name": "SoundMod Fem",
-		"description": "Size: 11MB. Go to Mod Options, click the button to open audio folder, and extract the .zip files there. Then restart the game. [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction1.png]Instruction 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction2.png]Instruction 2[/url]",
-		"author": "bringlebangul",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_pack_fem-1.zip"
-	},
-	{
-		"name": "SoundMod Masc",
-		"description": "Size: 6MB. Go to Mod Options, click the button to open audio folder, and extract the .zip files there. Then restart the game. [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction1.png]Instruction 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction2.png]Instruction 2[/url]",
-		"author": "bringlebangul",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_pack_masc-1.zip"
-	},
-	{
-		"name": "SoundMod BGM",
-		"description": "Size: 500KB. Go to Mod Options, click the button to open audio folder, and extract the .zip files there. Then restart the game. [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction1.png]Instruction 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction2.png]Instruction 2[/url]",
-		"author": "bringlebangul",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_BGM.zip"
 	},
 	{
 		"name": "VoreMod",
@@ -2423,6 +2375,62 @@
 		"modversion": "1.0.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BDCC_PermanentStraitjacket_MOD.zip"
+	},
+	{
+		"name": "MoldyT's Bodypart Expansion",
+		"description": "Various art credits to : CaninBad, Songjo, Kitsu, and Natalie\n\nCode help : Selinoccino and Moon_Halo\n\nDescription\nAdds a large amount of tails, wings, and a visible pussy to the game.\n\nTail: Several Canine (and fox), Feline, Shark, Mouth, and variety tails for any and all species. All tails are large and most contain multiple skins for them. \nWing: Membrane & Feathered wings with some bug ones as well. They can be selected in the WING slot\nPussy: Visible Canine pussy with even an additional pattern for it.\n\nIf they don't work ping me, I did not test it with any other mods and never will. Wings might have been changed on characters with them so might have to edit your character to fix it.\n\nIF YOU HAVE MY OLD TAIL MOD GET RID OF IT FOR THIS\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoldyBodypartExpansion.png]Click for Preview[/url]",
+		"author": "MoldyT",
+		"modversion": "2.3",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoldyBodypartExpansion_v2.3.zip"
+	},
+	{
+		"name": "SoundMod",
+		"description": "This mod implements a simple audio system, using FoxLib. There are four audio triggers for the player character: tease, pleasure, struggle, and orgasm. There are also limited sound effects which can play during sex. There's an experimental setting for adding BGM. Settings can be adjusted in Mod Options. Audio files not included due to file size, they are now downloaded seperately.\n\nFeatures:\n \n-- Four sound effects plus a gagged variant of each! Tease, struggle, pleasure, and orgasm\n-- Limited sound effects for spanking, adding restraints, cum/squirt, light plaps\n-- Add your own sounds! Drop them in the proper audio folder and they'll get loaded! Check the README!\n-- Audio sold seperately, the file size is too big\n-- NEW! If you really can't figure out unzipping, there is now a button in Mod Options to do it for you - the game will freeze for several minutes as it works, and there's a good chance it will crash or break in some way. But hopefully this is helpful for people who are struggling.\n-- Guaranteed to break at some point, seriously this mod is held together by a thread\n-- This relies on using GameExtenders.gd to hook into the game. Therefore, it will not work properly with pre-written scenes\n\nCredits:\nOpenNSFW sound pack | JeremyColeNSFW | LewdKitzu | VelvetSheetzVA | geministarsign1\nShared under Creative Commons license -- [url=https://opennsfw.carrd.co/]https://opennsfw.carrd.co/[/url]\n\nChangelog v1.3.2:\n -- Updated README\n-- Fixed bug causing blank dialog box\n-- cleaned up code\n-- made error messages more verbose\n-- added unzip function - very basic, very slow, but works at least some of the time.\n-- Known bug: sound effect for getting leashed sometimes plays multiple times\n\n(not compatible with in-browser. android compatibility seems to vary, try it and see. Or, try the SoundMod legacy version.)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SoundMod.png]Click for Preview[/url]",
+		"author": "bringlebangul",
+		"modversion": "1.3.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod.zip"
+	},
+	{
+		"name": "SoundMod Effects",
+		"description": "Size: 11MB. Go to Mod Options, click the button to open audio folder, and extract the .zip files there. Then restart the game. [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction1.png]Instruction 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction2.png]Instruction 2[/url]",
+		"author": "bringlebangul",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_Effects.zip"
+	},
+	{
+		"name": "SoundMod Fem",
+		"description": "Size: 11MB. Go to Mod Options, click the button to open audio folder, and extract the .zip files there. Then restart the game. [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction1.png]Instruction 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction2.png]Instruction 2[/url]",
+		"author": "bringlebangul",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_pack_fem-1.zip"
+	},
+	{
+		"name": "SoundMod Masc",
+		"description": "Size: 6MB. Go to Mod Options, click the button to open audio folder, and extract the .zip files there. Then restart the game. [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction1.png]Instruction 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction2.png]Instruction 2[/url]",
+		"author": "bringlebangul",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_pack_masc-1.zip"
+	},
+	{
+		"name": "SoundMod BGM",
+		"description": "Size: 500KB. Go to Mod Options, click the button to open audio folder, and extract the .zip files there. Then restart the game. [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction1.png]Instruction 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction2.png]Instruction 2[/url]",
+		"author": "bringlebangul",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_BGM.zip"
+	},
+	{
+		"name": "Songs MH Species",
+		"description": "※ Description \n- Adds 7 Monster Hunter series species:\n- Tobi-kadachi, Odogaron, Rathalos(Rathian), Mizutsune, Kulve taroth,\n- Nergigante, Nargacuga\n- All species has slitted version of their penis (+slit cage)\n- big credits to Firaxalos\n- compatible with Hypertus and Balls Extra\n\n+ Feel free to share your thoughts about the mod\n\n※ Update(0.9.9)\n- Added Nargacuga species (credits to Wortzenhein)\n- Minor fixes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsMHSpecies.png]Click for Preview[/url]",
+		"author": "SongJo",
+		"modversion": "0.9.9",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsMHSpecies_0.9.9.zip"
 	}
 	]
 }
