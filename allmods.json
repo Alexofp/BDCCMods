@@ -2431,6 +2431,30 @@
 		"modversion": "0.9.9",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsMHSpecies_0.9.9.zip"
+	},
+	{
+		"name": "Winters Breast Expansion",
+		"description": "CREDIT: Art by Anonomous Contributor\nDESCRIPTION: Expands the base BDCC Breasts with some new options Nipples (+Inverted) and Puffy Nipples (+Inverted). Should replace base breasts during Dynamic NPC generation\nCOMPATABILITY: Hypertus\nNOTE: @ me or make a thread if anything is broken.\nThere is a Kofi link in my discord Bio if anyone wants to show financial appreciation for my time.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersBreastExpansion.png]Click for Preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersBreastExpansion.zip"
+	},
+	{
+		"name": "Breast Pump Plus",
+		"description": "Description: Adds Breast Pump Mk3. By default, it requires the same research as Mk2 and has 100,000 mL of capacity. Costs 100 credits.\nCapacity and research requirement are configurable via FoxLib (capacity requires a game reload to update).\n\nSorry for re-uploading, but 1.0 didn't have the auto-milking from Mk2 properly inherited in Mk3. Now it's there, along with an option to disable that.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BreastPumpPlus.png]Click for Preview[/url]",
+		"author": "interlamer",
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BreastPumpPlus.zip"
+	},
+	{
+		"name": "LustierCombat_Alpha",
+		"description": "Isn't it a bit strange that you can defeat enemies with lust moves, but all the perverts and/or druggies you fight never try to defeat you with lust? This is an early preview of a mod which adds 3 new npc attacks focused on lust damage. The attacks are weighted so that if the npc has more points in sexiness stat, the probability of using them increases. The probability also increases the closer the player is to cumming mid-fight.\n\nFeatures:\n-- Adds 3 new npc attacks: AILustWeak is a small tease, AILustStrip is a striptease, and AILustStrong is full-on seduction\n-- Automatically adds the attacks to the movesets of DynamicNPCs only\n-- NPCs are more likely to switch to lust attacks when player is close to cumming, or when NPC has a high \"sexiness\" stat.\n-- Lust damage is based on \"sexiness\" stat, along with personality differences between attacker and receiver (example: a larger difference between attacker's dom score and receiver's subby score will increase damage and vice-versa)\n-- This is a preview, the text passages are unfinished and broken.\n-- Please give feedback in the discord - will likely need to adjust move probability and damage multipliers, so speak up if it's too much/too little.\n\n\nChangelog v0.1:\n -- it exists",
+		"author": "bringlebangul",
+		"modversion": "0.1",
+		"gameversion": "0.3.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/LustierCombat_Alpha.zip"
 	}
 	]
 }

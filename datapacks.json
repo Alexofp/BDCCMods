@@ -4669,6 +4669,47 @@
 			"requiredMods": [
 
 			]
+		},
+		{
+			"id": "cvss9n_skin_pack_1298",
+			"name": "Cass's Custom Skins 01",
+			"author": "Cvss9n",
+			"version": "1.0",
+			"description": "A pack of six skins made by Cvss9n. One intricate swirl pattern, one simplified swirl pattern, one with clouds, one with a starry night, a leotard, and one that is vaguely uncomfortable to look at (it appears malnourished).",
+			"contains": "Contains: 6 skins",
+			"download": "datapacks/cvss9n_skin_pack_1298.res",
+			"lastedit": 1789365584,
+			"filesize": 3018482,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/cvss9n_skin_pack_1298.png"
+		},
+		{
+			"id": "sugerrIllegalItemStore",
+			"name": "Illegal Item Seller",
+			"author": "Sugerør",
+			"version": "1.0",
+			"description": "Tired of having to beat up others to get the item you need? Well, Rune has the solution for you!\nFor a price that is...\n\nYou can find them in the underground!\nThey sell apples, shivs and stun batons\n\nThe buying mechanic is currently very primitive.. I couldn't figure out how to add the normal buying screen into a datapack (If that is even possible, I just wanted a quick fix to get an item I needed)",
+			"contains": "Contains: 1 character, 1 scene",
+			"download": "datapacks/sugerrIllegalItemStore.res",
+			"lastedit": 1789365610,
+			"filesize": 34939,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			]
 		}
 	]
 }
