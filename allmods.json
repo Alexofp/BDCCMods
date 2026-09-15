@@ -1409,14 +1409,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnonsSheathedHumanPenisV1.3.zip"
 	},
 	{
-		"name": "Generic NPC Portrait Replacer",
-		"description": "Art (minus the horse) by MoldyT \n\nReplaces the human-looking generic NPC portait with species-specific versions.\nCovers all base game species.\n\nUPDATE: new portraits: Goat, Protogen, Raccoon, Rat, Red Panda\n\nMod Species -- with thier own portrait:\nbat, sgoat, protogen, raccoon, rat, redpanda, shark, skulldog\n\nMod Species -- that reuse existing ones:\neasterndragon, kobold, nightstalker, possum, puro, seahorse, snake, squirrel, synth\n\nFor unsupported mod species, portrait will default to a generic furry.\n\nFor modders, you can open Module.gd for instructions on how to customize your species' generic portrait.\nUsing either an existing one from this mod or you own art.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GenericNpcPortraitReplacer.png]Click for Preview[/url]",
-		"author": "Lucci, Moldy Tub",
-		"modversion": "2.1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GenericNpcPortraitReplacerVer2.1.0.zip"
-	},
-	{
 		"name": "Frivolous's Gender Pills",
 		"description": "Adds pills that change the gender of characters. They are sold by the medical vendomat. They will not work on static characters like Rahi and Tavi.\n\nVersion 1.0.1:\n- Made it so pills stack in inventory during combat",
 		"author": "Frivolous",
@@ -2455,6 +2447,30 @@
 		"modversion": "0.1",
 		"gameversion": "0.3.2",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/LustierCombat_Alpha.zip"
+	},
+	{
+		"name": "Winters Mane Tweaks",
+		"description": "CREDIT: Requested by MMDsM\nDESCRIPTION: Made a new bodypart slot for manes so that they can be used alongside hair. Made for MMDsM\nNOTE: @ me or make a thread if anything is broken.\nThere is a Kofi link in my discord Bio if anyone wants to show financial appreciation for my time.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersManeTweaks.png]Click for Preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersManeTweaks.zip"
+	},
+	{
+		"name": "GenericNpcPortraitsRewritten",
+		"description": "A rewritten version of the generic portraits mod. Allows modders to make and define their own generic portraits for species.\n\nI don't own the images in this mod. This mod is provided as-is and can be freely modified and distributed. I don't want credit for any edits or future distributions. Do with it what you want.",
+		"author": "Selinoccino",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GenericNpcPortraitsRewritten.zip"
+	},
+	{
+		"name": "MDCC",
+		"description": "Adds:\n- Gardening system\n- A roguelite section thingy\n- Pickpocketing\n- A database for inmate information\n\nCompatible with: RandomInmateNumber, CraftingLib (highly recommended, enables crafting)\n\nRoguelite, gardening, and database systems are expandable, see the Content Creation guide included in the mod\n\nDiscontinued, use freely in other mods, but please do credit me (Selinoccino). The code can be freely modified and used. This isn't made to be a mod by itself, but it should work well as one. I will not be providing support for it.\n\nRequirements\n- WintersFluffyBodyparts (Winters Fluffy Bodyparts by Avery Winters)\n- AnonsAquaticSpecies (Anons Aquatic Species by Anon, Avery Winters)\n- AnonsBaseSpeciesExpansion (Anons Base Species Expansion by Anon, Avery Winters)\n- SorityHair (Hairs! by Amewsing)\n- SkulldogSpecies (Anons Skulldog Species by Anon, Avery Winters)\n- WintersWitheredBodyparts (Winters Withered Bodyparts by Anon, Avery Winters)\n\nif it crashes you don't have something of those probably\n\nfor easy creation of plants, recipes, inmate profiles, see: [url=https://github.com/Selinoccino/MDCC_tools/]https://github.com/Selinoccino/MDCC_tools/[/url] for godot engine 4.7.1 (works with 4.7.2 too)",
+		"author": "Selinoccino",
+		"modversion": "0.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MDCC.zip"
 	}
 	]
 }
