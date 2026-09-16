@@ -4695,12 +4695,12 @@
 			"id": "sugerrIllegalItemStore",
 			"name": "Illegal Item Seller",
 			"author": "Sugerør",
-			"version": "1.0",
-			"description": "Tired of having to beat up others to get the item you need? Well, Rune has the solution for you!\nFor a price that is...\n\nYou can find them in the underground!\nThey sell apples, shivs and stun batons\n\nThe buying mechanic is currently very primitive.. I couldn't figure out how to add the normal buying screen into a datapack (If that is even possible, I just wanted a quick fix to get an item I needed)",
+			"version": "1.1",
+			"description": "Tired of having to beat up others to get the item you need? Well, Rune has the solution for you!\nFor a price that is...\n\nYou can find them in the underground!\nThey sell apples, shivs and stun batons\n\nThe buying mechanic is currently very primitive.. I couldn't figure out how to add the normal buying screen into a datapack (If that is even possible, I just wanted a quick fix to get an item I needed)\n\nIf you feel the pricing is too cheap or expensive, lmk and I might change it if multiple people complain.",
 			"contains": "Contains: 1 character, 1 scene",
 			"download": "datapacks/sugerrIllegalItemStore.res",
-			"lastedit": 1789365610,
-			"filesize": 34939,
+			"lastedit": 1789538848,
+			"filesize": 31568,
 			"requiredDatapacks": [
 
 			],
