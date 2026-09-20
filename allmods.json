@@ -2473,14 +2473,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HorsecockDildoPunishment.zip"
 	},
 	{
-		"name": "Winters Breast Expansion",
-		"description": "CREDIT: Art by Anonomous Contributor\nDESCRIPTION: Expands the base BDCC Breasts with some new options Nipples (+Inverted) and Puffy Nipples (+Inverted). Should replace base breasts during Dynamic NPC generation\nCOMPATABILITY: Hypertus\nCHANGELOG: Fixed hypertus compat (probably)\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersBreastExpansion.png]Click for Preview[/url]",
-		"author": "Avery Winters",
-		"modversion": "0.8",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersBreastExpansionV0.8.zip"
-	},
-	{
 		"name": "Permanent Chastity Belt",
 		"description": "Adds a new Permanent Chastity Belt item to BDCC, based on the original Chasitybelt mod. The new variant is designed specifically for enslaved NPCs and introduces a password-protected locking system that prevents the restraint from being removed through normal game mechanics.\n\nThe Permanent Chastity Belt occupies the Underwear Bottom slot and reuses the original mod's 3D model and inventory image. It is treated as an important and persistent item, allowing its locked state and password hash to remain properly stored when saving and loading the game.\n\nThe belt is obtained through the Announcer/Fight Club shop for 100 credits. It uses BDCC's SoldByTheAnnouncer item tag and can be managed through the dedicated Permanent chastity belt slave action.\n\nWhen applying the belt to an NPC, the player must create and confirm a password containing at least four characters. The password is not stored in plain text; instead, the mod generates a SHA-256 hash with a dedicated salt and stores the resulting hash with the item. This allows the password lock to persist between saves without storing the original password.\nOnce the Permanent Chastity Belt has been locked onto an NPC, the NPC cannot remove it by struggling, restraint keys, normal inventory management, or other standard removal methods. The item's normal equip and unequip behavior is intentionally redirected to a separate scene so that the password system cannot be bypassed through BDCC's regular inventory interface.\n\nTo remove the belt, the player must use the Permanent chastity belt slave action and enter the exact password configured when the belt was equipped. If the password is correct, the belt is unlocked and removed from the NPC, the stored password hash is cleared, and the belt is returned to the player's inventory so it can be configured with a new password later.\n\nThe mod also includes an automatic protection system. If another game system accidentally removes a locked Permanent Chastity Belt from the NPC's Underwear Bottom slot and places it into the NPC's inventory, the mod detects the locked item and attempts to equip it again automatically. This helps maintain the permanent restraint state during normal gameplay.\n\nThe Permanent Chastity Belt cannot be force-equipped onto NPCs through standard force-equipping systems, and it cannot accidentally be equipped by the player. Password configuration is mandatory before the restraint can be applied.\n\nThe original Chasitybelt item is preserved, meaning the mod adds the permanent variant without replacing or modifying the original item. The package also integrates with BDCC through its module, slave-action, scene, and game-extender systems without modifying the game's original files.\nFeatures:\nNew Permanent Chastity Belt item.\nPassword-protected locking system.\nMinimum password length of 4 characters.\nPassword confirmation when applying the belt.\nPassword stored as a salted SHA-256 hash rather than plain text.\nPassword lock persists through save/load.\nNPCs cannot remove the belt by struggling.\nRestraint keys cannot unlock the belt.\nNormal inventory management cannot remove the locked belt.\nDedicated Permanent chastity belt slave action for equipping and unlocking.\nAutomatic re-equipping if another game system removes the locked belt.\nUses the original Chasitybelt 3D model.\nUses the original inventory image.\nOccupies the Underwear Bottom slot.\nMarked as Important and Persistent.\nSold through the Announcer/Fight Club shop for 100 credits.\nOriginal Chasitybelt item remains available.\nCannot be force-equipped onto NPCs.\nCannot accidentally be equipped on the player.\nReturns to the player's inventory after successful unlocking.\nPassword is reset after the belt is unlocked.\nImplemented as an independent BDCC module without modifying the game's original files.",
 		"author": "El_Mister_SJ",
@@ -2489,20 +2481,36 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Chasitybeltmod_Permanent.zip"
 	},
 	{
-		"name": "RAT_Pickpocket",
-		"description": "Thank you to @Avery Winters for providing help with design, balancing and writing!\n\nAdds a pickpocketing system, accessible when spying on NPCs.\nIncludes a skill and perk tree, effectiveness scaling with skill level, all hopefully balanced well enough.\n\nFor feedback, bug reports, etc., ping me",
-		"author": "Selinoccino",
-		"modversion": "0.9",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RAT_Pickpocket.zip"
-	},
-	{
 		"name": "GunMod",
 		"description": "Adds a bunch of firearms and a full PlayerSlavery scenario built around them: \"War Draft\", a conscription story between AlphaCorp and the Syndicate. Gameplay loop is similar to the Drug Den, but WITH GUNZ.\n\nWar Draft: you get conscripted into AlphaCorp's war against the Syndicate, whether you like it or not. Run patrols and objectives for AlphaCorp under Sergeant Drask, or end up defecting to the Syndicate and Commander Vex instead. Each side tracked with its own stat, each with its own hub, and each building toward its own real finale fight.\n\nFeatures:\n- 5 new weapons: Pistol, Laser Pistol (taken from base game), Service Rifle, Energy Rifle, Marauder Rifle\n- Sold by Mirri; the 3 rifles also drop (rarely) from Drug Den junkie loot\n- New two-handed rifle hold/aim/fire animations\n- New \"War Draft\" scenario in the PlayerSlavery picker\n- Two full sides to play: stay loyal to AlphaCorp under Sergeant Drask, or defect to the Syndicate under Commander Vex\n- Each side tracked with its own stat (AlphaCorp morale / Syndicate corruption)\n- Real patrol loop: patrols, ambushes, bomb/rescue objectives, captured-soldier encounters\n- Armory restock that also heals your pain\n- Kidlat cameo\n- Conscript uniform gear\n- Two full finale boss fights, one per faction, with reactive dialogue\n- Hand scripted cool and awesome sex scenes\n- 4 distinct endings\n\n(This is my biggest project yet. Please let me know if you hit anything broken. Two base-game files are edited directly for the rifle hold poses rather than being purely additive, so this could conflict with another mod touching the same files.)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GunMod1.png]Preview 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GunMod2.png]Preview 2[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GunMod3.png]Preview 3[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GunMod4.png]Preview 4[/url]",
 		"author": "Adria",
 		"modversion": "1.0.1",
 		"gameversion": "0.3.2",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GunMod_1.0.1.zip"
+	},
+	{
+		"name": "RAT_Pickpocket",
+		"description": "Thank you to @Avery Winters  for providing help with design, balancing and writing, and @Gray  for writing the NPC dialogue!\n\nAdds a pickpocketing system, accessible when spying on NPCs.\nIncludes a skill and perk tree, effectiveness scaling with skill level, all hopefully balanced well enough.\n\nVersion 0.9.1:\n- Added Android support (works on PC too!)\n- Added dialogue when being caught\n- Greatly increased chance that an NPC will fight upon catching the player\n- Slight tweaks and improvements\n\nFor feedback, bug reports, etc., ping me",
+		"author": "Selinoccino",
+		"modversion": "0.9.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RAT_Pickpocket.zip"
+	},
+	{
+		"name": "Winters Core Module",
+		"description": "CREDIT: Code Improvements: Selinoccino\nDESCRIPTION: This contains resources my mods need to refer to to run. Using a dependency helps reduce duplicated code and reduce file size and numbers of code lines required in all my other mods.\nCOMPATABILITY: Required for all Updated Winters Mods does nothing on its own.\nCHANGELOG: N/A\nNOTES: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.",
+		"author": "Avery Winters",
+		"modversion": "0.9",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersCoreModuleV0.9.zip"
+	},
+	{
+		"name": "Winters Breast Expansion",
+		"description": "CREDIT: Code Improvements: Selinoccino, Assets: Anonomous Contributor\nDEPENDENCIES: Winters Core Module\nDESCRIPTION: Expands the base BDCC Breasts with some new options Nipples (+Inverted) and Puffy Nipples (+Inverted). Should replace base breasts during Dynamic NPC generation\nCOMPATABILITY: Hypertus, WintersFluffyBodyParts\nCHANGELOG: Reworked file structure, now requires WintersCoreModule, should now show in character gen\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersBreastExpansion.png]Click for Preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "0.9",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersBreastExpansionV0.8.zip"
 	}
 	]
 }
