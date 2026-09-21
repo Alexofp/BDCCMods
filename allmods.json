@@ -2481,22 +2481,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Chasitybeltmod_Permanent.zip"
 	},
 	{
-		"name": "GunMod",
-		"description": "Adds a bunch of firearms and a full PlayerSlavery scenario built around them: \"War Draft\", a conscription story between AlphaCorp and the Syndicate. Gameplay loop is similar to the Drug Den, but WITH GUNZ.\n\nWar Draft: you get conscripted into AlphaCorp's war against the Syndicate, whether you like it or not. Run patrols and objectives for AlphaCorp under Sergeant Drask, or end up defecting to the Syndicate and Commander Vex instead. Each side tracked with its own stat, each with its own hub, and each building toward its own real finale fight.\n\nFeatures:\n- 5 new weapons: Pistol, Laser Pistol (taken from base game), Service Rifle, Energy Rifle, Marauder Rifle\n- Sold by Mirri; the 3 rifles also drop (rarely) from Drug Den junkie loot\n- New two-handed rifle hold/aim/fire animations\n- New \"War Draft\" scenario in the PlayerSlavery picker\n- Two full sides to play: stay loyal to AlphaCorp under Sergeant Drask, or defect to the Syndicate under Commander Vex\n- Each side tracked with its own stat (AlphaCorp morale / Syndicate corruption)\n- Real patrol loop: patrols, ambushes, bomb/rescue objectives, captured-soldier encounters\n- Armory restock that also heals your pain\n- Kidlat cameo\n- Conscript uniform gear\n- Two full finale boss fights, one per faction, with reactive dialogue\n- Hand scripted cool and awesome sex scenes\n- 4 distinct endings\n\n(This is my biggest project yet. Please let me know if you hit anything broken. Two base-game files are edited directly for the rifle hold poses rather than being purely additive, so this could conflict with another mod touching the same files.)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GunMod1.png]Preview 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GunMod2.png]Preview 2[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GunMod3.png]Preview 3[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GunMod4.png]Preview 4[/url]",
-		"author": "Adria",
-		"modversion": "1.0.1",
-		"gameversion": "0.3.2",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GunMod_1.0.1.zip"
-	},
-	{
-		"name": "RAT_Pickpocket",
-		"description": "Thank you to @Avery Winters  for providing help with design, balancing and writing, and @Gray  for writing the NPC dialogue!\n\nAdds a pickpocketing system, accessible when spying on NPCs.\nIncludes a skill and perk tree, effectiveness scaling with skill level, all hopefully balanced well enough.\n\nVersion 0.9.1:\n- Added Android support (works on PC too!)\n- Added dialogue when being caught\n- Greatly increased chance that an NPC will fight upon catching the player\n- Slight tweaks and improvements\n\nFor feedback, bug reports, etc., ping me",
-		"author": "Selinoccino",
-		"modversion": "0.9.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RAT_Pickpocket.zip"
-	},
-	{
 		"name": "Winters Core Module",
 		"description": "CREDIT: Code Improvements: Selinoccino\nDESCRIPTION: This contains resources my mods need to refer to to run. Using a dependency helps reduce duplicated code and reduce file size and numbers of code lines required in all my other mods.\nCOMPATABILITY: Required for all Updated Winters Mods does nothing on its own.\nCHANGELOG: N/A\nNOTES: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.",
 		"author": "Avery Winters",
@@ -2511,6 +2495,22 @@
 		"modversion": "0.9",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersBreastExpansionV0.9.zip"
+	},
+	{
+		"name": "RAT_Pickpocket",
+		"description": "Thank you to Avery Winters for providing help with design, balancing and writing, and Gray for writing the NPC dialogue!\n\nAdds a pickpocketing system, accessible when spying on NPCs.\nIncludes a skill and perk tree, effectiveness scaling with skill level, all hopefully balanced well enough.\n\nVersion 0.9.2:\n- Added WASD support\n- Fixed pickpocketing staff\n- Fixed pickpocketing cooldown\n\nFor feedback, bug reports, etc., ping me",
+		"author": "Selinoccino",
+		"modversion": "0.9.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RAT_Pickpocket.zip"
+	},
+	{
+		"name": "GunMod",
+		"description": "Adds a bunch of firearms and a full PlayerSlavery scenario built around them: \"War Draft\", a conscription story between AlphaCorp and the Syndicate. Gameplay loop is similar to the Drug Den, but WITH GUNZ.\n\nWar Draft: you get conscripted into AlphaCorp's war against the Syndicate, whether you like it or not. Run patrols and objectives for AlphaCorp under Sergeant Drask, or end up defecting to the Syndicate and Commander Vex instead. Each side tracked with its own stat, each with its own hub, and each building toward its own real finale fight.\n\nFeatures:\n- 5 new weapons: Pistol, Laser Pistol (taken from base game), Service Rifle, Energy Rifle, Marauder Rifle\n- Sold by Mirri; the 3 rifles also drop (rarely) from Drug Den junkie loot\n- New two-handed rifle hold/aim/fire animations\n- New \"War Draft\" scenario in the PlayerSlavery picker\n- Two full sides to play: stay loyal to AlphaCorp under Sergeant Drask, or defect to the Syndicate under Commander Vex\n- Each side tracked with its own stat (AlphaCorp morale / Syndicate corruption)\n- Real patrol loop: patrols, ambushes, bomb/rescue objectives, captured-soldier encounters\n- Armory restock that also heals your pain\n- Kidlat cameo\n- Conscript uniform gear\n- Two full finale boss fights, one per faction, with reactive dialogue\n- Hand scripted cool and awesome sex scenes\n- 4 distinct endings\n\n(This is my biggest project yet. Please let me know if you hit anything broken. Two base-game files are edited directly for the rifle hold poses rather than being purely additive, so this could conflict with another mod touching the same files.)\n\nGunMod awesome 1.0.2 fixes:\n-Commander Vex's sex scenes had the pose backwards from the dialogue\n-The rifle idle/aim holds didn't loop and would freeze on the last frame\n-Some sex scenes now step through separate tease/sex/fast/finish stages instead of jumping straight to one frozen pose. \n-Also fixed a soft lock where Eliza's chastity content could teleport you off map mid-scenario without properly ending it.\n\nHuge thanks to this wonderful community for pointing everything up!!!\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GunMod1.png]Preview 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GunMod2.png]Preview 2[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GunMod3.png]Preview 3[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GunMod4.png]Preview 4[/url]",
+		"author": "Adria",
+		"modversion": "1.0.2",
+		"gameversion": "0.3.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GunMod_1.0.2.zip"
 	}
 	]
 }
