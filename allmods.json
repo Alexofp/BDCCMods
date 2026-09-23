@@ -2233,14 +2233,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ScaleTweak.zip"
 	},
 	{
-		"name": "Insertion Bulges",
-		"description": "[b]Bodies stretch around what is inside them[/b]\nInstead of an oversized shaft drawing straight through the body it is in, the body swells around it and the inserted stretch is hidden.\n\n[b]Please read first:[/b]\n-- This is a very early release. It may not work at all on your setup, and it may look wrong in scenes I have not reached yet.\n-- It has only been tested against the [b]vanilla game[/b]. It may not work alongside other mods, and it replaces some of the game's own files, so anything else that touches bodyparts, skins or the doll is likely to conflict.\n-- Tell me what breaks and I will look at it.\n\n[b]Mod Features:[/b]\n-- Works on anal, vaginal and throat\n-- Any cock in the game, and all eight rigged strapons\n-- Detection is purely geometric, so hand written scenes and modded parts are covered with nothing scripted per scene\n-- Depth follows the animation on its own, so the bulge moves with the thrust\n-- Size is measured from the shaft's own artwork: a knot or an equine flare reads as it goes in\n-- A big shaft in a tight hole reacts harder, using the game's own free room measure\n-- Two bulges per character, so double penetration and spitroasts both work\n\n[b]Requires:[/b]\n-- Advanced skin shaders enabled in Options, Display. Without them the mod does nothing.\n\n[b]Known limits:[/b]\n-- Clothing does not bulge, rigged clothes do not use the skin shader\n-- Dildos, fuck machines and tentacles are not covered yet\n\n[i]Ping me for bugs and feedback[/i]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/InsertionBulges.png]Click for Preview[/url]",
-		"author": "xrob1",
-		"modversion": "1.0",
-		"gameversion": "0.3.2",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/InsertionBulges_v1.0.zip"
-	},
-	{
 		"name": "ClippingBarrier",
 		"description": "Are you bothered by phalluses poking out in places where they shouldn't? ClippingBarrier projects an invisible wall of 'no penis' around the torso of your character, hiding any wayward dongs from view! Uses similar logic to 'NoPretendSex' and the method of overriding sex scenes, so credit to NatiM6! But sadly this mod is not compatible with that one. (note: in rare cases, the anti-schlong wall may also hide the right arm and right leg)\n\nCompatibility with other mods: This mod targets the base game Part3D.gd file, and overrides a large number of stagescene3D files. It applies an invisible mask with shader to any bodypart that ends in 'Body', and changes the render priority of first two meshes (penis texture and condom texture) of the Bodypart.Penis slot. Any modded bodyparts which obey this logic will be compatible.\n\n(any objects rendered after (behind) the mask become transparent, which sometimes includes the right arm and right leg.)\n\nKNOWN BUG: Will crash if strapons are involved, because it doesn't take up a body slot and I'm dumb\n\n1.0.1: Bugfix for strapons",
 		"author": "bringlebangul",
@@ -2519,6 +2511,14 @@
 		"modversion": "1.0.3",
 		"gameversion": "0.3.2",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MindMiscModule.zip"
+	},
+	{
+		"name": "Insertion Bulges",
+		"description": "[b]Bodies stretch around what is inside them[/b]\nInstead of an oversized shaft drawing straight through the body it is in, the body swells around it and the inserted part is hidden.\n\n[b]New in 3.2:[/b]\n-- Rebuilt: who penetrates whom is read from the game's own scene scripts, so every scene knows where the bulge belongs\n-- Detailed drawing: the bulge copies the real outline of the cock, knots, flares and ridges included\n-- Soft, fleshy motion: bulges swell up, settle down and wobble instead of snapping from frame to frame\n-- Double penetration and spitroasts: one bulge per shaft, merging smoothly where two meet\n-- Pregnant belly: pregnant and cum-filled bellies grow, and the bulge can fade into them\n-- Throat bulges follow the neck and stay on the throat\n-- Toys: the horse and canine dildos and the hanging fuck machine bulge too\n-- Portal panties and fleshlight scenes: the bulge lands on the right body\n-- Sturdier next to other mods: it no longer replaces Part3D.gd, and a mod that breaks the game's own slot or tag scripts no longer takes this one down with it\n\n[b]Optional FoxLib support:[/b]\n-- Main options: Show bulges, Size, Drawing quality (Detailed / Simple), Soft fleshy motion, Pregnant belly, Restore recommended settings\n-- Advanced sliders for shape, motion and throat, each with a short explanation\n-- Without FoxLib the mod runs on the recommended settings\n\n[b]Requires:[/b]\n-- Advanced skin shaders enabled in Options, Display. Without them the mod does nothing.\n\n[b]Note:[/b]\n-- Remove Insertion Bulges v1.0 first: the two refuse to run together\n-- Replaces MeshWithPattern.gd and MaterialForPartWithSkin.tres, so it collides with other mods that overwrite those\n-- Clothing does not bulge, rigged clothes do not use the skin shader\n-- The BDSM machine and tentacles are not covered yet\n\n[i]For bug reports or feedback contact me at: xrob8370@gmail.com[/i]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/InsertionBulges.png]Click for Preview[/url]",
+		"author": "xrob1",
+		"modversion": "3.2",
+		"gameversion": "0.3.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/InsertionBulges_v3.2.zip"
 	}
 	]
 }
