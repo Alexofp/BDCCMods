@@ -1577,14 +1577,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PrisonArtsMod.zip"
 	},
 	{
-		"name": "SearchBarDeselect",
-		"description": "Are you tired of pressing '1' to exit the inventory and instead typing '1' in the search bar? No more! Now, you click the search bar to begin typing by default. Don't use this mod on touchscreen devices, it won't do anything.",
-		"author": "bringlebangul",
-		"modversion": "1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SearchBarDeselect.zip"
-	},
-	{
 		"name": "Songs Hair Pack",
 		"description": "※ Description \nadds 42 hair styles\n\n※ Update (ver1.8)\n3 new hair styles (Credits to Starborker and Tenten)\nReworked some existing hairstyles that I previously drew with a mouse\nOverall polish\n\n+ Feel free to share your thoughts about the mod\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongshairPack.png]Click for Preview[/url]",
 		"author": "SongJo",
@@ -2177,28 +2169,12 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EirasTrashSpeciesV1.4.zip"
 	},
 	{
-		"name": "Winters Canine Barbed Penis",
-		"description": "CREDIT: Avery Winters\nDESCRIPTION: A canine variant penis with barbs ideal for a canine/feline hybrid.\nCOMPATIBILITY: Hypertus, BallsExtra\nCHANGELOG: Removed the vein\nNOTE: @ Avery Winters for issues or feedback. There is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersCanineBarbedPenis.png]Click for Preview[/url]",
-		"author": "Avery Winters",
-		"modversion": "1.2",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersCanineBarbedPenisV1.2.zip"
-	},
-	{
 		"name": "Winters Rabbit Species Update",
 		"description": "CREDIT: Orignal by Fantos\nDESCRIPTION: . Add rabbit species and an update to the original by fantos. Removes the Rabbit legs as they dont scale with thickness and now uses fluffy parts if installed. Rabbits now spawn with eggy parts becuase easter bunny thats why \nCOMPATABILITY: Hypertus, Bodywriting, RAT_BodypartArchetypes, WintersFluffyBodyparts\nCHANGELOG: Moved archetypes locally in this mod\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\nNOTE: Adds archetypes handled by RAT_BodypartArchetypes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersRabbitSpecies.png]Click for Preview[/url]",
 		"author": "Avery Winters",
 		"modversion": "1.3",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersRabbitSpeciesUpdateV1.3.zip"
-	},
-	{
-		"name": "PowerBottom",
-		"description": "Allows you to use sub poses while domming. You still have control over what happens. NPCs shouldn't be able to use these, as it feels janky if they do.\n\nNotes:\nMy first mod, mostly hacked together from existing game code in two afternoons. It probably has issues, but I didn't notice any in my limited testing. Please report any you find to me. Also unlikely to be compatible with any mods that affect the sex engine. They will either not interact or break completely. I haven't done any compatibility testing.",
-		"author": "hare brained goofball",
-		"modversion": "1.0",
-		"gameversion": "0.3.2",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PowerBottom_1.0.zip"
 	},
 	{
 		"name": "Nano Revolution",
@@ -2473,28 +2449,12 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RAT_Pickpocket.zip"
 	},
 	{
-		"name": "GunMod",
-		"description": "Adds a bunch of firearms and a full PlayerSlavery scenario built around them: \"War Draft\", a conscription story between AlphaCorp and the Syndicate. Gameplay loop is similar to the Drug Den, but WITH GUNZ.\n\nWar Draft: you get conscripted into AlphaCorp's war against the Syndicate, whether you like it or not. Run patrols and objectives for AlphaCorp under Sergeant Drask, or end up defecting to the Syndicate and Commander Vex instead. Each side tracked with its own stat, each with its own hub, and each building toward its own real finale fight.\n\nFeatures:\n- 5 new weapons: Pistol, Laser Pistol (taken from base game), Service Rifle, Energy Rifle, Marauder Rifle\n- Sold by Mirri; the 3 rifles also drop (rarely) from Drug Den junkie loot\n- New two-handed rifle hold/aim/fire animations\n- New \"War Draft\" scenario in the PlayerSlavery picker\n- Two full sides to play: stay loyal to AlphaCorp under Sergeant Drask, or defect to the Syndicate under Commander Vex\n- Each side tracked with its own stat (AlphaCorp morale / Syndicate corruption)\n- Real patrol loop: patrols, ambushes, bomb/rescue objectives, captured-soldier encounters\n- Armory restock that also heals your pain\n- Kidlat cameo\n- Conscript uniform gear\n- Two full finale boss fights, one per faction, with reactive dialogue\n- Hand scripted cool and awesome sex scenes\n- 4 distinct endings\n\n(This is my biggest project yet. Please let me know if you hit anything broken. Two base-game files are edited directly for the rifle hold poses rather than being purely additive, so this could conflict with another mod touching the same files.)\n\nGunMod awesome 1.0.2 fixes:\n-Commander Vex's sex scenes had the pose backwards from the dialogue\n-The rifle idle/aim holds didn't loop and would freeze on the last frame\n-Some sex scenes now step through separate tease/sex/fast/finish stages instead of jumping straight to one frozen pose. \n-Also fixed a soft lock where Eliza's chastity content could teleport you off map mid-scenario without properly ending it.\n\nHuge thanks to this wonderful community for pointing everything up!!!\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GunMod1.png]Preview 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GunMod2.png]Preview 2[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GunMod3.png]Preview 3[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GunMod4.png]Preview 4[/url]",
-		"author": "Adria",
-		"modversion": "1.0.2",
-		"gameversion": "0.3.2",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GunMod_1.0.2.zip"
-	},
-	{
 		"name": "SongsHoofySpecies",
 		"description": "※ Description \n- Adds 5 new species: Cow, Deer, Goat, Pig, Sheep\n- Adds some horns, hoofs, tails, ears that are shared by these species\n- Cows will spawn with equine penis by default\n(if SongsVanillaParts mod is active, \"Horse penis alt\" will set by default)\n- Deer, goats, pigs will spawn with human penis by default\n(if SongsVanillaParts mod is active, Deer can get \"Horse penis alt\")\n- Compatible mods: Hypertus, Racebonus\n\n※ Original mods\n- The original Deer and Bovine mods by Avery Winters were incorporated in this mod, so you can select the parts from those mods with my cows and deer species, and also these species can spawn with those parts, except for the head and hoofs parts.\n- As the Incorporation, i kept the original Deer and Bovine species in this mod, so you can select those species and also don’t have to worry about your ongoing or past characters that used those species. However, these two species won’t spawn as a random NPC anymore to prevent confusion.\n- The Sheep species mod by Thagalor and Avery WInter has incorporated in this mod\n\n※ Update (0.9.6)\n- Integrated Sheep species mod by Thegaltor and Avery Winter\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsHoofySpecies.png]Click for Preview[/url]",
 		"author": "SongJo",
 		"modversion": "0.9.6",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsHoofySpecies_v0.9.6.zip"
-	},
-	{
-		"name": "Winters Core Module",
-		"description": "CREDIT: Code Improvements: Selinoccino\nDESCRIPTION: This contains resources my mods need to refer to to run. Using a dependency helps reduce duplicated code and reduce file size and numbers of code lines required in all my other mods.\nCOMPATABILITY: Required for all Updated Winters Mods does nothing on its own.\nCHANGELOG: Expanded templates to account for new mod updates\nNOTES: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.",
-		"author": "Avery Winters",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersCoreModuleV1.0.zip"
 	},
 	{
 		"name": "Anons Base Species Expansion",
@@ -2519,6 +2479,46 @@
 		"modversion": "3.2",
 		"gameversion": "0.3.2",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/InsertionBulges_v3.2.zip"
+	},
+	{
+		"name": "Winters Core Module",
+		"description": "CREDIT: Code Improvements: Selinoccino\nDESCRIPTION: This contains resources my mods need to refer to to run. Using a dependency helps reduce duplicated code and reduce file size and numbers of code lines required in all my other mods.\nCOMPATABILITY: Required for all Updated Winters Mods does nothing on its own.\nCHANGELOG: Expanded templates to account for new mod updates\nNOTES: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.",
+		"author": "Avery Winters",
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersCoreModuleV1.1.zip"
+	},
+	{
+		"name": "Winters Canine Barbed Penis",
+		"description": "CREDIT: Code Improvements: Selinoccino\nDEPENDENCIES: Winters Core Module\nDESCRIPTION: A canine variant penis with barbs ideal for a canine/feline hybrid.\nCOMPATIBILITY: Hypertus, BallsExtra\nCHANGELOG: improved code efficiency\nNOTES: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersCanineBarbedPenis.png]Click for Preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "1.3",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersCanineBarbedPenisV1.3.zip"
+	},
+	{
+		"name": "SearchBarDeselect",
+		"description": "Are you tired of pressing '1' to exit the inventory and instead typing '1' in the search bar? No more! Now, you click the search bar to begin typing by default. Don't use this mod on touchscreen devices, it won't do anything.",
+		"author": "bringlebangul",
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SearchBarDeselect.zip"
+	},
+	{
+		"name": "PowerBottom",
+		"description": "Allows you to use sub poses while domming. You still have control over what happens. NPCs can't use these poses, but it probably still works if you force them to using a datapack or another mod.\nNow with face sitting! Comes with the same quirks/restrictions as vanilla face sitting.\n\nPlease contact me on the discord server (@hare brained goofball ) if you have any issues.\n\nThe mod now replaces DomOralSexOnSub.gd, so any mods that change that file will be incompatible. Any mods that affect the sex engine or poses directly will probably be incompatible, and either won't do anything at all with this mod, overwrite this mod, or cause errors (Who knows?! I don't!)\n\nIf you ever want to update/change/patch this mod, feel free to, please just credit me.\n\nChangelog:\n1.1: Added face sitting, fixed switching holes in cowgirl, and fixed some flavor text that was weird or incorrect.",
+		"author": "hare brained goofball",
+		"modversion": "1.1",
+		"gameversion": "0.3.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PowerBottom_1.1.zip"
+	},
+	{
+		"name": "GunMod",
+		"description": "Adds a bunch of firearms and a full PlayerSlavery scenario built around them: \"War Draft\", a conscription story between AlphaCorp and the Syndicate. Gameplay loop is similar to the Drug Den, but WITH GUNZ.\n\nWar Draft: you get conscripted into AlphaCorp's war against the Syndicate, whether you like it or not. Run patrols and objectives for AlphaCorp under Sergeant Drask, or end up defecting to the Syndicate and Commander Vex instead. Each side tracked with its own stat, each with its own hub, and each building toward its own real finale fight.\n\nFeatures:\n- 5 new weapons: Pistol, Laser Pistol (taken from base game), Service Rifle, Energy Rifle, Marauder Rifle\n- Sold by Mirri; the 3 rifles also drop (rarely) from Drug Den junkie loot\n- New two-handed rifle hold/aim/fire animations\n- New \"War Draft\" scenario in the PlayerSlavery picker\n- Two full sides to play: stay loyal to AlphaCorp under Sergeant Drask, or defect to the Syndicate under Commander Vex\n- Each side tracked with its own stat (AlphaCorp morale / Syndicate corruption)\n- Real patrol loop: patrols, ambushes, bomb/rescue objectives, captured-soldier encounters\n- Armory restock that also heals your pain\n- Kidlat cameo\n- Conscript uniform gear\n- Two full finale boss fights, one per faction, with reactive dialogue\n- Hand scripted cool and awesome sex scenes\n- 4 distinct endings\n\n(This is my biggest project yet. Please let me know if you hit anything broken. Two base-game files are edited directly for the rifle hold poses rather than being purely additive, so this could conflict with another mod touching the same files.)\n\nGunMod awesome 1.0.2 fixes:\n-Commander Vex's sex scenes had the pose backwards from the dialogue\n-The rifle idle/aim holds didn't loop and would freeze on the last frame\n-Some sex scenes now step through separate tease/sex/fast/finish stages instead of jumping straight to one frozen pose. \n-Also fixed a soft lock where Eliza's chastity content could teleport you off map mid-scenario without properly ending it.\n\nGunMod awesome 1.0.3 fixes: \n-regular prison guards could randomly and permanently show up red on the world map caused by the Syndicate detention jailer's map color inheritance leaking into the game's normal ambient guard spawner (already red guards on existing saves stay red until they respawn).\n\nHuge thanks to this wonderful community for pointing everything up!!!\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GunMod1.png]Preview 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GunMod2.png]Preview 2[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GunMod3.png]Preview 3[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GunMod4.png]Preview 4[/url]",
+		"author": "Adria",
+		"modversion": "1.0.3",
+		"gameversion": "0.3.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GunMod_1.0.3.zip"
 	}
 	]
 }
