@@ -2265,14 +2265,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/JunkieRehabilitation.zip"
 	},
 	{
-		"name": "Oral Knotting",
-		"description": "[b]Knots now catch in throats, not just holes[/b]\nAdds a knotting state to every oral activity: a dom with a knot can pop it in the sub's throat as they cum, a sub can knot the dom's throat during a blowjob, and in 69 both of them can end up locked in each other at once.\n\n[b]While knotted:[/b]\n-- Nobody can pull away, switch focus or stop the scene. \"Pull out\" has a chance to fail each turn, and failing stretches that throat a little more.\n-- A throat too small for the knot chokes on it, losing consciousness turn after turn.\n-- The dolls actually seat together, so the cock is fully inside the mouth instead of hanging halfway out (the base game has no such pose for these scenes).\n\n[b]Works in:[/b]\n-- Normal, forced, stocks, puppy and 69 oral scenes\n-- On the player from either side\n\n[b]Optional FoxLib support:[/b]\n-- Two 0-100 sliders under mod options: how often the AI goes for the knot, and how likely the knot is to catch\n-- Without FoxLib the mod runs on its defaults (67 / 70)\n\n[b]Note:[/b]\n-- Replaces SexOral.gd, DomOralSexOnSub.gd and SixtyNine.gd, so it collides with other mods that overwrite those\n\n[i]For bug reports or feedback contact me at: xrob8370@gmail.com[/i]",
-		"author": "xrob1",
-		"modversion": "1.0",
-		"gameversion": "0.3.2",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/OralKnotting_v1.0.zip"
-	},
-	{
 		"name": "CellVisitsMod",
 		"description": "As requested, I’ve made the mechanics of visiting prisoners’ cells a separate mod.",
 		"author": "bebrenkov_01",
@@ -2417,14 +2409,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MindMiscModule.zip"
 	},
 	{
-		"name": "Insertion Bulges",
-		"description": "[b]Bodies stretch around what is inside them[/b]\nInstead of an oversized shaft drawing straight through the body it is in, the body swells around it and the inserted part is hidden.\n\n[b]New in 3.2:[/b]\n-- Rebuilt: who penetrates whom is read from the game's own scene scripts, so every scene knows where the bulge belongs\n-- Detailed drawing: the bulge copies the real outline of the cock, knots, flares and ridges included\n-- Soft, fleshy motion: bulges swell up, settle down and wobble instead of snapping from frame to frame\n-- Double penetration and spitroasts: one bulge per shaft, merging smoothly where two meet\n-- Pregnant belly: pregnant and cum-filled bellies grow, and the bulge can fade into them\n-- Throat bulges follow the neck and stay on the throat\n-- Toys: the horse and canine dildos and the hanging fuck machine bulge too\n-- Portal panties and fleshlight scenes: the bulge lands on the right body\n-- Sturdier next to other mods: it no longer replaces Part3D.gd, and a mod that breaks the game's own slot or tag scripts no longer takes this one down with it\n\n[b]Optional FoxLib support:[/b]\n-- Main options: Show bulges, Size, Drawing quality (Detailed / Simple), Soft fleshy motion, Pregnant belly, Restore recommended settings\n-- Advanced sliders for shape, motion and throat, each with a short explanation\n-- Without FoxLib the mod runs on the recommended settings\n\n[b]Requires:[/b]\n-- Advanced skin shaders enabled in Options, Display. Without them the mod does nothing.\n\n[b]Note:[/b]\n-- Remove Insertion Bulges v1.0 first: the two refuse to run together\n-- Replaces MeshWithPattern.gd and MaterialForPartWithSkin.tres, so it collides with other mods that overwrite those\n-- Clothing does not bulge, rigged clothes do not use the skin shader\n-- The BDSM machine and tentacles are not covered yet\n\n[i]For bug reports or feedback contact me at: xrob8370@gmail.com[/i]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/InsertionBulges.png]Click for Preview[/url]",
-		"author": "xrob1",
-		"modversion": "3.2",
-		"gameversion": "0.3.2",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/InsertionBulges_v3.2.zip"
-	},
-	{
 		"name": "Winters Core Module",
 		"description": "CREDIT: Code Improvements: Selinoccino\nDESCRIPTION: This contains resources my mods need to refer to to run. Using a dependency helps reduce duplicated code and reduce file size and numbers of code lines required in all my other mods.\nCOMPATABILITY: Required for all Updated Winters Mods does nothing on its own.\nCHANGELOG: Expanded templates to account for new mod updates\nNOTES: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.",
 		"author": "Avery Winters",
@@ -2439,14 +2423,6 @@
 		"modversion": "1.1",
 		"gameversion": "0.3.2",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PowerBottom_1.1.zip"
-	},
-	{
-		"name": "GunMod",
-		"description": "Adds a bunch of firearms and a full PlayerSlavery scenario built around them: \"War Draft\", a conscription story between AlphaCorp and the Syndicate. Gameplay loop is similar to the Drug Den, but WITH GUNZ.\n\nWar Draft: you get conscripted into AlphaCorp's war against the Syndicate, whether you like it or not. Run patrols and objectives for AlphaCorp under Sergeant Drask, or end up defecting to the Syndicate and Commander Vex instead. Each side tracked with its own stat, each with its own hub, and each building toward its own real finale fight.\n\nFeatures:\n- 5 new weapons: Pistol, Laser Pistol (taken from base game), Service Rifle, Energy Rifle, Marauder Rifle\n- Sold by Mirri; the 3 rifles also drop (rarely) from Drug Den junkie loot\n- New two-handed rifle hold/aim/fire animations\n- New \"War Draft\" scenario in the PlayerSlavery picker\n- Two full sides to play: stay loyal to AlphaCorp under Sergeant Drask, or defect to the Syndicate under Commander Vex\n- Each side tracked with its own stat (AlphaCorp morale / Syndicate corruption)\n- Real patrol loop: patrols, ambushes, bomb/rescue objectives, captured-soldier encounters\n- Armory restock that also heals your pain\n- Kidlat cameo\n- Conscript uniform gear\n- Two full finale boss fights, one per faction, with reactive dialogue\n- Hand scripted cool and awesome sex scenes\n- 4 distinct endings\n\n(This is my biggest project yet. Please let me know if you hit anything broken. Two base-game files are edited directly for the rifle hold poses rather than being purely additive, so this could conflict with another mod touching the same files.)\n\nGunMod awesome 1.0.2 fixes:\n-Commander Vex's sex scenes had the pose backwards from the dialogue\n-The rifle idle/aim holds didn't loop and would freeze on the last frame\n-Some sex scenes now step through separate tease/sex/fast/finish stages instead of jumping straight to one frozen pose. \n-Also fixed a soft lock where Eliza's chastity content could teleport you off map mid-scenario without properly ending it.\n\nGunMod awesome 1.0.3 fixes: \n-regular prison guards could randomly and permanently show up red on the world map caused by the Syndicate detention jailer's map color inheritance leaking into the game's normal ambient guard spawner (already red guards on existing saves stay red until they respawn).\n\nHuge thanks to this wonderful community for pointing everything up!!!\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GunMod1.png]Preview 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GunMod2.png]Preview 2[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GunMod3.png]Preview 3[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GunMod4.png]Preview 4[/url]",
-		"author": "Adria",
-		"modversion": "1.0.3",
-		"gameversion": "0.3.2",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GunMod_1.0.3.zip"
 	},
 	{
 		"name": "VoreMod",
@@ -2519,6 +2495,30 @@
 		"modversion": "1.3.2",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod.zip"
+	},
+	{
+		"name": "GunMod",
+		"description": "Adds a bunch of firearms and a full PlayerSlavery scenario built around them: \"War Draft\", a conscription story between AlphaCorp and the Syndicate. Gameplay loop is similar to the Drug Den, but WITH GUNZ.\n\nWar Draft: you get conscripted into AlphaCorp's war against the Syndicate, whether you like it or not. Run patrols and objectives for AlphaCorp under Sergeant Drask, or end up defecting to the Syndicate and Commander Vex instead. Each side tracked with its own stat, each with its own hub, and each building toward its own real finale fight.\n\nFeatures:\n- 5 new weapons: Pistol, Laser Pistol (taken from base game), Service Rifle, Energy Rifle, Marauder Rifle\n- Sold by Mirri; the 3 rifles also drop (rarely) from Drug Den junkie loot\n- New two-handed rifle hold/aim/fire animations\n- New \"War Draft\" scenario in the PlayerSlavery picker\n- Two full sides to play: stay loyal to AlphaCorp under Sergeant Drask, or defect to the Syndicate under Commander Vex\n- Each side tracked with its own stat (AlphaCorp morale / Syndicate corruption)\n- Real patrol loop: patrols, ambushes, bomb/rescue objectives, captured-soldier encounters\n- Armory restock that also heals your pain\n- Kidlat cameo\n- Conscript uniform gear\n- Two full finale boss fights, one per faction, with reactive dialogue\n- Hand scripted cool and awesome sex scenes\n- 4 distinct endings\n\n(This is my biggest project yet. Please let me know if you hit anything broken. Two base-game files are edited directly for the rifle hold poses rather than being purely additive, so this could conflict with another mod touching the same files.)\n\nGunMod awesome 1.0.2 fixes:\n-Commander Vex's sex scenes had the pose backwards from the dialogue\n-The rifle idle/aim holds didn't loop and would freeze on the last frame\n-Some sex scenes now step through separate tease/sex/fast/finish stages instead of jumping straight to one frozen pose. \n-Also fixed a soft lock where Eliza's chastity content could teleport you off map mid-scenario without properly ending it.\n\nGunMod awesome 1.0.3 fixes: \n-regular prison guards could randomly and permanently show up red on the world map caused by the Syndicate detention jailer's map color inheritance leaking into the game's normal ambient guard spawner (already red guards on existing saves stay red until they respawn).\n\nGunMod awesome 1.0.4 fixes: \n-the rifle animations didn't work at all for most players, due to a packaging mistake that pulled in a file from an unrelated mod (my mistake).\n\nHuge thanks to this wonderful community for pointing everything up!!!\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GunMod1.png]Preview 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GunMod2.png]Preview 2[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GunMod3.png]Preview 3[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GunMod4.png]Preview 4[/url]",
+		"author": "Adria",
+		"modversion": "1.0.4",
+		"gameversion": "0.3.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GunMod_1.0.4.zip"
+	},
+	{
+		"name": "Oral Knotting",
+		"description": "[b]Dependencies[/b]: none. FoxLib optional (for the two sliders)\n[b]Compatibility[/b]: MorePoses, Insertion Bulges 3.3\n\n[b]Description[/b]:\nKnots now catch in throats, not just holes. A dom with a knotted cock (canine, dragon) can pop the knot in the sub's throat as they cum, a sub can knot the dom's throat during a blowjob, and in 69 both can end up locked in each other at once. While knotted nobody can pull away or stop the scene, \"Pull out\" can fail and stretches the throat, and a throat too small for the knot chokes on it.\nFoxLib sliders: how often the AI goes for the knot, and how likely it is to catch (defaults 67 / 70).\n\n[b]Changelog 1.1[/b]:\n- Replaces no game file any more: it adds to the game's oral activities and scenes, so it works on top of mods that change them, like MorePoses\n- New knotted animation: the thrust slows and stops deep, then holds with small tugs\n- Fix: Cock and mouth now line up in every knotted pose\n\n[b]Works in[/b]: normal, forced, stocks, puppy and 69 oral scenes, plus MorePoses' table, chair and ropes. On the player from either side.\n[b]Note[/b]: remove Oral Knotting 1.0 first.\n\nBug reports or feedback: write me at xrob8370@gmail.com or Discord",
+		"author": "xrob1",
+		"modversion": "1.1",
+		"gameversion": "0.3.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/OralKnotting_v1.1.zip"
+	},
+	{
+		"name": "Insertion Bulges",
+		"description": "[b]Dependencies[/b]: none. FoxLib optional (for the options menu)\n[b]Compatibility[/b]: MorePoses, Oral Knotting 1.1\n\n[b]Description[/b]:\nInstead of an oversized cock drawing straight through the body it is in, the body swells around it and the inserted part is hidden. Works with every hole, double penetration and spitroasts (one bulge per shaft), toys, portal panties and fleshlights. Bulges copy the real outline of the cock (knots, flares, ridges), swell, settle and wobble softly, and pregnant or cum-filled bellies grow.\n\n[b]Changelog 3.3[/b]:\n- Oral has its own options page, apart from the other holes\n- Two throat bulges: Simple (one swelling down the neck, as in 3.2) or Detailed (the cock bends from the mouth down the throat, shows its shape and goes as deep as it is pushed)\n- The throat opens round the cock as it passes, wider for a knot or a flared tip (on by default)\n- The throat swallows: a small squeeze while the cock rests deep (optional, off by default, experimental)\n- New shape options: Bulge direction, Entry opens like a mouth, Round off toward the tip\n- Soft, fleshy motion keeps up during fast thrusting and at low frame rates\n- The bulge now covers the whole cock inside, so a horse's flare shows\n- Fixed SexStealth \"rub\" and RopesSex \"lick\" drawing a bulge with nothing inside\n- Fixed No anal interaction bug\n- Throat bulges in every knotted pose of Oral Knotting 1.1\n- A few old sliders were replaced by the new options\n\n[b]Requires[/b]: Advanced skin shaders enabled (Options, Display). Without them the mod does nothing.\n[b]Note[/b]: remove any older Insertion Bulges first. Replaces MeshWithPattern.gd and MaterialForPartWithSkin.tres. Clothing does not bulge.\n\nBug reports or feedback: write me at xrob8370@gmail.com or Discord\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/InsertionBulges.png]Click for Preview[/url]",
+		"author": "xrob1",
+		"modversion": "3.3",
+		"gameversion": "0.3.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/InsertionBulges_v3.3.zip"
 	}
 	]
 }
