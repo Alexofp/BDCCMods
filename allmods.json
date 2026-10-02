@@ -1073,14 +1073,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnonsAvianSpeciesV1.3.zip"
 	},
 	{
-		"name": "Winters Equine Penises",
-		"description": "A grouped mod for the various equine penis mods in a single file with skin support for almost all skins on each option.\nCOMPATABILITY: BallsExtra & Hypertus\nCHANGELOG: Hypertus compat files where never being loaded, this is now fixed.\nNOTE: @ me or make a thread if anything is broken.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersEquinePenises.png]Click for Preview[/url]",
-		"author": "Avery Winters",
-		"modversion": "1.5",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersEquinePenisesV1.5.zip"
-	},
-	{
 		"name": "NaughtyStoat Jute Harnesses",
 		"description": "Adds 3 variants of jute rope harnesses, available in multiple preset colors and manually dyeable at the uniform vendor.\n\nPawns acting as doms may have the NaughtyStoat kits as part of their inventory. They can also be purchased from the Announcer.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NaughtyStoatJuteHarnesses.png]Click for Preview[/url]\n\n[color=#CCE4FF]source code[/color] – [url=https://git.frisk.space/keerifox/BDCC-NaughtyStoatJuteHarnesses]git.frisk.space[/url]\n[color=#FFCCEA]personal website[/color] – [url=https://keeri.place]keeri.place[/url] [color=#FFCCEA]<3[/color]",
 		"author": "keerifox",
@@ -1167,14 +1159,6 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersWitheredBodypartsV1.0.zip"
-	},
-	{
-		"name": "Anons Base Species Expansion",
-		"description": "CREDIT: Original by Anon, Bodywriting by Lucci\nDESCRIPTION: A collection of bodyparts intended to expand the variety of looks for base species including sabertooths for canines and felines, jackal parts, hyena parts and the combination of equines and dragons plus!\nCHANGELOG: Published Lucci's bodywriting fix.\nNOTE: Since these run new Mod ID's doesnt hurt to back up your saves, or wait till your starting a new game to update. @ me or make a thread if anything is broken.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsBaseSpeciesExpansion.png]Click for Preview[/url]",
-		"author": "Anon, Avery Winters",
-		"modversion": "1.2",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnonsBaseSpeciesExpansionV1.2.zip"
 	},
 	{
 		"name": "Winters Southern Sergal Patch",
@@ -2401,14 +2385,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MindMiscModule.zip"
 	},
 	{
-		"name": "Winters Core Module",
-		"description": "CREDIT: Code Improvements: Selinoccino\nDESCRIPTION: This contains resources my mods need to refer to to run. Using a dependency helps reduce duplicated code and reduce file size and numbers of code lines required in all my other mods.\nCOMPATABILITY: Required for all Updated Winters Mods does nothing on its own.\nCHANGELOG: Expanded templates to account for new mod updates\nNOTES: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.",
-		"author": "Avery Winters",
-		"modversion": "1.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersCoreModuleV1.1.zip"
-	},
-	{
 		"name": "PowerBottom",
 		"description": "Allows you to use sub poses while domming. You still have control over what happens. NPCs can't use these poses, but it probably still works if you force them to using a datapack or another mod.\nNow with face sitting! Comes with the same quirks/restrictions as vanilla face sitting.\n\nPlease contact me on the discord server (@hare brained goofball ) if you have any issues.\n\nThe mod now replaces DomOralSexOnSub.gd, so any mods that change that file will be incompatible. Any mods that affect the sex engine or poses directly will probably be incompatible, and either won't do anything at all with this mod, overwrite this mod, or cause errors (Who knows?! I don't!)\n\nIf you ever want to update/change/patch this mod, feel free to, please just credit me.\n\nChangelog:\n1.1: Added face sitting, fixed switching holes in cowgirl, and fixed some flavor text that was weird or incorrect.",
 		"author": "hare brained goofball",
@@ -2527,6 +2503,38 @@
 		"modversion": "1.3.4",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod.zip"
+	},
+	{
+		"name": "Winters Equine Penises",
+		"description": "CREDIT: Code Improvements: Selinoccino\nDEPENDENCIES: Winters Core Module\nDESCRIPTION: A grouped mod for the various equine penis mods in a single file with skin support for almost all skins on each option.\nCOMPATABILITY: BallsExtra & Hypertus\nCHANGELOG: Restructured mod files and made it more efficient\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersEquinePenises.png]Click for Preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "1.6",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersEquinePenisesV1.6.zip"
+	},
+	{
+		"name": "Milking Menu Reorganizer",
+		"description": "- The mod adds sub‑categories “Manual”, “Industrial”, and “Advanced” within the milking categories for each body part, in accordance with the upgrade levels of the laboratory’s milking equipment.\n- Additionally, a button for randomly selecting one of the available scenes has been added to each category (in case you’ve watched each scene dozens of times and want a small element of surprise).\n- This mod doesn’t add any new scenes, but it serves as a good foundation for their appearance. On its own, it slightly alters the conditions for accessing vanilla scenes, making it more logical without significantly affecting the gameplay.\n\nThanks to Selinoccino for help\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MilkingMenuReorganizer.png]Click for Preview[/url]",
+		"author": "Doctorart124",
+		"modversion": "0.0.1",
+		"gameversion": "0.3.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MilkingMenuReorganizer_v0.0.1.zip"
+	},
+	{
+		"name": "Winters Core Module",
+		"description": "CREDIT: Code Improvements: Selinoccino\nDEPENDENCIES: N/A\nDESCRIPTION: This contains resources my mods need to refer to to run. Using a dependency helps reduce duplicated code and reduce file size and numbers of code lines required in all my other mods.\nCOMPATABILITY: Required for all Updated Winters Mods does nothing on its own.\nCHANGELOG: Expanded templates to account for new mod updates\nNOTES: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.",
+		"author": "Avery Winters",
+		"modversion": "1.2.5",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersCoreModuleV1.2.5.zip"
+	},
+	{
+		"name": "Anons Base Species Expansion",
+		"description": "CREDIT: Code Improvements: Selinoccino, Assets: Anon\nDEPENDENCIES: Winters Core Module\nDESCRIPTION: A collection of bodyparts intended to expand the variety of looks for base species including sabertooths for canines and felines, jackal parts, hyena parts and the combination of equines and dragons plus!\nCHANGELOG: Fixed dragon head meshes. Muzzles might still need some love\nNOTES: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsBaseSpeciesExpansion.png]Click for Preview[/url]",
+		"author": "Anon, Avery Winters",
+		"modversion": "1.5",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersBaseSpeciesExpansionV1.5.zip"
 	}
 	]
 }
