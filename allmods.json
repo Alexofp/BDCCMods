@@ -625,14 +625,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/InconvenientShowers.zip"
 	},
 	{
-		"name": "Intimidate",
-		"description": "First quick draft of something that I wanted for a long time (and I'm sure I'm far from the only one): to remove an NPC from the game after an encounter, without needing to go through the habitual hassle.\nThis first version is more of a proof of concept, it adds an \"Intimidate\" button when you talk to someone or after you defeat them (it's in the first spot for some reason, I'll check if I can put it elsewhere in a future version), and after a confirmation the NPC runs away and never is seen again.\n\nThe dialogs are practically nonexistent right now and you always succeed, but I plan to add to this mod eventually (I just wanted to share it right now for those who want something like that, then expand it as I get used with the systems I'm not yet used to):\n\nThe next versions will be taking into account your relevant reputation versus theirs (Alpha and Inmate/Staff) to make things have more or less chance to work depending on the difference, the relation between you two (an Ally wouldn't want to lose you and a Nemesis would want to take revenge, people inbetween care less), and you'd have more chance to make them flee after you've won a fight than just by talking. Perhaps even bribing or other less aggressive methods for people who don't plan to be dominant in their playthrough.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/Intimidate.png]Click for preview[/url]",
-		"author": "Raznaak",
-		"modversion": "0.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Intimidate_v0.1.zip"
-	},
-	{
 		"name": "NPC Anus Womb",
 		"description": "This adds a copy of the anus womb to the dynamic NPC generation so that approximately half the boys (any NPC without a vagina) and about a quarter of the girls (any NPC with a vagina) spawn with one\nNote: it shows up in character creation and I dont have time to fix it.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NPCAnalWomb.png]Click for Preview[/url]",
 		"author": "Avery Winters",
@@ -2441,14 +2433,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BioSkillTreeMastery.zip"
 	},
 	{
-		"name": "Winters Breast Expansion",
-		"description": "CREDIT: Code Improvements: Selinoccino, Assets: Anonomous Contributor\nDEPENDENCIES: Winters Core Module\nDESCRIPTION: Expands the base BDCC Breasts with some new options Nipples (+Inverted) and Puffy Nipples (+Inverted). Should replace base breasts during Dynamic NPC generation\nCOMPATABILITY: Hypertus, WintersFluffyBodyParts\nCHANGELOG: Fixed incorrect IDs\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersBreastExpansion.png]Click for Preview[/url]",
-		"author": "Avery Winters",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersBreastExpansionV1.0.zip"
-	},
-	{
 		"name": "SoundMod_legacy",
 		"description": "File size: 48.32MB\nThis is the all-in-one version of soundmod. Large file size!!\nThis mod implements a simple audio system, using FoxLib. WILL NOT WORK WITHOUT LATEST VERSION OF FOXLIB! There are four audio triggers for the player character: tease, pleasure, struggle, and orgasm. There are also limited sound effects which can play during sex. Settings can be adjusted in Mod Options.\n\nWhat's different from SoundMod:\n--All sound files are included in the mod, just install it and go\n--Probably maybe works on mobile\n--Can't add your own sounds\n--Fewer sound variants at slightly lower quality to reduce file size",
 		"author": "bringlebangul",
@@ -2535,6 +2519,46 @@
 		"modversion": "4.0",
 		"gameversion": "0.3.2",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/InsertionBulges_v4.0.zip"
+	},
+	{
+		"name": "Belly Overhaul",
+		"description": "DEPENDENCIES: FoxLib\nDESCRIPTION: Customize the shape of pregnant and inflated bellies. In Mod Options > Belly Overhaul:\n- Sticks out, Roundness, Height, Position, Droop: the belly's shape\n- Wobble: how much it jiggles\n- Try it on a character: a preview with your character (or a random one, from the main menu) where every slider changes the belly live. Save keeps it, Cancel throws it away.\nEvery slider at its default is the game's own belly. One shape for every character.\nCOMPATIBILITY: Replaces no game files, so it should play nice with other mods (species packs, Hypertus, InsertionBulges). Delete the zip to get the vanilla belly back.\nNOTE: Found a bug? Tell me the character, the scene and your slider values!\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BellyOverhaul.png]Click for Preview[/url]",
+		"author": "xrob1",
+		"modversion": "1.0",
+		"gameversion": "0.3.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BellyOverhaul_v1.0.zip"
+	},
+	{
+		"name": "Winters Breast Expansion",
+		"description": "CREDIT: Code Improvements: Selinoccino, Assets: Anonomous Contributor\nDEPENDENCIES: Winters Core Module\nDESCRIPTION: Expands the base BDCC Breasts with some new options Nipples (+Inverted) and Puffy Nipples (+Inverted). Should replace base breasts during Dynamic NPC generation\nCOMPATABILITY: Hypertus, WintersFluffyBodyParts\nCHANGELOG: Fixed Hypertus Compats\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersBreastExpansion.png]Click for Preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersBreastExpansionV1.1.zip"
+	},
+	{
+		"name": "Get A Haircut",
+		"description": "Requires FoxLib to actually do anything.\n\nAllows you to restrict which hairstyles (new) NPCs can spawn with. Configure in FoxLib's mod options (turn advanced options on!).\n\nFor feedback, bug reports, etc., ping me",
+		"author": "Selinoccino",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GetAHaircut.zip"
+	},
+	{
+		"name": "Intimidate",
+		"description": "First quick draft of something that I wanted for a long time (and I'm sure I'm far from the only one): to remove an NPC from the game after an encounter, without needing to go through the habitual hassle.\nThis first version is more of a proof of concept, it adds an \"Intimidate\" button when you talk to someone or after you defeat them (it's in the first spot for some reason, I'll check if I can put it elsewhere in a future version), and after a confirmation the NPC runs away and never is seen again.\n\nThe dialogs are practically nonexistent right now and you always succeed, but I plan to add to this mod eventually (I just wanted to share it right now for those who want something like that, then expand it as I get used with the systems I'm not yet used to):\n\nThe next versions will be taking into account your relevant reputation versus theirs (Alpha and Inmate/Staff) to make things have more or less chance to work depending on the difference, the relation between you two (an Ally wouldn't want to lose you and a Nemesis would want to take revenge, people inbetween care less), and you'd have more chance to make them flee after you've won a fight than just by talking. Perhaps even bribing or other less aggressive methods for people who don't plan to be dominant in their playthrough.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/Intimidate.png]Click for preview[/url]",
+		"author": "Raznaak",
+		"modversion": "0.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Intimidate_v0.1.zip"
+	},
+	{
+		"name": "Intimidate in Prostitution",
+		"description": "Dependencies: Intimidate_v0.1.zip\n\nAdd-on for the Intimidate mod that enables intimidation during prostitution. If you meet someone you really don't want to see again, kick them out right from the prostitution menu.\n\nMust have the Intimidate mod enabled for this to work.\n\nModifies/overwrites the prostitution interaction file to add the action. If the file is modified in future updates, this will likely break things until updated.\n\n1.0: Released for 0.3.2.\nReport issues to [url=https://github.com/ethengart/EGBDCCMods]https://github.com/ethengart/EGBDCCMods[/url] (or discord DM)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/IntimidateProst.png]Click for Preview[/url]",
+		"author": "EthenGart",
+		"modversion": "1.0",
+		"gameversion": "0.3.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/IntimidateProst.zip"
 	}
 	]
 }
