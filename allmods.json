@@ -2559,6 +2559,14 @@
 		"modversion": "1.0",
 		"gameversion": "0.3.2",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/IntimidateProst.zip"
+	},
+	{
+		"name": "Encounter Premonition",
+		"description": "Allows you to:\n- Edit encounter settings when starting a new game\n- Save and load custom presets for them\n- Set a preset as default for starting new games\n\n(access from Me -> Encounters -> Edit presets)\nFor feedback, bug reports, etc., ping me",
+		"author": "Selinoccino",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RAT_EncounterPremonition.zip"
 	}
 	]
 }
