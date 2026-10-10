@@ -1641,14 +1641,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsInsectSpecies_v1.0.zip"
 	},
 	{
-		"name": "Sugerør's Species Pack",
-		"description": "Adds Bears, Crocodiles, Fossas, Lizards and Otters to the game. If you have any suggestions or notice any issues, just yell at me ^^\nNew: Added a new race: the otters! I've redrawn the all crocodile heads and added a new lizard head.  Orcs have also been separated into it's own mod\nPlanned: More lizard parts and maybe redraw some of the older parts\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrSpeciesPack.png]Click for Preview[/url]",
-		"author": "Sugerør",
-		"modversion": "1.5",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SugerrSpeciesPackV1.5.zip"
-	},
-	{
 		"name": "Sugerør's Orc Species",
 		"description": "Adds Orcs to the game. If you have any suggestions or notice any issues, just yell at me ^^\nNew: Separated orcs from my species pack\nPlanned: Redraw some of the orc heads, I might also add drows or something\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrHumanoidSpecies.png]Click for Preview[/url]",
 		"author": "Sugerør",
@@ -2567,6 +2559,14 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RAT_EncounterPremonition.zip"
+	},
+	{
+		"name": "Sugerør's Species Pack",
+		"description": "Adds Bears, Crocodiles, Fossas, Lizards and Otters to the game. If you have any suggestions or notice any issues, just yell at me ^^\nNew: Added new crocodile and bear parts\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrSpeciesPack.png]Click for Preview[/url]",
+		"author": "Sugerør",
+		"modversion": "1.6",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SugerrSpeciesPackV1.6.zip"
 	}
 	]
 }
