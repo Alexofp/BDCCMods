@@ -4710,6 +4710,54 @@
 			"requiredMods": [
 
 			]
+		},
+		{
+			"id": "Liliasdatapacktwst",
+			"name": "LiliasDatapackTwst",
+			"author": "Hades",
+			"version": "1.0",
+			"description": "adds Lilia Vanrouge from twisted wonderland.(first time making a data pack be patient please)",
+			"contains": "Contains: 1 character",
+			"download": "datapacks/Liliasdatapacktwst.res",
+			"lastedit": 1791694463,
+			"filesize": 5519,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"HumanoidEars1.zip",
+				"MoldyBodypartExpansion_v2.3.zip",
+				"WintersBreastExpansionV1.1.zip",
+				"SongshairPack_v1.8.zip",
+				"SleppaStartingPerks.zip",
+				"SugerrStartingPerksV1.0.zip",
+				"TessStartPerkv0.1.1fix.zip",
+				"MoreStartingPerks.zip"
+			]
+		},
+		{
+			"id": "Scaled_Skins",
+			"name": "Scaled Skins",
+			"author": "Astro",
+			"version": "1.0",
+			"description": "Credit goes to Sugarr, as the Dragon Scaled skins are based off of theirs. (I mostly just removed the large scale plates and fixed the color bleeding in the borders.)",
+			"contains": "Contains: 1 skin",
+			"download": "datapacks/Scaled_Skins.res",
+			"lastedit": 1791694467,
+			"filesize": 186769,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/Scaled_Skins.png"
 		}
 	]
 }
