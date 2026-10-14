@@ -2337,14 +2337,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RAT_Pickpocket.zip"
 	},
 	{
-		"name": "SongsHoofySpecies",
-		"description": "※ Description \n- Adds 5 new species: Cow, Deer, Goat, Pig, Sheep\n- Adds some horns, hoofs, tails, ears that are shared by these species\n- Cows will spawn with equine penis by default\n(if SongsVanillaParts mod is active, \"Horse penis alt\" will set by default)\n- Deer, goats, pigs will spawn with human penis by default\n(if SongsVanillaParts mod is active, Deer can get \"Horse penis alt\")\n- Compatible mods: Hypertus, Racebonus\n\n※ Original mods\n- The original Deer and Bovine mods by Avery Winters were incorporated in this mod, so you can select the parts from those mods with my cows and deer species, and also these species can spawn with those parts, except for the head and hoofs parts.\n- As the Incorporation, i kept the original Deer and Bovine species in this mod, so you can select those species and also don’t have to worry about your ongoing or past characters that used those species. However, these two species won’t spawn as a random NPC anymore to prevent confusion.\n- The Sheep species mod by Thagalor and Avery WInter has incorporated in this mod\n\n※ Update (0.9.6)\n- Integrated Sheep species mod by Thegaltor and Avery Winter\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsHoofySpecies.png]Click for Preview[/url]",
-		"author": "SongJo",
-		"modversion": "0.9.6",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsHoofySpecies_v0.9.6.zip"
-	},
-	{
 		"name": "Anons Base Species Expansion",
 		"description": "CREDIT: Code Improvements: Selinoccino, Assets: Anon\nDEPENDENCIES: Winters Core Module\nDESCRIPTION: A collection of bodyparts intended to expand the variety of looks for base species including sabertooths for canines and felines, jackal parts, hyena parts and the combination of equines and dragons plus!\nCHANGELOG: refined code and added dependency\nNOTES: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersBaseSpeciesExpansion.png]Click for Preview[/url]",
 		"author": "Avery Winters, Selinoccino, Anon",
@@ -2567,6 +2559,14 @@
 		"modversion": "1.1.0",
 		"gameversion": "0.3.2",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/IssixMod.zip"
+	},
+	{
+		"name": "SongsHoofySpecies",
+		"description": "※ Description \n- Adds 5 new species: Cow, Deer, Goat, Pig, Sheep\n- Adds some horns, hoofs, tails, ears that are shared by these species\n- Cows will spawn with equine penis by default\n(if SongsVanillaParts mod is active, \"Horse penis alt\" will set by default)\n- Deer, goats, pigs will spawn with human penis by default\n(if SongsVanillaParts mod is active, Deer can get \"Horse penis alt\")\n- Compatible mods: Hypertus, Racebonus, Wintersfluffyparts, WintersBreastExpansion\n\n※ Original mods\n- The original Deer and Bovine mods by Avery Winters were incorporated in this mod, so you can select the parts from those mods with my cows and deer species, and also these species can spawn with those parts, except for the head and hoofs parts.\n- As the Incorporation, i kept the original Deer and Bovine species in this mod, so you can select those species and also don’t have to worry about your ongoing or past characters that used those species. However, these two species won’t spawn as a random NPC anymore to prevent confusion.\n- The Sheep species mod by Thagalor and Avery WInter has incorporated in this mod\n\n※ Update (0.9.7)\n- fixed sheep breasts issue\n- added balls extra compatibility to sheep species\n- added WIntersFluffyparts and breastexpansion compatibility (they will spawn with the modded bodyparts)\n- minor fixes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsHoofySpecies.png]Click for Preview[/url]",
+		"author": "SongJo",
+		"modversion": "0.9.7",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsHoofySpecies_v0.9.7.zip"
 	}
 	]
 }
