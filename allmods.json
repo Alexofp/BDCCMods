@@ -2556,7 +2556,7 @@
 		"name": "UwuSpeak",
 		"description": "Adds a starting perk that allows you to speak like those internet catfolk.\nConfigurable with RodentUtils (which isn't required), which can allow you to make NPCs and the player use UwuSpeak under some conditions, or change how UwuSpeak affects your speech.\n\nVersion 1.3.1:\n- Now uses RodentUtils.\n\nEnjoy, and please tell me of any issues!\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/UwuSpeak.png]Click for Preview[/url]",
 		"author": "Selinoccino",
-		"modversion": "1.3",
+		"modversion": "1.3.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/UwuSpeak_v1.3.zip"
 	},
