@@ -2385,54 +2385,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BioSkillTreeMastery.zip"
 	},
 	{
-		"name": "SoundMod_legacy",
-		"description": "File size: 48.32MB\nThis is the all-in-one version of soundmod. Large file size!!\nThis mod implements a simple audio system, using FoxLib. WILL NOT WORK WITHOUT LATEST VERSION OF FOXLIB! There are four audio triggers for the player character: tease, pleasure, struggle, and orgasm. There are also limited sound effects which can play during sex. Settings can be adjusted in Mod Options.\n\nWhat's different from SoundMod:\n--All sound files are included in the mod, just install it and go\n--Probably maybe works on mobile\n--Can't add your own sounds\n--Fewer sound variants at slightly lower quality to reduce file size",
-		"author": "bringlebangul",
-		"modversion": "0.7",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_legacy.zip"
-	},
-	{
-		"name": "SoundMod Effects",
-		"description": "Size: 11MB. Go to Mod Options, click the button to open audio folder, and extract the .zip files there. Then restart the game. [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction1.png]Instruction 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction2.png]Instruction 2[/url]",
-		"author": "bringlebangul",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_Effects.zip"
-	},
-	{
-		"name": "SoundMod Fem",
-		"description": "Size: 11MB. Go to Mod Options, click the button to open audio folder, and extract the .zip files there. Then restart the game. [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction1.png]Instruction 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction2.png]Instruction 2[/url]",
-		"author": "bringlebangul",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_pack_fem-1.zip"
-	},
-	{
-		"name": "SoundMod Masc",
-		"description": "Size: 6MB. Go to Mod Options, click the button to open audio folder, and extract the .zip files there. Then restart the game. [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction1.png]Instruction 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction2.png]Instruction 2[/url]",
-		"author": "bringlebangul",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_pack_masc-1.zip"
-	},
-	{
-		"name": "SoundMod BGM",
-		"description": "Size: 500KB. Go to Mod Options, click the button to open audio folder, and extract the .zip files there. Then restart the game. [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction1.png]Instruction 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction2.png]Instruction 2[/url]",
-		"author": "bringlebangul",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_BGM.zip"
-	},
-	{
-		"name": "SoundMod",
-		"description": "This mod implements a simple audio system, using FoxLib. There are four audio triggers for the player character: tease, pleasure, struggle, and orgasm. There are also limited sound effects which can play during sex. There's an experimental setting for adding BGM. Settings can be adjusted in Mod Options. Audio files not included due to file size, they are now downloaded seperately.\n\nFeatures:\n-- Four sound effects plus a gagged variant of each! Tease, struggle, pleasure, and orgasm\n-- Limited sound effects for spanking, adding restraints, cum/squirt, light plaps\n-- Add your own sounds! Drop them in the proper audio folder and they'll get loaded! Check the README!\n-- Audio sold seperately, the file size is too big\n-- Button in Mod Options to handle unzipping - use it as a last resort, it works but just barely\n-- Guaranteed to break at some point, seriously this mod is held together by a thread\n-- This relies on using GameExtenders.gd to hook into the game. Therefore, it will not work properly with pre-written scenes\n\nCredits:\nOpenNSFW sound pack | JeremyColeNSFW | LewdKitzu | VelvetSheetzVA | geministarsign1\nShared under Creative Commons license -- [url=https://opennsfw.carrd.co/]https://opennsfw.carrd.co/[/url]\n\nChangelog v1.3.4:\n-- Bugfix, check for some sounds was on the wrong line, should fix sounds playing where they should not\n-- known issue: Some sexActivity don't have proper tags, so sounds may not trigger at the right time (DomOralOnSub, possibly more?)\n-- still haven't figured out the cause of leash/bondage sfx repeating multiple times\n\n(not compatible with in-browser. android compatibility seems to vary, try it and see. Or, try the SoundMod legacy version.)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SoundMod.png]Click for Preview[/url]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SoundMod2.png]Click for Preview 2[/url]",
-		"author": "bringlebangul",
-		"modversion": "1.3.4",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod.zip"
-	},
-	{
 		"name": "Winters Equine Penises",
 		"description": "CREDIT: Code Improvements: Selinoccino\nDEPENDENCIES: Winters Core Module\nDESCRIPTION: A grouped mod for the various equine penis mods in a single file with skin support for almost all skins on each option.\nCOMPATABILITY: BallsExtra & Hypertus\nCHANGELOG: Restructured mod files and made it more efficient\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersEquinePenises.png]Click for Preview[/url]",
 		"author": "Avery Winters",
@@ -2447,14 +2399,6 @@
 		"modversion": "0.0.1",
 		"gameversion": "0.3.2",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MilkingMenuReorganizer_v0.0.1.zip"
-	},
-	{
-		"name": "Winters Core Module",
-		"description": "CREDIT: Code Improvements: Selinoccino\nDEPENDENCIES: N/A\nDESCRIPTION: This contains resources my mods need to refer to to run. Using a dependency helps reduce duplicated code and reduce file size and numbers of code lines required in all my other mods.\nCOMPATABILITY: Required for all Updated Winters Mods does nothing on its own.\nCHANGELOG: Expanded templates to account for new mod updates\nNOTES: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.",
-		"author": "Avery Winters",
-		"modversion": "1.2.5",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersCoreModuleV1.2.5.zip"
 	},
 	{
 		"name": "Anons Base Species Expansion",
@@ -2575,6 +2519,70 @@
 		"modversion": "0.9",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RodentUtils_v0.9.zip"
+	},
+	{
+		"name": "Winters Core Module",
+		"description": "CREDIT: Code Improvements: Selinoccino\nDEPENDENCIES: N/A\nDESCRIPTION: This contains resources my mods need to refer to to run. Using a dependency helps reduce duplicated code and reduce file size and numbers of code lines required in all my other mods.\nCOMPATABILITY: Required for all Updated Winters Mods does nothing on its own.\nCHANGELOG: Expanded templates to account for new mod updates\nNOTES: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.",
+		"author": "Avery Winters",
+		"modversion": "1.4",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersCoreModuleV1.4.zip"
+	},
+	{
+		"name": "Winters Expanded Penises",
+		"description": "CREDIT:  Selinoccino designed automatic compatability patches for both BallsExtra & Hypertus in addition to the mod options.\nDEPENDENCIES: Winters Core Module\nDESCRIPTION: A grouped mod of all the penises I am maintaining. Includes mod options for disabling penises to customise whats available.\nCOMPATABILITY: BallsExtra, Hypertus, RodentUtils\nThis mod replaces all my other penis mods and should not be ran alongside them.\nCHANGELOG: Merged all the penis mods I was maintaining\nNOTES: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersExpandedPenises.png]Click for Preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersExpandedPenises1.0.zip"
+	},
+	{
+		"name": "SoundMod_legacy",
+		"description": "File size: 32.6MB\nDependencies: Foxlib v0.10.7+\n\nDescription:\nThis is the all-in-one version of soundmod. Large file size!!\nThis mod implements a simple audio system, using FoxLib v0.10.7. There are four audio triggers for the player character: tease, pleasure, struggle, and orgasm. There are also limited sound effects which can play during sex. Audio files are included but are highly compressed - you may hear a worse sound quality. Settings can be adjusted in Mod Options.\n\nWhat's different from SoundMod:\n-- All sound files are included in the mod, just install it and go (probably maybe works on mobile)\n-- Can't add your own sounds\n-- No BGM system\n-- Fewer sound variants and sounds are lower quality to reduce file size\n\nChangelog v0.8:\n-- Updated to add a bunch of stuff that has since been added to the main soundmod\n-- All the code/scripting should now be equivalent to main soundmod (except custom sounds and BGM which are not supported in legacy)\n-- You can now plap in legacy version, yay!\n-- Got more agressive with compression, you might hear a difference but it was needed to keep the file size down\n-- Legacy and main soundmod will now detect each other and warn you not to install both at the same time (by the way, don't install both at the same time, it will break) ",
+		"author": "bringlebangul",
+		"modversion": "0.8",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_legacy.zip"
+	},
+	{
+		"name": "SoundMod Effects",
+		"description": "Size: 11MB. Go to Mod Options, click the button to open audio folder, and extract the .zip files there. Then restart the game. [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction1.png]Instruction 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction2.png]Instruction 2[/url]",
+		"author": "bringlebangul",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_Effects.zip"
+	},
+	{
+		"name": "SoundMod Fem",
+		"description": "Size: 8MB. Go to Mod Options, click the button to open audio folder, and extract the .zip files there. Then restart the game. [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction1.png]Instruction 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction2.png]Instruction 2[/url]",
+		"author": "bringlebangul",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_pack_fem-1.zip"
+	},
+	{
+		"name": "SoundMod Masc",
+		"description": "Size: 6MB. Go to Mod Options, click the button to open audio folder, and extract the .zip files there. Then restart the game. [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction1.png]Instruction 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction2.png]Instruction 2[/url]",
+		"author": "bringlebangul",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_pack_masc-1.zip"
+	},
+	{
+		"name": "SoundMod BGM",
+		"description": "Size: 500KB. Go to Mod Options, click the button to open audio folder, and extract the .zip files there. Then restart the game. [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction1.png]Instruction 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/soundmod_instruction2.png]Instruction 2[/url]",
+		"author": "bringlebangul",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_BGM.zip"
+	},
+	{
+		"name": "SoundMod",
+		"description": "Dependencies: FoxLib v0.10.7+\n\nThis mod implements a simple audio system, using FoxLib. There are four audio triggers for the player character: tease, pleasure, struggle, and orgasm. There are also limited sound effects which can play during sex. There's an experimental setting for adding BGM. Settings can be adjusted in Mod Options. Audio files not included due to file size, they are now downloaded seperately.\n\nFeatures:\n-- Four sound effects plus a gagged variant of each! Tease, struggle, pleasure, and orgasm\n-- Limited sound effects for spanking, adding restraints, cum/squirt, light plaps\n-- Add your own sounds! Drop them in the proper audio folder and they'll get loaded! Check the README!\n-- Audio sold seperately, the file size is too big\n-- Button in Mod Options to handle unzipping - use it as a last resort, it works but just barely\n-- Guaranteed to break at some point, seriously this mod is held together by a thread\n-- This relies on using GameExtenders.gd to hook into the game. Therefore, it will not work properly with pre-written scenes\n\nCredits:\nOpenNSFW sound pack | JeremyColeNSFW | LewdKitzu | VelvetSheetzVA | geministarsign1\nShared under Creative Commons license -- [url=https://opennsfw.carrd.co/]https://opennsfw.carrd.co/[/url]\n\nChangelog v1.3.5:\n-- Bugfix to hopefully get rid of leash/bondage sfx repeating 5 times\n-- Changed (almost) all the help pop-ups to use Godot controls, with the same UI style as the game. It just looks nicer.\n-- BIG FIX! Automatically detect and copy/paste one-deep nested folders. No more 'Mods/SoundMod_Effects/SoundMod_Effects/'\n-- Possible issue: mod not finding BGM due to missing / (couldn't recreate, plz don't be Unix bug)\n\n(not compatible with in-browser. android compatibility seems to vary, try it and see. Or, try the SoundMod legacy version.)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SoundMod.png]Click for Preview[/url]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SoundMod2.png]Click for Preview 2[/url]",
+		"author": "bringlebangul",
+		"modversion": "1.3.5",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod.zip"
 	}
 	]
 }
