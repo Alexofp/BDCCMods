@@ -2289,14 +2289,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MDCC.zip"
 	},
 	{
-		"name": "Horsecock Dildo Punishment",
-		"description": "Instead of the horsecock dildo only ever being something the player rides on themselves, this mod lets you force one of your slaves onto it instead.\n\nAdds \"Horsecock dildo\" as a new Punish action in the slave management menu, right alongside things like Wooden Horse and Stocks. Requires owning a Horsecock dildo item first.\n\nThe scene mirrors the item's own solo riding scene. Their reaction (fighting it, whimpering through it, etc) branches based on their actual resistance, fear, and broken spirit stats, same as the game's other slave punishments do.\n\nIt's built on the NpcSlave/SlaveActionBase system, so it won't show up on regular pawns (if you request this change I will do it ; in the future I could also experiment with new animations).\n\n(This shouldn't conflict with anything else. If a line doesn't fit a particular slave's anatomy or a state branch reads oddly, let me know what the slave's state was at the time.)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HorsecockDildoPunishment.png]Click for Preview[/url]",
-		"author": "Adria",
-		"modversion": "1.0.0",
-		"gameversion": "0.3.2",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HorsecockDildoPunishment.zip"
-	},
-	{
 		"name": "Permanent Chastity Belt",
 		"description": "Adds a new Permanent Chastity Belt item to BDCC, based on the original Chasitybelt mod. The new variant is designed specifically for enslaved NPCs and introduces a password-protected locking system that prevents the restraint from being removed through normal game mechanics.\n\nThe Permanent Chastity Belt occupies the Underwear Bottom slot and reuses the original mod's 3D model and inventory image. It is treated as an important and persistent item, allowing its locked state and password hash to remain properly stored when saving and loading the game.\n\nThe belt is obtained through the Announcer/Fight Club shop for 100 credits. It uses BDCC's SoldByTheAnnouncer item tag and can be managed through the dedicated Permanent chastity belt slave action.\n\nWhen applying the belt to an NPC, the player must create and confirm a password containing at least four characters. The password is not stored in plain text; instead, the mod generates a SHA-256 hash with a dedicated salt and stores the resulting hash with the item. This allows the password lock to persist between saves without storing the original password.\nOnce the Permanent Chastity Belt has been locked onto an NPC, the NPC cannot remove it by struggling, restraint keys, normal inventory management, or other standard removal methods. The item's normal equip and unequip behavior is intentionally redirected to a separate scene so that the password system cannot be bypassed through BDCC's regular inventory interface.\n\nTo remove the belt, the player must use the Permanent chastity belt slave action and enter the exact password configured when the belt was equipped. If the password is correct, the belt is unlocked and removed from the NPC, the stored password hash is cleared, and the belt is returned to the player's inventory so it can be configured with a new password later.\n\nThe mod also includes an automatic protection system. If another game system accidentally removes a locked Permanent Chastity Belt from the NPC's Underwear Bottom slot and places it into the NPC's inventory, the mod detects the locked item and attempts to equip it again automatically. This helps maintain the permanent restraint state during normal gameplay.\n\nThe Permanent Chastity Belt cannot be force-equipped onto NPCs through standard force-equipping systems, and it cannot accidentally be equipped by the player. Password configuration is mandatory before the restraint can be applied.\n\nThe original Chasitybelt item is preserved, meaning the mod adds the permanent variant without replacing or modifying the original item. The package also integrates with BDCC through its module, slave-action, scene, and game-extender systems without modifying the game's original files.\nFeatures:\nNew Permanent Chastity Belt item.\nPassword-protected locking system.\nMinimum password length of 4 characters.\nPassword confirmation when applying the belt.\nPassword stored as a salted SHA-256 hash rather than plain text.\nPassword lock persists through save/load.\nNPCs cannot remove the belt by struggling.\nRestraint keys cannot unlock the belt.\nNormal inventory management cannot remove the locked belt.\nDedicated Permanent chastity belt slave action for equipping and unlocking.\nAutomatic re-equipping if another game system removes the locked belt.\nUses the original Chasitybelt 3D model.\nUses the original inventory image.\nOccupies the Underwear Bottom slot.\nMarked as Important and Persistent.\nSold through the Announcer/Fight Club shop for 100 credits.\nOriginal Chasitybelt item remains available.\nCannot be force-equipped onto NPCs.\nCannot accidentally be equipped on the player.\nReturns to the player's inventory after successful unlocking.\nPassword is reset after the belt is unlocked.\nImplemented as an independent BDCC module without modifying the game's original files.",
 		"author": "El_Mister_SJ",
@@ -2311,14 +2303,6 @@
 		"modversion": "0.9.2",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RAT_Pickpocket.zip"
-	},
-	{
-		"name": "Anons Base Species Expansion",
-		"description": "CREDIT: Code Improvements: Selinoccino, Assets: Anon\nDEPENDENCIES: Winters Core Module\nDESCRIPTION: A collection of bodyparts intended to expand the variety of looks for base species including sabertooths for canines and felines, jackal parts, hyena parts and the combination of equines and dragons plus!\nCHANGELOG: refined code and added dependency\nNOTES: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersBaseSpeciesExpansion.png]Click for Preview[/url]",
-		"author": "Avery Winters, Selinoccino, Anon",
-		"modversion": "1.4",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersBaseSpeciesExpansionV1.4.zip"
 	},
 	{
 		"name": "Mind Misc Module",
@@ -2425,14 +2409,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BellyOverhaul_v1.0.zip"
 	},
 	{
-		"name": "Winters Breast Expansion",
-		"description": "CREDIT: Code Improvements: Selinoccino, Assets: Anonomous Contributor\nDEPENDENCIES: Winters Core Module\nDESCRIPTION: Expands the base BDCC Breasts with some new options Nipples (+Inverted) and Puffy Nipples (+Inverted). Should replace base breasts during Dynamic NPC generation\nCOMPATABILITY: Hypertus, WintersFluffyBodyParts\nCHANGELOG: Fixed Hypertus Compats\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersBreastExpansion.png]Click for Preview[/url]",
-		"author": "Avery Winters",
-		"modversion": "1.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersBreastExpansionV1.1.zip"
-	},
-	{
 		"name": "Intimidate",
 		"description": "First quick draft of something that I wanted for a long time (and I'm sure I'm far from the only one): to remove an NPC from the game after an encounter, without needing to go through the habitual hassle.\nThis first version is more of a proof of concept, it adds an \"Intimidate\" button when you talk to someone or after you defeat them (it's in the first spot for some reason, I'll check if I can put it elsewhere in a future version), and after a confirmation the NPC runs away and never is seen again.\n\nThe dialogs are practically nonexistent right now and you always succeed, but I plan to add to this mod eventually (I just wanted to share it right now for those who want something like that, then expand it as I get used with the systems I'm not yet used to):\n\nThe next versions will be taking into account your relevant reputation versus theirs (Alpha and Inmate/Staff) to make things have more or less chance to work depending on the difference, the relation between you two (an Ally wouldn't want to lose you and a Nemesis would want to take revenge, people inbetween care less), and you'd have more chance to make them flee after you've won a fight than just by talking. Perhaps even bribing or other less aggressive methods for people who don't plan to be dominant in their playthrough.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/Intimidate.png]Click for preview[/url]",
 		"author": "Raznaak",
@@ -2473,14 +2449,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/IssixMod.zip"
 	},
 	{
-		"name": "SongsHoofySpecies",
-		"description": "※ Description \n- Adds 5 new species: Cow, Deer, Goat, Pig, Sheep\n- Adds some horns, hoofs, tails, ears that are shared by these species\n- Cows will spawn with equine penis by default\n(if SongsVanillaParts mod is active, \"Horse penis alt\" will set by default)\n- Deer, goats, pigs will spawn with human penis by default\n(if SongsVanillaParts mod is active, Deer can get \"Horse penis alt\")\n- Compatible mods: Hypertus, Racebonus, Wintersfluffyparts, WintersBreastExpansion\n\n※ Original mods\n- The original Deer and Bovine mods by Avery Winters were incorporated in this mod, so you can select the parts from those mods with my cows and deer species, and also these species can spawn with those parts, except for the head and hoofs parts.\n- As the Incorporation, i kept the original Deer and Bovine species in this mod, so you can select those species and also don’t have to worry about your ongoing or past characters that used those species. However, these two species won’t spawn as a random NPC anymore to prevent confusion.\n- The Sheep species mod by Thagalor and Avery WInter has incorporated in this mod\n\n※ Update (0.9.7)\n- fixed sheep breasts issue\n- added balls extra compatibility to sheep species\n- added WIntersFluffyparts and breastexpansion compatibility (they will spawn with the modded bodyparts)\n- minor fixes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsHoofySpecies.png]Click for Preview[/url]",
-		"author": "SongJo",
-		"modversion": "0.9.7",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsHoofySpecies_v0.9.7.zip"
-	},
-	{
 		"name": "CondomSabotage",
 		"description": "Adds the ability to sabotage a used condom from your inventory, increasing the chance it breaks when used.\n\nVersion 1.0.1:\n- Now (slightly) configurable with RodentUtils",
 		"author": "Selinoccino",
@@ -2511,14 +2479,6 @@
 		"modversion": "0.9",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RodentUtils_v0.9.zip"
-	},
-	{
-		"name": "Winters Core Module",
-		"description": "CREDIT: Code Improvements: Selinoccino\nDEPENDENCIES: N/A\nDESCRIPTION: This contains resources my mods need to refer to to run. Using a dependency helps reduce duplicated code and reduce file size and numbers of code lines required in all my other mods.\nCOMPATABILITY: Required for all Updated Winters Mods does nothing on its own.\nCHANGELOG: Expanded templates to account for new mod updates\nNOTES: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.",
-		"author": "Avery Winters",
-		"modversion": "1.4",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersCoreModuleV1.4.zip"
 	},
 	{
 		"name": "Winters Expanded Penises",
@@ -2583,6 +2543,46 @@
 		"modversion": "1.3.2",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PlayerPortrait_v1.3.2.zip"
+	},
+	{
+		"name": "Winters Core Module",
+		"description": "CREDIT: Code Improvements: Selinoccino\nDEPENDENCIES: N/A\nDESCRIPTION: This contains resources my mods need to refer to to run. Using a dependency helps reduce duplicated code and reduce file size and numbers of code lines required in all my other mods.\nCOMPATABILITY: Required for all Updated Winters Mods does nothing on its own.\nCHANGELOG: Expanded templates to account for new mod updates\nNOTES: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.",
+		"author": "Avery Winters",
+		"modversion": "1.5",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersCoreModuleV1.5.zip"
+	},
+	{
+		"name": "Winters Breast Expansion",
+		"description": "CREDIT: Code Improvements: Selinoccino, Assets: Anonomous Contributor\nDEPENDENCIES: Winters Core Module\nDESCRIPTION: Expands the base BDCC Breasts with some new options Nipples (+Inverted) and Puffy Nipples (+Inverted). Should replace base breasts during Dynamic NPC generation\nCOMPATABILITY: Hypertus, WintersFluffyBodyParts\nCHANGELOG: Fixed Hypertus Compats\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersBreastExpansion.png]Click for Preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "1.3",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersBreastExpansionV1.3.zip"
+	},
+	{
+		"name": "Anons Base Species Expansion",
+		"description": "CREDIT: Code Improvements: Selinoccino, Assets: Anon\nDEPENDENCIES: Winters Core Module\nDESCRIPTION: A collection of bodyparts intended to expand the variety of looks for base species including sabertooths for canines and felines, jackal parts, hyena parts and the combination of equines and dragons plus!\nCHANGELOG: Fixed dragon head meshes. Muzzles might still need some love\nNOTES: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersBaseSpeciesExpansion.png]Click for Preview[/url]",
+		"author": "Avery Winters, Selinoccino, Anon",
+		"modversion": "1.6",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersBaseSpeciesExpansionV1.6.zip"
+	},
+	{
+		"name": "Horsecock Dildo Punishment",
+		"description": "Instead of the horsecock dildo only ever being something the player rides on themselves, this mod lets you force one of your slaves onto it instead.\n\nAdds \"Horsecock dildo\" as a new Punish action in the slave management menu, right alongside things like Wooden Horse and Stocks. Requires owning a Horsecock dildo item first.\n\nThe scene mirrors the item's own solo riding scene. Their reaction (fighting it, whimpering through it, etc) branches based on their actual resistance, fear, and broken spirit stats, same as the game's other slave punishments do.\n\nIt's built on the NpcSlave/SlaveActionBase system, so it won't show up on regular pawns (if you request this change I will do it ; in the future I could also experiment with new animations).\n\n(This shouldn't conflict with anything else. If a line doesn't fit a particular slave's anatomy or a state branch reads oddly, let me know what the slave's state was at the time.)\n\n1.0.1 changes: the mod is now packaged correctly and should work as intended\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HorsecockDildoPunishment.png]Click for Preview[/url]",
+		"author": "Adria",
+		"modversion": "1.0.1",
+		"gameversion": "0.3.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HorsecockDildoPunishment_1.0.1.zip"
+	},
+	{
+		"name": "SongsHoofySpecies",
+		"description": "※ Description \n- Adds 5 new species: Cow, Deer, Goat, Pig, Sheep\n- Adds some horns, hoofs, tails, ears that are shared by these species\n- Cows will spawn with equine penis by default\n(if SongsVanillaParts mod is active, \"Horse penis alt\" will set by default)\n- Deer, goats, pigs will spawn with human penis by default\n(if SongsVanillaParts mod is active, Deer can get \"Horse penis alt\")\n- Compatible mods: Hypertus, Racebonus, Wintersfluffyparts, WintersBreastExpansion\n\n※ Original mods\n- The original Deer and Bovine mods by Avery Winters were incorporated in this mod, so you can select the parts from those mods with my cows and deer species, and also these species can spawn with those parts, except for the head and hoofs parts.\n- As the Incorporation, i kept the original Deer and Bovine species in this mod, so you can select those species and also don’t have to worry about your ongoing or past characters that used those species. However, these two species won’t spawn as a random NPC anymore to prevent confusion.\n- The Sheep species mod by Thagalor and Avery WInter has incorporated in this mod\n\n※ Update (0.9.7fix1)\n- fixed the sheep penis wont work with balls extra mod\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsHoofySpecies.png]Click for Preview[/url]",
+		"author": "SongJo",
+		"modversion": "0.9.7",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsHoofySpecies_v0.9.7fix1.zip"
 	}
 	]
 }
