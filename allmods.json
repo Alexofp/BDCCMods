@@ -2481,14 +2481,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RodentUtils_v0.9.zip"
 	},
 	{
-		"name": "Winters Expanded Penises",
-		"description": "CREDIT:  Selinoccino designed automatic compatability patches for both BallsExtra & Hypertus in addition to the mod options.\nDEPENDENCIES: Winters Core Module\nDESCRIPTION: A grouped mod of all the penises I am maintaining. Includes mod options for disabling penises to customise whats available.\nCOMPATABILITY: BallsExtra, Hypertus, RodentUtils\nThis mod replaces all my other penis mods and should not be ran alongside them.\nCHANGELOG: Merged all the penis mods I was maintaining\nNOTES: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersExpandedPenises.png]Click for Preview[/url]",
-		"author": "Avery Winters",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersExpandedPenises1.0.zip"
-	},
-	{
 		"name": "SoundMod_legacy",
 		"description": "File size: 32.6MB\nDependencies: Foxlib v0.10.7+\n\nDescription:\nThis is the all-in-one version of soundmod. Large file size!!\nThis mod implements a simple audio system, using FoxLib v0.10.7. There are four audio triggers for the player character: tease, pleasure, struggle, and orgasm. There are also limited sound effects which can play during sex. Audio files are included but are highly compressed - you may hear a worse sound quality. Settings can be adjusted in Mod Options.\n\nWhat's different from SoundMod:\n-- All sound files are included in the mod, just install it and go (probably maybe works on mobile)\n-- Can't add your own sounds\n-- No BGM system\n-- Fewer sound variants and sounds are lower quality to reduce file size\n\nChangelog v0.8:\n-- Updated to add a bunch of stuff that has since been added to the main soundmod\n-- All the code/scripting should now be equivalent to main soundmod (except custom sounds and BGM which are not supported in legacy)\n-- You can now plap in legacy version, yay!\n-- Got more agressive with compression, you might hear a difference but it was needed to keep the file size down\n-- Legacy and main soundmod will now detect each other and warn you not to install both at the same time (by the way, don't install both at the same time, it will break) ",
 		"author": "bringlebangul",
@@ -2553,14 +2545,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersCoreModuleV1.5.zip"
 	},
 	{
-		"name": "Winters Breast Expansion",
-		"description": "CREDIT: Code Improvements: Selinoccino, Assets: Anonomous Contributor\nDEPENDENCIES: Winters Core Module\nDESCRIPTION: Expands the base BDCC Breasts with some new options Nipples (+Inverted) and Puffy Nipples (+Inverted). Should replace base breasts during Dynamic NPC generation\nCOMPATABILITY: Hypertus, WintersFluffyBodyParts\nCHANGELOG: Fixed Hypertus Compats\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersBreastExpansion.png]Click for Preview[/url]",
-		"author": "Avery Winters",
-		"modversion": "1.3",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersBreastExpansionV1.3.zip"
-	},
-	{
 		"name": "Anons Base Species Expansion",
 		"description": "CREDIT: Code Improvements: Selinoccino, Assets: Anon\nDEPENDENCIES: Winters Core Module\nDESCRIPTION: A collection of bodyparts intended to expand the variety of looks for base species including sabertooths for canines and felines, jackal parts, hyena parts and the combination of equines and dragons plus!\nCHANGELOG: Fixed dragon head meshes. Muzzles might still need some love\nNOTES: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersBaseSpeciesExpansion.png]Click for Preview[/url]",
 		"author": "Avery Winters, Selinoccino, Anon",
@@ -2583,6 +2567,22 @@
 		"modversion": "0.9.7",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsHoofySpecies_v0.9.7fix1.zip"
+	},
+	{
+		"name": "Winters Expanded Penises",
+		"description": "CREDIT:  Selinoccino designed automatic compatability patches for both BallsExtra & Hypertus in addition to the mod options.\nDEPENDENCIES: Winters Core Module\nDESCRIPTION: A grouped mod of all the penises I am maintaining. Includes mod options for disabling penises to customise whats available.\nCOMPATABILITY: BallsExtra, Hypertus, RodentUtils\nThis mod replaces all my other penis mods and should not be ran alongside them.\nCHANGELOG: Fixed Flared penis BallsExtra compats\nNOTES: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersExpandedPenises.png]Click for Preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersExpandedPenises1.1.zip"
+	},
+	{
+		"name": "Winters Breast Expansion",
+		"description": "CREDIT: Code Improvements: Selinoccino, Assets: Anonomous Contributor\nDEPENDENCIES: Winters Core Module\nDESCRIPTION: Expands the base BDCC Breasts with some new options Nipples (+Inverted) and Puffy Nipples (+Inverted). Should replace base breasts during Dynamic NPC generation\nCOMPATABILITY: Hypertus, WintersFluffyBodyParts\nCHANGELOG: Fixed broken IDs causing crashes with Dragons\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersBreastExpansion.png]Click for Preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "1.4",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersBreastExpansionV1.4.zip"
 	}
 	]
 }
