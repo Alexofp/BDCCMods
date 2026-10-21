@@ -1793,14 +1793,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FelliniMod.zip"
 	},
 	{
-		"name": "NPC Body Customizer",
-		"description": "Lets you mass-edit NPC body parts for new and existing NPCs. Go to Me > Encounters > Body parts to get started.\n\nWarning: I have tested this mod a fair amount, but there are probably ways of breaking the game. Editing static NPCs is possible but I haven't tested it at all, probably it can break some vanilla scenes (or at least the writing may not adapt to the edits). I also do not recommend editing NPCs from datapacks (except for datapacks that just add characters and don't have any scenes, those are probably fine). Because some people are incapable of reading, there is another warning the first time you open the editor interface.\n\nIf you don't know what to do after clicking through the warning, click \"Help\" for instructions.\n\nThis mod is not redundant to NPC Generation Settings (or vice-versa). NPC Generation Settings is good if you want to edit e.g. femininity or thickness, this mod is good if you have some modded body parts and want NPCs to use them, if you want some NPCs to have exotic equipment like anus wombs, to make NPCs flat or busty, etc.\n\nChangelog:\n- 0.1.1 - Fixed attribute filters doing the opposite of what they say they will do.",
-		"author": "Kevin",
-		"modversion": "0.1.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NPCBodyCustomizer.zip"
-	},
-	{
 		"name": "Focus Pill",
 		"description": "Adds pills that allow you adjust sensitivity of body by shifting from other parts.\nP.S. : Feel free to ping me if you have ideas on how to make this mod better.",
 		"author": "Broslan",
@@ -2081,14 +2073,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersHellBeastsSpeciesV1.0.zip"
 	},
 	{
-		"name": "Winters Fluffy Bodyparts",
-		"description": "CREDIT: Based on assets from Max-Maxou & Suger0r\nDESCRIPTION: . Dynamic NPC Canines, Felines and Equines will now spawn with fluffy bodyparts and dragons will spawn with scaled by default. \nCOMPATABILITY: Hypertus, Bodywriting, RAT_BodypartArchetypes\nCHANGELOG: Added archetypes\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\nNOTE: Adds archetypes handled by RAT_BodypartArchetypes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersFluffyBodyparts.png]Click for Preview[/url]",
-		"author": "Avery Winters",
-		"modversion": "2.5",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersFluffyBodypartsV2.5.zip"
-	},
-	{
 		"name": "Eiras Trash Species",
 		"description": "CREDIT: Original Species by Anon and Fantos. Code by Avery Winters. New Raccoon Parts and Red Panda drawn by Moldy Tub. Project Lead kind of is Winter 'Eira (me)\nDESCRIPTION: A compilation of several species many would consider trash enjoyers includes: Bat, Possum, Rat/Mouse, Raccoons, Squirrels, and a bonus RED PANDA!\nCOMPATIBILITY: WintersFluffyBodyparts, AnonsSheathedHumanPenis, Hypertus, RAT_BodypartArchetypes\nCHANGELOG: Added archetypes\nNOTE: @ Avery Winters for issues or feedback. There is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\nNOTE: Adds archetypes handled by RAT_BodypartArchetypes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EirasTrashSpecies.png]Click for Preview[/url]",
 		"author": "Anon, Fantos, Avery Winters, Moldy Tub",
@@ -2127,14 +2111,6 @@
 		"modversion": "0.3",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ExpandedBodyparts.zip"
-	},
-	{
-		"name": "ScaleTweak",
-		"description": "Tool to tweak/adjust existing animations in the game. Can save and load edits to ScaleTweakSave.json in Mods folder. Access through the debug menu. Requires a lot of patience.\n\nFeatures:\n-- Adds a panel in the debug menu allowing you to scale and offset characters, as well as editing the rotation of joints.\n-- Save pose modifications to ScaleTweakSave.json, located in the Mods folder.\n-- Load pose modifications from the .json\n-- Works best for small changes, or on scenes where the character doesn't move very much. It's a tweak.\n-- If a button is locked, it's because you need to set other options first.\n-- If the panel doesn't show up in the debug menu, do one move/turn on the map to trigger a UI update.\n-- Might apply pose edits from the .json to normal gameplay, but this is still experimental and probably won't work.\n-- If it does work and you don't want it to, rename or delete ScaleTweakSave.json.\n\nChangelog v0.1.5:\nFixed many bugs, including one which messed up the .json. \nNow you can paste the settings you just saved onto another state of the same animation, makes things less tedious\n\nCan I make new animations???!?!?!!\nNo. The ScaleTweakSave file only contains the difference from the base pose. The animation applies over top of the pose and cannot be changed.\n\nHeight difference mod?!??!!?!?!\nNo. This is a tool which is necessary in order to make such a mod without having to use Blender.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ScaleTweak.png]Click for Preview[/url]",
-		"author": "bringlebangul",
-		"modversion": "0.1.5",
-		"gameversion": "0.3.2",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ScaleTweak.zip"
 	},
 	{
 		"name": "ClippingBarrier",
@@ -2577,20 +2553,44 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersBreastExpansionV1.4.zip"
 	},
 	{
+		"name": "Eternull Sawians",
+		"description": "Expies and Milkies from Casualties: Unknown! (or Gunsaw)\n\nyou can make your expies green now\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EternullSawians.png]Click for Preview[/url]",
+		"author": "Eternull_Wxnter",
+		"modversion": "0.1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EternullSawians_0.1.1.pck"
+	},
+	{
 		"name": "Winters Core Module",
 		"description": "CREDIT: Code Improvements: Selinoccino\nDEPENDENCIES: N/A\nDESCRIPTION: This contains resources my mods need to refer to to run. Using a dependency helps reduce duplicated code and reduce file size and numbers of code lines required in all my other mods.\nCOMPATABILITY: Required for all Updated Winters Mods does nothing on its own.\nCHANGELOG: Expanded templates to account for new mod updates\nNOTES: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.",
 		"author": "Avery Winters",
-		"modversion": "1.6",
+		"modversion": "1.7",
 		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersCoreModuleV1.6.zip"
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersCoreModuleV1.7.zip"
 	},
 	{
-		"name": "Winter's Sawians",
-		"description": "Expies and Milkies from Casualties: Unknown! (or Gunsaw)\n\nkeep in mind that the expie head is pre-colored, which means you'll have to set the head's color to FFFFFF separately, but i'm planning on updating that so it's more usable\n\ni'll probably update this mod to add more sawians... eventually...\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/Winters_Sawians.png]Click for Preview[/url]",
-		"author": "Eternull_Wxnter",
-		"modversion": "0.1",
+		"name": "Winters Fluffy Bodyparts",
+		"description": "CREDIT: Based on assets from Max-Maxou & Suger0r\nDESCRIPTION: Dynamic NPC Canines, Felines and Equines will now spawn with fluffy bodyparts and dragons will spawn with scaled by default. \nCOMPATABILITY: Hypertus, Bodywriting, RAT_BodypartArchetypes\nCHANGELOG: Added Buff Scaled\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\nNOTE: Adds archetypes handled by RAT_BodypartArchetypes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersFluffyBodyparts.png]Click for Preview[/url]",
+		"author": "Avery Winters",
+		"modversion": "2.6",
 		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Winters_Sawians.pck"
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersFluffyBodypartsV2.6.zip"
+	},
+	{
+		"name": "NPC Body Customizer",
+		"description": "Fix by Lazarus.\n\nLets you mass-edit NPC body parts for new and existing NPCs. Go to Me > Encounters > Body parts to get started.\n\nWarning: I have tested this mod a fair amount, but there are probably ways of breaking the game. Editing static NPCs is possible but I haven't tested it at all, probably it can break some vanilla scenes (or at least the writing may not adapt to the edits). I also do not recommend editing NPCs from datapacks (except for datapacks that just add characters and don't have any scenes, those are probably fine). Because some people are incapable of reading, there is another warning the first time you open the editor interface.\n\nIf you don't know what to do after clicking through the warning, click \"Help\" for instructions.\n\nThis mod is not redundant to NPC Generation Settings (or vice-versa). NPC Generation Settings is good if you want to edit e.g. femininity or thickness, this mod is good if you have some modded body parts and want NPCs to use them, if you want some NPCs to have exotic equipment like anus wombs, to make NPCs flat or busty, etc.\n\nChangelog:\n- 0.1.1 - Fixed attribute filters doing the opposite of what they say they will do.\n- 0.1.2 - Updated some code to be contemporary with current methods and fix compatibility with Hypertus",
+		"author": "Kevin, Lazarus",
+		"modversion": "0.1.2",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NPCBodyCustomizerLazarusFix.zip"
+	},
+	{
+		"name": "ScaleTweak",
+		"description": "Tool to tweak/adjust existing animations in the game. Can save and load edits to ScaleTweakSave.json in Mods folder. Access through the debug menu. Requires a lot of patience.\n\nFeatures:\n-- Adds a panel in the debug menu allowing you to scale and offset characters, as well as editing the rotation of joints.\n-- Save pose modifications to ScaleTweakSave.json, located in the Mods folder.\n-- Load pose modifications from the .json\n-- Works best for small changes, or on scenes where the character doesn't move very much. It's a tweak.\n-- If a button is locked, it's because you need to set other options first.\n-- If the panel doesn't show up in the debug menu, do one move/turn on the map to trigger a UI update.\n-- Might apply pose edits from the .json to normal gameplay, but this is still experimental and probably won't work.\n-- If it does work and you don't want it to, rename or delete ScaleTweakSave.json.\n\nChangelog v0.1.6:\nFixed many bugs, including one which messed up the .json. \nSome changes to auto-loading saved tweaks, it is now a bit more robust. Still very rough, but you should be able to see tweaked poses during the game. Except in the stocks, the stocks break your legs and I can't figure out why.\n\nCan I make new animations???!?!?!!\nNo. The ScaleTweakSave file only contains the difference from the base pose. The animation applies over top of the pose and cannot be changed.\n\nHeight difference mod?!??!!?!?!\nNo. This is a tool which is necessary in order to make such a mod without having to use Blender.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ScaleTweak.png]Click for Preview[/url]",
+		"author": "bringlebangul",
+		"modversion": "0.1.6",
+		"gameversion": "0.3.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ScaleTweak.zip"
 	}
 	]
 }
