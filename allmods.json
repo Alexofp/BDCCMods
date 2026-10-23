@@ -2561,14 +2561,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EternullSawians_0.1.1.pck"
 	},
 	{
-		"name": "Winters Core Module",
-		"description": "CREDIT: Code Improvements: Selinoccino\nDEPENDENCIES: N/A\nDESCRIPTION: This contains resources my mods need to refer to to run. Using a dependency helps reduce duplicated code and reduce file size and numbers of code lines required in all my other mods.\nCOMPATABILITY: Required for all Updated Winters Mods does nothing on its own.\nCHANGELOG: Expanded templates to account for new mod updates\nNOTES: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.",
-		"author": "Avery Winters",
-		"modversion": "1.7",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersCoreModuleV1.7.zip"
-	},
-	{
 		"name": "Winters Fluffy Bodyparts",
 		"description": "CREDIT: Based on assets from Max-Maxou & Suger0r\nDESCRIPTION: Dynamic NPC Canines, Felines and Equines will now spawn with fluffy bodyparts and dragons will spawn with scaled by default. \nCOMPATABILITY: Hypertus, Bodywriting, RAT_BodypartArchetypes\nCHANGELOG: Added Buff Scaled\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\nNOTE: Adds archetypes handled by RAT_BodypartArchetypes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersFluffyBodyparts.png]Click for Preview[/url]",
 		"author": "Avery Winters",
@@ -2591,6 +2583,15 @@
 		"modversion": "0.1.6",
 		"gameversion": "0.3.2",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ScaleTweak.zip"
+	},
+
+	{
+		"name": "Winters Core Module",
+		"description": "CREDIT: Code Improvements: Selinoccino\nDEPENDENCIES: N/A\nDESCRIPTION: This contains resources my mods need to refer to to run. Using a dependency helps reduce duplicated code and reduce file size and numbers of code lines required in all my other mods.\nCOMPATABILITY: Required for all Updated Winters Mods does nothing on its own.\nCHANGELOG: Expanded templates to account for new mod updates\nNOTES: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.",
+		"author": "Avery Winters",
+		"modversion": "1.7.5",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersCoreModuleV1.7.5.zip"
 	}
 	]
 }
