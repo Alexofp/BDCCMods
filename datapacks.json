@@ -4758,6 +4758,27 @@
 
 			],
 			"preview": "datapack_previews/Scaled_Skins.png"
+		},
+		{
+			"id": "AstrosSkinPack",
+			"name": "Astro's Skin Pack",
+			"author": "Astro",
+			"version": "0.1",
+			"description": "Name: Astro's Skin Pack\nWhat it adds: Currently 3 skins\nMods required: None\nVersion: 0.1\nDescription:\nA merging and expansion of my prior skin mods.\n\nCredit to Sugerør for their Soar skin I used as a base for the Wickerbeast Tail skin (WickerbeastSkin_V1), and the (Soft Scales) skin that is a modification of their Draconic_Scales_v1 skin. \n\nNote: The Snow Lepord skin is still a WIP; only the feline head is done. Also, the Wickerbeast Tail skin only modifies the dragon tail of the Soar Skin. ",
+			"contains": "Contains: 3 skins",
+			"download": "datapacks/AstrosSkinPack.res",
+			"lastedit": 1792993043,
+			"filesize": 820397,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+
+			],
+			"preview": "datapack_previews/AstrosSkinPack.png"
 		}
 	]
 }
