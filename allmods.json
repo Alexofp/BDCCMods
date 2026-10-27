@@ -2441,14 +2441,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GetAHaircut.zip"
 	},
 	{
-		"name": "RodentUtils",
-		"description": "Adds some common functionality for most (some) Rat mods. Includes some basic mobile support.\n\nFor issues, feedback, etc., ping me",
-		"author": "Selinoccino",
-		"modversion": "0.9",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RodentUtils_v0.9.zip"
-	},
-	{
 		"name": "SoundMod_legacy",
 		"description": "File size: 32.6MB\nDependencies: Foxlib v0.10.7+\n\nDescription:\nThis is the all-in-one version of soundmod. Large file size!!\nThis mod implements a simple audio system, using FoxLib v0.10.7. There are four audio triggers for the player character: tease, pleasure, struggle, and orgasm. There are also limited sound effects which can play during sex. Audio files are included but are highly compressed - you may hear a worse sound quality. Settings can be adjusted in Mod Options.\n\nWhat's different from SoundMod:\n-- All sound files are included in the mod, just install it and go (probably maybe works on mobile)\n-- Can't add your own sounds\n-- No BGM system\n-- Fewer sound variants and sounds are lower quality to reduce file size\n\nChangelog v0.8:\n-- Updated to add a bunch of stuff that has since been added to the main soundmod\n-- All the code/scripting should now be equivalent to main soundmod (except custom sounds and BGM which are not supported in legacy)\n-- You can now plap in legacy version, yay!\n-- Got more agressive with compression, you might hear a difference but it was needed to keep the file size down\n-- Legacy and main soundmod will now detect each other and warn you not to install both at the same time (by the way, don't install both at the same time, it will break) ",
 		"author": "bringlebangul",
@@ -2608,6 +2600,14 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MysteriousVixen.zip"
+	},
+	{
+		"name": "RodentUtils",
+		"description": "Adds some common functionality for most (some) Rat mods. Includes some basic mobile support.\n\nFor issues, feedback, etc., ping me",
+		"author": "Selinoccino",
+		"modversion": "0.9.1",
+		"gameversion": "0.3.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RodentUtils_v0.9.1.zip"
 	}
 	]
 }
