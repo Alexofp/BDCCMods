@@ -2369,14 +2369,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersBaseSpeciesExpansionV1.5.zip"
 	},
 	{
-		"name": "Insertion Bulges",
-		"description": "[b]Dependencies[/b]: FoxLib (tested with 0.10.7)\n[b]Category[/b]: Visual / Sex scenes\n\n[b]Description[/b]:\nDraws a bulge where a cock is inside the body (vagina, anus, throat) and hides the part inside. Three effects in Mod Options: Simple (round bump), Medium (copies the cock's shape, moves softly), Detailed (new, default: the body's outline stretches over the cock). Effect settings need \"Show advanced mod options\".\n\n[b]Features[/b]:\n- Three effects: Simple, Medium, Detailed\n- Detailed: under-skin shade, 8 styles or none\n- Detailed: several cocks in one body at once (DP, gangbangs, mouth + crotch)\n- Detailed: strapons, dildos, sex machines and portal scenes\n- Detailed: the cock bends along the body and bows out at the neck when too long\n- Medium: soft motion, pregnant belly, knots, opening at the hole, swallowing and more\n- Works with every penis type and size; limp or caged cocks make no bulge\n- No game skin material replaced: other mods' skins keep working\n\n[b]Changelog 4.0[/b] (since 3.4):\n- New Detailed effect (default); 3.4's \"Detailed\" is now Medium\n- Much lighter: Simple 4-7x and Medium 3-5x less CPU than 3.4\n- New, shorter menu; settings start from the recommended values (3.x settings are not read)\n- The bulge no longer blinks off when the cock pulls back\n- No automatic switch of effect on older graphics: you pick it\n\n[b]Performance / Graphics[/b]:\n- GLES3 (the game's default) recommended: all effects work\n- GLES2 on PC: Simple and Detailed work, Medium does NOT\n- Phones / web: Detailed runs on the CPU and is slower, use Simple\n- Detailed is the heaviest: in busy scenes on older PCs pick Medium or Simple\n\n[b]Known issues[/b]:\n- Tentacles and hands (fisting) make no bulge\n- Bulge size does not change Detailed\n- Portal scenes: the first stroke pauses at full depth\n\n[b]Note[/b]: remove any older Insertion Bulges before installing. @ me or make a thread if anything is broken.\nFor bugs and Feedback reach me on discord or write to me at: xrob8370@gmail.com\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/InsertionBulges.png]Click for Preview[/url]",
-		"author": "xrob1",
-		"modversion": "4.0",
-		"gameversion": "0.3.2",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/InsertionBulges_v4.0.zip"
-	},
-	{
 		"name": "Belly Overhaul",
 		"description": "DEPENDENCIES: FoxLib\nDESCRIPTION: Customize the shape of pregnant and inflated bellies. In Mod Options > Belly Overhaul:\n- Sticks out, Roundness, Height, Position, Droop: the belly's shape\n- Wobble: how much it jiggles\n- Try it on a character: a preview with your character (or a random one, from the main menu) where every slider changes the belly live. Save keeps it, Cancel throws it away.\nEvery slider at its default is the game's own belly. One shape for every character.\nCOMPATIBILITY: Replaces no game files, so it should play nice with other mods (species packs, Hypertus, InsertionBulges). Delete the zip to get the vanilla belly back.\nNOTE: Found a bug? Tell me the character, the scene and your slider values!\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BellyOverhaul.png]Click for Preview[/url]",
 		"author": "xrob1",
@@ -2600,6 +2592,22 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/VHairAndParts.zip"
+	},
+	{
+		"name": "Insertion Bulges",
+		"description": "[b]Dependencies[/b]: FoxLib v0.10.7+\n\nDescription:\nDraws a bulge on the penetrated character's body where the cock is inside: belly, throat and mouth. Three effects: Basic (lightest), Medium, and Detailed (the body's own outline stretches over the cock). Settings in Mod Options (turn advanced options on to see them all).\n\nChangelog v4.1:\n-- Detailed has a new default look: the cock curves inside toward the belly and only bends when its tip pushes on the skin\n-- NEW Move the bodies: the characters shift a little so the cock goes in the way it curves (Detailed, on by default)\n-- NEW thrust styles: As the game (default), Natural, Slow and deep, Custom\n-- NEW \"Try it on characters\" window: preview any scene and option before saving\n-- Basic replaces Simple (uses the game's own belly swelling)\n-- NEW options (Advanced): cock direction, bend on push, All the way through (long cocks come out of the mouth), softer Stop at the neck, body tightness, something inside\n-- Lighter shade (Filled, 10%), fading in from the base\n-- Menu reorganised: Main / Medium / Advanced, options only show when they apply\n-- GLES2: only Basic works now, a red note explains how to switch to GLES3\n-- Fixes: hiding the cock, double penetration, short 10 cm cocks detected, bulge appears right away, sex machine dildos, deflating bulge, big-bulge texture, Train/Spitroast, Medium fixes\n\nNotes:\n-- Some effects and options are experimental and may not work well in every scene: if something looks wrong, turn it off and ping me\n-- Remove InsertionBulges_v4.0.zip before adding the new one\n-- Your 4.0 settings carry over. Want the 4.0 look back? Cock direction: Sliders, Cock bend: Follows the curve, Shade: Soft 60%\n-- Known issues: Move the bodies is off by default with 3+ characters (can look odd); portal scenes pause at full depth on the first thrust\n-- Full changelog in the attached .md\n\nFor feedback, bug reports, etc., ping me \n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/InsertionBulges.png]Click for Preview[/url]",
+		"author": "xrob1",
+		"modversion": "4.1",
+		"gameversion": "0.3.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/InsertionBulges_v4.1.zip"
+	},
+	{
+		"name": "Mysterious Vixen",
+		"description": "Description: Adds a 7 foot tall vixen named Yefim Brinof, to the station, with a storyline planned to add more to the world.\n\n- Currently this version is the DEMO and only includes his initial encounter quest.\n- If there are any problems, do reach out to me, 924_syn.\n- After completing his initial quest, he will not show up at the location he stated he will go to at the specified times as that is the start of Chapter 1 for the character.",
+		"author": "Sonar!",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MysteriousVixen.zip"
 	}
 	]
 }
