@@ -2105,14 +2105,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AlendiSpecies(WintersUpdate).zip"
 	},
 	{
-		"name": "ExpandedBodyparts",
-		"description": "DESCRIPTION: More bodyparts and even more muscles! (Credit to Avery Winters, Songjo, Firaxalos, Anon, and others as more parts are added, as this mod is mostly just tweaks and merging of their different assets.\nNOTE: This is a test/prototype version, and thus all added parts are currently marked as being for all species unless otherwise mentioned.\nCHANGELOG:\nV0.3 - Added a bunch of buff bodies and more (including some Protogen only bodies)!\nV0.2.1 - Hotfix for issues with subfolders.\nV0.2 - Major file reorganizing (from scratch) and added 13 new fit arms.\nV0.1 - Initial prototype release.\nV0.0 - Development soup.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ExpandedBodyparts.png]Click for Preview[/url]",
-		"author": "Thermal Dragon",
-		"modversion": "0.3",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ExpandedBodyparts.zip"
-	},
-	{
 		"name": "ClippingBarrier",
 		"description": "Are you bothered by phalluses poking out in places where they shouldn't? ClippingBarrier projects an invisible wall of 'no penis' around the torso of your character, hiding any wayward dongs from view! Uses similar logic to 'NoPretendSex' and the method of overriding sex scenes, so credit to NatiM6! But sadly this mod is not compatible with that one. (note: in rare cases, the anti-schlong wall may also hide the right arm and right leg)\n\nCompatibility with other mods: This mod targets the base game Part3D.gd file, and overrides a large number of stagescene3D files. It applies an invisible mask with shader to any bodypart that ends in 'Body', and changes the render priority of first two meshes (penis texture and condom texture) of the Bodypart.Penis slot. Any modded bodyparts which obey this logic will be compatible.\n\n(any objects rendered after (behind) the mask become transparent, which sometimes includes the right arm and right leg.)\n\nKNOWN BUG: Will crash if strapons are involved, because it doesn't take up a body slot and I'm dumb\n\n1.0.1: Bugfix for strapons",
 		"author": "bringlebangul",
@@ -2615,6 +2607,14 @@
 		"modversion": "1.2",
 		"gameversion": "0.3.2",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EncounterPlus_1.2.zip"
+	},
+	{
+		"name": "ExpandedBodyparts",
+		"description": "COMPATIBILITY: Hypertus\nDESCRIPTION: More bodyparts and even more muscles! \n(Credit to Avery Winters, Songjo, Firaxalos, Anon, and others as more parts are added, as this mod is mostly just tweaks and merging of their different assets.)\nChangelog:\nV1.0.3 - Hotfix for Module.gd not seeing external Modules and thus not loading relevant bodyparts.\nV1.0.2 - Hotfix for Hypertus dependency routing issues.\nV1.0.1 - Hotfix for Hypertus file routing issues. \nV1.0 - Major code improvements for file handling, Hypertus compatibility, and not having the Protogens mod should just disable those parts now, rather than throwing errors.\nV0.5 - Added Buff Fluffy Poof Breasts (Hypertus compatibility is a WIP) and moved all mod files into Modules.\nV0.4 - Fixed missing legs due to typos in names and added Winter's original BuffFluffyBody as a new body.\nV0.3 - Added a bunch of buff bodies and more (including some Protogen only bodies)!\nV0.2.1 - Hotfix for issues with subfolders.\nV0.2 - Major file reorganizing (from scratch) and added 13 new fit arms.\nV0.1 - Initial prototype release.\nV0.0 - Development soup\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ExpandedBodyparts.png]Click for Preview[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ExpandedBodyparts2.png]Click for Preview 2[/url]",
+		"author": "Thermal Dragon",
+		"modversion": "1.0.3",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ExpandedBodyparts_V1.0.3.zip"
 	}
 	]
 }
