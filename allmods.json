@@ -2505,14 +2505,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HorsecockDildoPunishment_1.0.1.zip"
 	},
 	{
-		"name": "SongsHoofySpecies",
-		"description": "※ Description \n- Adds 5 new species: Cow, Deer, Goat, Pig, Sheep\n- Adds some horns, hoofs, tails, ears that are shared by these species\n- Cows will spawn with equine penis by default\n(if SongsVanillaParts mod is active, \"Horse penis alt\" will set by default)\n- Deer, goats, pigs will spawn with human penis by default\n(if SongsVanillaParts mod is active, Deer can get \"Horse penis alt\")\n- Compatible mods: Hypertus, Racebonus, Wintersfluffyparts, WintersBreastExpansion\n\n※ Original mods\n- The original Deer and Bovine mods by Avery Winters were incorporated in this mod, so you can select the parts from those mods with my cows and deer species, and also these species can spawn with those parts, except for the head and hoofs parts.\n- As the Incorporation, i kept the original Deer and Bovine species in this mod, so you can select those species and also don’t have to worry about your ongoing or past characters that used those species. However, these two species won’t spawn as a random NPC anymore to prevent confusion.\n- The Sheep species mod by Thagalor and Avery WInter has incorporated in this mod\n\n※ Update (0.9.7fix1)\n- fixed the sheep penis wont work with balls extra mod\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsHoofySpecies.png]Click for Preview[/url]",
-		"author": "SongJo",
-		"modversion": "0.9.7",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsHoofySpecies_v0.9.7fix1.zip"
-	},
-	{
 		"name": "Eternull Sawians",
 		"description": "Expies and Milkies from Casualties: Unknown! (or Gunsaw)\n\nyou can make your expies green now\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EternullSawians.png]Click for Preview[/url]",
 		"author": "Eternull_Wxnter",
@@ -2639,6 +2631,14 @@
 		"modversion": "0.3.0",
 		"gameversion": "0.3.2",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DollRenderTweaks.zip"
+	},
+	{
+		"name": "SongsHoofySpecies",
+		"description": "※ Description \n- Adds 5 new species: Cow, Deer, Goat, Pig, Sheep\n- Adds some horns, hoofs, tails, ears that are shared by these species\n- Cows will spawn with equine penis by default\n(if SongsVanillaParts mod is active, \"Horse penis alt\" will set by default)\n- Deer, goats, pigs will spawn with human penis by default\n(if SongsVanillaParts mod is active, Deer can get \"Horse penis alt\")\n- Compatible mods: Hypertus, Racebonus, Wintersfluffyparts, WintersBreastExpansion\n\n※ Original mods\n- The original Deer and Bovine mods by Avery Winters were incorporated in this mod, so you can select the parts from those mods with my cows and deer species, and also these species can spawn with those parts, except for the head and hoofs parts.\n- As the Incorporation, i kept the original Deer and Bovine species in this mod, so you can select those species and also don’t have to worry about your ongoing or past characters that used those species. However, these two species won’t spawn as a random NPC anymore to prevent confusion.\n- The Sheep species mod by Thagalor and Avery WInter has incorporated in this mod\n\n※ Update (0.9.7fix1Wintersfix)\n- Updated compatibility with the latest version of Winters Breast Expansion mod. (credits to Avery Winters)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsHoofySpecies.png]Click for Preview[/url]",
+		"author": "SongJo",
+		"modversion": "0.9.7",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsHoofySpecies_v0.9.7fix1WintersFix.zip"
 	}
 	]
 }
