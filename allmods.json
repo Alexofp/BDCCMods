@@ -2615,6 +2615,30 @@
 		"modversion": "1.0.3",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ExpandedBodyparts_V1.0.3.zip"
+	},
+	{
+		"name": "Head Layer Order",
+		"description": "[b]Dependencies[/b]: FoxLib (tested with v0.10.7)\n\nDescription:\nChoose the drawing order of head features on the doll: horns, hair, ears and modded head slots. For example horns behind the hair, or ears in front of both.\n\n-- Mod Options -> \"Head layer order\": give each head slot a layer from 1 to 6 (higher is drawn on top), or leave it on Original\n-- Per save: character creator (\"Body attributes\" -> \"Head layer order\") and the mirror (\"Head layers\"). These settings apply to every character in that save, NPCs included\n-- Changes show up right away, also on characters that are already on screen\n-- Replaces no game files, so it should not conflict with other mods\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HeadLayerOrder.png]Click for Preview[/url]",
+		"author": "45hr4k",
+		"modversion": "0.3.0",
+		"gameversion": "0.3.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HeadLayerOrder.zip"
+	},
+	{
+		"name": "Species Spawn Rates",
+		"description": "[b]Dependencies[/b]: FoxLib (tested with v0.10.7)\n\nDescription:\nSet how often each species appears for generated NPCs, before you start the game. Modded species included.\n\n-- Mod Options -> \"Species spawn rates\": one slider per species (0-100%, 100% = vanilla, 0% = never)\n-- Apply to: new games and every loaded save (default), new games only, or off\n-- Preview button for each species: shows a random character of that species, roll again or switch species in the window\n-- Uses the same weights as the in-game Encounters menu. With \"every loaded save\" the mod overwrites that menu each time a save is loaded\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SpeciesSpawnRates.png]Click for Preview[/url]",
+		"author": "45hr4k",
+		"modversion": "0.1.0",
+		"gameversion": "0.3.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SpeciesSpawnRates.zip"
+	},
+	{
+		"name": "Doll Render Tweaks",
+		"description": "[b]Dependencies[/b]: FoxLib (tested with v0.10.7)\n\nDescription:\nMakes the doll look smoother. All four tweaks can be set in Mod Options -> \"Doll render tweaks\":\n\n-- Doll supersampling (off / 2x / 3x / 4x, default 2x): fewer jagged edges on the lines\n-- Pattern smoothing (off / smooth / smooth + crisp): smooth borders on fur stripes and spots instead of pixel steps\n-- Line smoothing (off / bicubic / vector): clean, sharp black outlines when zoomed in, shading stays untouched\n-- Shoulder fade (off / 8-30%, default 15%): the upper arm fades into the torso instead of looking stuck on. Works with modded arms too\n\nNotes:\n-- Pattern and line smoothing need GLES3 and the \"advanced shaders\" option (on by default)\n-- Higher supersampling costs performance on weak GPUs\n-- Replaces no game files. Best loaded near the end of the mod list\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/DollRenderTweaks.png]Click for Preview[/url]",
+		"author": "45hr4k",
+		"modversion": "0.3.0",
+		"gameversion": "0.3.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DollRenderTweaks.zip"
 	}
 	]
 }
