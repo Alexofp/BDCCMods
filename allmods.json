@@ -2377,14 +2377,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/IntimidateProst.zip"
 	},
 	{
-		"name": "Encounter Premonition",
-		"description": "Allows you to:\n- Edit encounter settings when starting a new game\n- Save and load custom presets for them\n- Set a preset as default for starting new games\n\n(access from Me -> Encounters -> Edit presets)\nFor feedback, bug reports, etc., ping me",
-		"author": "Selinoccino",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RAT_EncounterPremonition.zip"
-	},
-	{
 		"name": "Sugerør's Species Pack",
 		"description": "Adds Bears, Crocodiles, Fossas, Lizards and Otters to the game. If you have any suggestions or notice any issues, just yell at me ^^\nNew: Added new crocodile and bear parts\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrSpeciesPack.png]Click for Preview[/url]",
 		"author": "Sugerør",
@@ -2633,12 +2625,20 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RAT_Archetypes_v1.0.zip"
 	},
 	{
-		"name": "RodentUtils",
-		"description": "Updated October 30th 2026, version 0.9.2\n\nAdds some common functionality for most (some) Rat mods. Includes some basic mobile support.\n\nFor issues, feedback, etc., ping me (Selinoccino)",
+		"name": "Encounter Premonition",
+		"description": "Updated November 2nd 2026\n\nAllows you to:\n- Edit encounter settings when starting a new game\n- Save and load custom presets for them\n- Set a preset as default for starting new games\n\n(access from Me -> Encounters -> Edit presets)\n\nVersion 1.1:\n- Saving now automatic\n- Fixed applying presets on new game\n- Should actually work now\n\nFor feedback, bug reports, etc., ping me",
 		"author": "Selinoccino",
-		"modversion": "0.9.2",
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RAT_EncounterPremonition.zip"
+	},
+	{
+		"name": "RodentUtils",
+		"description": "Updated November 2nd 2026\n\nAdds some common functionality for most (some) Rat mods. Includes some basic mobile support.\n\nVersion 0.9.3:\n- Fixed color options\n\nFor issues, feedback, etc., ping me (Selinoccino)",
+		"author": "Selinoccino",
+		"modversion": "0.9.3",
 		"gameversion": "0.3.2",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RodentUtils_v0.9.2.zip"
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RodentUtils_v0.9.3.zip"
 	}
 	]
 }
