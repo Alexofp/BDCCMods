@@ -2649,6 +2649,16 @@
  		"gameversion": "0.3.2",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SmartLocksExtended_v0.3.1.zip"
 
+	},
+	{
+
+		"name": "ModManager",
+		"description": "ModManager makes working with mods easier. Open it through Mods > ModManager after launching the game. Set mod priorities manually or simply drag a mod into the desired position. When ModManager opens, it automatically checks installed mod versions against the Mod Browser catalogue, allowing you to update individual mods or all available updates at once. The integrated Mod Browser includes links to mod dependencies and displays image previews directly in each mod's description. It uses the game's built-in translation system to translate entire pages. All changes take effect only after restarting the game.",
+		"author": "Neith",
+  		"modversion": "1.0.0",
+ 		"gameversion": "0.3.2",
+  		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ModManager.zip"
+
 	}
 	]
 }
