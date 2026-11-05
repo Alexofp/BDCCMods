@@ -2635,14 +2635,6 @@
 
 	},
 	{
-		"name": "ModManager",
-		"description": "ModManager makes working with mods easier. Open it through Mods > ModManager after launching the game. Set mod priorities manually or simply drag a mod into the desired position. When ModManager opens, it automatically checks installed mod versions against the Mod Browser catalogue, allowing you to update individual mods or all available updates at once. The integrated Mod Browser includes links to mod dependencies and displays image previews directly in each mod's description. It uses the game's built-in translation system to translate entire pages. All changes take effect only after restarting the game.",
-		"author": "Neith",
-  		"modversion": "1.0.0",
- 		"gameversion": "0.3.2",
-  		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ModManager.zip"
-	},
-	{
 		"name": "Winters Core Module",
 		"description": "CREDIT: Code Improvements: Selinoccino\nDEPENDENCIES: N/A\nDESCRIPTION: This contains resources my mods need to refer to to run. Using a dependency helps reduce duplicated code and reduce file size and numbers of code lines required in all my other mods.\nCOMPATABILITY: Required for all Updated Winters Mods does nothing on its own.\nCHANGELOG: Expanded templates to account for new mod updates\nNOTES: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.",
 		"author": "Avery Winters",
