@@ -1321,14 +1321,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NpcDefaultsOverrideV0.3.zip"
 	},
 	{
-		"name": "An Apple A Day",
-		"description": "Adds an exciting new use for apples, in the form of using them to gain buffs (mostly a joke mod). Take an apple to Dr. Quinn to get started.\n\nChangelog:Changelog:\n-Added apple cream pies, whose quality depends on that of the cream used.\n-Added the ability to knock down your opponents with your apple throws through a perk.\n-Added the ability to cook in your cell. Store a few apples there to get started (this one was a headache and a half to get working).\nVersion 1.5.4:\nAdded back the ability to provide homemade cream (this can also serve as an example of adding your own buttons/options/states to CraftingLib's base workbench scene)\nCraftingLib is no longer required; using it with AAAD will give you access to stoves and apple-related recipes, as before, and not using it just disables that\nVersion 1.5.5:\nFixed a crash if you didn't have CraftingLib loaded. Now it really is optional.\n\nPlease tell me if you find any issues, and enjoy!",
-		"author": "Selinoccino",
-		"modversion": "1.5.5",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnAppleADay_1.5.5.zip"
-	},
-	{
 		"name": "SongsUncutPenises",
 		"description": "※ Description \n- adds 4 human penises with foreskin (2 long, 2 short)\n- all penises shares the same flaccid model\n- the short variants will not spawn with NPCs\n- compatible with Balls Extra and Hypertus mods\n\n+Feel free to @ me if anything's not right\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsUncutPenis.png]Click for Preview[/url]",
 		"author": "SongJo",
@@ -1647,14 +1639,6 @@
 		"modversion": "0.9",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsMustelidSpecies_v0.9.zip"
-	},
-	{
-		"name": "CraftingLib",
-		"description": "Adds a modular crafting system, allowing other modules to add or overwrite recipes for their own or basegame items, add their own ingredients (or overwrite existing ones), and add alternative recipes for items. Recipes are separated by workbench type, and have no limits to ingredient/item combinations for their requirements and outputs (ingredients are exclusive to a workbench). Does nothing on its own.\n\nVersion 1.0.2:\n- Fixed a softlock that happened when you interacted with an invalid workbench\n\nVersion 1.0.3:\n- Fixed being unable to throw away ingredients.\n\nVersion 1.1:\nFixed a lot of stuff\nTried to make the code cleaner a tiny bit\nAdded fluid filtering for workbenches",
-		"author": "Selinoccino",
-		"modversion": "1.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CraftingLib_v1.1.zip"
 	},
 	{
 		"name": "KeysMod",
@@ -2041,14 +2025,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ClothingRevamp.zip"
 	},
 	{
-		"name": "MoldyT's Bodypart Expansion",
-		"description": "Various art credits to : CaninBad, Songjo, Kitsu, and Natalie\n\nCode help : Selinoccino, Winters, and Moon_Halo\n\nDescription\nAdds a large amount of tails, wings, and a visible pussy to the game.\n\nTail: Several Canine (and fox), Feline, Shark, Mouth, and variety tails for any and all species. All tails are large and most contain multiple skins for them. \nWing: Mostly membrane wings with a few feathered ones as well. They can be selected in the WING slot\nPussy: Visible Canine pussy with even an additional pattern for it.\n\nIf they don't work ping me, I did not test it with any other mods and never will. Added more canine tails as well as fixed a generation bug.\nChangelog: made the wings use colouring from the wings slot not the horns slot\n\nIF YOU HAVE MY OLD TAIL MOD GET RID OF IT FOR THIS\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoldyBodypartExpansion.png]Click for Preview[/url]",
-		"author": "MoldyT",
-		"modversion": "2.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoldyBodypartExpansionWinterUpdate.zip"
-	},
-	{
 		"name": "Piercings Mod",
 		"description": "Adds customizable piercings for player character and NPCs, sold in medical vendomat. You can buy face, nipple and penis piercings. You can customise what specific parts of the set you want to see on your character. They're dyeable too. Over 360 models in total!\n\nCurrently supports following mods: \nAlendiSpecies v1.3, Anons Skulldog Species, Anons Base Species Expansion v1.2, Eiras Trash Species v1.3, More Dragon Penis v1.0, Scaile Expansion v2.1, Sergal Species v0.9., SongsVanillaParts v1.4.5, Sugerør's Character Parts v1.3.\n\nFor yet unsupported species game chooses random model upon equipping - so you could possibly try to make some of them fit.\n\nChangelog: \n• Added nipple piercings! Three variants: barbell, ring and big ring. You can pick one at a time.\n• Added penis piercings! Only frenum ladder type of piercings for now. Compatible with base game and all of the penises in supported mods, as well for AlendiSpecies (v1.3) and More Dragon Penis (v1.0) so far. \n• Fixed a bug where piercings wouldn't show in slave's inventory listing, thus couldn't have been removed.\n• Added 'Re-randomise' button for face and penis piercigns if the bodypart of the player character is not supported yet.\n• Randomised model for piercings should now persistent through the game loads.\n\n\nAcknowledgement:\nThanks to the amazing @Selinoccino for help with making the penis and nipple piercings work correctly!\n\n\n@ me on game's discord (mods-discussion channel or Noro's mods den thread) if you have any suggestions or find any bugs\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PiercingsMod.png]Click for Preview[/url]",
 		"author": "Noro",
@@ -2058,7 +2034,7 @@
 	},
 	{
 		"name": "Winters Hell Beasts Species",
-		"description": "CREDIT: Coded by Selinoccino\nDESCRIPTION: A fork of Anons Hellhound demon replacer that adds archetypes for Hell Kitties & Hellponies if you also have RAT_BodypartArchetypes\nCOMPATABILITY: WintersFluffyBodyparts, RAT_BodypartArchetypes\nCHANGELOG: Mod Created\nNOTE: @ me or @Selinoccino  make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\nNOTE: Adds archetypes handled by RAT_BodypartArchetypes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersHellBeastsSpecies.png]Click for Preview[/url]",
+		"description": "CREDIT: Coded by Selinoccino\nDESCRIPTION: A fork of Anons Hellhound demon replacer that adds archetypes for Hell Kitties & Hellponies if you also have RAT_Archetypes\nCOMPATABILITY: WintersFluffyBodyparts, RAT_Archetypes\nCHANGELOG: Mod Created\nNOTE: @ me or @Selinoccino  make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\nNOTE: Adds archetypes handled by RAT_Archetypes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersHellBeastsSpecies.png]Click for Preview[/url]",
 		"author": "Avery Winters",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -2066,7 +2042,7 @@
 	},
 	{
 		"name": "Eiras Trash Species",
-		"description": "CREDIT: Original Species by Anon and Fantos. Code by Avery Winters. New Raccoon Parts and Red Panda drawn by Moldy Tub. Project Lead kind of is Winter 'Eira (me)\nDESCRIPTION: A compilation of several species many would consider trash enjoyers includes: Bat, Possum, Rat/Mouse, Raccoons, Squirrels, and a bonus RED PANDA!\nCOMPATIBILITY: WintersFluffyBodyparts, AnonsSheathedHumanPenis, Hypertus, RAT_BodypartArchetypes\nCHANGELOG: Added archetypes\nNOTE: @ Avery Winters for issues or feedback. There is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\nNOTE: Adds archetypes handled by RAT_BodypartArchetypes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EirasTrashSpecies.png]Click for Preview[/url]",
+		"description": "CREDIT: Original Species by Anon and Fantos. Code by Avery Winters. New Raccoon Parts and Red Panda drawn by Moldy Tub. Project Lead kind of is Winter 'Eira (me)\nDESCRIPTION: A compilation of several species many would consider trash enjoyers includes: Bat, Possum, Rat/Mouse, Raccoons, Squirrels, and a bonus RED PANDA!\nCOMPATIBILITY: WintersFluffyBodyparts, AnonsSheathedHumanPenis, Hypertus, RAT_Archetypes\nCHANGELOG: Added archetypes\nNOTE: @ Avery Winters for issues or feedback. There is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\nNOTE: Adds archetypes handled by RAT_Archetypes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EirasTrashSpecies.png]Click for Preview[/url]",
 		"author": "Anon, Fantos, Avery Winters, Moldy Tub",
 		"modversion": "1.4",
 		"gameversion": "*",
@@ -2074,7 +2050,7 @@
 	},
 	{
 		"name": "Winters Rabbit Species Update",
-		"description": "CREDIT: Orignal by Fantos\nDESCRIPTION: . Add rabbit species and an update to the original by fantos. Removes the Rabbit legs as they dont scale with thickness and now uses fluffy parts if installed. Rabbits now spawn with eggy parts becuase easter bunny thats why \nCOMPATABILITY: Hypertus, Bodywriting, RAT_BodypartArchetypes, WintersFluffyBodyparts\nCHANGELOG: Moved archetypes locally in this mod\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\nNOTE: Adds archetypes handled by RAT_BodypartArchetypes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersRabbitSpecies.png]Click for Preview[/url]",
+		"description": "CREDIT: Orignal by Fantos\nDESCRIPTION: . Add rabbit species and an update to the original by fantos. Removes the Rabbit legs as they dont scale with thickness and now uses fluffy parts if installed. Rabbits now spawn with eggy parts becuase easter bunny thats why \nCOMPATABILITY: Hypertus, Bodywriting, RAT_Archetypes, WintersFluffyBodyparts\nCHANGELOG: Moved archetypes locally in this mod\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\nNOTE: Adds archetypes handled by RAT_Archetypes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersRabbitSpecies.png]Click for Preview[/url]",
 		"author": "Avery Winters",
 		"modversion": "1.3",
 		"gameversion": "*",
@@ -2090,7 +2066,7 @@
 	},
 	{
 		"name": "Alendi Species",
-		"description": "Updated by Avery Winters. A kind of strange alien cat from the outskirts of known space. Sabretooth, four ears, no breasts, and total fluffiness. As it turns out, inhabitants of other worlds who don't know the local rules also end up in jail here... \nChangelog: Added missing hypertus files for species, fixed penis skins for hypertus, fixed compat with WintersFluffyBodyparts, added compat for RAT_BodypartArchetypes.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AlendiSpecies.png]Click for Preview[/url]",
+		"description": "Updated by Avery Winters. A kind of strange alien cat from the outskirts of known space. Sabretooth, four ears, no breasts, and total fluffiness. As it turns out, inhabitants of other worlds who don't know the local rules also end up in jail here... \nChangelog: Added missing hypertus files for species, fixed penis skins for hypertus, fixed compat with WintersFluffyBodyparts, added compat for RAT_Archetypes.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AlendiSpecies.png]Click for Preview[/url]",
 		"author": "Ellie Nibbles",
 		"modversion": "1.4",
 		"gameversion": "*",
@@ -2241,14 +2217,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GenericNpcPortraitsRewritten.zip"
 	},
 	{
-		"name": "MDCC",
-		"description": "Adds:\n- Gardening system\n- A roguelite section thingy\n- Pickpocketing\n- A database for inmate information\n\nCompatible with: RandomInmateNumber, CraftingLib (highly recommended, enables crafting)\n\nRoguelite, gardening, and database systems are expandable, see the Content Creation guide included in the mod\n\nDiscontinued, use freely in other mods, but please do credit me (Selinoccino). The code can be freely modified and used. This isn't made to be a mod by itself, but it should work well as one. I will not be providing support for it.\n\nRequirements\n- WintersFluffyBodyparts (Winters Fluffy Bodyparts by Avery Winters)\n- AnonsAquaticSpecies (Anons Aquatic Species by Anon, Avery Winters)\n- AnonsBaseSpeciesExpansion (Anons Base Species Expansion by Anon, Avery Winters)\n- SorityHair (Hairs! by Amewsing)\n- SkulldogSpecies (Anons Skulldog Species by Anon, Avery Winters)\n- WintersWitheredBodyparts (Winters Withered Bodyparts by Anon, Avery Winters)\n\nif it crashes you don't have something of those probably\n\nfor easy creation of plants, recipes, inmate profiles, see: [url=https://github.com/Selinoccino/MDCC_tools/]https://github.com/Selinoccino/MDCC_tools/[/url] for godot engine 4.7.1 (works with 4.7.2 too)",
-		"author": "Selinoccino",
-		"modversion": "0.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MDCC.zip"
-	},
-	{
 		"name": "Permanent Chastity Belt",
 		"description": "Adds a new Permanent Chastity Belt item to BDCC, based on the original Chasitybelt mod. The new variant is designed specifically for enslaved NPCs and introduces a password-protected locking system that prevents the restraint from being removed through normal game mechanics.\n\nThe Permanent Chastity Belt occupies the Underwear Bottom slot and reuses the original mod's 3D model and inventory image. It is treated as an important and persistent item, allowing its locked state and password hash to remain properly stored when saving and loading the game.\n\nThe belt is obtained through the Announcer/Fight Club shop for 100 credits. It uses BDCC's SoldByTheAnnouncer item tag and can be managed through the dedicated Permanent chastity belt slave action.\n\nWhen applying the belt to an NPC, the player must create and confirm a password containing at least four characters. The password is not stored in plain text; instead, the mod generates a SHA-256 hash with a dedicated salt and stores the resulting hash with the item. This allows the password lock to persist between saves without storing the original password.\nOnce the Permanent Chastity Belt has been locked onto an NPC, the NPC cannot remove it by struggling, restraint keys, normal inventory management, or other standard removal methods. The item's normal equip and unequip behavior is intentionally redirected to a separate scene so that the password system cannot be bypassed through BDCC's regular inventory interface.\n\nTo remove the belt, the player must use the Permanent chastity belt slave action and enter the exact password configured when the belt was equipped. If the password is correct, the belt is unlocked and removed from the NPC, the stored password hash is cleared, and the belt is returned to the player's inventory so it can be configured with a new password later.\n\nThe mod also includes an automatic protection system. If another game system accidentally removes a locked Permanent Chastity Belt from the NPC's Underwear Bottom slot and places it into the NPC's inventory, the mod detects the locked item and attempts to equip it again automatically. This helps maintain the permanent restraint state during normal gameplay.\n\nThe Permanent Chastity Belt cannot be force-equipped onto NPCs through standard force-equipping systems, and it cannot accidentally be equipped by the player. Password configuration is mandatory before the restraint can be applied.\n\nThe original Chasitybelt item is preserved, meaning the mod adds the permanent variant without replacing or modifying the original item. The package also integrates with BDCC through its module, slave-action, scene, and game-extender systems without modifying the game's original files.\nFeatures:\nNew Permanent Chastity Belt item.\nPassword-protected locking system.\nMinimum password length of 4 characters.\nPassword confirmation when applying the belt.\nPassword stored as a salted SHA-256 hash rather than plain text.\nPassword lock persists through save/load.\nNPCs cannot remove the belt by struggling.\nRestraint keys cannot unlock the belt.\nNormal inventory management cannot remove the locked belt.\nDedicated Permanent chastity belt slave action for equipping and unlocking.\nAutomatic re-equipping if another game system removes the locked belt.\nUses the original Chasitybelt 3D model.\nUses the original inventory image.\nOccupies the Underwear Bottom slot.\nMarked as Important and Persistent.\nSold through the Announcer/Fight Club shop for 100 credits.\nOriginal Chasitybelt item remains available.\nCannot be force-equipped onto NPCs.\nCannot accidentally be equipped on the player.\nReturns to the player's inventory after successful unlocking.\nPassword is reset after the belt is unlocked.\nImplemented as an independent BDCC module without modifying the game's original files.",
 		"author": "El_Mister_SJ",
@@ -2393,30 +2361,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/IssixMod.zip"
 	},
 	{
-		"name": "CondomSabotage",
-		"description": "Adds the ability to sabotage a used condom from your inventory, increasing the chance it breaks when used.\n\nVersion 1.0.1:\n- Now (slightly) configurable with RodentUtils",
-		"author": "Selinoccino",
-		"modversion": "1.0.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CondomSabotage.zip"
-	},
-	{
-		"name": "UwuSpeak",
-		"description": "Adds a starting perk that allows you to speak like those internet catfolk.\nConfigurable with RodentUtils (which isn't required), which can allow you to make NPCs and the player use UwuSpeak under some conditions, or change how UwuSpeak affects your speech.\n\nVersion 1.3.1:\n- Now uses RodentUtils.\n\nEnjoy, and please tell me of any issues!\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/UwuSpeak.png]Click for Preview[/url]",
-		"author": "Selinoccino",
-		"modversion": "1.3.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/UwuSpeak_v1.3.1.zip"
-	},
-	{
-		"name": "Get A Haircut!",
-		"description": "Requires RodentUtils to actually do anything.\n\nAllows you to restrict which hairstyles (new) NPCs can spawn with. Configure in RodentUtils' mod options.\n\nVersion 1.0.1:\n- Now uses RodentUtils.\n\nFor feedback, bug reports, etc., ping me",
-		"author": "Selinoccino",
-		"modversion": "1.0.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GetAHaircut.zip"
-	},
-	{
 		"name": "SoundMod_legacy",
 		"description": "File size: 32.6MB\nDependencies: Foxlib v0.10.7+\n\nDescription:\nThis is the all-in-one version of soundmod. Large file size!!\nThis mod implements a simple audio system, using FoxLib v0.10.7. There are four audio triggers for the player character: tease, pleasure, struggle, and orgasm. There are also limited sound effects which can play during sex. Audio files are included but are highly compressed - you may hear a worse sound quality. Settings can be adjusted in Mod Options.\n\nWhat's different from SoundMod:\n-- All sound files are included in the mod, just install it and go (probably maybe works on mobile)\n-- Can't add your own sounds\n-- No BGM system\n-- Fewer sound variants and sounds are lower quality to reduce file size\n\nChangelog v0.8:\n-- Updated to add a bunch of stuff that has since been added to the main soundmod\n-- All the code/scripting should now be equivalent to main soundmod (except custom sounds and BGM which are not supported in legacy)\n-- You can now plap in legacy version, yay!\n-- Got more agressive with compression, you might hear a difference but it was needed to keep the file size down\n-- Legacy and main soundmod will now detect each other and warn you not to install both at the same time (by the way, don't install both at the same time, it will break) ",
 		"author": "bringlebangul",
@@ -2465,14 +2409,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod.zip"
 	},
 	{
-		"name": "PlayerPortrait",
-		"description": "Allows you to add portraits for your player character, and overlays depending on pain, arousal and lust levels.\n\nFor instructions on how to use, see README.txt file inside the zip archive.\n\nCan be slightly configured further with RodentUtils.\n\nVersion 1.3.2:\n- Fixed refreshing data\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PlayerPortrait.png]Click for Preview[/url]",
-		"author": "Selinoccino",
-		"modversion": "1.3.2",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PlayerPortrait_v1.3.2.zip"
-	},
-	{
 		"name": "Anons Base Species Expansion",
 		"description": "CREDIT: Code Improvements: Selinoccino, Assets: Anon\nDEPENDENCIES: Winters Core Module\nDESCRIPTION: A collection of bodyparts intended to expand the variety of looks for base species including sabertooths for canines and felines, jackal parts, hyena parts and the combination of equines and dragons plus!\nCHANGELOG: Fixed dragon head meshes. Muzzles might still need some love\nNOTES: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersBaseSpeciesExpansion.png]Click for Preview[/url]",
 		"author": "Avery Winters, Selinoccino, Anon",
@@ -2498,7 +2434,7 @@
 	},
 	{
 		"name": "Winters Fluffy Bodyparts",
-		"description": "CREDIT: Based on assets from Max-Maxou & Suger0r\nDESCRIPTION: Dynamic NPC Canines, Felines and Equines will now spawn with fluffy bodyparts and dragons will spawn with scaled by default. \nCOMPATABILITY: Hypertus, Bodywriting, RAT_BodypartArchetypes\nCHANGELOG: Added Buff Scaled\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\nNOTE: Adds archetypes handled by RAT_BodypartArchetypes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersFluffyBodyparts.png]Click for Preview[/url]",
+		"description": "CREDIT: Based on assets from Max-Maxou & Suger0r\nDESCRIPTION: Dynamic NPC Canines, Felines and Equines will now spawn with fluffy bodyparts and dragons will spawn with scaled by default. \nCOMPATABILITY: Hypertus, Bodywriting, RAT_Archetypes\nCHANGELOG: Added Buff Scaled\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\nNOTE: Adds archetypes handled by RAT_Archetypes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersFluffyBodyparts.png]Click for Preview[/url]",
 		"author": "Avery Winters",
 		"modversion": "2.6",
 		"gameversion": "*",
@@ -2601,30 +2537,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsHoofySpecies_v0.9.7fix1WintersFix.zip"
 	},
 	{
-		"name": "RAT_Archetypes",
-		"description": "Requires [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RodentUtils_v0.9.2.zip]RodentUtils[/url]\n\nAllows mods to modify/replace species' methods with (hopefully) no conflicts. Does nothing on its own. Also allows mods to define \"archetypes\" for dynamic NPCs, which can affect any of their properties and are configurable through the mod config menu.\nIncludes (some) documentation for modders.\n\nFor bug reports, feedback, etc., ping me (Selinoccino)",
-		"author": "Selinoccino",
-		"modversion": "1.0",
-		"gameversion": "0.3.2",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RAT_Archetypes_v1.0.zip"
-	},
-	{
-		"name": "Encounter Premonition",
-		"description": "Updated November 2nd 2026\n\nAllows you to:\n- Edit encounter settings when starting a new game\n- Save and load custom presets for them\n- Set a preset as default for starting new games\n\n(access from Me -> Encounters -> Edit presets)\n\nVersion 1.1:\n- Saving now automatic\n- Fixed applying presets on new game\n- Should actually work now\n\nFor feedback, bug reports, etc., ping me",
-		"author": "Selinoccino",
-		"modversion": "1.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RAT_EncounterPremonition.zip"
-	},
-	{
-		"name": "RodentUtils",
-		"description": "Updated November 2nd 2026\n\nAdds some common functionality for most (some) Rat mods. Includes some basic mobile support.\n\nVersion 0.9.3:\n- Fixed color options\n\nFor issues, feedback, etc., ping me (Selinoccino)",
-		"author": "Selinoccino",
-		"modversion": "0.9.3",
-		"gameversion": "0.3.2",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RodentUtils_v0.9.3.zip"
-	},
-	{
 		
   		"name": "SmartLocks Extended",
   		"description": "\nRequires FoxLib 0.10.7.\nAdds a wealth of options to configure Smart Locks to your tastes, as well as several new types of smart locks and 3 optional starting perks.\n\nNew locks: Timed locks unlock on their own after a set amount of time. Prostitution locks require you to earn a certain amount of credits through prostitution, and pay the keyholder to release you. Multi-keyholder locks are similar to normal keyholder locks, but require you to convince several people to unlock you. Taskmaster locks generate a list of tasks for you to complete every morning, and unlocks itself after you have dutifully completed them several days in a row.\nAll types can be configured or disabled according to your tastes.\n\nNew perks: Faulty Release gives slut locks a 50% chance to reset itself and generate a new set of tasks, instead of releasing you. Fine Print only reveals slut lock requirements one-by-one, after the previous one has been completed. Uncertain Sentence hides the release time of timed locks.",
@@ -2649,6 +2561,87 @@
 		"modversion": "1.3",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersExpandedPenises1.3.zip"
+	},
+		{
+		"name": "An Apple A Day",
+		"description": "This mod, like all my mods, is 100% ratwritten with care; no LLMs were consulted or used in the creation of this mod.\n\nAdds an exciting new use for apples, in the form of using them to gain buffs (mostly a joke mod). Take an apple to Dr. Quinn to get started.\n\nVersion 1.6:\n- Updated license\n- Added back the ability to add homemade cream directly\n- Now compatible with CraftingLibReworked\n\nPlease tell me if you find any issues, and enjoy!",
+		"author": "Selinoccino",
+		"modversion": "1.6",
+		"gameversion": "0.3.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnAppleADay_1.6.zip"
+	},
+		{
+		"name": "CraftingLibReworked",
+		"description": "This mod, like all my mods, is 100% ratwritten with care; no LLMs were consulted or used in the creation of this mod.\n\nA mod that adds a crafting system. Does nothing on its own.",
+		"author": "Selinoccino",
+		"modversion": "0.9",
+		"gameversion": "0.3.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CraftingLibReworked.zip"
+	},
+	{
+		"name": "CondomSabotage",
+		"description": "This mod, like all my mods, is 100% ratwritten with care; no LLMs were consulted or used in the creation of this mod.\n\nAdds the ability to sabotage a used condom from your inventory, increasing the chance it breaks when used.\n\nVersion 1.0.2:\n- Updated license\n- Other changes and improvements; maybe fixes",
+		"author": "Selinoccino",
+		"modversion": "1.0.2",
+		"gameversion": "0.3.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CondomSabotage.zip"
+	},
+	{
+		"name": "UwuSpeak",
+		"description": "This mod, like all my mods, is 100% ratwritten with care; no LLMs were consulted or used in the creation of this mod.\n\nAdds a starting perk that allows you to speak like those internet catfolk.\nConfigurable with RodentUtils (which isn't required), which can allow you to make NPCs and the player use UwuSpeak under some conditions, or change how UwuSpeak affects your speech.\n\nVersion 1.3.2:\n- Updated license\n- Other changes and improvements; maybe fixes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/UwuSpeak.png]Click for Preview[/url]",
+		"author": "Selinoccino",
+		"modversion": "1.3.2",
+		"gameversion": "0.3.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/UwuSpeak_v1.3.2.zip"
+	},
+	{
+		"name": "Get A Haircut!",
+		"description": "This mod, like all my mods, is 100% ratwritten with care; no LLMs were consulted or used in the creation of this mod.\n\nRequires RodentUtils to actually do anything.\n\nAllows you to restrict which hairstyles (new) NPCs can spawn with. Configure in RodentUtils' mod options.\n\nVersion 1.0.2:\n- Updated license\n- Other changes and improvements; maybe fixes",
+		"author": "Selinoccino",
+		"modversion": "1.0.2",
+		"gameversion": "0.3.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GetAHaircut.zip"
+	},
+		{
+		"name": "PlayerPortrait",
+		"description": "This mod, like all my mods, is 100% ratwritten with care; no LLMs were consulted or used in the creation of this mod.\n\nAllows you to add portraits for your player character, and overlays depending on pain, arousal and lust levels.\n\nFor instructions on how to use, see README.txt file inside the zip archive.\n\nCan be slightly configured further with RodentUtils.\n\nVersion 1.3.2:\n- Updated license\n- Other changes and improvements; maybe fixes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PlayerPortrait.png]Click for Preview[/url]",
+		"author": "Selinoccino",
+		"modversion": "1.3.2",
+		"gameversion": "0.3.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PlayerPortrait_v1.3.2.zip"
+	},
+		{
+		"name": "RAT_Archetypes",
+		"description": "This mod, like all my mods, is 100% ratwritten with care; no LLMs were consulted or used in the creation of this mod.\n\nRequires [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RodentUtils_v0.9.4.zip]RodentUtils[/url]\n\nAllows mods to modify/replace species' methods with (hopefully) no conflicts. Does nothing on its own. Also allows mods to define \"archetypes\" for dynamic NPCs, which can affect any of their properties and are configurable through the mod config menu.\nIncludes (some) documentation for modders.\n\nVersion 1.0.1:\n- Updated license\n- Other changes and improvements; maybe fixes\n- Think I expanded the docs a bit",
+		"author": "Selinoccino",
+		"modversion": "1.0.1",
+		"gameversion": "0.3.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RAT_Archetypes_v1.0.1.zip"
+	},
+	{
+		"name": "Encounter Premonition",
+		"description": "Updated November 6th 2026\n\nThis mod, like all my mods, is 100% ratwritten with care; no LLMs were consulted or used in the creation of this mod.\n\nAllows you to:\n- Edit encounter settings when starting a new game\n- Save and load custom presets for them\n- Set a preset as default for starting new games\n\n(access from Me -> Encounters -> Edit presets)\n\nVersion 1.1.1:\n- Updated license\n- Other changes and improvements; maybe fixes",
+		"author": "Selinoccino",
+		"modversion": "1.1.1",
+		"gameversion": "0.3.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RAT_EncounterPremonition.zip"
+	},
+	{
+		"name": "RodentUtils",
+		"description": "Updated November 6th 2026\n\nThis mod, like all my mods, is 100% ratwritten with care; no LLMs were consulted or used in the creation of this mod.\n\nAdds some common functionality for most (some) Rat mods.\n\nVersion 0.9.4:\n- Updated license
+- Other changes and improvements; maybe fixes\n- Wrote documentation",
+		"author": "Selinoccino",
+		"modversion": "0.9.4",
+		"gameversion": "0.3.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RodentUtils_v0.9.4.zip"
+	},
+	{
+		"name": "RAT_DomEndurance",
+		"description": "This mod, like all my mods, is 100% ratwritten with care; no LLMs were consulted or used in the creation of this mod.\n\nCommissioned by Gray\n\nAllows doms in generic sex scenes to have more rounds with the player/other subs, based on their lust level. Adjustable via the \"Me\" menu.",
+		"author": "Selinoccino",
+		"modversion": "0.9",
+		"gameversion": "0.3.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RAT_DomEndurance.zip"
 	}
 	]
 }
