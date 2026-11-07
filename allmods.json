@@ -2569,13 +2569,16 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersCoreModuleV1.9.zip"
 	},
 	{
+		"id": "winters_expanded_penises",
 		"name": "Winters Expanded Penises",
 		"description": "CREDIT: @fancy rat designed automatic compatibility patches for both BallsExtra & Hypertus in addition to the mod options. @Thermal Dragon designed the new sheath assets\nDEPENDENCIES: Winters Core Module &  Rodent Utilities\nDESCRIPTION: A grouped mod of all the penises I am maintaining. Includes mod options for disabling penises to customise whats available.\nCOMPATIBILITY: BallsExtra, Hypertus, RodentUtils\nThis mod replaces all my other penis mods and should not be ran alongside them.\nCHANGELOG: updated sheathes to a new design\nNOTES: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersExpandedPenises.png]Click for Preview[/url]",
 		"author": "Avery Winters, Selinoccino",
 		"modversion": "1.3",
 		"gameversion": "*",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersExpandedPenises.png",
 		"reqs": ["winters_core_module", "rodent_utils"],
 		"categories": ["Bodyparts"],
+		"delete": ["WintersExpandedPenises"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersExpandedPenises1.3.zip"
 	},
 	{
