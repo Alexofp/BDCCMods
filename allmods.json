@@ -2665,6 +2665,14 @@
 		"modversion": "0.9",
 		"gameversion": "0.3.2",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RAT_DomEndurance.zip"
+	},
+	{
+		"name": "ModManager",
+		"description": "Contains code written by AI.\n\nModManager makes working with mods easier. Available through Mods > ModManager after launching the game.\n\nInstalled mods can be reordered by entering priorities or dragging them into place. Their versions are checked against the Mod Browser catalogue when opening ModManager.\n\nUpdates are downloaded to a subfolder inside the mods folder. The saved mod path is switched to the new archive so the game loads it on the next launch. Priorities and enabled states are preserved. The previous archive is removed once the switch is confirmed.\n\nThe integrated Mod Browser includes links to dependencies and displays image previews directly in mod descriptions. Uses the game's built-in translation system to translate entire pages.\n\nChanges take effect after restarting the game.\n\nFor questions about the mod, contact copiumdevahh on GitHub.",
+		"author": "Neith",
+		"modversion": "1.0.0",
+		"gameversion": "0.3.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ModManager.zip"
 	}
 	]
 }
