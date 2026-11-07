@@ -2566,6 +2566,7 @@
 		"author": "Avery Winters",
 		"modversion": "1.9",
 		"gameversion": "*",
+		"delete": ["WintersCoreModuleV"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersCoreModuleV1.9.zip"
 	},
 	{
@@ -2654,6 +2655,7 @@
 		"author": "Selinoccino",
 		"modversion": "0.9.4",
 		"gameversion": "0.3.2",
+		"delete": ["RodentUtils_v"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RodentUtils_v0.9.4.zip"
 	},
 	{
