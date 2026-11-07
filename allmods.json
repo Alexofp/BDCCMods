@@ -2273,6 +2273,7 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SearchBarDeselect.zip"
 	},
 	{
+		"ai": true,
 		"name": "Oral Knotting",
 		"description": "Most likely contains code made by AI.\n\n[b]Dependencies[/b]: none. FoxLib optional (for the two sliders)\n[b]Compatibility[/b]: MorePoses, Insertion Bulges 3.3\n\n[b]Description[/b]:\nKnots now catch in throats, not just holes. A dom with a knotted cock (canine, dragon) can pop the knot in the sub's throat as they cum, a sub can knot the dom's throat during a blowjob, and in 69 both can end up locked in each other at once. While knotted nobody can pull away or stop the scene, \"Pull out\" can fail and stretches the throat, and a throat too small for the knot chokes on it.\nFoxLib sliders: how often the AI goes for the knot, and how likely it is to catch (defaults 67 / 70).\n\n[b]Changelog 1.1[/b]:\n- Replaces no game file any more: it adds to the game's oral activities and scenes, so it works on top of mods that change them, like MorePoses\n- New knotted animation: the thrust slows and stops deep, then holds with small tugs\n- Fix: Cock and mouth now line up in every knotted pose\n\n[b]Works in[/b]: normal, forced, stocks, puppy and 69 oral scenes, plus MorePoses' table, chair and ropes. On the player from either side.\n[b]Note[/b]: remove Oral Knotting 1.0 first.\n\nBug reports or feedback: write me at xrob8370@gmail.com or Discord",
 		"author": "xrob1",
@@ -2321,6 +2322,7 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersBaseSpeciesExpansionV1.5.zip"
 	},
 	{
+		"ai": true,
 		"name": "Belly Overhaul",
 		"description": "Most likely contains code made by AI.\n\nDEPENDENCIES: FoxLib\nDESCRIPTION: Customize the shape of pregnant and inflated bellies. In Mod Options > Belly Overhaul:\n- Sticks out, Roundness, Height, Position, Droop: the belly's shape\n- Wobble: how much it jiggles\n- Try it on a character: a preview with your character (or a random one, from the main menu) where every slider changes the belly live. Save keeps it, Cancel throws it away.\nEvery slider at its default is the game's own belly. One shape for every character.\nCOMPATIBILITY: Replaces no game files, so it should play nice with other mods (species packs, Hypertus, InsertionBulges). Delete the zip to get the vanilla belly back.\nNOTE: Found a bug? Tell me the character, the scene and your slider values!\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BellyOverhaul.png]Click for Preview[/url]",
 		"author": "xrob1",
@@ -2465,6 +2467,7 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/VHairAndParts.zip"
 	},
 	{
+		"ai": true,
 		"name": "Insertion Bulges",
 		"description": "Most likely contains code made by AI.\n\n[b]Dependencies[/b]: FoxLib v0.10.7+\n\nDescription:\nDraws a bulge on the penetrated character's body where the cock is inside: belly, throat and mouth. Three effects: Basic (lightest), Medium, and Detailed (the body's own outline stretches over the cock). Settings in Mod Options (turn advanced options on to see them all).\n\nChangelog v4.1:\n-- Detailed has a new default look: the cock curves inside toward the belly and only bends when its tip pushes on the skin\n-- NEW Move the bodies: the characters shift a little so the cock goes in the way it curves (Detailed, on by default)\n-- NEW thrust styles: As the game (default), Natural, Slow and deep, Custom\n-- NEW \"Try it on characters\" window: preview any scene and option before saving\n-- Basic replaces Simple (uses the game's own belly swelling)\n-- NEW options (Advanced): cock direction, bend on push, All the way through (long cocks come out of the mouth), softer Stop at the neck, body tightness, something inside\n-- Lighter shade (Filled, 10%), fading in from the base\n-- Menu reorganised: Main / Medium / Advanced, options only show when they apply\n-- GLES2: only Basic works now, a red note explains how to switch to GLES3\n-- Fixes: hiding the cock, double penetration, short 10 cm cocks detected, bulge appears right away, sex machine dildos, deflating bulge, big-bulge texture, Train/Spitroast, Medium fixes\n\nNotes:\n-- Some effects and options are experimental and may not work well in every scene: if something looks wrong, turn it off and ping me\n-- Remove InsertionBulges_v4.0.zip before adding the new one\n-- Your 4.0 settings carry over. Want the 4.0 look back? Cock direction: Sliders, Cock bend: Follows the curve, Shade: Soft 60%\n-- Known issues: Move the bodies is off by default with 3+ characters (can look odd); portal scenes pause at full depth on the first thrust\n-- Full changelog in the attached .md\n\nFor feedback, bug reports, etc., ping me \n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/InsertionBulges.png]Click for Preview[/url]",
 		"author": "xrob1",
@@ -2505,6 +2508,7 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ExpandedBodyparts_V1.0.3.zip"
 	},
 	{
+		"ai": true,
 		"name": "Head Layer Order",
 		"description": "Most likely contains code made by AI.\n\n[b]Dependencies[/b]: FoxLib (tested with v0.10.7)\n\nDescription:\nChoose the drawing order of head features on the doll: horns, hair, ears and modded head slots. For example horns behind the hair, or ears in front of both.\n\n-- Mod Options -> \"Head layer order\": give each head slot a layer from 1 to 6 (higher is drawn on top), or leave it on Original\n-- Per save: character creator (\"Body attributes\" -> \"Head layer order\") and the mirror (\"Head layers\"). These settings apply to every character in that save, NPCs included\n-- Changes show up right away, also on characters that are already on screen\n-- Replaces no game files, so it should not conflict with other mods\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HeadLayerOrder.png]Click for Preview[/url]",
 		"author": "45hr4k",
@@ -2513,6 +2517,7 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HeadLayerOrder.zip"
 	},
 	{
+		"ai": true,
 		"name": "Species Spawn Rates",
 		"description": "Most likely contains code made by AI.\n\n[b]Dependencies[/b]: FoxLib (tested with v0.10.7)\n\nDescription:\nSet how often each species appears for generated NPCs, before you start the game. Modded species included.\n\n-- Mod Options -> \"Species spawn rates\": one slider per species (0-100%, 100% = vanilla, 0% = never)\n-- Apply to: new games and every loaded save (default), new games only, or off\n-- Preview button for each species: shows a random character of that species, roll again or switch species in the window\n-- Uses the same weights as the in-game Encounters menu. With \"every loaded save\" the mod overwrites that menu each time a save is loaded\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SpeciesSpawnRates.png]Click for Preview[/url]",
 		"author": "45hr4k",
@@ -2521,6 +2526,7 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SpeciesSpawnRates.zip"
 	},
 	{
+		"ai": true,
 		"name": "Doll Render Tweaks",
 		"description": "Most likely contains code made by AI.\n\n[b]Dependencies[/b]: FoxLib (tested with v0.10.7)\n\nDescription:\nMakes the doll look smoother. All four tweaks can be set in Mod Options -> \"Doll render tweaks\":\n\n-- Doll supersampling (off / 2x / 3x / 4x, default 2x): fewer jagged edges on the lines\n-- Pattern smoothing (off / smooth / smooth + crisp): smooth borders on fur stripes and spots instead of pixel steps\n-- Line smoothing (off / bicubic / vector): clean, sharp black outlines when zoomed in, shading stays untouched\n-- Shoulder fade (off / 8-30%, default 15%): the upper arm fades into the torso instead of looking stuck on. Works with modded arms too\n\nNotes:\n-- Pattern and line smoothing need GLES3 and the \"advanced shaders\" option (on by default)\n-- Higher supersampling costs performance on weak GPUs\n-- Replaces no game files. Best loaded near the end of the mod list\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/DollRenderTweaks.png]Click for Preview[/url]",
 		"author": "45hr4k",
@@ -2537,7 +2543,7 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsHoofySpecies_v0.9.7fix1WintersFix.zip"
 	},
 	{
-		
+		"ai": true,
   		"name": "SmartLocks Extended",
   		"description": "Most likely contains code made by AI.\n\n\nRequires FoxLib 0.10.7.\nAdds a wealth of options to configure Smart Locks to your tastes, as well as several new types of smart locks and 3 optional starting perks.\n\nNew locks: Timed locks unlock on their own after a set amount of time. Prostitution locks require you to earn a certain amount of credits through prostitution, and pay the keyholder to release you. Multi-keyholder locks are similar to normal keyholder locks, but require you to convince several people to unlock you. Taskmaster locks generate a list of tasks for you to complete every morning, and unlocks itself after you have dutifully completed them several days in a row.\nAll types can be configured or disabled according to your tastes.\n\nNew perks: Faulty Release gives slut locks a 50% chance to reset itself and generate a new set of tasks, instead of releasing you. Fine Print only reveals slut lock requirements one-by-one, after the previous one has been completed. Uncertain Sentence hides the release time of timed locks.",
   		"author": "AltGitsa",
@@ -2562,7 +2568,7 @@
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersExpandedPenises1.3.zip"
 	},
-		{
+	{
 		"name": "An Apple A Day",
 		"description": "This mod, like all my mods, is 100% ratwritten with care; no LLMs were consulted or used in the creation of this mod.\n\nAdds an exciting new use for apples, in the form of using them to gain buffs (mostly a joke mod). Take an apple to Dr. Quinn to get started.\n\nVersion 1.6:\n- Updated license\n- Added back the ability to add homemade cream directly\n- Now compatible with CraftingLibReworked\n\nPlease tell me if you find any issues, and enjoy!",
 		"author": "Selinoccino",
@@ -2570,7 +2576,7 @@
 		"gameversion": "0.3.2",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnAppleADay_1.6.zip"
 	},
-		{
+	{
 		"name": "CraftingLibReworked",
 		"description": "This mod, like all my mods, is 100% ratwritten with care; no LLMs were consulted or used in the creation of this mod.\n\nA mod that adds a crafting system. Does nothing on its own.",
 		"author": "Selinoccino",
@@ -2589,6 +2595,7 @@
 	{
 		"name": "UwuSpeak",
 		"description": "This mod, like all my mods, is 100% ratwritten with care; no LLMs were consulted or used in the creation of this mod.\n\nAdds a starting perk that allows you to speak like those internet catfolk.\nConfigurable with RodentUtils (which isn't required), which can allow you to make NPCs and the player use UwuSpeak under some conditions, or change how UwuSpeak affects your speech.\n\nVersion 1.3.2:\n- Updated license\n- Other changes and improvements; maybe fixes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/UwuSpeak.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/UwuSpeak.png",
 		"author": "Selinoccino",
 		"modversion": "1.3.2",
 		"gameversion": "0.3.2",
@@ -2602,9 +2609,10 @@
 		"gameversion": "0.3.2",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GetAHaircut.zip"
 	},
-		{
+	{
 		"name": "PlayerPortrait",
 		"description": "This mod, like all my mods, is 100% ratwritten with care; no LLMs were consulted or used in the creation of this mod.\n\nAllows you to add portraits for your player character, and overlays depending on pain, arousal and lust levels.\n\nFor instructions on how to use, see README.txt file inside the zip archive.\n\nCan be slightly configured further with RodentUtils.\n\nVersion 1.3.2:\n- Updated license\n- Other changes and improvements; maybe fixes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PlayerPortrait.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PlayerPortrait.png",
 		"author": "Selinoccino",
 		"modversion": "1.3.2",
 		"gameversion": "0.3.2",
@@ -2628,8 +2636,7 @@
 	},
 	{
 		"name": "RodentUtils",
-		"description": "Updated November 6th 2026\n\nThis mod, like all my mods, is 100% ratwritten with care; no LLMs were consulted or used in the creation of this mod.\n\nAdds some common functionality for most (some) Rat mods.\n\nVersion 0.9.4:\n- Updated license
-- Other changes and improvements; maybe fixes\n- Wrote documentation",
+		"description": "Updated November 6th 2026\n\nThis mod, like all my mods, is 100% ratwritten with care; no LLMs were consulted or used in the creation of this mod.\n\nAdds some common functionality for most (some) Rat mods.\n\nVersion 0.9.4:\n- Updated license - Other changes and improvements; maybe fixes\n- Wrote documentation",
 		"author": "Selinoccino",
 		"modversion": "0.9.4",
 		"gameversion": "0.3.2",
