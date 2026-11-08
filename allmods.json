@@ -2790,8 +2790,10 @@
 		"name": "Get A Haircut!",
 		"description": "This mod, like all my mods, is 100% ratwritten with care; no LLMs were consulted or used in the creation of this mod.\n\nRequires RodentUtils to actually do anything.\n\nAllows you to restrict which hairstyles (new) NPCs can spawn with. Configure in RodentUtils' mod options.\n\nVersion 1.0.2:\n- Updated license\n- Other changes and improvements; maybe fixes",
 		"author": "Selinoccino",
+		"categories": ["Gameplay"],
 		"modversion": "1.0.2",
 		"gameversion": "0.3.2",
+		"reqs": ["rodent_utils"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GetAHaircut.zip"
 	},
 	{
@@ -2799,22 +2801,30 @@
 		"description": "This mod, like all my mods, is 100% ratwritten with care; no LLMs were consulted or used in the creation of this mod.\n\nAllows you to add portraits for your player character, and overlays depending on pain, arousal and lust levels.\n\nFor instructions on how to use, see README.txt file inside the zip archive.\n\nCan be slightly configured further with RodentUtils.\n\nVersion 1.3.2:\n- Updated license\n- Other changes and improvements; maybe fixes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PlayerPortrait.png]Click for Preview[/url]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PlayerPortrait.png",
 		"author": "Selinoccino",
+		"categories": ["UI"],
 		"modversion": "1.3.2",
 		"gameversion": "0.3.2",
+		"reqs": ["rodent_utils"],
+		"delete": ["PlayerPortrait_v"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PlayerPortrait_v1.3.2.zip"
 	},
 	{
+		"id": "rat_archetypes",
 		"name": "RAT_Archetypes",
 		"description": "This mod, like all my mods, is 100% ratwritten with care; no LLMs were consulted or used in the creation of this mod.\n\nRequires [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RodentUtils_v0.9.4.zip]RodentUtils[/url]\n\nAllows mods to modify/replace species' methods with (hopefully) no conflicts. Does nothing on its own. Also allows mods to define \"archetypes\" for dynamic NPCs, which can affect any of their properties and are configurable through the mod config menu.\nIncludes (some) documentation for modders.\n\nVersion 1.0.1:\n- Updated license\n- Other changes and improvements; maybe fixes\n- Think I expanded the docs a bit",
 		"author": "Selinoccino",
+		"categories": ["Library"],
 		"modversion": "1.0.1",
 		"gameversion": "0.3.2",
+		"reqs": ["rodent_utils"],
+		"delete": ["RAT_Archetypes_v"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RAT_Archetypes_v1.0.1.zip"
 	},
 	{
 		"name": "Encounter Premonition",
 		"description": "Updated November 6th 2026\n\nThis mod, like all my mods, is 100% ratwritten with care; no LLMs were consulted or used in the creation of this mod.\n\nAllows you to:\n- Edit encounter settings when starting a new game\n- Save and load custom presets for them\n- Set a preset as default for starting new games\n\n(access from Me -> Encounters -> Edit presets)\n\nVersion 1.1.1:\n- Updated license\n- Other changes and improvements; maybe fixes",
 		"author": "Selinoccino",
+		"categories": ["Gameplay"],
 		"modversion": "1.1.1",
 		"gameversion": "0.3.2",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RAT_EncounterPremonition.zip"
@@ -2824,6 +2834,7 @@
 		"name": "RodentUtils",
 		"description": "Updated November 6th 2026\n\nThis mod, like all my mods, is 100% ratwritten with care; no LLMs were consulted or used in the creation of this mod.\n\nAdds some common functionality for most (some) Rat mods.\n\nVersion 0.9.4:\n- Updated license - Other changes and improvements; maybe fixes\n- Wrote documentation",
 		"author": "Selinoccino",
+		"categories": ["Library"],
 		"modversion": "0.9.4",
 		"gameversion": "0.3.2",
 		"delete": ["RodentUtils_v"],
@@ -2833,6 +2844,7 @@
 		"name": "RAT_DomEndurance",
 		"description": "This mod, like all my mods, is 100% ratwritten with care; no LLMs were consulted or used in the creation of this mod.\n\nCommissioned by Gray\n\nAllows doms in generic sex scenes to have more rounds with the player/other subs, based on their lust level. Adjustable via the \"Me\" menu.",
 		"author": "Selinoccino",
+		"categories": ["Gameplay"],
 		"modversion": "0.9",
 		"gameversion": "0.3.2",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RAT_DomEndurance.zip"
@@ -2841,6 +2853,7 @@
 		"ai": true,
 		"name": "ModManager",
 		"description": "Contains code written by AI.\n\nModManager makes working with mods easier. Available through Mods > ModManager after launching the game.\n\nInstalled mods can be reordered by entering priorities or dragging them into place. Their versions are checked against the Mod Browser catalogue when opening ModManager.\n\nUpdates are downloaded to a subfolder inside the mods folder. The saved mod path is switched to the new archive so the game loads it on the next launch. Priorities and enabled states are preserved. The previous archive is removed once the switch is confirmed.\n\nThe integrated Mod Browser includes links to dependencies and displays image previews directly in mod descriptions. Uses the game's built-in translation system to translate entire pages.\n\nChanges take effect after restarting the game.\n\nFor questions about the mod, contact copiumdevahh on GitHub.",
+		"categories": ["UI"],
 		"author": "Neith",
 		"modversion": "1.0.0",
 		"gameversion": "0.3.2",
@@ -2850,6 +2863,7 @@
 		"ai": true,
 		"name": "Dynamic Control System",
 		"description": "Dynamic Control System (DCS) is a modular character customization system that provides convenient in-game sliders for adjusting body parameters.\n\n[b]AI Disclosure[/b]\nLLMs were used as development assistance during the creation of DCS. They helped with architectural discussions, code development and review, troubleshooting, and documentation preparation.\n\n[b]For Players[/b]\nEasily customize your character's body proportions using adjustable parameters for the penis, testicles, breasts, tail, and buttocks.\n\n[b]For Mod Developers[/b]\nDCS is an extensible framework that allows developers to add custom parameter handlers, modifier rules, update definitions, and actions through a unified registration system.\n\nIt also provides automatic parameter interface generation and component registration logging.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/DynamicControlSystem.gif]Click for Preview[/url]",
+		"categories": ["UI"],
 		"author": "Djakise",
 		"modversion": "1.0.0",
 		"gameversion": "0.3.2",
