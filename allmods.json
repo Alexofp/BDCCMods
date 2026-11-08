@@ -75,6 +75,7 @@
 	{
 		"name": "n76-ultrapack",
 		"description": "Add and replaces characters images, now every static (not procedural) character in the game has its own avatar. Also some errors have been fixed in this package, thx to Failas. Preview without spoilers, I'll add link to the preview with names and descriptions later.\nInstallation: Download mod -> Launch with mods -> Options -> Check if n76 above Rahi in the Imagepack section (if not move it up by the arrow) -> Play\n[url=https://media.discordapp.net/attachments/1021686418512289792/1109492849667485806/preview.png]Click for Preview[/url]",
+		"preview": "https://media.discordapp.net/attachments/1021686418512289792/1109492849667485806/preview.png",
 		"author": "newtown76",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -83,6 +84,7 @@
 	{
 		"name": "Eevee Species",
 		"description": "Now play a fluff and cute creature! Include a face with and without eye and a second body with fluff (use it at your own risk).\nDisclaimer : This is a test version a better version will be released later. Thank Fantos for the big help!\n[url=https://media.discordapp.net/attachments/1021686418512289792/1115776532846223520/Capture_decran_2023-06-07_005304.png]Click for Preview[/url]",
+		"preview": "https://media.discordapp.net/attachments/1021686418512289792/1115776532846223520/Capture_decran_2023-06-07_005304.png",
 		"author": "Eurygrey",
 		"modversion": "0.1",
 		"gameversion": "*",
@@ -91,6 +93,7 @@
 	{
 		"name": "Umbreon Species",
 		"description": "Play as you favorite cute and dark anthro creature! Dark as a shadow but still very cute! Includes two face types, with and without eyes.\nMod update : Corrected a bug where the head without the eyes didn't show up in the creation menu.\n[url=https://media.discordapp.net/attachments/1021686418512289792/1116135816608088104/umbreonmale.png]Click for Preview[/url]",
+		"preview": "https://media.discordapp.net/attachments/1021686418512289792/1116135816608088104/umbreonmale.png",
 		"author": "Eurygrey",
 		"modversion": "0.3",
 		"gameversion": "*",
@@ -99,6 +102,7 @@
 	{
 		"name": "Jolteon Species",
 		"description": "Now play as your favorite yellow fluffball!\nInclude two faces types with and without eyes, and two body with and without fur.\n[url=https://media.discordapp.net/attachments/1021686418512289792/1116522067769167933/jolteonmale.png]Click for Preview[/url]",
+		"preview": "https://media.discordapp.net/attachments/1021686418512289792/1116522067769167933/jolteonmale.png",
 		"author": "Eurygrey",
 		"modversion": "0.1",
 		"gameversion": "*",
@@ -107,6 +111,7 @@
 	{
 		"name": "Puro Species",
 		"description": "Play now as the sticky boy (or girl if you want) in the prison!\nInclude two faces types with eyes and without eyes.\nDISCLAIMER : All right of the design go to Dragonsnow, I didn't created this character or his design.\n[url=https://media.discordapp.net/attachments/1021686418512289792/1119429310189682738/PuroMale.png]Click for Preview[/url]",
+		"preview": "https://media.discordapp.net/attachments/1021686418512289792/1119429310189682738/PuroMale.png",
 		"author": "Eurygrey",
 		"modversion": "0.2",
 		"gameversion": "*",
@@ -115,6 +120,7 @@
 	{
 		"name": "Ori Species",
 		"description": "Play now as your white and bright creature!\nInclude two faces, with and without eyes.\n[url=https://media.discordapp.net/attachments/1021686418512289792/1120137536577208421/OriMale.png]Click for Preview[/url]",
+		"preview": "https://media.discordapp.net/attachments/1021686418512289792/1120137536577208421/OriMale.png",
 		"author": "Eurygrey",
 		"modversion": "0.1",
 		"gameversion": "*",
@@ -123,6 +129,7 @@
 	{
 		"name": "Protogen Species",
 		"description": "Play now as your favorite electronical fluff!\nInclude two faces (normal and small). The protogen body need to be selected in the bodies type category when your making the character. Also include a default shark tail. You can change the tail with the tails from the base game and others mods\n[url=https://media.discordapp.net/attachments/1021686418512289792/1129920333198139533/ProtgenMale.PNG]Click for Preview[/url]",
+		"preview": "https://media.discordapp.net/attachments/1021686418512289792/1129920333198139533/ProtgenMale.PNG",
 		"author": "Eurygrey",
 		"modversion": "0.1",
 		"gameversion": "*",
@@ -131,6 +138,7 @@
 	{
 		"name": "Shark Species",
 		"description": "Play now as your water species!\nInclude 4 faces (Big and small head, with and without eyes) Also include a special shark pen and a shark body.\n[url=https://media.discordapp.net/attachments/1021686418512289792/1131017541079281794/SharkFemale.PNG]Click for Preview[/url]",
+		"preview": "https://media.discordapp.net/attachments/1021686418512289792/1131017541079281794/SharkFemale.PNG",
 		"author": "Eurygrey",
 		"modversion": "0.1",
 		"gameversion": "*",
@@ -139,6 +147,7 @@
 	{
 		"name": "Flareon Species",
 		"description": "Play now as your fire fluffball!\nInclude 2 faces (With and without eyes).\n[url=https://media.discordapp.net/attachments/1021686418512289792/1131375011664494683/FlareonFemale.PNG]Click for Preview[/url]",
+		"preview": "https://media.discordapp.net/attachments/1021686418512289792/1131375011664494683/FlareonFemale.PNG",
 		"author": "Eurygrey",
 		"modversion": "0.1",
 		"gameversion": "*",
@@ -147,6 +156,7 @@
 	{
 		"name": "Glaceon Species",
 		"description": "Play now as your ice fluff!\nInclude 2 faces (With and without eyes).\n[url=https://media.discordapp.net/attachments/1021686418512289792/1131744788102795344/GlaceonFemale.PNG]Click for Preview[/url]",
+		"preview": "https://media.discordapp.net/attachments/1021686418512289792/1131744788102795344/GlaceonFemale.PNG",
 		"author": "Eurygrey",
 		"modversion": "0.1",
 		"gameversion": "*",
@@ -155,6 +165,7 @@
 	{
 		"name": "Vaporeon Species",
 		"description": "Guys did you know in term of...\nInclude 2 faces (With and without eyes).\n[url=https://media.discordapp.net/attachments/1021686418512289792/1132124006812766298/VaporeonMale.PNG]Click for Preview[/url]",
+		"preview": "https://media.discordapp.net/attachments/1021686418512289792/1132124006812766298/VaporeonMale.PNG",
 		"author": "Eurygrey",
 		"modversion": "0.1",
 		"gameversion": "*",
@@ -163,6 +174,7 @@
 	{
 		"name": "Gardevoir Species",
 		"description": "Now play as you tall looking creature\nInclude 2 faces (With and without eyes).\n[url=https://media.discordapp.net/attachments/1021686418512289792/1133557184232423464/GardevoirFemale.PNG]Click for Preview[/url]",
+		"preview": "https://media.discordapp.net/attachments/1021686418512289792/1133557184232423464/GardevoirFemale.PNG",
 		"author": "Eurygrey",
 		"modversion": "0.1",
 		"gameversion": "*",
@@ -171,6 +183,7 @@
 	{
 		"name": "Newtown76 collar",
 		"description": "Replaces the collar with the one based on newtown76's style\n[url=https://media.discordapp.net/attachments/1021686418512289792/1141409251684782140/collar_preview.png]Click for Preview[/url]",
+		"preview": "https://media.discordapp.net/attachments/1021686418512289792/1141409251684782140/collar_preview.png",
 		"author": "panzertigre",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -179,6 +192,7 @@
 	{
 		"name": "Fluffy parts",
 		"description": "Add a fluffy skin body part in the game. Supported species: fox, wolf, dog\nwork still in progress\n[url=https://media.discordapp.net/attachments/1021686418512289792/1142196087113912512/image.png]Click for Preview[/url]",
+		"preview": "https://media.discordapp.net/attachments/1021686418512289792/1142196087113912512/image.png",
 		"author": "panzertigre",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -187,6 +201,7 @@
 	{
 		"name": "Hologlass",
 		"description": "Adds a pair of glasses buyable in vendomat\n[url=https://media.discordapp.net/attachments/1021686418512289792/1142895667329634324/image.png]Click for Preview[/url]",
+		"preview": "https://media.discordapp.net/attachments/1021686418512289792/1142895667329634324/image.png",
 		"author": "panzertigre",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -195,6 +210,7 @@
 	{
 		"name": "Inmate Hoodie",
 		"description": "Hoodie with color matching the uniform. This is a fix cause turned out the mod never worked properly.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/hoodie.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/hoodie.png",
 		"author": "Fantos (Code), Max-Maxou (Graphics)",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -219,6 +235,7 @@
 	{
 		"name": "Straitjacket woc",
 		"description": "Just the straitjacket but without the chasity (woc) bc someone asked me to do x3\n\nYou only can get it through the debug menu; A buyable version coming later\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/straitjacket.png]Click for preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/straitjacket.png",
 		"author": "Red Tiger",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -243,6 +260,7 @@
 	{
 		"name": "Human legs only",
 		"description": "this mod replaces all the main NPCs penis (if they have one) with a human one, also replaces legs to be plantigrade. this works with generated NPCs too (ONLY VAILLIA SPEICES WILL ONLY HAVE THESE CHANGES, I MIGHT ADD IN SUPPORT FOR MODDED SPEICES LATER) (also changed avy to like big cocks now cause why not lol, if u don't want it u can edit AvyCharacter.gd in the files of the mod and replace the npcLustInterests and interestVerbalReaction with the one from the vanilla file)\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/humanlegspreview.PNG]Click for preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/humanlegspreview.PNG",
 		"author": "NatRobloxian",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -275,6 +293,7 @@
 	{
 		"name": "Human cocks and legs only",
 		"description": "this mod replaces all the main NPCs penis (if they have one) with a human one, also replaces legs to be plantigrade. this works with generated NPCs too\n[b]UPDATE: Ace's protogen mod is now supported[/b]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/humanlegspreview.PNG]Click for preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/humanlegspreview.PNG",
 		"author": "NatRobloxian",
 		"modversion": "0.4.5",
 		"gameversion": "*",
@@ -291,6 +310,7 @@
 	{
 		"name": "Clothes Megapack",
 		"description": "Add a lot of clothes in the game, the list is:\n- Crop top\n- Fingerless Gloves\n- Hoodie (White streak and 3 inmate color variant)\n- Kitty Panties\n- Leather Jacket\n- Short uniform (3 inmate color variant)\n- Thigh High (3 inmate color variant)\nAnd every one of these have a white variant too!\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ClothesMegapackPreview.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ClothesMegapackPreview.png",
 		"author": "Fantos",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -339,6 +359,7 @@
 	{
 		"name": "Lopunny Species",
 		"description": "Add a special bunny species that come with an eyes or without eyes option\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/LopunnyPreview.png]Click for preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/LopunnyPreview.png",
 		"author": "trashbox_52161",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -379,6 +400,7 @@
 	{
 		"name": "Rat Species",
 		"description": "It add the bigger and more dangerous of the cheese lover species, the rat. Now with skin support!\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/RatPreview.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/RatPreview.png",
 		"author": "Fantos",
 		"modversion": "2.1",
 		"gameversion": "*",
@@ -435,6 +457,7 @@
 	{
 		"name": "Laquine Species (Breed Edition)",
 		"description": "Rabbit-Horse hybrids.\nUpdated: has more mods compatblity (npc spawns with moddded bodyparts)\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/LaquineSpeciesPreview2.png]Click for Preview[/url]\n\n[b]Breed edition[/b]: Make all Laquine NPC spawn with anus womb.\n[b]DO NOT USE BOTH VERSION AT ONCE![/b] Please use one or the other!",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/LaquineSpeciesPreview2.png",
 		"author": "Raznaak",
 		"modversion": "1.5",
 		"gameversion": "*",
@@ -443,6 +466,7 @@
 	{
 		"name": "Laquine Species",
 		"description": "Rabbit-Horse hybrids.\nUpdated: has more mods compatblity (npc spawns with moddded bodyparts)\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/LaquineSpeciesPreview2.png]Click for Preview[/url]\n\n[b]DO NOT USE BOTH VERSION AT ONCE![/b] Please use one or the other!",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/LaquineSpeciesPreview2.png",
 		"author": "Raznaak",
 		"modversion": "1.5",
 		"gameversion": "*",
@@ -515,6 +539,7 @@
 	{
 		"name": "Equine Penis Barbs & Knots Edition",
 		"description": "This is a splice of Ace's Barbed Equine and Knotty Equine penis mods adding a character creation option for a barbed and knotty equine penis. All art assets are knicked from Ace's mods and restitched back together to make a bigger better penis!\n\nChangelog: Now has skins available like the other equine options\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BarbedandKnottedEquinePenis.png]Click for preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BarbedandKnottedEquinePenis.png",
 		"author": "Avery Winters",
 		"modversion": "1.1",
 		"gameversion": "*",
@@ -523,6 +548,7 @@
 	{
 		"name": "Bluespace Reality Alterator (BRA)",
 		"description": "-Lore: One morning, you find a small device in the engineering section of the station, with a small screen, a keyboard and a standard memory connector, with the letters \"BRA\" stenciled on the back.\nRight now it seems empty of programmed modules, but looking a bit in the pile of junk, you find a memory stick with \"CaninePussy\" written on it, and after plugging it and fiddling a bit with the controls, you notice that your fellow Canine prisoners suddenly all have animalistic pussies instead of humanoid ones. Surprisingly, noone seems to notice the difference but you...\nAre... are you able to alter reality with this device? You must find other modules, stat!\n\n-Description: This is what I managed to hack together to make in-game options for mods possible, since having multiple versions of the same mod for different options is fucking annoying for the modders and for the users, and it's basically impossible to add custom options to the base game Options without releasing a custom build.\nAlone, this mod does nothing, but with mods using compatible scene files, more options are going to get added dynamically, for the users they just need to have this mod and the (future) compatible mods will add themselves to the options available (check the pictures for an example with the Canine Pussy mod).\nRight now only text boxes and scene buttons can be used to change mods, as I still haven't managed to include checkboxes and dropdown lists, but perhaps I'll manage one day.\n\nFor modders, check all the files in the following Canine Pussy mod to understand how to make one for your mod, I added comments to help you, and I will happily answer questions, it's both not hard and a bit finicky...\nWhat's important is using flags in your module.gd and you MUST have a [YourMod]/Scenes/ModsOptionsScenes folder with the scene inside for it to register. You don't have to name the scene as I did, but it will help with what shows in game.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ModsOptions.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ModsOptions.png",
 		"author": "Raznaak",
 		"modversion": "0.2",
 		"gameversion": "*",
@@ -539,6 +565,7 @@
 	{
 		"name": "Body Writing (Skin)",
 		"description": "Added as a workaround to not seeing tally marks and body writings. (Works best on humans).\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BodyWriting.png]Click for preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BodyWriting.png",
 		"author": "Bursa",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -555,6 +582,7 @@
 	{
 		"name": "Big Boss",
 		"description": "Add headgear resembling Big Boss to the director in tavi's flashback\ndoes not require PartOrientPicker and phantom of the boss\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/bigbossPreview.png]Click for Preview[/url]\n\n\n\n\n",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/bigbossPreview.png",
 		"author": "CanInBad",
 		"modversion": "Large Executive",
 		"gameversion": "*",
@@ -563,6 +591,7 @@
 	{
 		"name": "Hair Replacer",
 		"description": "Replaces 4 of the hair types I dislike.\nCombed back is bald.\nCool Hair and Long hair is Ferri hair\nPonytail 2 is ponytail 1 hair.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HairRemoval.png]Click for preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HairRemoval.png",
 		"author": "MakoDaShark",
 		"modversion": "0.1",
 		"gameversion": "*",
@@ -595,6 +624,7 @@
 	{
 		"name": "Borzoi, Canine Head and Ears",
 		"description": "[i]I did it for you[/i]\n\nBorzoi style Head and Ears customization. Found under Canine species.\n\n• Snoot clipping in some oral animations (obviously)\n• Blindfolds look a bit off but there's nothing I can do about it (game limitation)\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/borzoi_preview.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/borzoi_preview.png",
 		"author": "Lucci",
 		"modversion": "1.0.1",
 		"gameversion": "*",
@@ -611,6 +641,7 @@
 	{
 		"name": "Slutwall Cuffs",
 		"description": "Visible cuffs for wrists/ankles when locked in the Slutwall.\nChains are no longer skewered directly to flesh and bone.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SlutwallCuffs.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SlutwallCuffs.png",
 		"author": "Lucci",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -627,6 +658,7 @@
 	{
 		"name": "NPC Anus Womb",
 		"description": "This adds a copy of the anus womb to the dynamic NPC generation so that approximately half the boys (any NPC without a vagina) and about a quarter of the girls (any NPC with a vagina) spawn with one\nNote: it shows up in character creation and I dont have time to fix it.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NPCAnalWomb.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NPCAnalWomb.png",
 		"author": "Avery Winters",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -635,6 +667,7 @@
 	{
 		"name": "Water Pistol",
 		"description": "A water gun - water not included\n\nAdds a new weapon that can store and shoot fluids.\nFunctionally, a Plastic Bottle with a multi-use Throw Condom attack.\n\nNew attack listed under Special when in combat.\n\nVisit/talk to the Nurse in the Nursery to get one for free.\n-- Randomly drops from defeated Nurses\n-- Randomly appears when you loot Medical Storage\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WaterPistol.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WaterPistol.png",
 		"author": "Lucci",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -667,6 +700,7 @@
 	{
 		"name": "Wings Static",
 		"description": "Adds 4 wings. They are purchasable from laundry vendermat.\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WingStaticPreview.png]Click for Preview.[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WingStaticPreview.png",
 		"author": "CanInBad",
 		"modversion": "R1",
 		"gameversion": "*",
@@ -691,6 +725,7 @@
 	{
 		"name": "Force Anus Womb",
 		"description": "You get an anus womb, you get an anus womb, everyone gets an anus womb!!!\n\nSometimes I may have a tendency to overcomplicate things... For once, this updated version actually has less stuff than the previous one, because most of that stuff wasn't really needed... 😅 Instead of changing the behaviour of the anus womb or whatever I did previously, this mod now replaces the regular anus for one with an anus womb. This mod also doesn't do anything with FoxOptions anymore, as these options were kinda superfluous...\nAs this replaces the basic-ass anus (pun intended), this will also force it onto ALL characters, including every static ones, and the PC too. Literally every characters will have an anus womb capable of pregnancy if you can have anal sex with that character. Why? Because!\nAs it doesn't remove the normal anus womb, anything that already has an anus womb still stays the same, but now everyone else has one too instead of the vanilla one.\n\nIf you have Hypertus it will also replace all normal Hyper Anus into ones with wombs.\n\nThis doesn't even conflict with Ace's mods that makes some NPCs \"breedable\", like BreedableAvy and BreedableCheckpointGuard, as these mods already give the vanilla anus womb, so nothing much will happen if you want to keep them too, as mine only touches the regular anus.\nphrasing...\nThis may conflict with any other mod that could interact the vanilla anus, but there are no others ones yet AFAIK, and unless a new mod also want to overwrite it, eh 🤷‍♂️\nAnd after some testing, if any NPC is pregnant and you remove the mod (so they get back the vanilla anus without womb), the potential fetus(es) just get sent to the Shadow Realm together with the womb without any incident, so no worries of crashing if you want to remove this mod...\n\nAs usual, if you find any bug or have any comment, don't hesitate to @ me.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ForceAnusWomb.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ForceAnusWomb.png",
 		"author": "Raznaak",
 		"modversion": "1.1",
 		"gameversion": "*",
@@ -739,6 +774,7 @@
 	{
 		"name": "Corset Mod",
 		"description": "Mod adds puppy suit corset as wearable clothing (you can buy it in laundry vendomat), inspired by goo corset from Goo Bondage mod by Jaycred.\nIt's my first mod, so there might be problems, but it's just one item , so hopefully it'll be ok.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/CorsetMod.png]Click for preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/CorsetMod.png",
 		"author": "mks",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -747,6 +783,7 @@
 	{
 		"name": "Auto Lube",
 		"description": "Adds tier 4 cum lover perk that makes holes self lubricate on sex start. Heavily inspired by Hypertus sex toy perk. [b]REQUIRES FOXLIB.[/b]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AutoLubeMod.png]Click for preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AutoLubeMod.png",
 		"author": "mks",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -755,6 +792,7 @@
 	{
 		"name": "Suzanne",
 		"description": "im feeling depressed so have this monkey cosmetic, colorable with baked in shadow\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SuzanneHeadCosmetic.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SuzanneHeadCosmetic.png",
 		"author": "CanInBad",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -779,6 +817,7 @@
 	{
 		"name": "Tavi Dom Plus Demo",
 		"description": "A little Addition for Tavi, starts when you get her Corruption to 200% or 0%~ And then she will give you a nice little rewards for \"Fixing\" her.\nWhat it adds: Adds a few encounters with Tavi, after doing the above mentioned thing currently you can find her in the Canteen as you eat, in the yard while you wander about, and the greenhouse for a little teasing minigame~.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/TaviDomPlus.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/TaviDomPlus.png",
 		"author": "Phoenix",
 		"modversion": "0.5fixed2",
 		"gameversion": "*",
@@ -787,6 +826,7 @@
 	{
 		"name": "Bubble Butt body",
 		"description": "Adds a body that has a huge ass. Good only for being a naked human, as tails and clothing breaks with it.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BubbleButtBody.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BubbleButtBody.png",
 		"author": "Amewsing",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -803,6 +843,7 @@
 	{
 		"name": "Gardevoir Species",
 		"description": "Adds in the pokemon species Gardevoir, this is an update of Eurygrey's mod. Please download the related Datapack for the skin.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/Gardevoir.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/Gardevoir.png",
 		"author": "Amewsing",
 		"modversion": "1.01",
 		"gameversion": "*",
@@ -811,6 +852,7 @@
 	{
 		"name": "Manga Head",
 		"description": "Adds a Manga style version of the human head with Colorable Eyes (red: Skin, green: Sclera, blue: Iris).\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MangaHead.png]Click for preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MangaHead.png",
 		"author": "Master Lorian",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -819,6 +861,7 @@
 	{
 		"name": "Lorian Hair",
 		"description": "Adds 5 Hairstryles\nv0.25 changelog:\nJust updated the json for 0.1.8, removed useless files, and adjusted some of the hairstyles to be a bit closer to vanilla.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/LorianHair.png]Click for preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/LorianHair.png",
 		"author": "Master Lorian",
 		"modversion": "0.25",
 		"gameversion": "*",
@@ -827,6 +870,7 @@
 	{
 		"name": "Humanoid Ears",
 		"description": "Adds an Elf species and more human ears\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HumanoidEars.png]Click for preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HumanoidEars.png",
 		"author": "Amewsing",
 		"modversion": "1",
 		"gameversion": "*",
@@ -835,6 +879,7 @@
 	{
 		"name": "Amusing Pokemon Pack Volume 1 (APPV1)",
 		"description": "Adds in the species Charizard, Mew, Nido Queen/King and Raichu.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/APPV1.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/APPV1.png",
 		"author": "Amewsing",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -843,6 +888,7 @@
 	{
 		"name": "Absols",
 		"description": "Adds absols as a playable species. Hair and horns can be used separately. Arms and legs can use the included pattern, or the universal skins.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/Absols.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/Absols.png",
 		"author": "Amewsing",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -851,6 +897,7 @@
 	{
 		"name": "Barbed Knot",
 		"description": "First and probably last time posting, This terrible edit I made using AVERAGE ACE's Knotted equine Mod where I just changed the sprite and the name it works fine and even has the condom sprite it dose not work with the original mod because I did not want to have to change all the names.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BarbedKnot.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BarbedKnot.png",
 		"author": "Sket",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -859,6 +906,7 @@
 	{
 		"name": "Sheep Species",
 		"description": "This mod adds the sheep species. The mod isn't amazing, but it's okay... I think XD\nDesigns by The Galtor\nCode by Avery Winters.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/TheGaltorSheepSpecies.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/TheGaltorSheepSpecies.png",
 		"author": "The Galtor",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -867,6 +915,7 @@
 	{
 		"name": "Sheathed Human Penis",
 		"description": "Helping Ace in their continued effort to remove humanity from the game, I edited the sheathed human penis\n\"It does exactly what you think it do, human penis with a sheath on it\" -Average Ace\nNow replaces the normal human one entirely\nOriginal by: Average Ace \nCode change by: Me and a ton of help from Avery Winters\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SheathHumanPenis.png]Click for preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SheathHumanPenis.png",
 		"author": "Winter 'Eira",
 		"modversion": "2.0",
 		"gameversion": "*",
@@ -875,6 +924,7 @@
 	{
 		"name": "Hairs!",
 		"description": "Original mod by Sority. Adds hairs to the game. Updated to use the new skin(pattern) system.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/hair.png]Click for preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/hair.png",
 		"author": "Amewsing",
 		"modversion": "1.1",
 		"gameversion": "*",
@@ -883,6 +933,7 @@
 	{
 		"name": "Rabbit Species",
 		"description": "Add The Jumping Animal for all the lola and bugs bunny lovers. It has 3 Ears Variant type and 2 Tails variant. Work with skin system, with default patterns, and custom pattern variants for ears, head and tails\n\nFixed issues with skins/patterns on legs\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/RabbitPreview.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/RabbitPreview.png",
 		"author": "Fantos (Code), Max-Maxou (Graphics)",
 		"modversion": "2.1",
 		"gameversion": "*",
@@ -899,6 +950,7 @@
 	{
 		"name": "Goo Bondage",
 		"description": "Adds new restraints with custom effects. If you like weird and goopy bondage things, you might like this. These are added to the pool of NPC restraints and The Announcer's shop.\nMouth:\nGoo Mask\nTorso:\nGoo Boobs\nGooey Corset\nGooey Vest\nGooey Lingerie\nPenis:\nNull Bulge (P)\nSentinel Cage\nVagina:\nNull Bulge (V)\nSentinel Plug (V)\nAnus:\nSentinel Plug (A)\n\nNon-restraint versions of some of the torso items are also sold in the vendomat.\n\nGoo Boobs and Goo Mask are designed to alter one of the character's body parts on equip and restore it when unequipped, but the on-equip code is only called if you manually \"Put On\" in the inventory or have it forced on you in sex. Debug commands (i.e. \"Force Smart Lock\") and the checkpoint guard won't call it. These items will be missing some effects/visuals in those cases, so I've excluded them from the checkpoint guard's available restraints. Could probably fix with an override, but I'm avoiding overrides with this mod.\n\nWhat's new in version 2.1.0:\nAdded a vaginal variant of Sentinel Plug and renamed the original to differentiate the two\nUpdated Sentinel Plugs, Null Bulges, and Goo Boobs to give sensitivity-related (de)buffs\nAdded the Sentinel Cage, a faux-chastity cage/bulge that encases the penis and leaves it accessible but empty.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GooBondage.png]Click for preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GooBondage.png",
 		"author": "Jaycred",
 		"modversion": "2.1.0",
 		"gameversion": "0.1.9",
@@ -907,6 +959,7 @@
 	{
 		"name": "Winters Pokemon Collection",
 		"description": "A grouped mod for the various pokemon eeveelutions in a single file updated to handle being coloured and skins.\nIncluded: Eevee, Espeon, Flareon, Glaceon, Jolteon, Leafeon, Sylveon, Umbreon, Vaporeon\nCredit: Original Mods by Eurygrey\nChangelog: Finished Sylveon and reached 1.0 release and marked mod as no longer WIP.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersPokemonCollection.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersPokemonCollection.png",
 		"author": "Avery Winters",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -915,6 +968,7 @@
 	{
 		"name": "Rigging God",
 		"description": "Adds tier 4 BDSM skill that further enhances rigging skills.\n[b]WARNING[/b]: THIS MOD REQUIRES FOXLIB\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/RiggingGodMod.png]Click for preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/RiggingGodMod.png",
 		"author": "mks",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -931,6 +985,7 @@
 	{
 		"name": "HeelsSuit",
 		"description": "Adds a new suit with high heeled boots to the outfit vendomat. Features three different states of damage.\n\nAdapted from a poorly-cropped image of a clothing design by @MISS-TRINITY. I do not claim ownership of the original design.\n\nPlease review the attached readme file before contacting the author with questions.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HeelsSuit.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HeelsSuit.png",
 		"author": "MOONHALO",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -939,6 +994,7 @@
 	{
 		"name": "Animal Pussies",
 		"description": "This adds various animal pussies to the game, in this version there are:\n-Canine\n-Equine\n-Feline\n-Cloaca (including anus)\n-Sergal (if you have the Sergal species active)\n\n[b]IMPORTANT[/b]!: This replaces both Canine Pussy and Equine Pussy mods, remove them from your list before playing.\n\nEach pussy has different descriptions, elasticity, resistance, capacity and comfortable insertion values. There are no visible bodyparts, but this is for people who want some variety. The cloaca is difficult do with how the game works, a bodypart can only be one type of orifice, but pretend that they're combined.\n\nBy default, only the base species will spawn with their respective pussies, and will always spawn with one instead of the regular vagina. At character creation, only these species will have the respective pussy available. If you want more species to spawn with them, you must use FoxLib, but FoxLib isn't  required.\n\nHypertus compatibility:\nIf you have Hypertus active, all new hyper characters will spawn with a hyper pussy. \n\nSpecies mod compatibility:\n-If you have the Sergal species (not the Southern one), the Sergal pussy will be added to the list. It technically has a prehensile clitoris, even if nothing can be done with it (yet).\n-Laquine will spawn with the Equine pussy.\n-Nano Android will spawn with the pussy corresponding to their species if available.\n-If you have the Human Replacer Bits mod, Furless Felines will spawn with a feline pussy.\n\nFoxLib ModsOptions compabibility:\nIf you have FoxLib, you can set a few options:\n-You can choose to use any pussy with any species at character creation.\n-You can choose to have relatively equal chances for the normal vagina to spawn instead of always the animal pussies.\n-You can customize every species to have NPCs have the pussy you want (in the \"advanced\" options), it's only a checkbox instead of percentages, a species can have more than one pussy available. \n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnimalPussies.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnimalPussies.png",
 		"author": "Raznaak",
 		"modversion": "3.0",
 		"gameversion": "*",
@@ -955,6 +1011,7 @@
 	{
 		"name": "EZ-Meet",
 		"description": "Adds two new buttons to the \"Me\" menu to quickly start an encounter with dynamic NPCs. \"Find Random\" finds an existing NPC, while \"Meet New\" creates a new one. You then get the option to interact with them or leave them alone. When creating a new NPC, you also get the option to avoid them (removing them from the game).\nChanged in v0.1.1: Fixed description when pulling up an NPC you have offspring with.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EZMeet.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EZMeet.png",
 		"author": "Sightglass",
 		"modversion": "0.1.1",
 		"gameversion": "*",
@@ -963,6 +1020,7 @@
 	{
 		"name": "Casino (Demo)",
 		"description": "This is a second update on the casino mod. You can access the casino on your cell. (Which to be changed later) I improved the slot machine so it will (and should) be more balanced. I also add images for decoration. And a new game: Blackjack. \n\nIt might have some bugs. Please tell me if you found one. \n\nThank you for trying my mod.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/CasinoDemo.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/CasinoDemo.png",
 		"author": "N",
 		"modversion": "0.2",
 		"gameversion": "*",
@@ -987,6 +1045,7 @@
 	{
 		"name": "Kewlhair",
 		"description": "Adds a hair for the player to pick (doesn't gen on NPCs).\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/Kewlhair.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/Kewlhair.png",
 		"author": "Amewsing",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -1027,6 +1086,7 @@
 	{
 		"name": "ConvictTag Cuffs",
 		"description": "Adds a set of sturdy wrist/ankle cuffs, equipped with LEDs on both edges, which interface with standard issue inmate collars to ascertain the wearer's con-specifics.\n\nPawns acting as doms may have the ConvictTag gear as part of their inventory. It can also be purchased from the Announcer.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ConvictTagCuffs.png]Click for Preview[/url]\n\n[color=#CCE4FF]source code[/color] – [url=https://git.frisk.space/keerifox/BDCC-ConvictTagCuffs]git.frisk.space[/url]\n[color=#FFCCEA]personal website[/color] – [url=https://keeri.place]keeri.place[/url] [color=#FFCCEA]<3[/color]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ConvictTagCuffs.png",
 		"author": "keerifox",
 		"modversion": "0.3.0",
 		"gameversion": "*",
@@ -1035,6 +1095,7 @@
 	{
 		"name": "Tess's Scaling Perks",
 		"description": "Adds two starting perks that increase base stats. Greedy adds a stat for every 10 Credits, and Dreamer adds every 4 levels. Very unbalanced, be warned. Also my first mod.\n\nIt might have some bugs. Please tell me if you found one. \n\nThank you for trying my mod.\nChangelog: Changed the formula for getting one of the perks bonus. Thank you Dotakiin for the fix!\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/TessStartPerk.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/TessStartPerk.png",
 		"author": "Smixe",
 		"modversion": "0.1.1fix",
 		"gameversion": "*",
@@ -1043,6 +1104,7 @@
 	{
 		"name": "Southern Sergal",
 		"description": "The southern flavor of Sergals. This will 100% look fucked up with any eye-covering apparel\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SouthernSergal.png]Click for preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SouthernSergal.png",
 		"author": "Amewsing",
 		"modversion": "0.6",
 		"gameversion": "*",
@@ -1051,6 +1113,7 @@
 	{
 		"name": "Winters Tapered Penises",
 		"description": "A collection of the Tapered penises from the Aviary mod. Decided to seperate these off solo so that they can be used with other mods and species that would benefit from slits and tapered penises without needing a whole race as a dependency. Has built in hypertus compat and JSON for mod browser compat.\nCOMPATABILITY: BallsExtra & Hypertus\nCHANGELOG: Tidied NPC Generation\nNOTE: Since these run new Mod ID's doesnt hurt to back up your saves, or wait till your starting a new game to update. @ me or make a thread if anything is broken.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersTaperedPenises.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersTaperedPenises.png",
 		"author": "Avery Winters",
 		"modversion": "1.3",
 		"gameversion": "*",
@@ -1059,6 +1122,7 @@
 	{
 		"name": "Anons Avian Species",
 		"description": "A combined avian pack with species for birds, gryphons and hippogryphs. Avians will spawn with tapered penises if the mod is installed. The crow species has now had its parts rolled into the Avian species and can spawn in with all the other bird types. Included compatability for hypertus\nCOMPATABILITY: Hypertus\nCHANGELOG: Fixed a crash with WingedBody and with TaperedPenises compatability.\nNOTE: Since these run new Mod ID's doesnt hurt to back up your saves, or wait till your starting a new game to update. @ me or make a thread if anything is broken.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsAvianSpecies.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsAvianSpecies.png",
 		"author": "Anon, Avery Winters",
 		"modversion": "1.3",
 		"gameversion": "*",
@@ -1067,6 +1131,7 @@
 	{
 		"name": "NaughtyStoat Jute Harnesses",
 		"description": "Adds 3 variants of jute rope harnesses, available in multiple preset colors and manually dyeable at the uniform vendor.\n\nPawns acting as doms may have the NaughtyStoat kits as part of their inventory. They can also be purchased from the Announcer.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NaughtyStoatJuteHarnesses.png]Click for Preview[/url]\n\n[color=#CCE4FF]source code[/color] – [url=https://git.frisk.space/keerifox/BDCC-NaughtyStoatJuteHarnesses]git.frisk.space[/url]\n[color=#FFCCEA]personal website[/color] – [url=https://keeri.place]keeri.place[/url] [color=#FFCCEA]<3[/color]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NaughtyStoatJuteHarnesses.png",
 		"author": "keerifox",
 		"modversion": "0.3.0",
 		"gameversion": "*",
@@ -1075,6 +1140,7 @@
 	{
 		"name": "Ceasar's Sex Games",
 		"description": "[b]Play sexy games, win sexy prizes[/b]\nA collection of two minigames that you can play to win credits and/or prizes\n\n[b]Mod Features:[/b]\n-- Gaming \n-- Bondage\n-- A secret third thing\n-- Skill-based gambling\n\n[b]How to start:[/b]\nBy Day 5 or later, walk around the Cellblock Corridors\n\n[i]Ping me for bugs, typos, and feedback[/i]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/CeasarsSexGames.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/CeasarsSexGames.png",
 		"author": "Lucci",
 		"modversion": "1.02",
 		"gameversion": "*",
@@ -1083,6 +1149,7 @@
 	{
 		"name": "Winters Ori & Puro Species",
 		"description": "Original mody by Eurygrey, Updates and combined by Avery Winters.\nUpdated and combined the Puro & Ori species to work with skins and colours. Originals made by Eurygrey. Has built in hypertus compatibility\nCOMPATABILITY: Hypertus\nCHANGELOG: Straightened the Puro skull so it shouldnt move around during sex positions\nNOTE: @ me or make a thread if anything is broken.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersOriPuroSpecies.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersOriPuroSpecies.png",
 		"author": "Eurygrey, Avery Winters",
 		"modversion": "1.2",
 		"gameversion": "*",
@@ -1091,6 +1158,7 @@
 	{
 		"name": "Nudity Police",
 		"description": "[b]Nudity will not go unpunished![/b]\nA mod focused on adding risk to being nude. Includes new ways to lose and regain your clothes.\n\n[b]Update: 2025-OCT-25[/b]\n-FIXED: Datapack characters endless Replace Clothes loop\n-CHANGED: Nudity Police chance now fixed at 5%, previously it slowly increased overtime\n-CHANGED: Nudity Police now has a 3 hour cooldown between arrests\n-ADDED: Mod Options for Police Chance and Cooldown. Requires FoxLib\n-REMOVED: Notorious Nudist perk, not needed due to changes in Police system\n-FIXED: Mod compatibility. More BDSM Stuff, Leather Armbinder and Leather Muff Bondage\n\nIf you have FoxLib installed:\n[b]Mod Options! Allows you to adjust the following[/b]\n-- Nudity Police event frequency\n-- Nudity Police cooldown time\n-- Sleep/Shower Thief event frequency\n\n[b]Mod Features:[/b]\n-- Guards will approach inmates walking around naked \n-- Defeat or Surrender will result in a special uniform being equipped \n---- This new inmate uniform is also a piece of bondage gear \n---- It will be hard to remove and block any Exhibitionism perks that require full nudity\n---- The new uniform will NOT fully block access to your dick/pussy/butt/boobs \n---- Parts become accessible when Lust>50, or if new uniform is damaged \n-- New events that make the Player and NPCs lose all clothing \n-- Ability to steal another inmate's clothes \n---- Available after a fight, or when an inmate is incapacitated \n-- Clothing damage after combat\n-- Naked inmates will try to get new clothes from the Laundry Vendomat (Thanks to Mindstormsman)\n\n[i]Ping me for bugs, typos, and feedback[/i]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NudityPolice.png]Click for preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NudityPolice.png",
 		"author": "Lucci",
 		"modversion": "1.3.13",
 		"gameversion": "*",
@@ -1099,6 +1167,7 @@
 	{
 		"name": "Export Encounter Preferences",
 		"description": "With this mod you are able to import and export your preferences for NPC Encounters.\nTo access these options you need to locate Preferences button inside your cell.\n\nFor those who do not know, Encounter preferences are located inside Me >> Encounters and they determine things such as NPC gender probability, specie probability, etc\n\nThis mod is in very early alpha and bugs are bound to happen so please report anything to Mari on the BDCC discord.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ExportEncounterPreferences.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ExportEncounterPreferences.png",
 		"author": "Mari",
 		"modversion": "1.0alpha",
 		"gameversion": "*",
@@ -1107,6 +1176,7 @@
 	{
 		"name": "Affection Check",
 		"description": "Sidebar now displays Affection Level, as well as if the character is a Guard/Nurse/Engineer/Slave/Nemesis\n\nUpdate 2025-OCT-31:\n-- Now works with game version 0.1.11fix1 \n-- Slave & Nemesis labels\n\nAffection Levels:\nAlly : higher than 50%\nFriend : between 50% to 20%\nNone : between 20% to -20%\nRival : between -20% to -50%\nEnemy : lower than -50%\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AffectionCheck.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AffectionCheck.png",
 		"author": "Lucci",
 		"modversion": "1.1.2",
 		"gameversion": "0.1.11",
@@ -1115,6 +1185,7 @@
 	{
 		"name": "Snoot Gear",
 		"description": "formerly Blindfolds for Snoots\n\n[b]For those long in the snoot[/b]\nMakes head gear somewhat fit on the heads of modded species\nNo guarantees, might still look misaligned, but it's better than the default\nCompatible with modded restraints but is not required for this to work\n\n[b]Update:[/b]\n-ADDED: More BDSM Stuff muzzle and bondage hood compatibility\n-ADDED: Cow/Bovine species\n-FIXED: Southern Sergal basket muzzle\n\n[b]SPECIES INCLUDED[/b]\n-- Borzoi\n-- Cow/Bovine\n-- Felkin\n-- Protogen\n-- Sergal\n-- Southern Sergal\n-- Synth\n\n[b]GEAR INCLUDED[/b]\n-- Blindfold\n-- HypnoVisor (black)\n-- HypnoVisor (pink)\nFrom mod - More BDSM Stuff - by DrDurka\n-- Leather Blindfold\n-- Leather Muzzle\n-- Latex Muzzle\n-- Latex Ring Muzzle\n-- Bondage Hood\n\n*For compatibility with other species not listed, ping me\n*Alternatively, if I don't respond for long or appear dead, feel free to edit and reupload\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SnootGear.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SnootGear.png",
 		"author": "Lucci",
 		"modversion": "1.1.4 - 2025-NOV-06",
 		"gameversion": "*",
@@ -1123,6 +1194,7 @@
 	{
 		"name": "The Plasma Café",
 		"description": "Requirements: The Plasma Café Char Pack\n\n\"Welcome to Plasma's Café! Where your Coffee needs can be satisfied~ And hey~ Why just settle for a Natural Black coffee when you can have a Cumcano Espresso~ A coffee to boost your Cum capacity, or hey even better why not have a Milking Messpresso, Let your udders out preform even the best cattle in the galaxy~ So come down to the Plasma Café located under the Canteen, and you too can enjoy some special Effects from our coffee! ;3 See you at There hun~\"\n\n[b]What It Adds[/b]\n- Adds new drinks that can be consumed for special, long lasting, effects (3 hours but can change due to popular vote)\n- A new Job you can Work at, to allow you to not only earn more money but sell your body to the local patrons~\n- (Planned and hopefully works) Possible TF drug x Coffee allowing possibly new and unique drug transformations with your special coffee~\n\n[b]Disclaimer[/b]\n- Due to current events with 'The Flamehearts' Please deposit your Flamehearts items into your stash or remove them from your inventory, as this isn't compatible with 'The Flamehearts' as there will be a duplication of the button that leads to the Café, IF many people want me to change the button to make it more distinct to press then I will so Please disable the Flamehearts mod before using this Café mod\n\n[b]Found an Issue?[/b]\n- Report the issue with a ping and place the report in the Flameheart's Mod/Cafe Mod Thread found in the Mods Discussion channel\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ThePlasmaCafe.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ThePlasmaCafe.png",
 		"author": "Phoenix",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -1131,6 +1203,7 @@
 	{
 		"name": "SongsFlatCageReplacerA",
 		"description": "※ Description\n- YOU CAN ONLY USE ONE TYPE OF THIS MOD (This one is Type A)\n- Replaces vanilla flat chastity cage texture\n- Compatible with \"ChastityCageFlatRemix\"\n- Made for the default penis skin (could look wacky on other penis skins)\n\n※ Update\n- <1.0fix1> fixed simple but critical problem (1.0 didn't have the import files and the module folder))\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FlatCageReplacerA.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FlatCageReplacerA.png",
 		"author": "SongJo",
 		"modversion": "1.0fix1",
 		"gameversion": "*",
@@ -1139,6 +1212,7 @@
 	{
 		"name": "SongsFlatCageReplacerB",
 		"description": "※ Description\n- YOU CAN ONLY USE ONE TYPE OF THIS MOD (This one is Type B)\n- Replaces vanilla flat chastity cage texture\n- Compatible with \"ChastityCageFlatRemix\"\n- Made for the default penis skin (could look wacky on other penis skins)\n\n※ Update\n- <1.0fix1> fixed simple but critical problem (1.0 didn't have the import files and the module folder)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FlatCageReplacerB.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FlatCageReplacerB.png",
 		"author": "SongJo",
 		"modversion": "1.0fix1",
 		"gameversion": "*",
@@ -1147,6 +1221,7 @@
 	{
 		"name": "Winters Withered Bodyparts",
 		"description": "CREDIT: Original by Anon\nDESCRIPTION: Skinny more witherered bodyparts available for use with any species. Will not spawn on dynamic NPCs on its own. This has been separated from Skulldogs so its available for character creation.\nCOMPATIBILITY: Bodywritings\nCHANGELOG: Mod created.\nNOTE: @ Me or make a thread if anything is broken.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersWitheredBodyparts.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersWitheredBodyparts.png",
 		"author": "Anon, Avery Winters",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -1155,6 +1230,7 @@
 	{
 		"name": "Winters Southern Sergal Patch",
 		"description": "DESCRIPTION: Patches Amewsing's Southern sergals to run WintersFluffyBodyparts. Must be loaded after Southern Sergals & WintersFluffyBodyparts.\nCOMPATABILITY: Hypertus, WintersFluffyBodyparts & SouthernSergals\nCHANGELOG: Published Lucci's bodywriting fix.\nNOTE: @ me or make a thread if anything is broken.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersSouthernSergalPatch.png]Click for preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersSouthernSergalPatch.png",
 		"author": "Avery Winters",
 		"modversion": "1.1",
 		"gameversion": "*",
@@ -1163,6 +1239,7 @@
 	{
 		"name": "Sylvanos' Zordian Species",
 		"description": "CREDIT: Avery for the coding and patchworking!\nDESCRIPTION: Adds the Zordian alien race! Comes with two different ears, heads, hairstyles, and a unique arm, torso, legs, and horn!\nNote: It is recommended to have Winter's Fluffy Bodyparts installed when playing with this.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SylvanosZordianSpecies.png]Click for preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SylvanosZordianSpecies.png",
 		"author": "Sylvanos, Avery Winters",
 		"modversion": "1.2",
 		"gameversion": "*",
@@ -1171,6 +1248,7 @@
 	{
 		"name": "Anons Skulldog Species",
 		"description": "CREDIT: Original by Anon\nDESCRIPTION: Updated the Skulldog species. Has built in hypertus compatibility, It will also spawn with withered parts if available, then fluffy parts if available.\nCOMPATIBILITY: WintersWitheredBodyparts, WintersFluffyBodyparts, Hypertus, Bodywritings\nCHANGELOG: Mod created.\nNOTE: Since these run new Mod ID's doesnt hurt to back up your saves, or wait till your starting a new game to update. @ Me or make a thread if anything is broken.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsSkulldogSpecies.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsSkulldogSpecies.png",
 		"author": "Anon, Avery Winters",
 		"modversion": "1.1",
 		"gameversion": "*",
@@ -1187,6 +1265,7 @@
 	{
 		"name": "Winters Clothing Tweaks",
 		"description": "CREDIT: Rahi\nDESCRIPTION: Clothing tweaks. Guard armor now has hooves, Inmate clothes now provide some lust resist as they cover you and another boost based on inmate type \nInmate General: Defensive Stats\nHighSec Inmate: Physical Offense Stats\nLilac Inmate: Lust Offense Stats\nCOMPATABILITY: N/A\nCHANGELOG: Mod Created\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersClothingTweaks.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersClothingTweaks.png",
 		"author": "Avery Winters",
 		"modversion": "0.6",
 		"gameversion": "*",
@@ -1195,6 +1274,7 @@
 	{
 		"name": "Human Replacer",
 		"description": "Nothing motivates like passionate, undying hatred. \nThe old human replacer never got re-uploaded, so I have done it myself, with various new fixes and features to make it compatible with the modern version of BDCC.\nNothing has been re-written to prevent things breaking, but everything here should keep human presence minimal visually.\nAlso, with the way the mod works, any existing human character will be affected and will be replaced as such.\n\nIf you remember the old version; Here's whats been fixed:\n-Ear Skins now work properly, and have new feline variants.\n-Spoiler Character Mirri: nothing has been re-written but they have extra effort put in to remove their human-ness.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HumanReplacer.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HumanReplacer.png",
 		"author": "Anonymous",
 		"modversion": "2.0",
 		"gameversion": "*",
@@ -1203,6 +1283,7 @@
 	{
 		"name": "GW Uncut Human Cocks",
 		"description": "Initial release\nThis mod adds an alternative to the standard human penis, an uncut version! It can be selected in character creation and will generate on some human npcs\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GWUncutHumanCockMod.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GWUncutHumanCockMod.png",
 		"author": "GwendiWendi",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -1211,6 +1292,7 @@
 	{
 		"name": "Plantigrade Paw Replacer V2",
 		"description": "For those who want plantigrade anthro paws. Outright [b]replaces[/b] any existing human style legs.\n\nRebuilt for the modern version of the game with some slight edits to art.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PlantigradePawReplacer.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PlantigradePawReplacer.png",
 		"author": "Anonymous",
 		"modversion": "2.0",
 		"gameversion": "*",
@@ -1219,6 +1301,7 @@
 	{
 		"name": "Winters Deer Species",
 		"description": "CREDIT: ORIGINAL: Fantos, Max-Maxou, Anon\nDESCRIPTION: An update to the deer species \nCOMPATABILITY: WintersFluffyBodyparts, WintersEquinePenises, Hypertus\nCHANGELOG: Mod updated\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersDeerSpecies.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersDeerSpecies.png",
 		"author": "Avery Winters, Others",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -1235,6 +1318,7 @@
 	{
 		"name": "Winters Human Removals",
 		"description": "DESCRIPTION: In line with other attempts to limit humans spawning in BDCC, this mod sets human generation weights to zero so none will spawn by default. In addition changes Mirri to have a feline head and the announcer to be a wolf. This does not replace any files.\nCOMPATABILITY: Roxy'sBar (Will turn the barkeep into a dragon)\nCHANGELOG: Mod Created\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersHumanRemovals.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersHumanRemovals.png",
 		"author": "Avery Winters",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -1243,6 +1327,7 @@
 	{
 		"name": "Lazy Bulldog Replacer",
 		"description": "Replaces the bulldog head with the wolf head because the bulldog head is ugly and I hate it. Reupload to get around the weird shit I blew up earlier and get it on the mod browser because as many people as possible need this removed from their game.\n\nWorks retroactively, any existing bulldog head will be replaced even on characters added through mods/datapacks.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/LazyBulldogReplacer.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/LazyBulldogReplacer.png",
 		"author": "Anonymous",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -1251,6 +1336,7 @@
 	{
 		"name": "More Uniforms",
 		"description": "Adds many new uniforms to inmates, available for purchase in all the various vending machines through the prison.\nVer 7 Mostly cleans up messy code in the background, but there are new features, bugfixes as well and a few stat changes.\n\nNew Cowprint underwear, fixes to nipple tape to be worn by men/flat chested people, and the Maternity Uniform is less oriented around pregnancy specifically, and new various Item Icons.\n\nList of Everything Added in the MoreUniforms Mod for BDCC.\n\nUniforms, 3 per Inmate type. Spawns on Inmates. All Uniforms can be Damaged.\n-Inmate Crop-Tops (Laundry Vendomat)\n-Upgraded Inmate Uniform (Laundry Vendomat)\n-Maternity Uniform (Medical Vendomat) (Patched)\n-Topless Uniform (General Vendomat)\n-Bottomless Uniform (General Vendomat) \n\nMisc. Clothing Items.\n-Nipple Tape (General Vendomat) (Dyeable) (Ver7: Fixed to work on Flat Chests)\n-Pussy Tape (General Vendomat) (Dyeable)\n-Cowprint Bra (Medical Vendomat) (Dyeable)\n-Cowprint Panties (Medical Vendomat) (Dyeable)\n-Cowprint Briefs (Medical Vendomat\n-Chest wrappings (Medical Vendomat)\n\nHarnesses, Sold by Announcer\n-Chest Harness\n-6-Point Harness\n-8-Point Harness\n-Full Harness\n-Maternity Harness\n-Max Harness\n-Restrictive Harness\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreUniforms.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreUniforms.png",
 		"author": "Anomymous",
 		"modversion": "7.0",
 		"gameversion": "*",
@@ -1259,6 +1345,7 @@
 	{
 		"name": "Edited Paws",
 		"description": "Edits the base game digilegs with new art. Was missed in the big re-upload and never made it to mod browser. Remade so the mod registers as a module, but the old version works just fine as it did if you can find it on the discord.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EditedPaws.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EditedPaws.png",
 		"author": "Anomymous",
 		"modversion": "2.0",
 		"gameversion": "*",
@@ -1267,6 +1354,7 @@
 	{
 		"name": "DemonHoundCoversion 1.1",
 		"description": "A mod that edits the base demon species to have canine parts.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/DemonHoundConversion.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/DemonHoundConversion.png",
 		"author": "Anomymous",
 		"modversion": "1.1",
 		"gameversion": "*",
@@ -1275,6 +1363,7 @@
 	{
 		"name": "MaxMod",
 		"description": "Adds Max, A weapons vendor to the game. An older mod with a quest updated with some sex scenes and trinkets.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MaxMod.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MaxMod.png",
 		"author": "Anomymous",
 		"modversion": "2.3",
 		"gameversion": "*",
@@ -1283,6 +1372,7 @@
 	{
 		"name": "Anons Protogen Species",
 		"description": "CREDIT: Original by Anon, Bodywriting by Lucci\nDESCRIPTION: Updated the protogen mod. Adds a protogen species and a number of bodyparts to match. I have kept all the bodypart ID's the same to avoid as many issues as possible.\nCHANGELOG: Fixed GetCompatibleSpecies to not be a string and corrected a bodypart not being assigned correctly.\nNOTE: Since these run new Mod ID's doesnt hurt to back up your saves, or wait till your starting a new game to update. @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsProtogenSpecies.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsProtogenSpecies.png",
 		"author": "Anon, Avery Winters",
 		"modversion": "1.2",
 		"gameversion": "*",
@@ -1299,6 +1389,7 @@
 	{
 		"name": "Snows Barbed Canine Penis",
 		"description": "It's a canine penis with barbs on it!\n\nthis was my first attempt at making a mod, felt like I learned some stuff, shouldn't break anything but let me know if it does\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SnowsBarbedCaninePenis.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SnowsBarbedCaninePenis.png",
 		"author": "SnowboundStar",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -1323,6 +1414,7 @@
 	{
 		"name": "SongsUncutPenises",
 		"description": "※ Description \n- adds 4 human penises with foreskin (2 long, 2 short)\n- all penises shares the same flaccid model\n- the short variants will not spawn with NPCs\n- compatible with Balls Extra and Hypertus mods\n\n+Feel free to @ me if anything's not right\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsUncutPenis.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsUncutPenis.png",
 		"author": "SongJo",
 		"modversion": "0.8",
 		"gameversion": "*",
@@ -1331,6 +1423,7 @@
 	{
 		"name": "Snows Womb Tattoos",
 		"description": "Added a Virility womb tattoo pill, for all the studs out there!\n\nChangelog: The Tattoos now show up on your body! However to do this they are now technically clothes and are in the BDSM menu, you can still force them on people but it acts like a restraint instead of a pill.\nAlso! I added a new Tattoo that absolutely tanks your Fertility and Virility, don't know who wants that but I figured it'd be good to cover the bases\nAnd! they can now be bought from the medical vending machine\n\nAnd credit where it is due, I ripped the tattoo off of Azazels skin from the Issix Mod if Bork has a problem with that then I will try to make my own, I'll probably still try regardless I just wanted to get this out there\n\nv2.1:quick update changed the clothing slot of the tattoos from \"unique\" to a brand new Womb Tattoo slot!\n\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SnowsWombTattoos.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SnowsWombTattoos.png",
 		"author": "SnowboundStar",
 		"modversion": "2.1",
 		"gameversion": "*",
@@ -1363,6 +1456,7 @@
 	{
 		"name": "Anons Sheathed Human Penis",
 		"description": "Human penis with a sheath on it. Similar to the update by Winter 'Eira without overwriting the base human penis.\nCOMPATIBILITY: Hypertus & BallsExtra\nCHANGELOG: removed some unnescessary code from the BallsExtra Compat that was causing missing penis errors.\nNOTE: @ Me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsSheathedHumanPenis.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsSheathedHumanPenis.png",
 		"author": "Anon, Avery Winters",
 		"modversion": "1.3",
 		"gameversion": "*",
@@ -1395,6 +1489,7 @@
 	{
 		"name": "lightnigh's Power Armor",
 		"description": "Adds power armor and accommodated helmet. Currently only obtainable via cheats.\n\nAttached is R1\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrSpeciesPack.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrSpeciesPack.png",
 		"author": "lightnigh, CanInBad",
 		"modversion": "R1",
 		"gameversion": "*",
@@ -1411,6 +1506,7 @@
 	{
 		"name": "Frivolous's Bigger Girl Cocks",
 		"description": "Makes any static girl NPC with a cock larger. By default they are scaled to 150% size but if you have FoxLib, you can change the scaling in Mod Options.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FrivolousBiggerGirlCocks.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FrivolousBiggerGirlCocks.png",
 		"author": "Frivolous",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -1419,6 +1515,7 @@
 	{
 		"name": "Anons Aquatic Species",
 		"description": "CREDIT: Original by Anon, Bodywriting by Lucci\nDESCRIPTION: Packaged the Shark Species and the seahorse species under one mod since they share a body to minimise duplicating parts unnessecarily.\nCOMPATABILITY: Hypertus, WintersTaperedPenises\nCHANGELOG: Fixed an incorrect ID in the Tapered Penises compat files\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsAquaticSpecies.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsAquaticSpecies.png",
 		"author": "Anon, Avery Winters",
 		"modversion": "1.5",
 		"gameversion": "*",
@@ -1427,6 +1524,7 @@
 	{
 		"name": "Purple's Slugcats",
 		"description": "Adds anthropomorphic slugcats from Rain World, with some extra customization for more slugcat representation.\nChangelog: minor fix to the tails (would detach from the body in certain sex poses)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PurplesScugs.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PurplesScugs.png",
 		"author": "Purplexion",
 		"modversion": "0.04",
 		"gameversion": "*",
@@ -1443,6 +1541,7 @@
 	{
 		"name": "Sugerør's Character Parts",
 		"description": "Adds more stuff for character creation. If you notice any issues just yell at me ^^\nNew:\n- 7 new hairstyles\n- 2 new dragon heads, horns and ears\n- 1 new canine head and ear\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrCharacterParts.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrCharacterParts.png",
 		"author": "Sugerør",
 		"modversion": "1.3",
 		"gameversion": "*",
@@ -1467,6 +1566,7 @@
 	{
 		"name": "PowerLoom Lite",
 		"description": "\n\nPowerLoom is a modding tool that enables anyone to create clothes without any coding knowledge, simply follow one of the drawing templates, import the PNGs and create a mod!\n\nYou can also edit the characteristics of each clothing you make, such as: name, buffs, price, tags, plus a few more.\n\nCurrent features:\n\t- Saving/Loading projects\n\t- JSON Editor\n\t- Script Editor\n\t- Model Editor\n\t- Support for front and back body parts\n\t- Auto-Mirror (Can mirror front parts and arms)\n\t- Support for each Leg type, Hand type (fists) and Arm type*\n\t- 3 PNG Layers\n\t- Layer offsets (\"3D\" clothes)\n\nNotes:\n\t- Arms will NOT automatically adjust to the wearer's arm type (Code is there, Rahi just needs to update the game)\n\t- This is a Lite version, meaning that it uses SceneBase as it's foundation so everything uses buttons or textboxes\n\t- A real GUI is on my ToDo list (I still have to figure out how to actually create GUIs so it might take a while)\n\t- I was lazy so I didn't test if 'Dyeable' option works\n\nPlease DM 'mari_1950' on discord for any help, suggestion or bug, thanks!\n\n\nUpdate Log:\n\nAlpha3\n\t- Fixed Buffs not getting registered\n\t- Removed PowerLoom dependency\n\nAlpha2\n\t- Fixed 0 byte files in PowerLoom folder\n\t- Delete the folder manually to create new files\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PowerLoom.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PowerLoom.png",
 		"author": "Mari",
 		"modversion": "Alpha3",
 		"gameversion": "0.1.12fix4",
@@ -1515,6 +1615,7 @@
 	{
 		"name": "Frivolous Popup Ads",
 		"description": "Have you ever thought 'God, BDCC is too nice. I wish it had annoying pop up ads'? Well, fear not. Now you can experience that. No sugarcoating it: This mod adds popup ads. There is a scene when you exit your cell that provides some lore and then that's it. Every 12 in-game minutes you will get ads.\n\nThe ads are downloaded from e621 and displayed. The list is curated, so you don't need to worry about being jumpscared by anything gross. If e621 is blocked for whatever reason where you live then I'm sorry. The dream of pop-up ads will remain just that, a dream. \n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FrivolousPopupAds.mp4]Click for Video Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FrivolousPopupAds.mp4",
 		"author": "Frivolous",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -1531,6 +1632,7 @@
 	{
 		"name": "Songs Hair Pack",
 		"description": "※ Description \nadds 42 hair styles\n\n※ Update (ver1.8)\n3 new hair styles (Credits to Starborker and Tenten)\nReworked some existing hairstyles that I previously drew with a mouse\nOverall polish\n\n+ Feel free to share your thoughts about the mod\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongshairPack.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongshairPack.png",
 		"author": "SongJo",
 		"modversion": "1.8",
 		"gameversion": "*",
@@ -1563,6 +1665,7 @@
 	{
 		"name": "MoldyT's Big Tails",
 		"description": "Adds 6 New Tails and 14 (not including base skin) additional skin patterns for them. \n\n2 Feline Tails: \nSnow Leopard Tail and Fluffy Leopard Tail\n\n2 Canine Tails: \nFeral Wolf Tail and Puffy Wolf Tail\n\n2 Mouth Tails\n\nIf they don't work ping me, I did not test it with any other mods.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoldyTBigTails.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoldyTBigTails.png",
 		"author": "MoldyT",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -1579,6 +1682,7 @@
 	{
 		"name": "Chastity Belts Mod",
 		"description": "Adds a new BDSM restrain type of chastity belts with a permanent variant as well. They come in every combination of covering penis/vagina/anus. Sold by the Announcer and Mirri.\n\nChangelog: \n• Small update: for variants not blocking the penis - they are now auto adjusting themselves to provide \"cut-out\" for a penis, if a character has one.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ChastityBeltsMod.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ChastityBeltsMod.png",
 		"author": "Noro",
 		"modversion": "1.2",
 		"gameversion": "*",
@@ -1587,6 +1691,7 @@
 	{
 		"name": "6 7 Spanking",
 		"description": "Changes it so that when subs are counting while being spanked, they are spanked twice at 6 so that they must say '6 7' instead of just 6 and then 7.\n\nI will not apologize for art.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/67Spanking.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/67Spanking.png",
 		"author": "Frivolous",
 		"modversion": "1.0.0",
 		"gameversion": "*",
@@ -1595,6 +1700,7 @@
 	{
 		"name": "Random Inmate Number",
 		"description": "Your character will now have a random inmate number upon entering BDCC. Excludes canonically taken numbers by default. Works on existing games as well (hopefully), and causes no permanent damage to your savefile. Configurable with FoxLib, which isn't required.\n\n\ni made it so other mods can add their own characters' inmate numbers to the canon exclusion list, there's a text file with an example included in the mod\ni'm not sure i got all the canon numbers, so please tell me if i missed any (i only included rahi's)\ni made this just to cleanse the evil done by the... other mod\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/RandomInmateNumber.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/RandomInmateNumber.png",
 		"author": "Selinoccino",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -1603,6 +1709,7 @@
 	{
 		"name": "Race Bonus Mod Plus",
 		"description": "Added different buffs to some playable bace and modded races, while also changing up the original mod by Humoi.\n\nCurrent Vanilla and modded races that are moddified by the mod:\n--Vanilla--\nHuman\nDragon\nDemon\nCanine\nFeline\nEquine\n\n--Modded--\nBovine\nDeer\nLopunny\nRabbit\nShark\nHoundoom\nLycanrocs - Midday, Midnight, Dusk\nSquirrel\nProtogen\nCrow\nLucario\nSkullwolf\nGardevoir\nAll of Scalie Expansion\nSeahorse\nEevee\nFlareon\nJolteon\nVaporeon\nEspeon\nUmbreon\nLeafeon\nGlaceon\nSylveon\nOrc\nBear\nCrocodile\nZordian\nCharizard\nRaichu\nNido\nMew\n\nAdded this update: Sylvanos's Zordian Species compatibility (On request) and compatibility with APPV1 Pokémon races!\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/RaceBonusModPlus.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/RaceBonusModPlus.png",
 		"author": "Person on the Internet (Chaos)",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -1611,6 +1718,7 @@
 	{
 		"name": "Songs Insect Species",
 		"description": "※ Description \nAdds 4 new species (Bee, Moth, Beetle, Spider)\nCompatible with Hypertus mod\n\n※(1.0)\nThe neck fluff is moved from body to ear so it can be colored (Credits to Avery Winters)\nFor characters with neck fluff from the previous version, you need to edit the character and reapply the part to color it.\n\n[i]+ Feel free to share your thoughts about the mod[/i]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsInsectSpecies.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsInsectSpecies.png",
 		"author": "SongJo",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -1619,6 +1727,7 @@
 	{
 		"name": "Sugerør's Orc Species",
 		"description": "Adds Orcs to the game. If you have any suggestions or notice any issues, just yell at me ^^\nNew: Separated orcs from my species pack\nPlanned: Redraw some of the orc heads, I might also add drows or something\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrHumanoidSpecies.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrHumanoidSpecies.png",
 		"author": "Sugerør",
 		"modversion": "1.1",
 		"gameversion": "*",
@@ -1635,6 +1744,7 @@
 	{
 		"name": "Songs Mustelid Species",
 		"description": "※ Description \nAdds mustelid species\n2 head (weasel, ferret), 2 tails, 2 ears, 1 horn (for the eye mask) parts\n\n[i]+ Feel free to share your thoughts about the mod[/i]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsMustelidSpecies.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsMustelidSpecies.png",
 		"author": "SongJo",
 		"modversion": "0.9",
 		"gameversion": "*",
@@ -1659,6 +1769,7 @@
 	{
 		"name": "Additional Dragon Penis Pack",
 		"description": "Added 4 types of cocks for all species to use, all of them are knotted with barbs and ridges features (with exception for type 2). More options to pick for your scalie (or any) needs. If there's something of concern or suggestions with this small pack, hit me up qq\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AdditionalDragonPenisPack.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AdditionalDragonPenisPack.png",
 		"author": "Gecked",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -1683,6 +1794,7 @@
 	{
 		"name": "Chastity For Everyone",
 		"description": "[b](! Requires FoxLib,  Requires Chastity Cage Flat Remix, Requires Chastity Belts Mod 1.2 !)[/b]\n\nMakes random NPCs spawn with permanent or non-permanent chastity cages and/or belts. It's customizable: you are able to change rules for inmates, guards, engineers, nurses, as well as for specific gender. You can also choose a chance of spawning a flat/belt/permanent chastity variants. Currently doesn't affect any static NPCs. You can also pick to be put in chastity belts (as well as chastity cages) during game's intro scenes. Additionally, adds chastity police mechanic - staff can now stop player or NPC inmates who got rid of their mandated cages, and who is a good inmate! Mod options (see pic) are available thanks to FoxLib (go to the [Mods Options] in the main menu).\n\nChangelog: \n• Fixed inspection scene not working in latest mod version due to 2 unused variables.\n• Finally added random inspection scene! Although one part of it is still WIP.\n• During the inspection scenes player will not be put into different type of belt, if they were assigned one.\n• Added an 1.5h global cooldown for chastity inspections from player being inspected and 20 min one if NPC was inspected.\n• The default inmate chastity chance is now 50% instead of 90%\n• Improvements had been made to text in scenes and in options.\n• Code improvements.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ChastityForEveryone.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ChastityForEveryone.png",
 		"author": "Noro",
 		"modversion": "2.31",
 		"gameversion": "*",
@@ -1691,6 +1803,7 @@
 	{
 		"name": "FNAF Jumpscare",
 		"description": "Adds a 1/1000 chance to trigger the FNAF 2 Foxy jumpscare whenever time passes, complete with audio. Configurable with FoxLib, but it isn't required.\n\nNothing new, just making sure it's working in the new update.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FnafJumpscare.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FnafJumpscare.png",
 		"author": "Frivolous",
 		"modversion": "1.0.1",
 		"gameversion": "*",
@@ -1699,6 +1812,7 @@
 	{
 		"name": "Watersports Kink",
 		"description": "Adds some watersports content. Includes a skill, a full set of perks, the ability to piss during combat and sex, and a few scenes. None of the added content involves pre-existing characters at this time.\n\nChanges in v0.3.1:\nSwapped to using new built-in piss stuff\nFixed the softlock when trying to be a meat toilet\nFixed extra \"Pee\" button when you're in a cell that could be yours but isn't\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WatersportsKink.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WatersportsKink.png",
 		"author": "Frivolous",
 		"modversion": "0.3.1",
 		"gameversion": "*",
@@ -1707,6 +1821,7 @@
 	{
 		"name": "Ornate Chastity",
 		"description": "A mod that currently adds a stylized cat-head chastity cage, more cages will be available in the future. \nIf you have any particular chastity models that you would like to see in the game let me know.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/OrnateChastity.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/OrnateChastity.png",
 		"author": "Noro",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -1715,6 +1830,7 @@
 	{
 		"name": "No Futa",
 		"description": "Remove the dicks of all Static dickgirls\nWhat's New: Finished up making sure they won't produce cum and adjusted the animation, if an animation still looks weird it's because I couldn't find an appropriate animation, if you wish to suggest a better animation, made a better animation, or rewrote the scene to work with an existing animation ping me\n\nWhat's New: fixed some typos in the Risha Gym and Humiliate Nova scenes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NoFuta.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NoFuta.png",
 		"author": "Foreman",
 		"modversion": "1.0.1",
 		"gameversion": "*",
@@ -1771,6 +1887,7 @@
 	{
 		"name": "Fellini Mod",
 		"description": "Adds 9 cosmetic items and 2 bodyparts, all based on Pulchra Fellini from ZZZ.\n\nThese include:\nBoots, Choker, 2 Crop tops (dyeable), Jacket, Mask, Leg pouches, Shorts, Gloves, Fellini hair and Fellini tail\n\nAll cosmetic items can be bought from the vendomat, bought from the announcer or dropped by Pulchra NPC (datapack not included with this mod)\n\nUpdate 1.1:\n-Added a couple of scripts and items that enable the quests from Pulchra Fellini datapack to function.\n\nUpdate 1.2:\n-Fixed the Error! button showing up in the yard\n-Added more scripts to allow the datapack to function properly\n-Added the ability to wear the choker\n-Added Fellini gloves\n-Improved Fellini Jacket \n\nUpdate 1.3\n[Debugging and options update]\n\n-Improved Debug menu\n-Debug menu now available without finishing prologue\n-Added global mod options that synchronize across saves (Access them by talking to Pulchra in the yard)\n-Added Fellini Tail species options (Feline by default)\n-Added Fellini Hair options for NPC spawns (disabled by default)\n\nUpdate 1.3.1\n-Fellini Mask now only appears when the character's mouth is closed\n(You can now suck dick without it being unrealistic :p)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FelliniMod.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FelliniMod.png",
 		"author": "Mari",
 		"modversion": "1.3.1",
 		"gameversion": "*",
@@ -1795,6 +1912,7 @@
 	{
 		"name": "Urinal Punishment",
 		"description": "[WARNING: Watersports content]\n\nAdds being locked into the urinals as a punishment. Works similarly to the stocks; you can lock up NPC's, and they can lock up you, or each other. Visiting NPC's can either help free you, or use you as a meat toilet and relieve themselves...\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/Urinal_Punishment.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/Urinal_Punishment.png",
 		"author": "driftcatch",
 		"modversion": "0.2",
 		"gameversion": "*",
@@ -1803,6 +1921,7 @@
 	{
 		"name": "NPC Generation Settings",
 		"description": "Requires FoxLib\n\nAdds ~500 settings via FoxLib to tweak NPC Generation\nThe most basic settings are a couple of toggles to enable parts of the mod\nThe default settings will make the mod do nothing\n\nFetishes are a special case,\nmodded generation with default values will make new NPCs mostly neutral to all fetishes\n\nAllows you to tweak:\nFeminimity and Thickness RNG for each (internal) gender\nPersonalities RNG\nFetish RNG\nLust Intrest RNG\n\nChanges 1.3\nfixed fetish generation\nwas indexing into the key string rather than the array it corresponds with, oops\n\nChanges 1.2\nfixed inability to set negative float values on options\n\nChanges 1.1\nrather than replacing the entire generate function,\nreplaced only the 4 functions that calculate the values settings are added for\nTechnical\nnow uses an array of hooks with PlaceBeforeTarget, Target, and PlaceAfterTarget\nallowing for multiple edits in multiple locations\n\nInteresting Note for other Modders\nIn the making of this mod I've stumbled across a way to 'find and replace' a file in the base game.\n\nvar someFile = load('res://someFile')\nvar originalCode = someFile.source_code\nvar modifiedCode = originalCode.replace('target', 'replacement')\nsomeFile.source_code = modifiedCode\nsomeFile.reload()\n\nThis allows us to modify files that we otherwise would not be able to\nallows for a higher level of compatability with other mods\nand can help reduce volatility of some mods when the game updates\n(cough cough, Brutal Dreams)\n\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NpcGenSettings.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NpcGenSettings.png",
 		"author": "Mindstormsman",
 		"modversion": "1.3",
 		"gameversion": "*",
@@ -1811,6 +1930,7 @@
 	{
 		"name": "Puppy Restrains",
 		"description": "Adds Puppy restrains previously only accessed via some scenes. Obtain this item at annoucer's shop. This mod is in early development stage. Note bugs WILL appear, back up your save.\n\nChangelog: Bug fixes, added reputation and fixed pup effect not wearing off in 2 weeks time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PuppyRestraintsMod.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PuppyRestraintsMod.png",
 		"author": "concussion",
 		"modversion": "0.5b",
 		"gameversion": "*",
@@ -1819,6 +1939,7 @@
 	{
 		"name": "Sugerør's Xenomorph Species",
 		"description": "Adds Xenomorphs into the game\nNew: Fixed a mistake in the hypertus code.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrXenomorphSpecies.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrXenomorphSpecies.png",
 		"author": "Sugerør",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -1827,6 +1948,7 @@
 	{
 		"name": "Sugerør's Scolipede Species",
 		"description": "Adds Scolipede into the game\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrScolipedeSpecies.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrScolipedeSpecies.png",
 		"author": "Sugerør",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -1835,6 +1957,7 @@
 	{
 		"name": "Impale Device",
 		"description": "Adds a public impale device. You can lock others inside it or get locked inside yourself. Paying credits activates the machine's vibrations, making the character inside cum.\nThe device can be found in main halls\n\nMy first mod and first time using blender for animations, so please ping me if you find any bugs\n\nthere probably would be some content updates, I have few ideas in mind.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ImpaleDeviceModule.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ImpaleDeviceModule.png",
 		"author": "Doggo :3",
 		"modversion": "0.1",
 		"gameversion": "*",
@@ -1843,6 +1966,7 @@
 	{
 		"name": "Skulldog Species",
 		"description": "Canines with a skull head. Sometimes they're just the perfect wife material ;w;\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SkulldogSpecies.png]Click for Preview[/url]\n\n[color=#CCE4FF]source code[/color] – [url=https://git.frisk.space/keerifox/BDCC-SkulldogSpecies]git.frisk.space[/url]\n[color=#FFCCEA]personal website[/color] – [url=https://keeri.place]keeri.place[/url] [color=#FFCCEA]<3[/color]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SkulldogSpecies.png",
 		"author": "keerifox",
 		"modversion": "0.3.0",
 		"gameversion": "*",
@@ -1867,6 +1991,7 @@
 	{
 		"name": "SongsVanillaParts",
 		"description": "※ Description \nAdds 45 body parts for vanilla species\n16 for Dragon: 2 head, 6 ears, 3 horns, 2 feet, 1 tail\n7 for Equine: 1 head, 1 hooves, 3 tails, 1 horn, 1 penis\n7 for Canine: 4 heads, 2 ears, 1 tail\n4 for Feline: 3 heads, 1 ears\n11 for universal: 2 legs, 4 arms, 3 tails, 2 breasts\nCompatible with Balls Extra and Hypertus\n\n※Update (1.4.5)\nNew 2 Dragon heads (credits to ₪₪₪Noro₪₪₪)\nFixed an issue where the breast part didn’t work with the Hypertus mod\n\n※Update (1.4.5fix1)\nfixed an issue where a different model showed when Dragon Head 3's mouth was open (thanks to 'Noro / Valerius the Fox')\n\n[i]+Feel free to @me about the mod[/i]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsVanillaParts.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsVanillaParts.png",
 		"author": "SongJo",
 		"modversion": "1.4.5fix1",
 		"gameversion": "*",
@@ -1883,6 +2008,7 @@
 	{
 		"name": "Twine Interface Translator-Scenes",
 		"description": "A modified and improved scene converter to allow scene development in Twine. It is intended to allow visualizing, isolating of components, and reduce typing for faster and easier creation of complex nonlinear scenes. A sample scene is included in the mod as text that can be pasted into a .twee file and imported to Twine to understand the syntax and features.\nTwine can be downloaded or used online at twinery.org\nDependencies: FoxLib\n\nNote: Please inform me of any bugs, unexpected behavior, or any formatting that is disliked.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/TwineInterfaceTranslator-Scenes.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/TwineInterfaceTranslator-Scenes.png",
 		"author": "Draderos",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -1899,6 +2025,7 @@
 	{
 		"name": "Age System",
 		"description": "What it does:\n\n- assigns an age to all NPCs;\n- age is given randomly in the range from 18 to 45 years.\n- age is shown under the character’s name;\n\nalso in this mod:\n\n4.adds a separate Age panel to the Debug tab;\nin this panel you can:\n4.1 search for loaded characters;\n4.2 seeing current age;\n4.3 change age manually;\n4.4 randomize age using the button.\n\nHow saving works:\n\nage is stored separately for each save;\n\nafter exiting the game and loading the same save, the age remains the same;\n\nWhen playing a new game, the ages are generated anew.\n\nNew in 1.2:\nAdded display of the player's age on the right character panel.\n\nAdded separate fields “Name” and “Age”  for creating a character in the new game\n\nAdded a random age button when creating a character in a new game:\n\n\"4 - random age\"\n\nAdded random name buttons during character creation in a new game:\n\n\"2 - random male name\"\n\"3 - random female name\"\n\nAdded support for online name generation:\nif the Internet is available, the mod tries to get new names online;\notherwise it falls back to the local list.\n\nCharacter age categories have been changed:\n18 — Teen\n19–27 — Young\n28–39 — Adult\n40–60 — Mature\n61–80 — Older\n\nChangeLog 1.2 → 1.3:\n• Fixed a bug that made it impossible to exit when entering the \"me\" menu.\n• Added the \"Age\" tab in the game settings — you can set the age range (minimum/maximum), which is used for random generation. The minimum age must be at least 18 years old.\n• Age is now assigned only for dynamic nps. For other nps, the age can only be set manually using the debug panel.\n• Age Debugging Panel: now only those who have been assigned an age are shown (if the NPCs do not appear in the tab, walk around the map to different places) to see all the nps, the \"Show all characters\" button has been added. \n• The \"Clear age\" button has been added (removes the age of an npc).\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/Che_susAgeSystem.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/Che_susAgeSystem.png",
 		"author": "che",
 		"modversion": "1.3",
 		"gameversion": "*",
@@ -1915,6 +2042,7 @@
 	{
 		"name": "Taokaka",
 		"description": "Credits: amazing well done help from averywinters.\nDescription: Brings in taokaka as a species to your game for fun and lewdness for your enjoyment hehe\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/OrbsTaokakaSpecies.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/OrbsTaokakaSpecies.png",
 		"author": "The orb",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -1923,6 +2051,7 @@
 	{
 		"name": "Red eyes/diredragon",
 		"description": "Credits: awesome work n speed of averywinters the GOAT >83.\nDescription: Take on the awesome appearance of the legendary redy eyes Black dragon >:3 complete with a hawt chainmail bikini ;3\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/OrbsYuGiOhDragonSpecies.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/OrbsYuGiOhDragonSpecies.png",
 		"author": "The orb",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -1947,6 +2076,7 @@
 	{
 		"name": "More BDSM stuff",
 		"description": "Adds more restraints and toys.\n12 leather items, 8 latex items, 9 toys and cages, 7 items with optional styles\nEverything is sold by Announcer.\n\nСhanges:\n-Several new items: \nlatex corset \nlatex blindfold\nlatex ankle and wrist cuffs \nleather muzzle ring gag \nshock cage (by Khurum)\n\n-New icons for most items (and a new preview).\n-Redesigned the latex ring gag model for every head in the main game.\n-Redesigned the latex mittens.\n-New styles for latex suit (penis and cages)\n-New model for bitchsuit (only for self petplay scenes), tell what you think about it\n\nIMPORTANT\nI added sorting/priority for NPCs when equipping restraints on player. It works simply - when you have at least 2 items from the same set, NPCs will only equip items from that set on you. BUT this affects the main files, and may cause a crash if some mod affects the same file, in short, tell me if something breaks.\n\nHave you encountered the problem with the endless dynamic sex scene? Sometimes it was my fault. The ring had to be changed. It now applies the effect in four stages. It generally slows down the sex scene, but after a few orgasms, it inflicts a debuff. Tell me if something breaks, this is first time I'm making status effects.\n\nI also got into the collar (only the main one) and added 3 styles to it. In plan to make it possible for NPCs to change it. \n\nFixes:\n-Toys will no longer change stats when turned off.\n-Fixed a clothing glitch with the rabbit mod. \n-Fix latex muzzle ring gag. \n-Fix petplay scene bugs. \n-There may have been more of them, but I have already forgotten about them.\n\nFix1:\n-Fix latex cuffs texture glitch. \n-Fix several problems with latex suit.\n-Fix missing cage texture.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreBDSMstuff.png]Click for preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoreBDSMstuff.png",
 		"author": "DrDurka",
 		"modversion": "0.4fix1",
 		"gameversion": "*",
@@ -1955,6 +2085,7 @@
 	{
 		"name": "BallsExtra",
 		"description": "Updated by Avery Winters\nAdds extra settings for balls in character creation that have actual impact and tweaks the dynamic npcs to also have varied balls settings (configurable if FoxLib installed).\n\nIncompatible with Hyperus.\nIf you want to use a custom dick, make sure their script extends \"res://Modules/BallsExtraModule/Base/BodypartBetterPenis.gd\" instead of BodypartPenis.\nYou can edit this yourself or beg a dev to add it for you.\n\n1.5 Changelog:\nAdded options to Ovipositor penis.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BallsExtraWinterUpdate.png]Click for preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BallsExtraWinterUpdate.png",
 		"author": "NatiM6",
 		"modversion": "1.5",
 		"gameversion": "*",
@@ -2027,6 +2158,7 @@
 	{
 		"name": "Piercings Mod",
 		"description": "Adds customizable piercings for player character and NPCs, sold in medical vendomat. You can buy face, nipple and penis piercings. You can customise what specific parts of the set you want to see on your character. They're dyeable too. Over 360 models in total!\n\nCurrently supports following mods: \nAlendiSpecies v1.3, Anons Skulldog Species, Anons Base Species Expansion v1.2, Eiras Trash Species v1.3, More Dragon Penis v1.0, Scaile Expansion v2.1, Sergal Species v0.9., SongsVanillaParts v1.4.5, Sugerør's Character Parts v1.3.\n\nFor yet unsupported species game chooses random model upon equipping - so you could possibly try to make some of them fit.\n\nChangelog: \n• Added nipple piercings! Three variants: barbell, ring and big ring. You can pick one at a time.\n• Added penis piercings! Only frenum ladder type of piercings for now. Compatible with base game and all of the penises in supported mods, as well for AlendiSpecies (v1.3) and More Dragon Penis (v1.0) so far. \n• Fixed a bug where piercings wouldn't show in slave's inventory listing, thus couldn't have been removed.\n• Added 'Re-randomise' button for face and penis piercigns if the bodypart of the player character is not supported yet.\n• Randomised model for piercings should now persistent through the game loads.\n\n\nAcknowledgement:\nThanks to the amazing @Selinoccino for help with making the penis and nipple piercings work correctly!\n\n\n@ me on game's discord (mods-discussion channel or Noro's mods den thread) if you have any suggestions or find any bugs\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PiercingsMod.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PiercingsMod.png",
 		"author": "Noro",
 		"modversion": "1.5",
 		"gameversion": "*",
@@ -2035,6 +2167,7 @@
 	{
 		"name": "Winters Hell Beasts Species",
 		"description": "CREDIT: Coded by Selinoccino\nDESCRIPTION: A fork of Anons Hellhound demon replacer that adds archetypes for Hell Kitties & Hellponies if you also have RAT_Archetypes\nCOMPATABILITY: WintersFluffyBodyparts, RAT_Archetypes\nCHANGELOG: Mod Created\nNOTE: @ me or @Selinoccino  make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\nNOTE: Adds archetypes handled by RAT_Archetypes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersHellBeastsSpecies.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersHellBeastsSpecies.png",
 		"author": "Avery Winters",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -2043,6 +2176,7 @@
 	{
 		"name": "Eiras Trash Species",
 		"description": "CREDIT: Original Species by Anon and Fantos. Code by Avery Winters. New Raccoon Parts and Red Panda drawn by Moldy Tub. Project Lead kind of is Winter 'Eira (me)\nDESCRIPTION: A compilation of several species many would consider trash enjoyers includes: Bat, Possum, Rat/Mouse, Raccoons, Squirrels, and a bonus RED PANDA!\nCOMPATIBILITY: WintersFluffyBodyparts, AnonsSheathedHumanPenis, Hypertus, RAT_Archetypes\nCHANGELOG: Added archetypes\nNOTE: @ Avery Winters for issues or feedback. There is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\nNOTE: Adds archetypes handled by RAT_Archetypes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EirasTrashSpecies.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EirasTrashSpecies.png",
 		"author": "Anon, Fantos, Avery Winters, Moldy Tub",
 		"modversion": "1.4",
 		"gameversion": "*",
@@ -2051,6 +2185,7 @@
 	{
 		"name": "Winters Rabbit Species Update",
 		"description": "CREDIT: Orignal by Fantos\nDESCRIPTION: . Add rabbit species and an update to the original by fantos. Removes the Rabbit legs as they dont scale with thickness and now uses fluffy parts if installed. Rabbits now spawn with eggy parts becuase easter bunny thats why \nCOMPATABILITY: Hypertus, Bodywriting, RAT_Archetypes, WintersFluffyBodyparts\nCHANGELOG: Moved archetypes locally in this mod\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\nNOTE: Adds archetypes handled by RAT_Archetypes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersRabbitSpecies.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersRabbitSpecies.png",
 		"author": "Avery Winters",
 		"modversion": "1.3",
 		"gameversion": "*",
@@ -2059,6 +2194,7 @@
 	{
 		"name": "Nano Revolution",
 		"description": "Hi again! Sorry it's been so long since the last update :NotLikeThis:. I've finally got some time to work on the mod again, and this update brings it back up to date with the base game.\n\nThis update is also pretty much a rework of the mod's overall structure:\n\nCustom Alex route KILLED\nOld transformation route KILLED\n\nIn their place, I've added several new systems and started moving the mod in a more independent direction.\n\nCheck out the update log below for all the new stuff!\n\nv0.6.0 Update - Nano Revolution Reborn:\n-The previous quests have been replaced with a clearer and simpler introductory questline.\n\n-Digging deeper into Nano Androids (extract/eat core) can now expose you to contamination.(With very cool UI change) \n\n-Once your contamination reaches a certain level (i.e. 100%), a new transformation scene may be triggered.\n\n-All Alex-related content has been removed, and the previous transformation system is now fully gone.\n\nSome Extra Stuff:\n\nHonestly, I held back on this mod for quite a while because Alex is Rahi's character, and I didn't want to take things too far or make something that felt disrespectful.:rahinotlikethis:  Once I decided to rebuild the mod around its own systems instead, things became much easier.\n\nAlso, this mod is now one of the relatively few mods that directly mess around with the Interaction System , custom Pawns and UI Change . In other words:\n\nThere will probably be bugs. A lot of bugs.\n\nEspecially compatibility issues with other mods. :NotLikeThis:\n\nSo if you find anything broken, weird, or just have some ideas or suggestions, please let me know!\n\nBug reports and suggestions are always welcome!\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NanoRevolutionMod.png]Click for preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NanoRevolutionMod.png",
 		"author": "Humoiww",
 		"modversion": "0.6.0",
 		"gameversion": "*",
@@ -2067,6 +2203,7 @@
 	{
 		"name": "Alendi Species",
 		"description": "Updated by Avery Winters. A kind of strange alien cat from the outskirts of known space. Sabretooth, four ears, no breasts, and total fluffiness. As it turns out, inhabitants of other worlds who don't know the local rules also end up in jail here... \nChangelog: Added missing hypertus files for species, fixed penis skins for hypertus, fixed compat with WintersFluffyBodyparts, added compat for RAT_Archetypes.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AlendiSpecies.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AlendiSpecies.png",
 		"author": "Ellie Nibbles",
 		"modversion": "1.4",
 		"gameversion": "*",
@@ -2091,6 +2228,7 @@
 	{
 		"name": "FoxLib",
 		"description": "][/color]\nGame version: 0.1.7+ (Recommended: 0.3.2)\nFilename: FoxLib_v0.10.7.zip\n[center][color=#00FFFF][b][shake rate=5 level=7][[[[/shake] Modding enhancer for BDCC [shake rate=5 level=7]]]][/shake][/b][/color] [/center]\n[center][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][/center]\n[center][color=#FF8000][u]/!\\[/u] Don't forget to delete old versions of the mod when updating [u]/!\\[/u][/color] [/center]\n\nAdd cool [rainbow freq=0.1 sat=1 val=1]features[/rainbow] for users:\n- A mod configuration menu\n- A custom theme engine\n- Dynamic mod hotfixes\n- GameTest engine to test the integrity of the loaded mod list\n\nBut mainly add many features and abilities for BDCC mods such as:\n- Adding custom CrotchBlock for datapacks\n- Adding new perk level tiers\n- Controlling more game UI elements\n- Saving NPC Skills/Perk data\n- Handling fatal errors via GUI\n- Configuring mods via in game Menu\n- Registering custom entries to the ModularDialogue system\n- Preventing your mod from being loaded twice\n- Add custom player status bars\n- Playing custom mod Audio\n\nFoxLib also additionally exposes more capabilities to datapacks too, please check the in-game editor to see the new blocks FoxLib adds! [wave amp=10 freq=4]:D[/wave]\n\nFoxLib will also use code generation instead of replacing game code for maximum compatibility with your existing mods. You can see in the file list that FoxLib doesn't replace any game files!\n\n[color=#00FFFF]F[/color]ox[color=#00FFFF]L[/color]ib [color=#00FFFF]M[/color]od[color=#00FFFF]H[/color]elper (Aka. [color=#00FFFF]FLMH[/color].py) is a build tool for developers to ease development of FoxLib mods. It provides warnings to improve all mods code and is the current tool used to package FoxLib and other mods made by Fox2Code!\n\nFor more info on how to use FoxLib API or FoxLib ModHelper, please check the bundled or [color=#2222FF][url=https://git.frisk.space/Fox2Code/FoxLib/src/branch/master/Docs]online[/url][/color] documentation!\nFoxLib source code is hosted at: [color=#2222FF][url=https://git.frisk.space/Fox2Code/FoxLib]https://git.frisk.space/Fox2Code/FoxLib[/url][/color]\n(Or you can read FoxLib source-code by extracting it)\n[center][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][/center]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FoxLib.png]Click for preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FoxLib.png",
 		"author": "Fox2Code",
 		"modversion": "0.10.7[color=",
 		"gameversion": "0.3.2",
@@ -2099,6 +2237,7 @@
 	{
 		"name": "Sugerør's Draconic Sea Mons Species",
 		"description": "Adds Lugia and Dragonite into the game\nNew: Fixed an issue with the dragonite tail clipping oddly in some poses.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrDraconicSeaMons.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrDraconicSeaMons.png",
 		"author": "Sugerør",
 		"modversion": "1.1",
 		"gameversion": "*",
@@ -2115,6 +2254,7 @@
 	{
 		"name": "Gangbang Initiator",
 		"description": "I've always felt the gangbang mechanic in this game is underutilized so I've cooked up little module.\n\nAdds a \"Gangbang Initiator\" perk to the Sex Slave skill tree (unlocks at skill level 10). Once learned, talking to an NPC gives you the option to ask them to join a group you're putting together. Recruit up to 6 people this way, then trigger the scene with any of them to start it.\n\nThe actual encounter cycles through DP, spitroast, and full gangbang positions with the group (simillar to Artica), refreshing who's involved as it goes. Everyone in the group (including the pc) rotates through giving and receiving.\n\n(This is my first mod ;; plz tell me if something's not right. Note for other modders: this mod overrides Talking.gd wholesale to add its options, so it will conflict with any other mod that also modifies that file :vvvvv)\n\nAdria\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GangbangInitiator.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GangbangInitiator.png",
 		"author": "Adria",
 		"modversion": "1.0.0",
 		"gameversion": "*",
@@ -2155,6 +2295,7 @@
 	{
 		"name": "Renamon Re:Digitized",
 		"description": "I love Renamon!\nSo I was very excited to see that Eurygrey actually created Renamon as a species in this game!\n\nSadly it doesn't seem to be in the best shape anymore.\nDunno if it's just me, but his Renamons only come in white and are missing his crafted upper body.\n\nEither way, seeing that he does not seem to update his creation, I took matters in my own hand.\nAnd his to be frank, because I used all of his assets.\nI touched up all the textures, ensured they actually work and added the ability to color them.\n\nI haven't yet extensively tested everything, so there might be issues.\nIf you happen tofind any hit me up.\n\nOtherwise ... have fun ^.^\n\nFor compatibility: If you are already using Eurygrey's mod in a save,\nas far as I can tell you can simply delete his and install mine without any problems.\n\nHuge thanks to Eurygrey for initially creating most of the assets I used.\nI can fix things ... but I can't even draw a stickfigure xD\n \nUPDATE 1.1 Bug fixes:\nTail misplacement in many poses\nHead without eyes disappears on blowjobs\n\nI also added Eurygrey to the list of authors\n(how did i miss that >.< )\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/Renamon_Re-Digitized.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/Renamon_Re-Digitized.png",
 		"author": "Duren Blake, Eurygrey",
 		"modversion": "1.1",
 		"gameversion": "*",
@@ -2171,6 +2312,7 @@
 	{
 		"name": "MoldyT's Bodypart Expansion",
 		"description": "Various art credits to : CaninBad, Songjo, Kitsu, and Natalie\n\nCode help : Selinoccino and Moon_Halo\n\nDescription\nAdds a large amount of tails, wings, and a visible pussy to the game.\n\nTail: Several Canine (and fox), Feline, Shark, Mouth, and variety tails for any and all species. All tails are large and most contain multiple skins for them. \nWing: Membrane & Feathered wings with some bug ones as well. They can be selected in the WING slot\nPussy: Visible Canine pussy with even an additional pattern for it.\n\nIf they don't work ping me, I did not test it with any other mods and never will. Wings might have been changed on characters with them so might have to edit your character to fix it.\n\nIF YOU HAVE MY OLD TAIL MOD GET RID OF IT FOR THIS\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoldyBodypartExpansion.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoldyBodypartExpansion.png",
 		"author": "MoldyT",
 		"modversion": "2.3",
 		"gameversion": "*",
@@ -2179,6 +2321,7 @@
 	{
 		"name": "Songs MH Species",
 		"description": "※ Description \n- Adds 7 Monster Hunter series species:\n- Tobi-kadachi, Odogaron, Rathalos(Rathian), Mizutsune, Kulve taroth,\n- Nergigante, Nargacuga\n- All species has slitted version of their penis (+slit cage)\n- big credits to Firaxalos\n- compatible with Hypertus and Balls Extra\n\n+ Feel free to share your thoughts about the mod\n\n※ Update(0.9.9)\n- Added Nargacuga species (credits to Wortzenhein)\n- Minor fixes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsMHSpecies.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsMHSpecies.png",
 		"author": "SongJo",
 		"modversion": "0.9.9",
 		"gameversion": "*",
@@ -2187,6 +2330,7 @@
 	{
 		"name": "Breast Pump Plus",
 		"description": "Description: Adds Breast Pump Mk3. By default, it requires the same research as Mk2 and has 100,000 mL of capacity. Costs 100 credits.\nCapacity and research requirement are configurable via FoxLib (capacity requires a game reload to update).\n\nSorry for re-uploading, but 1.0 didn't have the auto-milking from Mk2 properly inherited in Mk3. Now it's there, along with an option to disable that.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BreastPumpPlus.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BreastPumpPlus.png",
 		"author": "interlamer",
 		"modversion": "1.1",
 		"gameversion": "*",
@@ -2203,6 +2347,7 @@
 	{
 		"name": "Winters Mane Tweaks",
 		"description": "CREDIT: Requested by MMDsM\nDESCRIPTION: Made a new bodypart slot for manes so that they can be used alongside hair. Made for MMDsM\nNOTE: @ me or make a thread if anything is broken.\nThere is a Kofi link in my discord Bio if anyone wants to show financial appreciation for my time.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersManeTweaks.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersManeTweaks.png",
 		"author": "Avery Winters",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -2251,6 +2396,7 @@
 	{
 		"name": "VoreMod",
 		"description": "Adds a Vore skill tree that allows you to swallow NPCs whole. Swallowed NPCs are digested over time, providing buffs for each digested NPC. (I've read the complaints and fixed some issues with the mod. if one of the problems you mentioned is not fixed, write about it, I tried to fix everything, but there is a chance that something may still work strangely or badly. New perks have been introduced to solve several problems.)\n\n(The mod has been refined, and some mechanics have been improved; items vore has also been added — now you can swallow items from your inventory.)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/VoreMod.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/VoreMod.png",
 		"author": "bebrenkov_01",
 		"modversion": "1.4b",
 		"gameversion": "*",
@@ -2259,6 +2405,7 @@
 	{
 		"name": "Winters Canine Barbed Penis",
 		"description": "CREDIT: Code Improvements: Selinoccino\nDEPENDENCIES: Winters Core Module\nDESCRIPTION: A canine variant penis with barbs ideal for a canine/feline hybrid.\nCOMPATIBILITY: Hypertus, BallsExtra\nCHANGELOG: improved code efficiency\nNOTES: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersCanineBarbedPenis.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersCanineBarbedPenis.png",
 		"author": "Avery Winters",
 		"modversion": "1.4",
 		"gameversion": "*",
@@ -2284,6 +2431,7 @@
 	{
 		"name": "GunMod",
 		"description": "Adds a bunch of firearms and a full PlayerSlavery scenario built around them: \"War Draft\", a conscription story between AlphaCorp and the Syndicate. Gameplay loop is similar to the Drug Den, but WITH GUNZ.\n\nWar Draft: you get conscripted into AlphaCorp's war against the Syndicate, whether you like it or not. Run patrols and objectives for AlphaCorp under Sergeant Drask, or end up defecting to the Syndicate and Commander Vex instead. Each side tracked with its own stat, each with its own hub, and each building toward its own real finale fight.\n\nFeatures:\n- 5 new weapons: Pistol, Laser Pistol (taken from base game), Service Rifle, Energy Rifle, Marauder Rifle\n- Sold by Mirri; the 3 rifles also drop (rarely) from Drug Den junkie loot\n- New two-handed rifle hold/aim/fire animations\n- New \"War Draft\" scenario in the PlayerSlavery picker\n- Two full sides to play: stay loyal to AlphaCorp under Sergeant Drask, or defect to the Syndicate under Commander Vex\n- Each side tracked with its own stat (AlphaCorp morale / Syndicate corruption)\n- Real patrol loop: patrols, ambushes, bomb/rescue objectives, captured-soldier encounters\n- Armory restock that also heals your pain\n- Kidlat cameo\n- Conscript uniform gear\n- Two full finale boss fights, one per faction, with reactive dialogue\n- Hand scripted cool and awesome sex scenes\n- 4 distinct endings\n\n(This is my biggest project yet. Please let me know if you hit anything broken. Two base-game files are edited directly for the rifle hold poses rather than being purely additive, so this could conflict with another mod touching the same files.)\n\nGunMod awesome 1.0.2 fixes:\n-Commander Vex's sex scenes had the pose backwards from the dialogue\n-The rifle idle/aim holds didn't loop and would freeze on the last frame\n-Some sex scenes now step through separate tease/sex/fast/finish stages instead of jumping straight to one frozen pose. \n-Also fixed a soft lock where Eliza's chastity content could teleport you off map mid-scenario without properly ending it.\n\nGunMod awesome 1.0.3 fixes: \n-regular prison guards could randomly and permanently show up red on the world map caused by the Syndicate detention jailer's map color inheritance leaking into the game's normal ambient guard spawner (already red guards on existing saves stay red until they respawn).\n\nGunMod awesome 1.0.4 fixes: \n-the rifle animations didn't work at all for most players, due to a packaging mistake that pulled in a file from an unrelated mod (my mistake).\n\nHuge thanks to this wonderful community for pointing everything up!!!\n\nGunMod awesome 1.1.0 update:\n\nNew: B.R.A.T.S. (Ballistic Reflex-Assisted Targeting System)\n- A new B.R.A.T.S. button in every fight. It opens a targeting screen showing the enemy's doll with a ui simillar to the Fallout games. Pick a body part, pick any physical attack and fire.\n- 7 zones, each with its own hit chance, stamina cost and effect: head (stun), eyes (blind), chest (winded, tender breasts), torso (bleeding), arms (weaker attacks), groin (low blow stun) and legs (can't dodge, may go down).\n- A new Precision skill tree that levels from every physical attack. B.R.A.T.S. itself is the free first perk, followed by 8 upgrades\n\nTweaks\n- Rifles dropped by beaten enemies now show up on the normal loot screen with the rest of their loot, instead of a separate message.\n- The finale threshold for both sides is now 80 (was 100). Both bad ends now trigger at -20\n- Sergeant Drask new intro with B.R.A.T.S..\n- After you beat a soldier, you choose what happens to them: move on, use them, or take them prisoner.\n- The holding cell you wake up in after capture now has a bed.\n\nFixes\n- The two-handed animations shipped edited copies of base game animation files that the game never actually loaded, no conflicts should happen now.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GunMod1.png]Preview 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GunMod2.png]Preview 2[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GunMod3.png]Preview 3[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GunMod4.png]Preview 4[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GunMod1.png",
 		"author": "Adria",
 		"modversion": "1.1.0",
 		"gameversion": "0.3.2",
@@ -2300,6 +2448,7 @@
 	{
 		"name": "Winters Equine Penises",
 		"description": "CREDIT: Code Improvements: Selinoccino\nDEPENDENCIES: Winters Core Module\nDESCRIPTION: A grouped mod for the various equine penis mods in a single file with skin support for almost all skins on each option.\nCOMPATABILITY: BallsExtra & Hypertus\nCHANGELOG: Restructured mod files and made it more efficient\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersEquinePenises.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersEquinePenises.png",
 		"author": "Avery Winters",
 		"modversion": "1.6",
 		"gameversion": "*",
@@ -2308,6 +2457,7 @@
 	{
 		"name": "Milking Menu Reorganizer",
 		"description": "- The mod adds sub‑categories “Manual”, “Industrial”, and “Advanced” within the milking categories for each body part, in accordance with the upgrade levels of the laboratory’s milking equipment.\n- Additionally, a button for randomly selecting one of the available scenes has been added to each category (in case you’ve watched each scene dozens of times and want a small element of surprise).\n- This mod doesn’t add any new scenes, but it serves as a good foundation for their appearance. On its own, it slightly alters the conditions for accessing vanilla scenes, making it more logical without significantly affecting the gameplay.\n\nThanks to Selinoccino for help\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MilkingMenuReorganizer.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MilkingMenuReorganizer.png",
 		"author": "Doctorart124",
 		"modversion": "0.0.1",
 		"gameversion": "0.3.2",
@@ -2316,6 +2466,7 @@
 	{
 		"name": "Anons Base Species Expansion",
 		"description": "CREDIT: Code Improvements: Selinoccino, Assets: Anon\nDEPENDENCIES: Winters Core Module\nDESCRIPTION: A collection of bodyparts intended to expand the variety of looks for base species including sabertooths for canines and felines, jackal parts, hyena parts and the combination of equines and dragons plus!\nCHANGELOG: Fixed dragon head meshes. Muzzles might still need some love\nNOTES: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsBaseSpeciesExpansion.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsBaseSpeciesExpansion.png",
 		"author": "Anon, Avery Winters",
 		"modversion": "1.5",
 		"gameversion": "*",
@@ -2325,6 +2476,7 @@
 		"ai": true,
 		"name": "Belly Overhaul",
 		"description": "Most likely contains code made by AI.\n\nDEPENDENCIES: FoxLib\nDESCRIPTION: Customize the shape of pregnant and inflated bellies. In Mod Options > Belly Overhaul:\n- Sticks out, Roundness, Height, Position, Droop: the belly's shape\n- Wobble: how much it jiggles\n- Try it on a character: a preview with your character (or a random one, from the main menu) where every slider changes the belly live. Save keeps it, Cancel throws it away.\nEvery slider at its default is the game's own belly. One shape for every character.\nCOMPATIBILITY: Replaces no game files, so it should play nice with other mods (species packs, Hypertus, InsertionBulges). Delete the zip to get the vanilla belly back.\nNOTE: Found a bug? Tell me the character, the scene and your slider values!\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BellyOverhaul.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BellyOverhaul.png",
 		"author": "xrob1",
 		"modversion": "1.0",
 		"gameversion": "0.3.2",
@@ -2333,6 +2485,7 @@
 	{
 		"name": "Intimidate",
 		"description": "First quick draft of something that I wanted for a long time (and I'm sure I'm far from the only one): to remove an NPC from the game after an encounter, without needing to go through the habitual hassle.\nThis first version is more of a proof of concept, it adds an \"Intimidate\" button when you talk to someone or after you defeat them (it's in the first spot for some reason, I'll check if I can put it elsewhere in a future version), and after a confirmation the NPC runs away and never is seen again.\n\nThe dialogs are practically nonexistent right now and you always succeed, but I plan to add to this mod eventually (I just wanted to share it right now for those who want something like that, then expand it as I get used with the systems I'm not yet used to):\n\nThe next versions will be taking into account your relevant reputation versus theirs (Alpha and Inmate/Staff) to make things have more or less chance to work depending on the difference, the relation between you two (an Ally wouldn't want to lose you and a Nemesis would want to take revenge, people inbetween care less), and you'd have more chance to make them flee after you've won a fight than just by talking. Perhaps even bribing or other less aggressive methods for people who don't plan to be dominant in their playthrough.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/Intimidate.png]Click for preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/Intimidate.png",
 		"author": "Raznaak",
 		"modversion": "0.1",
 		"gameversion": "*",
@@ -2341,6 +2494,7 @@
 	{
 		"name": "Intimidate in Prostitution",
 		"description": "Dependencies: Intimidate_v0.1.zip\n\nAdd-on for the Intimidate mod that enables intimidation during prostitution. If you meet someone you really don't want to see again, kick them out right from the prostitution menu.\n\nMust have the Intimidate mod enabled for this to work.\n\nModifies/overwrites the prostitution interaction file to add the action. If the file is modified in future updates, this will likely break things until updated.\n\n1.0: Released for 0.3.2.\nReport issues to [url=https://github.com/ethengart/EGBDCCMods]https://github.com/ethengart/EGBDCCMods[/url] (or discord DM)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/IntimidateProst.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/IntimidateProst.png",
 		"author": "EthenGart",
 		"modversion": "1.0",
 		"gameversion": "0.3.2",
@@ -2349,6 +2503,7 @@
 	{
 		"name": "Sugerør's Species Pack",
 		"description": "Adds Bears, Crocodiles, Fossas, Lizards and Otters to the game. If you have any suggestions or notice any issues, just yell at me ^^\nNew: Added new crocodile and bear parts\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrSpeciesPack.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrSpeciesPack.png",
 		"author": "Sugerør",
 		"modversion": "1.6",
 		"gameversion": "*",
@@ -2358,6 +2513,7 @@
 	{
 		"name": "Issix Mod",
 		"description": "[url=https://git.frisk.space/Frisk/Issix-mod]Issix Mod adds player slavery with major pet-play themes, mostly catering to gay audience but it does not exclude.[/url]\n\nIssix Mod is back, focusing mostly on bugfixes, @Nemba has helped me with motivation and bug squashing.\nThere is new Hiisi scene as well as hint system that appears when player comes to the stocks when there are at least two inmates nearby. More importantly however, the mod has been marked as compatible with newest BDCC version.\n\nFull changelog on my [url=https://git.frisk.space/Frisk/Issix-mod/releases]git instance[/url].\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/IssixMod.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/IssixMod.png",
 		"author": "Frisk",
 		"modversion": "1.1.0",
 		"gameversion": "0.3.2",
@@ -2406,6 +2562,7 @@
 	{
 		"name": "SoundMod",
 		"description": "Dependencies: FoxLib v0.10.7+\n\nThis mod implements a simple audio system, using FoxLib. There are four audio triggers for the player character: tease, pleasure, struggle, and orgasm. There are also limited sound effects which can play during sex. There's an experimental setting for adding BGM. Settings can be adjusted in Mod Options. Audio files not included due to file size, they are now downloaded seperately.\n\nFeatures:\n-- Four sound effects plus a gagged variant of each! Tease, struggle, pleasure, and orgasm\n-- Limited sound effects for spanking, adding restraints, cum/squirt, light plaps\n-- Add your own sounds! Drop them in the proper audio folder and they'll get loaded! Check the README!\n-- Audio sold seperately, the file size is too big\n-- Button in Mod Options to handle unzipping - use it as a last resort, it works but just barely\n-- Guaranteed to break at some point, seriously this mod is held together by a thread\n-- This relies on using GameExtenders.gd to hook into the game. Therefore, it will not work properly with pre-written scenes\n\nCredits:\nOpenNSFW sound pack | JeremyColeNSFW | LewdKitzu | VelvetSheetzVA | geministarsign1\nShared under Creative Commons license -- [url=https://opennsfw.carrd.co/]https://opennsfw.carrd.co/[/url]\n\nChangelog v1.3.5:\n-- Bugfix to hopefully get rid of leash/bondage sfx repeating 5 times\n-- Changed (almost) all the help pop-ups to use Godot controls, with the same UI style as the game. It just looks nicer.\n-- BIG FIX! Automatically detect and copy/paste one-deep nested folders. No more 'Mods/SoundMod_Effects/SoundMod_Effects/'\n-- Possible issue: mod not finding BGM due to missing / (couldn't recreate, plz don't be Unix bug)\n\n(not compatible with in-browser. android compatibility seems to vary, try it and see. Or, try the SoundMod legacy version.)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SoundMod.png]Click for Preview[/url]\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SoundMod2.png]Click for Preview 2[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SoundMod.png",
 		"author": "bringlebangul",
 		"modversion": "1.3.5",
 		"gameversion": "*",
@@ -2414,6 +2571,7 @@
 	{
 		"name": "Anons Base Species Expansion",
 		"description": "CREDIT: Code Improvements: Selinoccino, Assets: Anon\nDEPENDENCIES: Winters Core Module\nDESCRIPTION: A collection of bodyparts intended to expand the variety of looks for base species including sabertooths for canines and felines, jackal parts, hyena parts and the combination of equines and dragons plus!\nCHANGELOG: Fixed dragon head meshes. Muzzles might still need some love\nNOTES: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersBaseSpeciesExpansion.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersBaseSpeciesExpansion.png",
 		"author": "Avery Winters, Selinoccino, Anon",
 		"modversion": "1.6",
 		"gameversion": "*",
@@ -2423,6 +2581,7 @@
 	{
 		"name": "Horsecock Dildo Punishment",
 		"description": "Instead of the horsecock dildo only ever being something the player rides on themselves, this mod lets you force one of your slaves onto it instead.\n\nAdds \"Horsecock dildo\" as a new Punish action in the slave management menu, right alongside things like Wooden Horse and Stocks. Requires owning a Horsecock dildo item first.\n\nThe scene mirrors the item's own solo riding scene. Their reaction (fighting it, whimpering through it, etc) branches based on their actual resistance, fear, and broken spirit stats, same as the game's other slave punishments do.\n\nIt's built on the NpcSlave/SlaveActionBase system, so it won't show up on regular pawns (if you request this change I will do it ; in the future I could also experiment with new animations).\n\n(This shouldn't conflict with anything else. If a line doesn't fit a particular slave's anatomy or a state branch reads oddly, let me know what the slave's state was at the time.)\n\n1.0.1 changes: the mod is now packaged correctly and should work as intended\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HorsecockDildoPunishment.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HorsecockDildoPunishment.png",
 		"author": "Adria",
 		"modversion": "1.0.1",
 		"gameversion": "0.3.2",
@@ -2431,6 +2590,7 @@
 	{
 		"name": "Eternull Sawians",
 		"description": "Expies and Milkies from Casualties: Unknown! (or Gunsaw)\n\nyou can make your expies green now\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EternullSawians.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EternullSawians.png",
 		"author": "Eternull_Wxnter",
 		"modversion": "0.1.1",
 		"gameversion": "*",
@@ -2440,6 +2600,7 @@
 	{
 		"name": "Winters Fluffy Bodyparts",
 		"description": "CREDIT: Based on assets from Max-Maxou & Suger0r\nDESCRIPTION: Dynamic NPC Canines, Felines and Equines will now spawn with fluffy bodyparts and dragons will spawn with scaled by default. \nCOMPATABILITY: Hypertus, Bodywriting, RAT_Archetypes\nCHANGELOG: Added Buff Scaled\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\nNOTE: Adds archetypes handled by RAT_Archetypes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersFluffyBodyparts.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersFluffyBodyparts.png",
 		"author": "Avery Winters",
 		"modversion": "2.6",
 		"gameversion": "*",
@@ -2457,6 +2618,7 @@
 	{
 		"name": "ScaleTweak",
 		"description": "Tool to tweak/adjust existing animations in the game. Can save and load edits to ScaleTweakSave.json in Mods folder. Access through the debug menu. Requires a lot of patience.\n\nFeatures:\n-- Adds a panel in the debug menu allowing you to scale and offset characters, as well as editing the rotation of joints.\n-- Save pose modifications to ScaleTweakSave.json, located in the Mods folder.\n-- Load pose modifications from the .json\n-- Works best for small changes, or on scenes where the character doesn't move very much. It's a tweak.\n-- If a button is locked, it's because you need to set other options first.\n-- If the panel doesn't show up in the debug menu, do one move/turn on the map to trigger a UI update.\n-- Might apply pose edits from the .json to normal gameplay, but this is still experimental and probably won't work.\n-- If it does work and you don't want it to, rename or delete ScaleTweakSave.json.\n\nChangelog v0.1.6:\nFixed many bugs, including one which messed up the .json. \nSome changes to auto-loading saved tweaks, it is now a bit more robust. Still very rough, but you should be able to see tweaked poses during the game. Except in the stocks, the stocks break your legs and I can't figure out why.\n\nCan I make new animations???!?!?!!\nNo. The ScaleTweakSave file only contains the difference from the base pose. The animation applies over top of the pose and cannot be changed.\n\nHeight difference mod?!??!!?!?!\nNo. This is a tool which is necessary in order to make such a mod without having to use Blender.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ScaleTweak.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ScaleTweak.png",
 		"author": "bringlebangul",
 		"modversion": "0.1.6",
 		"gameversion": "0.3.2",
@@ -2465,6 +2627,7 @@
 	{
 		"name": "VHairsAndParts",
 		"description": "- 5 Hairstyles\n- 1 Horn\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/VHairAndParts.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/VHairAndParts.png",
 		"author": "Verdeth",
 		"modversion": "1.0",
 		"gameversion": "*",
@@ -2474,6 +2637,7 @@
 		"ai": true,
 		"name": "Insertion Bulges",
 		"description": "Most likely contains code made by AI.\n\n[b]Dependencies[/b]: FoxLib v0.10.7+\n\nDescription:\nDraws a bulge on the penetrated character's body where the cock is inside: belly, throat and mouth. Three effects: Basic (lightest), Medium, and Detailed (the body's own outline stretches over the cock). Settings in Mod Options (turn advanced options on to see them all).\n\nChangelog v4.1:\n-- Detailed has a new default look: the cock curves inside toward the belly and only bends when its tip pushes on the skin\n-- NEW Move the bodies: the characters shift a little so the cock goes in the way it curves (Detailed, on by default)\n-- NEW thrust styles: As the game (default), Natural, Slow and deep, Custom\n-- NEW \"Try it on characters\" window: preview any scene and option before saving\n-- Basic replaces Simple (uses the game's own belly swelling)\n-- NEW options (Advanced): cock direction, bend on push, All the way through (long cocks come out of the mouth), softer Stop at the neck, body tightness, something inside\n-- Lighter shade (Filled, 10%), fading in from the base\n-- Menu reorganised: Main / Medium / Advanced, options only show when they apply\n-- GLES2: only Basic works now, a red note explains how to switch to GLES3\n-- Fixes: hiding the cock, double penetration, short 10 cm cocks detected, bulge appears right away, sex machine dildos, deflating bulge, big-bulge texture, Train/Spitroast, Medium fixes\n\nNotes:\n-- Some effects and options are experimental and may not work well in every scene: if something looks wrong, turn it off and ping me\n-- Remove InsertionBulges_v4.0.zip before adding the new one\n-- Your 4.0 settings carry over. Want the 4.0 look back? Cock direction: Sliders, Cock bend: Follows the curve, Shade: Soft 60%\n-- Known issues: Move the bodies is off by default with 3+ characters (can look odd); portal scenes pause at full depth on the first thrust\n-- Full changelog in the attached .md\n\nFor feedback, bug reports, etc., ping me \n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/InsertionBulges.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/InsertionBulges.png",
 		"author": "xrob1",
 		"modversion": "4.1",
 		"gameversion": "0.3.2",
@@ -2490,6 +2654,7 @@
 	{
 		"name": "Winters Breast Expansion",
 		"description": "CREDIT: Code Improvements: Selinoccino, Assets: Anonomous Contributor\nDEPENDENCIES: Winters Core Module\nDESCRIPTION: Expands the base BDCC Breasts with some new options Nipples (+Inverted) and Puffy Nipples (+Inverted). Should replace base breasts during Dynamic NPC generation\nCOMPATABILITY: Hypertus, WintersFluffyBodyParts\nCHANGELOG: hopefully has fixed hypertus compats and working mod options\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersBreastExpansion.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersBreastExpansion.png",
 		"author": "Avery Winters",
 		"modversion": "1.5",
 		"gameversion": "*",
@@ -2507,6 +2672,7 @@
 	{
 		"name": "ExpandedBodyparts",
 		"description": "COMPATIBILITY: Hypertus\nDESCRIPTION: More bodyparts and even more muscles! \n(Credit to Avery Winters, Songjo, Firaxalos, Anon, and others as more parts are added, as this mod is mostly just tweaks and merging of their different assets.)\nChangelog:\nV1.0.3 - Hotfix for Module.gd not seeing external Modules and thus not loading relevant bodyparts.\nV1.0.2 - Hotfix for Hypertus dependency routing issues.\nV1.0.1 - Hotfix for Hypertus file routing issues. \nV1.0 - Major code improvements for file handling, Hypertus compatibility, and not having the Protogens mod should just disable those parts now, rather than throwing errors.\nV0.5 - Added Buff Fluffy Poof Breasts (Hypertus compatibility is a WIP) and moved all mod files into Modules.\nV0.4 - Fixed missing legs due to typos in names and added Winter's original BuffFluffyBody as a new body.\nV0.3 - Added a bunch of buff bodies and more (including some Protogen only bodies)!\nV0.2.1 - Hotfix for issues with subfolders.\nV0.2 - Major file reorganizing (from scratch) and added 13 new fit arms.\nV0.1 - Initial prototype release.\nV0.0 - Development soup\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ExpandedBodyparts.png]Click for Preview[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ExpandedBodyparts2.png]Click for Preview 2[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ExpandedBodyparts.png",
 		"author": "Thermal Dragon",
 		"modversion": "1.0.3",
 		"gameversion": "*",
@@ -2517,6 +2683,7 @@
 		"ai": true,
 		"name": "Head Layer Order",
 		"description": "Most likely contains code made by AI.\n\n[b]Dependencies[/b]: FoxLib (tested with v0.10.7)\n\nDescription:\nChoose the drawing order of head features on the doll: horns, hair, ears and modded head slots. For example horns behind the hair, or ears in front of both.\n\n-- Mod Options -> \"Head layer order\": give each head slot a layer from 1 to 6 (higher is drawn on top), or leave it on Original\n-- Per save: character creator (\"Body attributes\" -> \"Head layer order\") and the mirror (\"Head layers\"). These settings apply to every character in that save, NPCs included\n-- Changes show up right away, also on characters that are already on screen\n-- Replaces no game files, so it should not conflict with other mods\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HeadLayerOrder.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HeadLayerOrder.png",
 		"author": "45hr4k",
 		"modversion": "0.3.0",
 		"gameversion": "0.3.2",
@@ -2526,6 +2693,7 @@
 		"ai": true,
 		"name": "Species Spawn Rates",
 		"description": "Most likely contains code made by AI.\n\n[b]Dependencies[/b]: FoxLib (tested with v0.10.7)\n\nDescription:\nSet how often each species appears for generated NPCs, before you start the game. Modded species included.\n\n-- Mod Options -> \"Species spawn rates\": one slider per species (0-100%, 100% = vanilla, 0% = never)\n-- Apply to: new games and every loaded save (default), new games only, or off\n-- Preview button for each species: shows a random character of that species, roll again or switch species in the window\n-- Uses the same weights as the in-game Encounters menu. With \"every loaded save\" the mod overwrites that menu each time a save is loaded\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SpeciesSpawnRates.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SpeciesSpawnRates.png",
 		"author": "45hr4k",
 		"modversion": "0.1.0",
 		"gameversion": "0.3.2",
@@ -2535,6 +2703,7 @@
 		"ai": true,
 		"name": "Doll Render Tweaks",
 		"description": "Most likely contains code made by AI.\n\n[b]Dependencies[/b]: FoxLib (tested with v0.10.7)\n\nDescription:\nMakes the doll look smoother. All four tweaks can be set in Mod Options -> \"Doll render tweaks\":\n\n-- Doll supersampling (off / 2x / 3x / 4x, default 2x): fewer jagged edges on the lines\n-- Pattern smoothing (off / smooth / smooth + crisp): smooth borders on fur stripes and spots instead of pixel steps\n-- Line smoothing (off / bicubic / vector): clean, sharp black outlines when zoomed in, shading stays untouched\n-- Shoulder fade (off / 8-30%, default 15%): the upper arm fades into the torso instead of looking stuck on. Works with modded arms too\n\nNotes:\n-- Pattern and line smoothing need GLES3 and the \"advanced shaders\" option (on by default)\n-- Higher supersampling costs performance on weak GPUs\n-- Replaces no game files. Best loaded near the end of the mod list\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/DollRenderTweaks.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/DollRenderTweaks.png",
 		"author": "45hr4k",
 		"modversion": "0.3.0",
 		"gameversion": "0.3.2",
@@ -2543,6 +2712,7 @@
 	{
 		"name": "SongsHoofySpecies",
 		"description": "※ Description \n- Adds 5 new species: Cow, Deer, Goat, Pig, Sheep\n- Adds some horns, hoofs, tails, ears that are shared by these species\n- Cows will spawn with equine penis by default\n(if SongsVanillaParts mod is active, \"Horse penis alt\" will set by default)\n- Deer, goats, pigs will spawn with human penis by default\n(if SongsVanillaParts mod is active, Deer can get \"Horse penis alt\")\n- Compatible mods: Hypertus, Racebonus, Wintersfluffyparts, WintersBreastExpansion\n\n※ Original mods\n- The original Deer and Bovine mods by Avery Winters were incorporated in this mod, so you can select the parts from those mods with my cows and deer species, and also these species can spawn with those parts, except for the head and hoofs parts.\n- As the Incorporation, i kept the original Deer and Bovine species in this mod, so you can select those species and also don’t have to worry about your ongoing or past characters that used those species. However, these two species won’t spawn as a random NPC anymore to prevent confusion.\n- The Sheep species mod by Thagalor and Avery WInter has incorporated in this mod\n\n※ Update (0.9.7fix1Wintersfix)\n- Updated compatibility with the latest version of Winters Breast Expansion mod. (credits to Avery Winters)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsHoofySpecies.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsHoofySpecies.png",
 		"author": "SongJo",
 		"modversion": "0.9.7",
 		"gameversion": "*",
@@ -2573,6 +2743,7 @@
 		"id": "winters_expanded_penises",
 		"name": "Winters Expanded Penises",
 		"description": "CREDIT: @fancy rat designed automatic compatibility patches for both BallsExtra & Hypertus in addition to the mod options. @Thermal Dragon designed the new sheath assets\nDEPENDENCIES: Winters Core Module &  Rodent Utilities\nDESCRIPTION: A grouped mod of all the penises I am maintaining. Includes mod options for disabling penises to customise whats available.\nCOMPATIBILITY: BallsExtra, Hypertus, RodentUtils\nThis mod replaces all my other penis mods and should not be ran alongside them.\nCHANGELOG: updated sheathes to a new design\nNOTES: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersExpandedPenises.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersExpandedPenises.png",
 		"author": "Avery Winters, Selinoccino",
 		"modversion": "1.3",
 		"gameversion": "*",
@@ -2632,7 +2803,7 @@
 		"gameversion": "0.3.2",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PlayerPortrait_v1.3.2.zip"
 	},
-		{
+	{
 		"name": "RAT_Archetypes",
 		"description": "This mod, like all my mods, is 100% ratwritten with care; no LLMs were consulted or used in the creation of this mod.\n\nRequires [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RodentUtils_v0.9.4.zip]RodentUtils[/url]\n\nAllows mods to modify/replace species' methods with (hopefully) no conflicts. Does nothing on its own. Also allows mods to define \"archetypes\" for dynamic NPCs, which can affect any of their properties and are configurable through the mod config menu.\nIncludes (some) documentation for modders.\n\nVersion 1.0.1:\n- Updated license\n- Other changes and improvements; maybe fixes\n- Think I expanded the docs a bit",
 		"author": "Selinoccino",
