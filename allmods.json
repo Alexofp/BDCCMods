@@ -2667,12 +2667,22 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RAT_DomEndurance.zip"
 	},
 	{
+		"ai": true,
 		"name": "ModManager",
 		"description": "Contains code written by AI.\n\nModManager makes working with mods easier. Available through Mods > ModManager after launching the game.\n\nInstalled mods can be reordered by entering priorities or dragging them into place. Their versions are checked against the Mod Browser catalogue when opening ModManager.\n\nUpdates are downloaded to a subfolder inside the mods folder. The saved mod path is switched to the new archive so the game loads it on the next launch. Priorities and enabled states are preserved. The previous archive is removed once the switch is confirmed.\n\nThe integrated Mod Browser includes links to dependencies and displays image previews directly in mod descriptions. Uses the game's built-in translation system to translate entire pages.\n\nChanges take effect after restarting the game.\n\nFor questions about the mod, contact copiumdevahh on GitHub.",
 		"author": "Neith",
 		"modversion": "1.0.0",
 		"gameversion": "0.3.2",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ModManager.zip"
+	},
+	{
+		"ai": true,
+		"name": "Dynamic Control System",
+		"description": "Dynamic Control System (DCS) is a modular character customization system that provides convenient in-game sliders for adjusting body parameters.\n\n[b]AI Disclosure[/b]\nLLMs were used as development assistance during the creation of DCS. They helped with architectural discussions, code development and review, troubleshooting, and documentation preparation.\n\n[b]For Players[/b]\nEasily customize your character's body proportions using adjustable parameters for the penis, testicles, breasts, tail, and buttocks.\n\n[b]For Mod Developers[/b]\nDCS is an extensible framework that allows developers to add custom parameter handlers, modifier rules, update definitions, and actions through a unified registration system.\n\nIt also provides automatic parameter interface generation and component registration logging.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/DynamicControlSystem.gif]Click for Preview[/url]",
+		"author": "Djakise",
+		"modversion": "1.0.0",
+		"gameversion": "0.3.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DynamicControlSystem.zip"
 	}
 	]
 }
