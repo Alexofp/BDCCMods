@@ -1902,11 +1902,14 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FocusPill.zip"
 	},
 	{
+		"id": "hypertus",
 		"name": "Hypertus",
 		"description": "\n[b]WARNING: This contains hyper stuff, if you dislike it then leave[/b]\n\nHypertus adds hyper-sized bodyparts (breast, penises, vagina, and anus.) to BDCC, along with several new features!\n\nThese features include:\n* New skill tree and perks. Get bonuses as your hyper bodyparts grow!\n* Go beyond vanilla size limits. Dicks as big as a person! Or even larger!\n* NPC support! (Requires additional mod - Hypertus Species Compatibility Layers)\n* Compatible with several modded species and bodyparts! (see list below)\n- Synth Bodyparts\n- Fluffy Bodyparts\n- Avali Species Bodyparts\n- Ace's Aviary Addon Bodyparts\n- Trans Scar Chest\n- Crow Species Bodyparts\n- Deer Species Bodypart\n- Knotted Horse Cock\n- Barbed Equine Penis\n- Spined Dragon Penis\n\nIf you have any feedback send it in mods-discussion and ping me,\nor open an issue on [url=https://github.com/CanInBad/HypertusMod/issues]github[/url].\n# Changelog\n- hadPerk -> hasPerk in cum production\n- added bunch of ovipositor bodyparts, the normal pregency stuff work with ovipositor so there is no new perks\n- fixed breastsizes not showing their name properly; this is why testing is required",
 		"author": "CanInBad",
+		"categories": ["Gameplay", "Library"],
 		"modversion": "R6-8",
 		"gameversion": "*",
+		"delete": ["HypertusR"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusR6-8.zip"
 	},
 	{
@@ -2132,9 +2135,11 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MorePoses.zip"
 	},
 	{
+		"id": "brutal_dreams_correctional_center",
 		"name": "Brutal Dreams Correctional Center",
 		"description": "Makes the game more difficult!\n  \nInmate Encounters:\nInmates you encounter have a 5% chance to attack you\nSome Inmates will chase you down to attack!\nExpanded the list of locations that they won't chase you to\n  \nSex:\nIf a Dom undresses a Sub the item is deleted\nCharacters that have their clothes removed will go to the laundry to get new ones!\n  \nHard Struggling:\nTime to complete the minigame halved\nStamina cost to play the minigame quintupled (5x!!)\nBlindfold hint disabled\nExtra time to complete the minigame when blindfolded removed\n  \nChanges 1.7.4:\nMade some of the most volatile code changes use\nthe hooks system I made for NPC Generation Settings\n\nThanks to aaron1218 for the idea!",
 		"author": "Mindstormsman",
+		"categories": ["Gameplay"],
 		"modversion": "1.7.4",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BrutalDreamsCorrectionalCenter.zip"
@@ -2221,17 +2226,23 @@
 		"name": "FoxedBDCC",
 		"description": "Add more feature to BDCC using FoxLib (Note: Don't forget to download FoxLib to use this mod)\n\nFor now it only add one end game skills in the fertility tab\n\nThis mod is the reason why I made FoxLib, and felt bad uploading FoxLib without a mod that uses it too",
 		"author": "Fox2Code",
+		"categories": ["Gameplay"],
+		"reqs": ["foxlib"],
 		"modversion": "0.1.0",
 		"gameversion": "*",
+		"delete": ["FoxedBDCC_v"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxedBDCC_v0.1.0.zip"
 	},
 	{
+		"id": "foxlib",
 		"name": "FoxLib",
 		"description": "][/color]\nGame version: 0.1.7+ (Recommended: 0.3.2)\nFilename: FoxLib_v0.10.7.zip\n[center][color=#00FFFF][b][shake rate=5 level=7][[[[/shake] Modding enhancer for BDCC [shake rate=5 level=7]]]][/shake][/b][/color] [/center]\n[center][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][/center]\n[center][color=#FF8000][u]/!\\[/u] Don't forget to delete old versions of the mod when updating [u]/!\\[/u][/color] [/center]\n\nAdd cool [rainbow freq=0.1 sat=1 val=1]features[/rainbow] for users:\n- A mod configuration menu\n- A custom theme engine\n- Dynamic mod hotfixes\n- GameTest engine to test the integrity of the loaded mod list\n\nBut mainly add many features and abilities for BDCC mods such as:\n- Adding custom CrotchBlock for datapacks\n- Adding new perk level tiers\n- Controlling more game UI elements\n- Saving NPC Skills/Perk data\n- Handling fatal errors via GUI\n- Configuring mods via in game Menu\n- Registering custom entries to the ModularDialogue system\n- Preventing your mod from being loaded twice\n- Add custom player status bars\n- Playing custom mod Audio\n\nFoxLib also additionally exposes more capabilities to datapacks too, please check the in-game editor to see the new blocks FoxLib adds! [wave amp=10 freq=4]:D[/wave]\n\nFoxLib will also use code generation instead of replacing game code for maximum compatibility with your existing mods. You can see in the file list that FoxLib doesn't replace any game files!\n\n[color=#00FFFF]F[/color]ox[color=#00FFFF]L[/color]ib [color=#00FFFF]M[/color]od[color=#00FFFF]H[/color]elper (Aka. [color=#00FFFF]FLMH[/color].py) is a build tool for developers to ease development of FoxLib mods. It provides warnings to improve all mods code and is the current tool used to package FoxLib and other mods made by Fox2Code!\n\nFor more info on how to use FoxLib API or FoxLib ModHelper, please check the bundled or [color=#2222FF][url=https://git.frisk.space/Fox2Code/FoxLib/src/branch/master/Docs]online[/url][/color] documentation!\nFoxLib source code is hosted at: [color=#2222FF][url=https://git.frisk.space/Fox2Code/FoxLib]https://git.frisk.space/Fox2Code/FoxLib[/url][/color]\n(Or you can read FoxLib source-code by extracting it)\n[center][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][img=128x64]Images/WorldTiles/TrimCaution.png[/img][/center]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FoxLib.png]Click for preview[/url]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FoxLib.png",
+		"categories": ["Library"],
 		"author": "Fox2Code",
 		"modversion": "0.10.7[color=",
 		"gameversion": "0.3.2",
+		"delete": ["FoxLib_v"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FoxLib_v0.10.7.zip"
 	},
 	{
@@ -2432,9 +2443,11 @@
 		"name": "GunMod",
 		"description": "Adds a bunch of firearms and a full PlayerSlavery scenario built around them: \"War Draft\", a conscription story between AlphaCorp and the Syndicate. Gameplay loop is similar to the Drug Den, but WITH GUNZ.\n\nWar Draft: you get conscripted into AlphaCorp's war against the Syndicate, whether you like it or not. Run patrols and objectives for AlphaCorp under Sergeant Drask, or end up defecting to the Syndicate and Commander Vex instead. Each side tracked with its own stat, each with its own hub, and each building toward its own real finale fight.\n\nFeatures:\n- 5 new weapons: Pistol, Laser Pistol (taken from base game), Service Rifle, Energy Rifle, Marauder Rifle\n- Sold by Mirri; the 3 rifles also drop (rarely) from Drug Den junkie loot\n- New two-handed rifle hold/aim/fire animations\n- New \"War Draft\" scenario in the PlayerSlavery picker\n- Two full sides to play: stay loyal to AlphaCorp under Sergeant Drask, or defect to the Syndicate under Commander Vex\n- Each side tracked with its own stat (AlphaCorp morale / Syndicate corruption)\n- Real patrol loop: patrols, ambushes, bomb/rescue objectives, captured-soldier encounters\n- Armory restock that also heals your pain\n- Kidlat cameo\n- Conscript uniform gear\n- Two full finale boss fights, one per faction, with reactive dialogue\n- Hand scripted cool and awesome sex scenes\n- 4 distinct endings\n\n(This is my biggest project yet. Please let me know if you hit anything broken. Two base-game files are edited directly for the rifle hold poses rather than being purely additive, so this could conflict with another mod touching the same files.)\n\nGunMod awesome 1.0.2 fixes:\n-Commander Vex's sex scenes had the pose backwards from the dialogue\n-The rifle idle/aim holds didn't loop and would freeze on the last frame\n-Some sex scenes now step through separate tease/sex/fast/finish stages instead of jumping straight to one frozen pose. \n-Also fixed a soft lock where Eliza's chastity content could teleport you off map mid-scenario without properly ending it.\n\nGunMod awesome 1.0.3 fixes: \n-regular prison guards could randomly and permanently show up red on the world map caused by the Syndicate detention jailer's map color inheritance leaking into the game's normal ambient guard spawner (already red guards on existing saves stay red until they respawn).\n\nGunMod awesome 1.0.4 fixes: \n-the rifle animations didn't work at all for most players, due to a packaging mistake that pulled in a file from an unrelated mod (my mistake).\n\nHuge thanks to this wonderful community for pointing everything up!!!\n\nGunMod awesome 1.1.0 update:\n\nNew: B.R.A.T.S. (Ballistic Reflex-Assisted Targeting System)\n- A new B.R.A.T.S. button in every fight. It opens a targeting screen showing the enemy's doll with a ui simillar to the Fallout games. Pick a body part, pick any physical attack and fire.\n- 7 zones, each with its own hit chance, stamina cost and effect: head (stun), eyes (blind), chest (winded, tender breasts), torso (bleeding), arms (weaker attacks), groin (low blow stun) and legs (can't dodge, may go down).\n- A new Precision skill tree that levels from every physical attack. B.R.A.T.S. itself is the free first perk, followed by 8 upgrades\n\nTweaks\n- Rifles dropped by beaten enemies now show up on the normal loot screen with the rest of their loot, instead of a separate message.\n- The finale threshold for both sides is now 80 (was 100). Both bad ends now trigger at -20\n- Sergeant Drask new intro with B.R.A.T.S..\n- After you beat a soldier, you choose what happens to them: move on, use them, or take them prisoner.\n- The holding cell you wake up in after capture now has a bed.\n\nFixes\n- The two-handed animations shipped edited copies of base game animation files that the game never actually loaded, no conflicts should happen now.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GunMod1.png]Preview 1[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GunMod2.png]Preview 2[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GunMod3.png]Preview 3[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GunMod4.png]Preview 4[/url]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GunMod1.png",
+		"categories": ["Gameplay", "Content"],
 		"author": "Adria",
 		"modversion": "1.1.0",
 		"gameversion": "0.3.2",
+		"delete": ["GunMod_"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GunMod_1.1.0.zip"
 	},
 	{
@@ -2639,14 +2652,18 @@
 		"description": "Most likely contains code made by AI.\n\n[b]Dependencies[/b]: FoxLib v0.10.7+\n\nDescription:\nDraws a bulge on the penetrated character's body where the cock is inside: belly, throat and mouth. Three effects: Basic (lightest), Medium, and Detailed (the body's own outline stretches over the cock). Settings in Mod Options (turn advanced options on to see them all).\n\nChangelog v4.1:\n-- Detailed has a new default look: the cock curves inside toward the belly and only bends when its tip pushes on the skin\n-- NEW Move the bodies: the characters shift a little so the cock goes in the way it curves (Detailed, on by default)\n-- NEW thrust styles: As the game (default), Natural, Slow and deep, Custom\n-- NEW \"Try it on characters\" window: preview any scene and option before saving\n-- Basic replaces Simple (uses the game's own belly swelling)\n-- NEW options (Advanced): cock direction, bend on push, All the way through (long cocks come out of the mouth), softer Stop at the neck, body tightness, something inside\n-- Lighter shade (Filled, 10%), fading in from the base\n-- Menu reorganised: Main / Medium / Advanced, options only show when they apply\n-- GLES2: only Basic works now, a red note explains how to switch to GLES3\n-- Fixes: hiding the cock, double penetration, short 10 cm cocks detected, bulge appears right away, sex machine dildos, deflating bulge, big-bulge texture, Train/Spitroast, Medium fixes\n\nNotes:\n-- Some effects and options are experimental and may not work well in every scene: if something looks wrong, turn it off and ping me\n-- Remove InsertionBulges_v4.0.zip before adding the new one\n-- Your 4.0 settings carry over. Want the 4.0 look back? Cock direction: Sliders, Cock bend: Follows the curve, Shade: Soft 60%\n-- Known issues: Move the bodies is off by default with 3+ characters (can look odd); portal scenes pause at full depth on the first thrust\n-- Full changelog in the attached .md\n\nFor feedback, bug reports, etc., ping me \n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/InsertionBulges.png]Click for Preview[/url]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/InsertionBulges.png",
 		"author": "xrob1",
+		"reqs": ["foxlib"],
+		"categories": ["UI"],
 		"modversion": "4.1",
 		"gameversion": "0.3.2",
+		"delete": ["InsertionBulges_v"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/InsertionBulges_v4.1.zip"
 	},
 	{
 		"name": "Mysterious Vixen",
 		"description": "Description: Adds a 7 foot tall vixen named Yefim Brinof, to the station, with a storyline planned to add more to the world.\n\n- Currently this version is the DEMO and only includes his initial encounter quest.\n- If there are any problems, do reach out to me, 924_syn.\n- After completing his initial quest, he will not show up at the location he stated he will go to at the specified times as that is the start of Chapter 1 for the character.",
 		"author": "Sonar!",
+		"categories": ["Content"],
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MysteriousVixen.zip"
@@ -2656,20 +2673,26 @@
 		"description": "CREDIT: Code Improvements: Selinoccino, Assets: Anonomous Contributor\nDEPENDENCIES: Winters Core Module\nDESCRIPTION: Expands the base BDCC Breasts with some new options Nipples (+Inverted) and Puffy Nipples (+Inverted). Should replace base breasts during Dynamic NPC generation\nCOMPATABILITY: Hypertus, WintersFluffyBodyParts\nCHANGELOG: hopefully has fixed hypertus compats and working mod options\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersBreastExpansion.png]Click for Preview[/url]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersBreastExpansion.png",
 		"author": "Avery Winters",
+		"reqs": ["winters_core_module"],
 		"modversion": "1.5",
 		"gameversion": "*",
 		"categories": ["Bodyparts"],
+		"delete": ["WintersExpandedBreastsV"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersExpandedBreastsV1.5.zip"
 	},
 	{
 		"name": "EncounterPlus",
 		"description": "DEPENDENCIES: FoxLib\nDESCRIPTION: Adds behavior to force NPC-initiated talk interactions after a number of NPCs encountered. Mod Manager adjustable.",
 		"author": "Aurys",
+		"reqs": ["foxlib"],
+		"categories": ["Gameplay"],
 		"modversion": "1.2",
 		"gameversion": "0.3.2",
+		"delete": ["EncounterPlus_"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EncounterPlus_1.2.zip"
 	},
 	{
+		"id": "expanded_bodyparts",
 		"name": "ExpandedBodyparts",
 		"description": "COMPATIBILITY: Hypertus\nDESCRIPTION: More bodyparts and even more muscles! \n(Credit to Avery Winters, Songjo, Firaxalos, Anon, and others as more parts are added, as this mod is mostly just tweaks and merging of their different assets.)\nChangelog:\nV1.0.3 - Hotfix for Module.gd not seeing external Modules and thus not loading relevant bodyparts.\nV1.0.2 - Hotfix for Hypertus dependency routing issues.\nV1.0.1 - Hotfix for Hypertus file routing issues. \nV1.0 - Major code improvements for file handling, Hypertus compatibility, and not having the Protogens mod should just disable those parts now, rather than throwing errors.\nV0.5 - Added Buff Fluffy Poof Breasts (Hypertus compatibility is a WIP) and moved all mod files into Modules.\nV0.4 - Fixed missing legs due to typos in names and added Winter's original BuffFluffyBody as a new body.\nV0.3 - Added a bunch of buff bodies and more (including some Protogen only bodies)!\nV0.2.1 - Hotfix for issues with subfolders.\nV0.2 - Major file reorganizing (from scratch) and added 13 new fit arms.\nV0.1 - Initial prototype release.\nV0.0 - Development soup\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ExpandedBodyparts.png]Click for Preview[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ExpandedBodyparts2.png]Click for Preview 2[/url]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ExpandedBodyparts.png",
@@ -2677,6 +2700,7 @@
 		"modversion": "1.0.3",
 		"gameversion": "*",
 		"categories": ["Bodyparts"],
+		"delete": ["ExpandedBodyparts_V"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ExpandedBodyparts_V1.0.3.zip"
 	},
 	{
@@ -2685,8 +2709,10 @@
 		"description": "Most likely contains code made by AI.\n\n[b]Dependencies[/b]: FoxLib (tested with v0.10.7)\n\nDescription:\nChoose the drawing order of head features on the doll: horns, hair, ears and modded head slots. For example horns behind the hair, or ears in front of both.\n\n-- Mod Options -> \"Head layer order\": give each head slot a layer from 1 to 6 (higher is drawn on top), or leave it on Original\n-- Per save: character creator (\"Body attributes\" -> \"Head layer order\") and the mirror (\"Head layers\"). These settings apply to every character in that save, NPCs included\n-- Changes show up right away, also on characters that are already on screen\n-- Replaces no game files, so it should not conflict with other mods\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HeadLayerOrder.png]Click for Preview[/url]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HeadLayerOrder.png",
 		"author": "45hr4k",
+		"categories": ["UI"],
 		"modversion": "0.3.0",
 		"gameversion": "0.3.2",
+		"reqs": ["foxlib"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HeadLayerOrder.zip"
 	},
 	{
@@ -2695,8 +2721,10 @@
 		"description": "Most likely contains code made by AI.\n\n[b]Dependencies[/b]: FoxLib (tested with v0.10.7)\n\nDescription:\nSet how often each species appears for generated NPCs, before you start the game. Modded species included.\n\n-- Mod Options -> \"Species spawn rates\": one slider per species (0-100%, 100% = vanilla, 0% = never)\n-- Apply to: new games and every loaded save (default), new games only, or off\n-- Preview button for each species: shows a random character of that species, roll again or switch species in the window\n-- Uses the same weights as the in-game Encounters menu. With \"every loaded save\" the mod overwrites that menu each time a save is loaded\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SpeciesSpawnRates.png]Click for Preview[/url]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SpeciesSpawnRates.png",
 		"author": "45hr4k",
+		"categories": ["Gameplay"],
 		"modversion": "0.1.0",
 		"gameversion": "0.3.2",
+		"reqs": ["foxlib"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SpeciesSpawnRates.zip"
 	},
 	{
@@ -2705,8 +2733,10 @@
 		"description": "Most likely contains code made by AI.\n\n[b]Dependencies[/b]: FoxLib (tested with v0.10.7)\n\nDescription:\nMakes the doll look smoother. All four tweaks can be set in Mod Options -> \"Doll render tweaks\":\n\n-- Doll supersampling (off / 2x / 3x / 4x, default 2x): fewer jagged edges on the lines\n-- Pattern smoothing (off / smooth / smooth + crisp): smooth borders on fur stripes and spots instead of pixel steps\n-- Line smoothing (off / bicubic / vector): clean, sharp black outlines when zoomed in, shading stays untouched\n-- Shoulder fade (off / 8-30%, default 15%): the upper arm fades into the torso instead of looking stuck on. Works with modded arms too\n\nNotes:\n-- Pattern and line smoothing need GLES3 and the \"advanced shaders\" option (on by default)\n-- Higher supersampling costs performance on weak GPUs\n-- Replaces no game files. Best loaded near the end of the mod list\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/DollRenderTweaks.png]Click for Preview[/url]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/DollRenderTweaks.png",
 		"author": "45hr4k",
+		"categories": ["UI"],
 		"modversion": "0.3.0",
 		"gameversion": "0.3.2",
+		"reqs": ["foxlib"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DollRenderTweaks.zip"
 	},
 	{
@@ -2717,6 +2747,7 @@
 		"modversion": "0.9.7",
 		"gameversion": "*",
 		"categories": ["Bodyparts", "Species"],
+		"delete": ["SongsHoofySpecies_v"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsHoofySpecies_v0.9.7fix1WintersFix.zip"
 	},
 	{
@@ -2724,8 +2755,10 @@
   		"name": "SmartLocks Extended",
   		"description": "Most likely contains code made by AI.\n\n\nRequires FoxLib 0.10.7.\nAdds a wealth of options to configure Smart Locks to your tastes, as well as several new types of smart locks and 3 optional starting perks.\n\nNew locks: Timed locks unlock on their own after a set amount of time. Prostitution locks require you to earn a certain amount of credits through prostitution, and pay the keyholder to release you. Multi-keyholder locks are similar to normal keyholder locks, but require you to convince several people to unlock you. Taskmaster locks generate a list of tasks for you to complete every morning, and unlocks itself after you have dutifully completed them several days in a row.\nAll types can be configured or disabled according to your tastes.\n\nNew perks: Faulty Release gives slut locks a 50% chance to reset itself and generate a new set of tasks, instead of releasing you. Fine Print only reveals slut lock requirements one-by-one, after the previous one has been completed. Uncertain Sentence hides the release time of timed locks.",
   		"author": "AltGitsa",
+		"categories": ["Gameplay"],
 		"modversion": "0.3.1",
  		"gameversion": "0.3.2",
+		"delete": ["SmartLocksExtended_v"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SmartLocksExtended_v0.3.1.zip"
 
 	},
@@ -2747,7 +2780,6 @@
 		"author": "Avery Winters, Selinoccino",
 		"modversion": "1.3",
 		"gameversion": "*",
-		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersExpandedPenises.png",
 		"reqs": ["winters_core_module", "rodent_utils"],
 		"categories": ["Bodyparts"],
 		"delete": ["WintersExpandedPenises"],
@@ -2757,14 +2789,18 @@
 		"name": "An Apple A Day",
 		"description": "This mod, like all my mods, is 100% ratwritten with care; no LLMs were consulted or used in the creation of this mod.\n\nAdds an exciting new use for apples, in the form of using them to gain buffs (mostly a joke mod). Take an apple to Dr. Quinn to get started.\n\nVersion 1.6:\n- Updated license\n- Added back the ability to add homemade cream directly\n- Now compatible with CraftingLibReworked\n\nPlease tell me if you find any issues, and enjoy!",
 		"author": "Selinoccino",
+		"categories": ["Gameplay", "Meme"],
 		"modversion": "1.6",
 		"gameversion": "0.3.2",
+		"delete": ["AnAppleADay_"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnAppleADay_1.6.zip"
 	},
 	{
+		"id": "crafting_lib_reworked",
 		"name": "CraftingLibReworked",
 		"description": "This mod, like all my mods, is 100% ratwritten with care; no LLMs were consulted or used in the creation of this mod.\n\nA mod that adds a crafting system. Does nothing on its own.",
 		"author": "Selinoccino",
+		"categories": ["Library"],
 		"modversion": "0.9",
 		"gameversion": "0.3.2",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CraftingLibReworked.zip"
@@ -2775,6 +2811,7 @@
 		"author": "Selinoccino",
 		"modversion": "1.0.2",
 		"gameversion": "0.3.2",
+		"categories": ["Gameplay"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CondomSabotage.zip"
 	},
 	{
@@ -2782,8 +2819,11 @@
 		"description": "This mod, like all my mods, is 100% ratwritten with care; no LLMs were consulted or used in the creation of this mod.\n\nAdds a starting perk that allows you to speak like those internet catfolk.\nConfigurable with RodentUtils (which isn't required), which can allow you to make NPCs and the player use UwuSpeak under some conditions, or change how UwuSpeak affects your speech.\n\nVersion 1.3.2:\n- Updated license\n- Other changes and improvements; maybe fixes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/UwuSpeak.png]Click for Preview[/url]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/UwuSpeak.png",
 		"author": "Selinoccino",
+		"categories": ["Meme"],
 		"modversion": "1.3.2",
 		"gameversion": "0.3.2",
+		"reqs": ["rodent_utils"],
+		"delete": ["UwuSpeak_v"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/UwuSpeak_v1.3.2.zip"
 	},
 	{
