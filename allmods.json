@@ -2868,6 +2868,15 @@
 		"modversion": "1.0.0",
 		"gameversion": "0.3.2",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DynamicControlSystem.zip"
+	},
+	{
+		"name": "DyeFree",
+		"description": "Normally, it costs 5 credits to dye clothing at the laundry room. This mod makes it free.",
+		"categories": ["Gameplay"],
+		"author": "bringlebangul",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DyeFree.zip"
 	}
 	]
 }
