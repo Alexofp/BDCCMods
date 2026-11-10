@@ -2570,18 +2570,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MilkingMenuReorganizer_v0.0.1.zip"
 	},
 	{
-		"name": "Anons Base Species Expansion",
-		"description": "CREDIT: Code Improvements: Selinoccino, Assets: Anon\nDEPENDENCIES: Winters Core Module\nDESCRIPTION: A collection of bodyparts intended to expand the variety of looks for base species including sabertooths for canines and felines, jackal parts, hyena parts and the combination of equines and dragons plus!\nCHANGELOG: Fixed dragon head meshes. Muzzles might still need some love\nNOTES: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsBaseSpeciesExpansion.png]Click for Preview[/url]",
-		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsBaseSpeciesExpansion.png",
-		"author": "Anon, Avery Winters",
-		"categories": ["Bodyparts"],
-		"modversion": "1.5",
-		"gameversion": "*",
-		"reqs": ["winters_core_module"],
-		"delete": ["WintersBaseSpeciesExpansionV"],
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersBaseSpeciesExpansionV1.5.zip"
-	},
-	{
 		"ai": true,
 		"name": "Belly Overhaul",
 		"description": "Most likely contains code made by AI.\n\nDEPENDENCIES: FoxLib\nDESCRIPTION: Customize the shape of pregnant and inflated bellies. In Mod Options > Belly Overhaul:\n- Sticks out, Roundness, Height, Position, Droop: the belly's shape\n- Wobble: how much it jiggles\n- Try it on a character: a preview with your character (or a random one, from the main menu) where every slider changes the belly live. Save keeps it, Cancel throws it away.\nEvery slider at its default is the game's own belly. One shape for every character.\nCOMPATIBILITY: Replaces no game files, so it should play nice with other mods (species packs, Hypertus, InsertionBulges). Delete the zip to get the vanilla belly back.\nNOTE: Found a bug? Tell me the character, the scene and your slider values!\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BellyOverhaul.png]Click for Preview[/url]",
