@@ -541,15 +541,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RaceBonusMod.zip"
 	},
 	{
-		"name": "Equine Penis Barbs & Knots Edition",
-		"description": "This is a splice of Ace's Barbed Equine and Knotty Equine penis mods adding a character creation option for a barbed and knotty equine penis. All art assets are knicked from Ace's mods and restitched back together to make a bigger better penis!\n\nChangelog: Now has skins available like the other equine options\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BarbedandKnottedEquinePenis.png]Click for preview[/url]",
-		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BarbedandKnottedEquinePenis.png",
-		"author": "Avery Winters",
-		"modversion": "1.1",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BarbedandKnottedEquinePenis.zip"
-	},
-	{
 		"name": "Bluespace Reality Alterator (BRA)",
 		"description": "-Lore: One morning, you find a small device in the engineering section of the station, with a small screen, a keyboard and a standard memory connector, with the letters \"BRA\" stenciled on the back.\nRight now it seems empty of programmed modules, but looking a bit in the pile of junk, you find a memory stick with \"CaninePussy\" written on it, and after plugging it and fiddling a bit with the controls, you notice that your fellow Canine prisoners suddenly all have animalistic pussies instead of humanoid ones. Surprisingly, noone seems to notice the difference but you...\nAre... are you able to alter reality with this device? You must find other modules, stat!\n\n-Description: This is what I managed to hack together to make in-game options for mods possible, since having multiple versions of the same mod for different options is fucking annoying for the modders and for the users, and it's basically impossible to add custom options to the base game Options without releasing a custom build.\nAlone, this mod does nothing, but with mods using compatible scene files, more options are going to get added dynamically, for the users they just need to have this mod and the (future) compatible mods will add themselves to the options available (check the pictures for an example with the Canine Pussy mod).\nRight now only text boxes and scene buttons can be used to change mods, as I still haven't managed to include checkboxes and dropdown lists, but perhaps I'll manage one day.\n\nFor modders, check all the files in the following Canine Pussy mod to understand how to make one for your mod, I added comments to help you, and I will happily answer questions, it's both not hard and a bit finicky...\nWhat's important is using flags in your module.gd and you MUST have a [YourMod]/Scenes/ModsOptionsScenes folder with the scene inside for it to register. You don't have to name the scene as I did, but it will help with what shows in game.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ModsOptions.png]Click for Preview[/url]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ModsOptions.png",
@@ -917,15 +908,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/TheGaltorSheepSpecies.zip"
 	},
 	{
-		"name": "Sheathed Human Penis",
-		"description": "Helping Ace in their continued effort to remove humanity from the game, I edited the sheathed human penis\n\"It does exactly what you think it do, human penis with a sheath on it\" -Average Ace\nNow replaces the normal human one entirely\nOriginal by: Average Ace \nCode change by: Me and a ton of help from Avery Winters\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SheathHumanPenis.png]Click for preview[/url]",
-		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SheathHumanPenis.png",
-		"author": "Winter 'Eira",
-		"modversion": "2.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SheathHumanPenisVer2.zip"
-	},
-	{
 		"name": "Hairs!",
 		"description": "Original mod by Sority. Adds hairs to the game. Updated to use the new skin(pattern) system.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/hair.png]Click for preview[/url]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/hair.png",
@@ -942,14 +924,6 @@
 		"modversion": "2.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Rabbit_Species.zip"
-	},
-	{
-		"name": "Winters Rabbit Penis Patch",
-		"description": "Requirements: Fantos' Rabbit Species\nA patch for the Rabbit Species to change the default penis for Dynamic Rabbit NPCs to the Barbed & Knotted Equine Penis. Should default to the base equine penis if you dont have the expanded equine penis mod. Created in response to Johnvic's continued efforts to erase humanity.\n\nProbably needs to be loaded after rabbits.",
-		"author": "Avery Winters",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersRabbitPenisPatch.zip"
 	},
 	{
 		"name": "Goo Bondage",
@@ -1115,15 +1089,6 @@
 		"modversion": "0.6",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SouthernSergal.6.zip"
-	},
-	{
-		"name": "Winters Tapered Penises",
-		"description": "A collection of the Tapered penises from the Aviary mod. Decided to seperate these off solo so that they can be used with other mods and species that would benefit from slits and tapered penises without needing a whole race as a dependency. Has built in hypertus compat and JSON for mod browser compat.\nCOMPATABILITY: BallsExtra & Hypertus\nCHANGELOG: Tidied NPC Generation\nNOTE: Since these run new Mod ID's doesnt hurt to back up your saves, or wait till your starting a new game to update. @ me or make a thread if anything is broken.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersTaperedPenises.png]Click for Preview[/url]",
-		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersTaperedPenises.png",
-		"author": "Avery Winters",
-		"modversion": "1.3",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersTaperedPenisesV1.3.zip"
 	},
 	{
 		"name": "Anons Avian Species",
@@ -1307,15 +1272,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PlantigradePawReplacerV2.zip"
 	},
 	{
-		"name": "Winters Deer Species",
-		"description": "CREDIT: ORIGINAL: Fantos, Max-Maxou, Anon\nDESCRIPTION: An update to the deer species \nCOMPATABILITY: WintersFluffyBodyparts, WintersEquinePenises, Hypertus\nCHANGELOG: Mod updated\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersDeerSpecies.png]Click for Preview[/url]",
-		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersDeerSpecies.png",
-		"author": "Avery Winters, Others",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersDeerSpeciesV1.0.zip"
-	},
-	{
 		"name": "CharacterToDatapackExport",
 		"description": "Export yourself or a dynamic character to a datapack.\n\nTo export a character, go to the Me menu, select Export, and follow the instructions from there.\n\nv1.2:\n- FIXED: Individual bodypart skins and colors wouldn't export properly on 0.1.10 and higher, due to changes to the save data structure.\n- Backwards compatible with older game versions, so you should be able to export characters between newer and older game versions without issue (tested up to 0.2.1).",
 		"author": "MOONHALO",
@@ -1460,15 +1416,6 @@
 		"modversion": "0.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SensitivityPill.zip"
-	},
-	{
-		"name": "Anons Sheathed Human Penis",
-		"description": "Human penis with a sheath on it. Similar to the update by Winter 'Eira without overwriting the base human penis.\nCOMPATIBILITY: Hypertus & BallsExtra\nCHANGELOG: removed some unnescessary code from the BallsExtra Compat that was causing missing penis errors.\nNOTE: @ Me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsSheathedHumanPenis.png]Click for Preview[/url]",
-		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsSheathedHumanPenis.png",
-		"author": "Anon, Avery Winters",
-		"modversion": "1.3",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnonsSheathedHumanPenisV1.3.zip"
 	},
 	{
 		"name": "Frivolous's Gender Pills",
@@ -2500,18 +2447,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/VoreMod.zip"
 	},
 	{
-		"name": "Winters Canine Barbed Penis",
-		"description": "CREDIT: Code Improvements: Selinoccino\nDEPENDENCIES: Winters Core Module\nDESCRIPTION: A canine variant penis with barbs ideal for a canine/feline hybrid.\nCOMPATIBILITY: Hypertus, BallsExtra\nCHANGELOG: improved code efficiency\nNOTES: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersCanineBarbedPenis.png]Click for Preview[/url]",
-		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersCanineBarbedPenis.png",
-		"author": "Avery Winters",
-		"categories": ["Bodyparts"],
-		"modversion": "1.4",
-		"gameversion": "*",
-		"reqs": ["winters_core_module"],
-		"delete": ["WintersCanineBarbedPenisV"],
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersCanineBarbedPenisV1.4.zip"
-	},
-	{
 		"name": "SearchBarDeselect",
 		"description": "Are you tired of pressing '1' to exit the inventory and instead typing '1' in the search bar? No more! Now, you click the search bar to begin typing by default. Don't use this mod on touchscreen devices, it won't do anything.\n\nChanges:\nBugfix. Will now replace the right lines of code, and won't flood the log with stuff I was using to debug.",
 		"author": "bringlebangul",
@@ -2691,7 +2626,7 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod.zip"
 	},
 	{
-		"name": "Anons Base Species Expansion",
+		"name": "Winters Base Species Expansion",
 		"description": "CREDIT: Code Improvements: Selinoccino, Assets: Anon\nDEPENDENCIES: Winters Core Module\nDESCRIPTION: A collection of bodyparts intended to expand the variety of looks for base species including sabertooths for canines and felines, jackal parts, hyena parts and the combination of equines and dragons plus!\nCHANGELOG: Fixed dragon head meshes. Muzzles might still need some love\nNOTES: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersBaseSpeciesExpansion.png]Click for Preview[/url]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersBaseSpeciesExpansion.png",
 		"author": "Avery Winters, Selinoccino, Anon",
@@ -2788,9 +2723,9 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MysteriousVixen.zip"
 	},
 	{
-		"name": "Winters Breast Expansion",
-		"description": "CREDIT: Code Improvements: Selinoccino, Assets: Anonomous Contributor\nDEPENDENCIES: Winters Core Module\nDESCRIPTION: Expands the base BDCC Breasts with some new options Nipples (+Inverted) and Puffy Nipples (+Inverted). Should replace base breasts during Dynamic NPC generation\nCOMPATABILITY: Hypertus, WintersFluffyBodyParts\nCHANGELOG: hopefully has fixed hypertus compats and working mod options\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersBreastExpansion.png]Click for Preview[/url]",
-		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersBreastExpansion.png",
+		"name": "Winters Expanded Breasts",
+		"description": "CREDIT: Code Improvements: Selinoccino, Assets: Anonomous Contributor\nDEPENDENCIES: Winters Core Module\nDESCRIPTION: Expands the base BDCC Breasts with some new options Nipples (+Inverted) and Puffy Nipples (+Inverted). Should replace base breasts during Dynamic NPC generation\nCOMPATABILITY: Hypertus, WintersFluffyBodyParts\nCHANGELOG: hopefully has fixed hypertus compats and working mod options\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersExpandedBreasts.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersExpandedBreasts.png",
 		"author": "Avery Winters",
 		"reqs": ["winters_core_module"],
 		"modversion": "1.5",
