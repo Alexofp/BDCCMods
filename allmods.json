@@ -2973,6 +2973,16 @@
 		"categories": ["Bodyparts"],
 		"delete": ["WintersExpandedPenises"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersExpandedPenises1.4.zip"
+	},
+	{
+		"id": "rekku_rodent_utils_forked",
+		"name": "RodentUtils Forked",
+		"description": "A version of RodentUtils without malicious blocking. MIT License forked.",
+		"author": "Selinoccino, Rekkulani",
+		"modversion": "v0.9.5-forked",
+		"gameversion": "0.3.2",
+		"categories" ["Library"]
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RodentUtils_v0.9.5-forked.zip"
 	}
 	]
 }
