@@ -494,6 +494,7 @@
 		"author": "CanInBad",
 		"modversion": "R1",
 		"gameversion": "*",
+		"reqs": ["hypertus"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusShouldPrint.zip"
 	},
 	{
@@ -502,6 +503,7 @@
 		"author": "CanInBad",
 		"modversion": "R1",
 		"gameversion": "*",
+		"reqs": ["hypertus"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusSpeciesForceBreed.zip"
 	},
 	{
@@ -510,6 +512,7 @@
 		"author": "CanInBad",
 		"modversion": "R1",
 		"gameversion": "*",
+		"reqs": ["hypertus"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/LycanrocHypertusCompatR1.zip"
 	},
 	{
@@ -518,6 +521,7 @@
 		"author": "CanInBad",
 		"modversion": "R1",
 		"gameversion": "*",
+		"reqs": ["hypertus"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HellhoundHyperable-R1.zip"
 	},
 	{
@@ -1584,6 +1588,8 @@
 		"author": "CanInBad",
 		"modversion": "R3-1",
 		"gameversion": "*",
+		"reqs": ["hypertus"],
+		"delete": ["HypertusSpeciesCompatibilityLayersR"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusSpeciesCompatibilityLayersR3-1.zip"
 	},
 	{

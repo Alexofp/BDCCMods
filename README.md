@@ -13,4 +13,9 @@ A repository to host mods and datapacks to be used in the in-game mod/datapack b
 
 # Contributing
 
-Fork this repository, make changes, submit pull request.
+You can submit mods/datapack via issues if you don't have access to discord or you could make a pull request.
+
+Fork this repository, make changes, submit pull request.  
+If you are submitting mods/datapack via pull request on to this repository, you must disclose if you are using AI/Large Langugage Model at any point of the development. You must add key value pair `"ai": true,` to your mod/datapack entry.
+
+Issues section also allows for filing for other stuff.
