@@ -2981,7 +2981,7 @@
 		"author": "Selinoccino, Rekkulani",
 		"modversion": "v0.9.5-forked",
 		"gameversion": "0.3.2",
-		"categories" ["Library"]
+		"categories": ["Library"]
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RodentUtils_v0.9.5-forked.zip"
 	}
 	]
