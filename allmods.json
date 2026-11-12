@@ -2829,11 +2829,12 @@
 	{
 		"id": "crafting_lib_reworked",
 		"name": "CraftingLibReworked",
-		"description": "This mod, like all my mods, is 100% ratwritten with care; no LLMs were consulted or used in the creation of this mod.\n\nA mod that adds a crafting system. Does nothing on its own.",
+		"description": "Requires RodentUtils.\n This mod, like all my mods, is 100% ratwritten with care; no LLMs were consulted or used in the creation of this mod.\n\nA mod that adds a crafting system. Does nothing on its own.",
 		"author": "Selinoccino",
 		"categories": ["Library"],
 		"modversion": "0.9",
 		"gameversion": "0.3.2",
+		"reqs": ["rodent_utils"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CraftingLibReworked.zip"
 	},
 	{
@@ -2869,7 +2870,7 @@
 	},
 	{
 		"name": "PlayerPortrait",
-		"description": "This mod, like all my mods, is 100% ratwritten with care; no LLMs were consulted or used in the creation of this mod.\n\nAllows you to add portraits for your player character, and overlays depending on pain, arousal and lust levels.\n\nFor instructions on how to use, see README.txt file inside the zip archive.\n\nCan be slightly configured further with RodentUtils.\n\nVersion 1.3.2:\n- Updated license\n- Other changes and improvements; maybe fixes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PlayerPortrait.png]Click for Preview[/url]",
+		"description": "This mod, like all my mods, is 100% ratwritten with care; no LLMs were consulted or used in the creation of this mod.\n\nAllows you to add portraits for your player character, and overlays depending on pain, arousal and lust levels.\n\nFor instructions on how to use, see README.txt file inside the zip archive.\n\nCan be configured with RodentUtils.\n\nVersion 1.3.2:\n- Updated license\n- Other changes and improvements; maybe fixes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PlayerPortrait.png]Click for Preview[/url]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PlayerPortrait.png",
 		"author": "Selinoccino",
 		"categories": ["UI", "Visuals"],
@@ -2939,17 +2940,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DyeFree.zip"
 	},
 	{
-		"id": "rodent_utils",
-		"name": "RodentUtils",
-		"description": "Updated November 10th 2026\n\nThis mod, like all my mods, is 100% ratwritten with care; no LLMs were consulted or used in the creation of this mod.\n\nAdds some common functionality for most (some) Rat mods. Includes some basic mobile support.\n\nVersion 0.9.5:\n- A big screw you to prompted mods\n\n[b]Warning[/b]: This mod disables itself it it detects any ai-generated mods in your list.",
-		"author": "Selinoccino",
-		"categories": ["Library"],
-		"modversion": "0.9.5",
-		"gameversion": "0.3.2",
-		"delete": ["RodentUtils_v"],
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RodentUtils_v0.9.5.zip"
-	},
-	{
 		"id": "winters_core_module",
 		"name": "Winters Core Module 2.0",
 		"description": "[i]DEPENDENCIES[/i]: RodentUtilities\n[i]COMPATIBILITY[/i]: Required for all Updated Winters Mods does nothing on its own.\n[i]CHANGELOG[/i]: Updated for new ExpandedPenis updates\n[i]DESCRIPTION[/i]: \nThis mod, like all my mods, is 100% written with care; no LLMs were consulted or used in the creation of this mod. \n\nThis contains resources my mods need to refer to to run. Using a dependency helps reduce duplicated code and reduce file size and numbers of code lines required in all my other mods.\n\n[i]NOTES[/i]: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.",
@@ -2973,6 +2963,17 @@
 		"categories": ["Bodyparts"],
 		"delete": ["WintersExpandedPenises"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersExpandedPenises1.4.zip"
+	},
+	{
+		"id": "rodent_utils",
+		"name": "RodentUtils",
+		"description": "Updated November 12th 2026\n\nThis mod is 100% ratwritten with care; no LLMs were consulted or used in the creation of this mod.\n\nAdds some common functionality for most (some) Rat mods. Includes some basic mobile support.\n\nVersion 0.9.6:\n- Modified \"malicious\" (harmless) code disabling the mod as an act of protest against a double standard, to instead show a polite popup once\n- Fixed options\n\nthis and all my other mods will only be updated if they break and i feel like fixing them from now on",
+		"author": "Selinoccino",
+		"categories": ["Library"],
+		"modversion": "0.9.6",
+		"gameversion": "0.3.2",
+		"delete": ["RodentUtils_v"],
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RodentUtils_v0.9.6.zip"
 	}
 	]
 }
