@@ -2941,7 +2941,7 @@
 	{
 		"id": "rodent_utils",
 		"name": "RodentUtils",
-		"description": "Updated November 10th 2026\n\nThis mod, like all my mods, is 100% ratwritten with care; no LLMs were consulted or used in the creation of this mod.\n\nAdds some common functionality for most (some) Rat mods. Includes some basic mobile support.\n\nVersion 0.9.5:\n- A big screw you to prompted mods",
+		"description": "Updated November 10th 2026\n\nThis mod, like all my mods, is 100% ratwritten with care; no LLMs were consulted or used in the creation of this mod.\n\nAdds some common functionality for most (some) Rat mods. Includes some basic mobile support.\n\nVersion 0.9.5:\n- A big screw you to prompted mods\n\n[b]Warning[/b]: This mod disables itself it it detects any ai-generated mods in your list.",
 		"author": "Selinoccino",
 		"categories": ["Library"],
 		"modversion": "0.9.5",
