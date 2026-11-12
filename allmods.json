@@ -2940,18 +2940,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DyeFree.zip"
 	},
 	{
-		"id": "winters_core_module",
-		"name": "Winters Core Module 2.0",
-		"description": "[i]DEPENDENCIES[/i]: RodentUtilities\n[i]COMPATIBILITY[/i]: Required for all Updated Winters Mods does nothing on its own.\n[i]CHANGELOG[/i]: Updated for new ExpandedPenis updates\n[i]DESCRIPTION[/i]: \nThis mod, like all my mods, is 100% written with care; no LLMs were consulted or used in the creation of this mod. \n\nThis contains resources my mods need to refer to to run. Using a dependency helps reduce duplicated code and reduce file size and numbers of code lines required in all my other mods.\n\n[i]NOTES[/i]: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.",
-		"author": "Avery Winters, Selinoccino",
-		"categories": ["Library"],
-		"modversion": "2.0",
-		"gameversion": "*",
-		"reqs": ["rodent_utils"],
-		"delete": ["WintersCoreModuleV"],
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersCoreModuleV2.0.zip"
-	},
-	{
 		"id": "winters_expanded_penises",
 		"name": "Winters Expanded Penises",
 		"description": "CREDIT: Selinoccino designed automatic compatibility patches for both BallsExtra & Hypertus in addition to the mod options. @Thermal Dragon designed the new sheath assets\nDEPENDENCIES: Winters Core Module &  Rodent Utilities\nDESCRIPTION: This mod, like all my mods, is 100% written with care; no LLMs were consulted or used in the creation of this mod.Expands the list of available penises in character select. Includes mod options for disabling penises to customise whats available.\nCOMPATIBILITY: BallsExtra, Hypertus\nThis mod replaces all my other penis mods and should not be ran alongside them.\nCHANGELOG: updated sheathes to a new design\nNOTES: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersExpandedPenises.png]Click for Preview[/url]",
@@ -2974,6 +2962,18 @@
 		"gameversion": "0.3.2",
 		"delete": ["RodentUtils_v"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RodentUtils_v0.9.6.zip"
+	},
+	{
+		"id": "winters_core_module",
+		"name": "Winters Core Module 2.1",
+		"description": "[i]DEPENDENCIES[/i]: RodentUtilities\n[i]COMPATIBILITY[/i]: Required for all Updated Winters Mods does nothing on its own.\n[i]CHANGELOG[/i]: Updated for new ExpandedPenis updates\n[i]DESCRIPTION[/i]: \nThis mod, like all my mods, is 100% written with care; no LLMs were consulted or used in the creation of this mod. \n\nThis contains resources my mods need to refer to to run. Using a dependency helps reduce duplicated code and reduce file size and numbers of code lines required in all my other mods.\n\n[i]NOTES[/i]: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.",
+		"author": "Avery Winters, Selinoccino",
+		"categories": ["Library"],
+		"modversion": "2.1",
+		"gameversion": "*",
+		"reqs": ["rodent_utils"],
+		"delete": ["WintersCoreModuleV"],
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersCoreModuleV2.1.zip"
 	}
 	]
 }
