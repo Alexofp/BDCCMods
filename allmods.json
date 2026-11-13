@@ -2974,6 +2974,27 @@
 		"reqs": ["rodent_utils"],
 		"delete": ["WintersCoreModuleV"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersCoreModuleV2.1.zip"
+	},
+	{
+		"name": "BetterEditorControls",
+		"description": "DESCRIPTION: Lets you pan and zoom in the datapack character creator screen. (Finally!)\n(Credit to Mindstormsman for the file handling code.)\n\nThis was slapped together by adding the code from the player viewport into that of the editor's viewport with some minor changes to get it all working.\n(Also, for reasons unknown to me, when running in the editor it results in line 334 of Doll3D.gd to trigger an error saying that the function get_scale() is not defined?)\n\nNote: No AI was used in the creation of this mod.\nChangelog:\nV0.1 - Initial slapdashed release.\nV0.0 - Development soup\n\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BetterEditorControls.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BetterEditorControls.png",
+		"author": "Astro",
+		"categories": ["UI"],
+		"modversion": "0.1",
+		"gameversion": "0.3.2",
+		"delete": ["BetterEditorControls_V"],
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BetterEditorControls_V0.1.zip"
+	},
+	{
+		"name": "Watersports Kink Gojisan's Fix",
+		"description": "DESCRIPTION: This is my fix for Frivolous's Watersports mod. Previously you could not pee while receiving oral with a vagina. Now you can. This fix is completely AI free. It took me two hours to figure out what was wrong.\nCHANGELOG: I added one line of code to WsUtil, and then made Activity_PeeOn_Tribadism match the change.",
+		"author": "Frivolous, Gojisan",
+		"categories": ["Gameplay"],
+		"modversion": "0.1",
+		"gameversion": "0.3.2",
+		"delete": ["WatersportsKink"],
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WatersportsKinkGojisanfix.zip"
 	}
 	]
 }
