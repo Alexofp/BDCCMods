@@ -1463,6 +1463,7 @@
 		"description": "Makes any static girl NPC with a cock larger. By default they are scaled to 150% size but if you have FoxLib, you can change the scaling in Mod Options.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FrivolousBiggerGirlCocks.png]Click for Preview[/url]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FrivolousBiggerGirlCocks.png",
 		"author": "Frivolous",
+		"categories": ["QoL"],
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FrivolousBiggerGirlCocks.zip"
@@ -1472,8 +1473,10 @@
 		"description": "CREDIT: Original by Anon, Bodywriting by Lucci\nDESCRIPTION: Packaged the Shark Species and the seahorse species under one mod since they share a body to minimise duplicating parts unnessecarily.\nCOMPATABILITY: Hypertus, WintersTaperedPenises\nCHANGELOG: Fixed an incorrect ID in the Tapered Penises compat files\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsAquaticSpecies.png]Click for Preview[/url]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsAquaticSpecies.png",
 		"author": "Anon, Avery Winters",
+		"categories": ["Species"],
 		"modversion": "1.5",
 		"gameversion": "*",
+		"delete": ["AnonsAquaticSpeciesV"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnonsAquaticSpeciesV1.5.zip"
 	},
 	{
@@ -1481,6 +1484,7 @@
 		"description": "Adds anthropomorphic slugcats from Rain World, with some extra customization for more slugcat representation.\nChangelog: minor fix to the tails (would detach from the body in certain sex poses)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PurplesScugs.png]Click for Preview[/url]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/PurplesScugs.png",
 		"author": "Purplexion",
+		"categories": ["Species"],
 		"modversion": "0.04",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PurplesScugs0.04.zip"
@@ -1489,6 +1493,7 @@
 		"name": "Keyholders Galore",
 		"description": "Keyholders Galore is a small tweak mod that makes SlutLocks function the same way as the standard keyholder lock.\n\nRight now, TightLocks are still using their original, item-based behavior. Changing them cleanly to a keyholder-style system is a bit above this mod’s current scope, but anyone who knows how to do it is very welcome to tinker with the files or send instructions so it can be integrated in a future update.\n\nSpecial thanks to Kaio (creator of KeysMod) for allowing the use of their mod as a base template for this project!\n\nCurrent Features\n- SlutLocks now behave like keyholder locks (single NPC keyholder logic).\n- SlutLock is renamed to Submission Lock.\n\nPlanned Features\n- Rework TightLocks to use keyholder style functionality instead of purely item-based unlocking.\n- Add options for players to adjust the chance of specific smart locks appearing, instead of the current forced keyholder lock behavior.\n- Deeper integration and compatibility improvements with KeysMod.\n- Allow for the option to have multiple keyholders for one keyholder lock (ex: Require keys from 3 NPCs to unlock a keyholder lock)",
 		"author": "Cheeseball",
+		"categories": ["Gameplay"],
 		"modversion": "0.1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/KeyholdersGalore.zip"
@@ -1498,14 +1503,17 @@
 		"description": "Adds more stuff for character creation. If you notice any issues just yell at me ^^\nNew:\n- 7 new hairstyles\n- 2 new dragon heads, horns and ears\n- 1 new canine head and ear\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrCharacterParts.png]Click for Preview[/url]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrCharacterParts.png",
 		"author": "Sugerør",
+		"categories": ["Bodyparts"],
 		"modversion": "1.3",
 		"gameversion": "*",
+		"delete": ["SugerrCharacterPartsV"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SugerrCharacterPartsV1.3.zip"
 	},
 	{
 		"name": "Frivolous's Fluid Refill Pills",
 		"description": "Adds pills to the Medical vendomat that refill breasts and balls to their maximum capacity. They cost 10 credits each.",
 		"author": "Frivolous",
+		"categories": ["Items"],
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FrivolousFluidRefillPills.zip"
@@ -1514,6 +1522,7 @@
 		"name": "DroneSuit/PowerLoom Mod Test",
 		"description": "After Mari released a powerful in-game outfit creator (props to you dude), I wanted to test the waters.\nSo here, the first, and rudimentary, mod created with PowerLoom, a basic dronesuit!\n\nIs found in the medical vendomat, and can be bought for 1000 credits.",
 		"author": "JokeMysterious",
+		"categories": ["Items"],
 		"modversion": "0.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DroneSuitTest.zip"
@@ -1535,6 +1544,7 @@
 		"author": "CanInBad",
 		"modversion": "R3-1",
 		"gameversion": "*",
+		"categories": ["Library"],
 		"reqs": ["hypertus"],
 		"delete": ["HypertusSpeciesCompatibilityLayersR"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HypertusSpeciesCompatibilityLayersR3-1.zip"
@@ -1543,6 +1553,7 @@
 		"name": "DatapackCharacterToPlayer",
 		"description": "Allows you to use characters from datapacks as the player character on a new save\n\nv2.0:\n- Moved all functionality into a module. Conflicts with updates to the character creator are far less likely moving forward.\n- Personality and fetish previews now display as text descriptions, instead of their raw numerical values\n- FIXED: A refactor to the fetish system published in 0.1.10 caused issues with importing newer datapack characters in newer versions. The mod should now work across now all versions up to 0.1.12",
 		"author": "MOONHALO",
+		"categories": ["Tool"],
 		"modversion": "2.0",
 		"gameversion": "0.2.1",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DatapackCharacterToPlayer.zip"
@@ -1551,6 +1562,7 @@
 		"name": "StruggleLust",
 		"description": "Currently, there's old code in the struggling scene that would prevent struggling at max lust. This mod simply enables it. When at max lust, all struggle options will be grayed out and the option to masturbate appears.",
 		"author": "bringlebangul",
+		"categories": ["Gameplay"],
 		"modversion": "0.1",
 		"gameversion": "0.1.12",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/StruggleLust.zip"
@@ -1559,6 +1571,7 @@
 		"name": "Uniforms+ | Surgeon Scrubs",
 		"description": "Some nurses need more proper gear...\nUniforms+ is a (hopeful) series of upgraded/special uniforms of the faculty of the BDCC. To start, a set of green surgeon scrubs, gloves, feet covers, and an apron.\n\nBecause of how PowerLoom works, I'm afraid to add new import images with the chance I'll lose my previous work. So enjoy this for now, it will be used in some projects.",
 		"author": "JokeMysterious",
+		"categories": ["Items"],
 		"modversion": "0.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SurgeonScrubs.zip"
@@ -1567,8 +1580,10 @@
 		"name": "Cum On Self",
 		"description": "Allows the player to cum on themselves during masturbation and in combat (though if in combat will lose the encounter), should only be available if the player has either a penis or vagina and is either in the cell or in public with 3+ exhibitionism (only tested with both parts and higher exhibitionism) \n\nUPDATE 1.1: fixed an edge case where if player has a total of more than 100% instant cum generation, can cause the player to pretend to have 0% instant cum generation instead.\nNOTE: can happen with the vanilla Cum option.",
 		"author": "Material Defender",
+		"categories": ["Gameplay"],
 		"modversion": "1.1",
 		"gameversion": "*",
+		"delete": ["CumOnSelf"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CumOnSelf1.1.zip"
 	},
 	{
@@ -1576,6 +1591,7 @@
 		"description": "Have you ever thought 'God, BDCC is too nice. I wish it had annoying pop up ads'? Well, fear not. Now you can experience that. No sugarcoating it: This mod adds popup ads. There is a scene when you exit your cell that provides some lore and then that's it. Every 12 in-game minutes you will get ads.\n\nThe ads are downloaded from e621 and displayed. The list is curated, so you don't need to worry about being jumpscared by anything gross. If e621 is blocked for whatever reason where you live then I'm sorry. The dream of pop-up ads will remain just that, a dream. \n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FrivolousPopupAds.mp4]Click for Video Preview[/url]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FrivolousPopupAds.mp4",
 		"author": "Frivolous",
+		"categories": ["Meme"],
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FrivolousPopupAds.zip"
@@ -1584,31 +1600,26 @@
 		"name": "PrisonArtsMod",
 		"description": "Adds a new skill that allows combat of previously only npc used attacks. To level up this skill at first use the new Tail Attack.\n\nChangelog 0.2\n+ added 3 new skills\n+ added new \"attack\"\n+ added new icons for all the skills\n+ reworked Tail Swipe attack",
 		"author": "JacyDotEXE",
+		"categories": ["Gameplay"],
 		"modversion": "0.2",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PrisonArtsMod.zip"
 	},
 	{
-		"name": "Songs Hair Pack",
-		"description": "※ Description \nadds 42 hair styles\n\n※ Update (ver1.8)\n3 new hair styles (Credits to Starborker and Tenten)\nReworked some existing hairstyles that I previously drew with a mouse\nOverall polish\n\n+ Feel free to share your thoughts about the mod\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongshairPack.png]Click for Preview[/url]",
-		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongshairPack.png",
-		"author": "SongJo",
-		"modversion": "1.8",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongshairPack_v1.8.zip"
-	},
-	{
 		"name": "Moo Pills",
 		"description": "Adds a pill that relieves sore breasts, and improve lactation\n\npill can be bought at the medical vendomat, or cheated in the Medical category in the debug menu\n\nUPDATE 1.1:\nfixed a case where lactation doesn't start when getting the \"Permanent Lactation\" perk (either via pill or by picking it as a starting perk)\nmade the Permanent Lactation perk a starting perk cause inherent perks somehow blank the Buffs tab in skills.",
 		"author": "Material Defender",
+		"categories": ["Items"],
 		"modversion": "1.1",
 		"gameversion": "*",
+		"delete": ["MooPills"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MooPills1.1.zip"
 	},
 	{
 		"name": "Cum In Self",
 		"description": "Allows the player to cum inside their own pussy, anus, or mouth when masturbating",
 		"author": "Material Defender",
+		"categories": ["Gameplay"],
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/CumInSelf1.0.zip"
@@ -1617,6 +1628,7 @@
 		"name": "Anal Beads",
 		"description": "Adds anal beads. Just a simple sex toy. You can find it in the general vendomat. Now can be used by NPCs, no visuals yet\n\nUpdate: Now can actually be used by npcs (previously required you to have anal beads already inserted)",
 		"author": "AlexLover",
+		"categories": ["Items"],
 		"modversion": "0.2.2",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AnalBeads.zip"
@@ -1626,6 +1638,7 @@
 		"description": "Adds 6 New Tails and 14 (not including base skin) additional skin patterns for them. \n\n2 Feline Tails: \nSnow Leopard Tail and Fluffy Leopard Tail\n\n2 Canine Tails: \nFeral Wolf Tail and Puffy Wolf Tail\n\n2 Mouth Tails\n\nIf they don't work ping me, I did not test it with any other mods.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoldyTBigTails.png]Click for Preview[/url]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/MoldyTBigTails.png",
 		"author": "MoldyT",
+		"categories": ["Bodyparts"],
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoldyTBigTails.zip"
@@ -1634,8 +1647,10 @@
 		"name": "Stamina Pills",
 		"description": "Adds a pill that increases Stamina by 100, when used in combat will apply only to the opponent. Can also be used in sex.\nCan be bought at the Medical Vendomat.",
 		"author": "Material Defender",
+		"categories": ["Items"],
 		"modversion": "1.0",
 		"gameversion": "*",
+		"delete": ["StaminaPills"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/StaminaPills1.0.zip"
 	},
 	{
@@ -1643,8 +1658,10 @@
 		"description": "Adds a new BDSM restrain type of chastity belts with a permanent variant as well. They come in every combination of covering penis/vagina/anus. Sold by the Announcer and Mirri.\n\nChangelog: \n• Small update: for variants not blocking the penis - they are now auto adjusting themselves to provide \"cut-out\" for a penis, if a character has one.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ChastityBeltsMod.png]Click for Preview[/url]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ChastityBeltsMod.png",
 		"author": "Noro",
+		"categories": ["Restraints"],
 		"modversion": "1.2",
 		"gameversion": "*",
+		"delete": ["ChastityBeltsMod_v"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ChastityBeltsMod_v1.2.zip"
 	},
 	{
@@ -1652,6 +1669,7 @@
 		"description": "Changes it so that when subs are counting while being spanked, they are spanked twice at 6 so that they must say '6 7' instead of just 6 and then 7.\n\nI will not apologize for art.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/67Spanking.png]Click for Preview[/url]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/67Spanking.png",
 		"author": "Frivolous",
+		"categories": ["Meme"],
 		"modversion": "1.0.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/67Spanking.zip"
@@ -1661,6 +1679,7 @@
 		"description": "Your character will now have a random inmate number upon entering BDCC. Excludes canonically taken numbers by default. Works on existing games as well (hopefully), and causes no permanent damage to your savefile. Configurable with FoxLib, which isn't required.\n\n\ni made it so other mods can add their own characters' inmate numbers to the canon exclusion list, there's a text file with an example included in the mod\ni'm not sure i got all the canon numbers, so please tell me if i missed any (i only included rahi's)\ni made this just to cleanse the evil done by the... other mod\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/RandomInmateNumber.png]Click for Preview[/url]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/RandomInmateNumber.png",
 		"author": "Selinoccino",
+		"categories": ["Gameplay"],
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RandomInmateNumber.zip"
@@ -1670,6 +1689,7 @@
 		"description": "Added different buffs to some playable bace and modded races, while also changing up the original mod by Humoi.\n\nCurrent Vanilla and modded races that are moddified by the mod:\n--Vanilla--\nHuman\nDragon\nDemon\nCanine\nFeline\nEquine\n\n--Modded--\nBovine\nDeer\nLopunny\nRabbit\nShark\nHoundoom\nLycanrocs - Midday, Midnight, Dusk\nSquirrel\nProtogen\nCrow\nLucario\nSkullwolf\nGardevoir\nAll of Scalie Expansion\nSeahorse\nEevee\nFlareon\nJolteon\nVaporeon\nEspeon\nUmbreon\nLeafeon\nGlaceon\nSylveon\nOrc\nBear\nCrocodile\nZordian\nCharizard\nRaichu\nNido\nMew\n\nAdded this update: Sylvanos's Zordian Species compatibility (On request) and compatibility with APPV1 Pokémon races!\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/RaceBonusModPlus.png]Click for Preview[/url]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/RaceBonusModPlus.png",
 		"author": "Person on the Internet (Chaos)",
+		"categories": ["Gameplay"],
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RaceBonusModPlus.zip"
@@ -1679,8 +1699,10 @@
 		"description": "※ Description \nAdds 4 new species (Bee, Moth, Beetle, Spider)\nCompatible with Hypertus mod\n\n※(1.0)\nThe neck fluff is moved from body to ear so it can be colored (Credits to Avery Winters)\nFor characters with neck fluff from the previous version, you need to edit the character and reapply the part to color it.\n\n[i]+ Feel free to share your thoughts about the mod[/i]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsInsectSpecies.png]Click for Preview[/url]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsInsectSpecies.png",
 		"author": "SongJo",
+		"categories": ["Species"],
 		"modversion": "1.0",
 		"gameversion": "*",
+		"delete": ["SongsInsectSpecies_v"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsInsectSpecies_v1.0.zip"
 	},
 	{
@@ -1688,14 +1710,17 @@
 		"description": "Adds Orcs to the game. If you have any suggestions or notice any issues, just yell at me ^^\nNew: Separated orcs from my species pack\nPlanned: Redraw some of the orc heads, I might also add drows or something\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrHumanoidSpecies.png]Click for Preview[/url]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrHumanoidSpecies.png",
 		"author": "Sugerør",
+		"categories": ["Species"],
 		"modversion": "1.1",
 		"gameversion": "*",
+		"delete": ["SugerrHumanoidSpeciesV"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SugerrHumanoidSpeciesV1.1.zip"
 	},
 	{
 		"name": "Uncageable",
 		"description": "Prevents any items tagged BDSMRestraint from being equipped to the player's dick (by yourself or NPCs). Usually refers to chastity cages but also applies to some modded items. Visually breaks some chastity enforced scenes.\n\nSince certain NPCs can get spammy equipping these, the chastity items are not recovered.\nThe intent was to make this compatible with any mods (e.g. MoreBDSMstuff, Goo Bondage) present today and in the future, so equip-success messages may still play during scenes or may show 'Error: No item found'.\nSome story related chastity items (PortalPanties) are intentionally not affected so that it doesn't soft-lock those story arcs.\n\n1.1: Fix for some mods that only specify the ChastityCage item tag and a generic inventory slot\n1.0: Update for 0.1.12fix4\nReport issues to [url=https://github.com/ethengart/EGBDCCMods]https://github.com/ethengart/EGBDCCMods[/url]",
 		"author": "EthenGart",
+		"categories": ["Gameplay"],
 		"modversion": "1.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Uncageable.zip"
@@ -1705,14 +1730,17 @@
 		"description": "※ Description \nAdds mustelid species\n2 head (weasel, ferret), 2 tails, 2 ears, 1 horn (for the eye mask) parts\n\n[i]+ Feel free to share your thoughts about the mod[/i]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsMustelidSpecies.png]Click for Preview[/url]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SongsMustelidSpecies.png",
 		"author": "SongJo",
+		"categories": ["Species"],
 		"modversion": "0.9",
 		"gameversion": "*",
+		"delete": ["SongsMustelidSpecies_v"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsMustelidSpecies_v0.9.zip"
 	},
 	{
 		"name": "KeysMod",
 		"description": "Removes the ability to use restraint keys on smartlocked restraints. Now the only way to rid yourself of smartlocks is to do what they tell you to.\nthis MIGHT cause some restraints to not be able to be removed at all if the smartlock tells you to do something with a blocked body part\n\nChangelog 1.1:\nFixed a minor (major) bug that made it impossible to have sex\n\n(please tell me if it breaks again)",
 		"author": "Kaio",
+		"categories": ["Gameplay"],
 		"modversion": "1.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/KeysMod.zip"
@@ -1721,6 +1749,7 @@
 		"name": "Kait's Team Escape Route (JOKE MOD)",
 		"description": "At long last, Kait's Team Escape route has finally been started! Content that has been left unfinished since August 2022 is now slightly less unfinished! Whereas it took a year and a half for Tavi's route to be completed, it took a handful of spare afternoons to cobble this entire prologue together! Features minutes worth of all-new gameplay, including dialogue, a romance proposal, a concept of an escape plan, and some mild groping. Rated AO for Awesome Otters. To start this content, locate the Underground Fight Club and fight Kait.\n\n(EDIT 4/2/2026: If it isn't obvious, this is an April Fools mod. However, it does have new content stemming from Kait's unfinished Team Escape route. Just a very tiny bit.) ",
 		"author": "MOONHALO",
+		"categories": ["Meme", "Content"],
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/KaitTeamEscapeMod.zip"
@@ -1730,14 +1759,17 @@
 		"description": "Added 4 types of cocks for all species to use, all of them are knotted with barbs and ridges features (with exception for type 2). More options to pick for your scalie (or any) needs. If there's something of concern or suggestions with this small pack, hit me up qq\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AdditionalDragonPenisPack.png]Click for Preview[/url]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AdditionalDragonPenisPack.png",
 		"author": "Gecked",
+		"categories": ["Bodyparts"],
 		"modversion": "1.0",
 		"gameversion": "*",
+		"delete": ["AdditionalDragonPenisPack"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/AdditionalDragonPenisPack1.zip"
 	},
 	{
 		"name": "Fluidex",
 		"description": "Adds a new TF pill that lets you change what fluids are produced by different parts of the body.\n\n1.3\nReplaced hardcoding of fluid options with a more flexible system, now should be able to support any modded fluids by default.\n1.2\nChanged \"Ivy nectar\" to \"IvyNectar\" to hopefully correct data errors and added water as a fluid option. \n1.1\nUnintentional bugged item now removed.\n1.0 \nInitial release.\n\n(Feel free to go wild with adding new fluid types to the game! Fluidex should hopefully now be able to have them as options!)",
 		"author": "Thermal Dragon",
+		"categories": ["Items"],
 		"modversion": "1.3",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Fluidex.zip"
@@ -1746,8 +1778,10 @@
 		"name": "QuickStart",
 		"description": "Skip the introductory scenes and go straight to the cellblock after character creation.\n\nAs a bonus, you're given the option to set your encounter preferences before the first batch of NPC pawns generate. No need to prune unwanted character types from your list after the fact!\n\nTested on BDCC 0.1.8, down to 0.1.1. Compatibility on other versions is not guaranteed.\n\nFYI: You miss out on 20-50 XP you can earn by fighting Risha in the opening. This mod assumes you chose not to fight her during intake; if you were trying to start the game as quickly as possible, you probably would have done that anyway.",
 		"author": "MOONHALO",
+		"categories": ["QoL"],
 		"modversion": "2.0",
 		"gameversion": "*",
+		"delete": ["QuickStartV"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/QuickStartV2.zip"
 	},
 	{
@@ -1755,8 +1789,11 @@
 		"description": "[b](! Requires FoxLib,  Requires Chastity Cage Flat Remix, Requires Chastity Belts Mod 1.2 !)[/b]\n\nMakes random NPCs spawn with permanent or non-permanent chastity cages and/or belts. It's customizable: you are able to change rules for inmates, guards, engineers, nurses, as well as for specific gender. You can also choose a chance of spawning a flat/belt/permanent chastity variants. Currently doesn't affect any static NPCs. You can also pick to be put in chastity belts (as well as chastity cages) during game's intro scenes. Additionally, adds chastity police mechanic - staff can now stop player or NPC inmates who got rid of their mandated cages, and who is a good inmate! Mod options (see pic) are available thanks to FoxLib (go to the [Mods Options] in the main menu).\n\nChangelog: \n• Fixed inspection scene not working in latest mod version due to 2 unused variables.\n• Finally added random inspection scene! Although one part of it is still WIP.\n• During the inspection scenes player will not be put into different type of belt, if they were assigned one.\n• Added an 1.5h global cooldown for chastity inspections from player being inspected and 20 min one if NPC was inspected.\n• The default inmate chastity chance is now 50% instead of 90%\n• Improvements had been made to text in scenes and in options.\n• Code improvements.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ChastityForEveryone.png]Click for Preview[/url]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ChastityForEveryone.png",
 		"author": "Noro",
+		"categories": ["Gameplay"],
 		"modversion": "2.31",
 		"gameversion": "*",
+		"reqs": ["foxlib", "Chastity Belts Mod", "Non-permanent, Flat Chastity Cage"],
+		"delete": ["ChastityForEveryone_v"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ChastityForEveryone_v2.31.zip"
 	},
 	{
@@ -1764,6 +1801,7 @@
 		"description": "Adds a 1/1000 chance to trigger the FNAF 2 Foxy jumpscare whenever time passes, complete with audio. Configurable with FoxLib, but it isn't required.\n\nNothing new, just making sure it's working in the new update.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FnafJumpscare.png]Click for Preview[/url]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FnafJumpscare.png",
 		"author": "Frivolous",
+		"categories": ["Meme"],
 		"modversion": "1.0.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FnafJumpscare.zip"
@@ -1773,6 +1811,7 @@
 		"description": "Adds some watersports content. Includes a skill, a full set of perks, the ability to piss during combat and sex, and a few scenes. None of the added content involves pre-existing characters at this time.\n\nChanges in v0.3.1:\nSwapped to using new built-in piss stuff\nFixed the softlock when trying to be a meat toilet\nFixed extra \"Pee\" button when you're in a cell that could be yours but isn't\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WatersportsKink.png]Click for Preview[/url]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WatersportsKink.png",
 		"author": "Frivolous",
+		"categories": ["Content", "Gameplay"],
 		"modversion": "0.3.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WatersportsKink.zip"
@@ -1782,8 +1821,10 @@
 		"description": "A mod that currently adds a stylized cat-head chastity cage, more cages will be available in the future. \nIf you have any particular chastity models that you would like to see in the game let me know.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/OrnateChastity.png]Click for Preview[/url]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/OrnateChastity.png",
 		"author": "Noro",
+		"categories": ["Restraints"],
 		"modversion": "1.0",
 		"gameversion": "*",
+		"delete": ["OrnateChastity_v"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/OrnateChastity_v1.0.zip"
 	},
 	{
@@ -1791,6 +1832,7 @@
 		"description": "Remove the dicks of all Static dickgirls\nWhat's New: Finished up making sure they won't produce cum and adjusted the animation, if an animation still looks weird it's because I couldn't find an appropriate animation, if you wish to suggest a better animation, made a better animation, or rewrote the scene to work with an existing animation ping me\n\nWhat's New: fixed some typos in the Risha Gym and Humiliate Nova scenes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NoFuta.png]Click for Preview[/url]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/NoFuta.png",
 		"author": "Foreman",
+		"categories": ["Content"],
 		"modversion": "1.0.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NoFutaFullPackage.zip"
@@ -1799,6 +1841,7 @@
 		"name": "GreenThumb_alpha",
 		"description": "A proof-of-concept for adding a gardening system to the greenhouse.\nTHIS IS UNFINISHED\nSend feedback or suggestions in the discord!\nWhen something breaks, check mod options to enable debug mode.\n\nFeatures:\n-- Gardening! As an alternative to mining, harvesting gives many credits at once, but you have to wait for them to grow.\n--Totally unbalanced! I just made up some numbers. Please give feedback.\n-- A character!\n-- Several crops!\n-- One sidequest!\n-- One sex scene! Grow some cucumbers!\n-- Crop effect! When you grow stuff, some of it gets sent to the canteen and eating gives extra bonuses.\n--lots of debug stuff\n-- naked apron\n\nChangelog:\n-- Trigger for quest is now staff reputation level 3 (used to just check if non-zero, oops)\n\nPlanned:\nfix bugs (you can ping me if you find one)\nprobably gonna adjust many things based on feedback",
 		"author": "bringlebangul",
+		"categories": ["Gameplay", "Content"],
 		"modversion": "0.31",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GreenThumb_alpha.zip"
@@ -1807,22 +1850,27 @@
 		"name": "Bully Breeding",
 		"description": "Ever just wanted to teach the gym bullies a lesson via sex? Well now you can, just go to the weight station and when the gang tries to make you pay and inevitably lose, you'll have time to snag any one of the three bullies. Now you can have your way with three smoking hot douchebags. Remember to get the girl pregnant and have the boys get you pregnant, they'll absolutely love that\nWhat's New: should now be compatible with mods that changes the bully gang scene, Also now the bullies have personalities, likes and dislikes",
 		"author": "Foreman",
+		"categories": ["Content"],
 		"modversion": "1.1",
 		"gameversion": "*",
+		"delete": ["BullyBreeding"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BullyBreeding1.1.zip"
 	},
 	{
 		"name": "Sugerør's Starting Perks",
 		"description": "Adds 8 starting perks to the game, some of them make stuff harder and the rest makes certain things easier.",
 		"author": "Sugerør",
+		"categories": ["Gameplay"],
 		"modversion": "1.0",
 		"gameversion": "*",
+		"delete": ["SugerrStartingPerksV"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SugerrStartingPerksV1.0.zip"
 	},
 	{
 		"name": "Hanging Ropes Restraint",
 		"description": "Adds 1 new BDSM Restraint that forces you to be hung in ropes where the stocks are (acts like stocks, its suspension bondage) \nFeatures: \nNpcs forcing restraints onto you\nNpcs forcing sex (or not) onto you\nObtainment: unobtainable by player, forced in sex\nFuture plans: not sure yet, give me recomendations\nSUPPORTS MORE BONDAGE AND GOO BONDAGE\n\nMod ver: 1.1\nsmall update: added \"Try rope bondage\" to the location where stocks are\nAnother small update: changed the acutal sex inside it to not be \"tease\" and to be \"sex instead\"",
 		"author": "stinkyfentman",
+		"categories": ["Restraints"],
 		"modversion": "1.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HangingRopesRestraint.zip"
@@ -1831,6 +1879,7 @@
 		"name": "More Cow Clothes",
 		"description": "Ever thought the vanilla cow underwear was too little? \nWell, I added a bit more!\nThis mod includes the following:\n\nCow-Print Stockings for the arms and legs\nAn alternative to the arm stockings that act as bondage mittens. They look like cow hooves!\nA cowbell collar! (Please note, using this collar is non-permanent unless you use the datapack engine, or you can use the scripting tool to manipulate :3)\nNEW! A chastity device shaped like a cow udder! Covers both the penis and vagina while taking up the \"unique\" inventory spot.\n\nAll assets are drawn be me, fully tested. Enjoy!",
 		"author": "WolfStarArt",
+		"categories": ["Items"],
 		"modversion": "2.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MoreCowClothes.zip"
@@ -1841,6 +1890,7 @@
 		"author": "stinkyfentman",
 		"modversion": "1",
 		"gameversion": "*",
+		"categories": ["Restraints"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WoodenHorseRestraint.zip"
 	},
 	{
@@ -1848,6 +1898,7 @@
 		"description": "Adds 9 cosmetic items and 2 bodyparts, all based on Pulchra Fellini from ZZZ.\n\nThese include:\nBoots, Choker, 2 Crop tops (dyeable), Jacket, Mask, Leg pouches, Shorts, Gloves, Fellini hair and Fellini tail\n\nAll cosmetic items can be bought from the vendomat, bought from the announcer or dropped by Pulchra NPC (datapack not included with this mod)\n\nUpdate 1.1:\n-Added a couple of scripts and items that enable the quests from Pulchra Fellini datapack to function.\n\nUpdate 1.2:\n-Fixed the Error! button showing up in the yard\n-Added more scripts to allow the datapack to function properly\n-Added the ability to wear the choker\n-Added Fellini gloves\n-Improved Fellini Jacket \n\nUpdate 1.3\n[Debugging and options update]\n\n-Improved Debug menu\n-Debug menu now available without finishing prologue\n-Added global mod options that synchronize across saves (Access them by talking to Pulchra in the yard)\n-Added Fellini Tail species options (Feline by default)\n-Added Fellini Hair options for NPC spawns (disabled by default)\n\nUpdate 1.3.1\n-Fellini Mask now only appears when the character's mouth is closed\n(You can now suck dick without it being unrealistic :p)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FelliniMod.png]Click for Preview[/url]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FelliniMod.png",
 		"author": "Mari",
+		"categories": ["Items", "Bodyparts"],
 		"modversion": "1.3.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FelliniMod.zip"
@@ -1856,6 +1907,7 @@
 		"name": "Focus Pill",
 		"description": "Adds pills that allow you adjust sensitivity of body by shifting from other parts.\nP.S. : Feel free to ping me if you have ideas on how to make this mod better.",
 		"author": "Broslan",
+		"categories": ["Items"],
 		"modversion": "0.2",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FocusPill.zip"
@@ -1876,6 +1928,7 @@
 		"description": "[WARNING: Watersports content]\n\nAdds being locked into the urinals as a punishment. Works similarly to the stocks; you can lock up NPC's, and they can lock up you, or each other. Visiting NPC's can either help free you, or use you as a meat toilet and relieve themselves...\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/Urinal_Punishment.png]Click for Preview[/url]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/Urinal_Punishment.png",
 		"author": "driftcatch",
+		"categories": ["Content"],
 		"modversion": "0.2",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Urinal_Punishment.zip"
@@ -1887,6 +1940,9 @@
 		"author": "Mindstormsman",
 		"modversion": "1.3",
 		"gameversion": "*",
+		"categories": ["Gameplay", "UI"],
+		"reqs": ["foxlib"],
+		"delete": ["NpcGenSettings_"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NpcGenSettings_1-3.zip"
 	},
 	{
@@ -1896,6 +1952,7 @@
 		"author": "concussion",
 		"modversion": "0.5b",
 		"gameversion": "*",
+		"categories": ["Restraints"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PuppyRestraintsMod.zip"
 	},
 	{
@@ -1905,6 +1962,7 @@
 		"author": "Sugerør",
 		"modversion": "1.0",
 		"gameversion": "*",
+		"categories": ["Species"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SugerrXenomorphSpecies.zip"
 	},
 	{
@@ -1914,6 +1972,7 @@
 		"author": "Sugerør",
 		"modversion": "1.0",
 		"gameversion": "*",
+		"categories": ["Species"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SugerrScolipedeSpecies.zip"
 	},
 	{
@@ -1923,6 +1982,7 @@
 		"author": "Doggo :3",
 		"modversion": "0.1",
 		"gameversion": "*",
+		"categories": ["Content"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ImpaleDeviceModule.zip"
 	},
 	{
