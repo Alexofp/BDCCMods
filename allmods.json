@@ -2064,15 +2064,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Che_susAgeSystemVer1.3.zip"
 	},
 	{
-		"name": "SleppaStartingPerks",
-		"description": "Credits: Lots of help from Selinoccino, MOONHALO and Noro\n\nAdds 6 starting perks. Initially these were meant to make the game harder, and most do, but a couple have more positive effects.\n\nResistant to breeding: As long as you mother no children, you will be given a decrease to fertility. After giving birth, you will instead lose 5 health and stamina for each child you've had. \n\nRegressed mammaries: -100% milk production. If you want to contribute milk to the lab, you will rely on buffs to your production or other inmates.\n\nStimulating hormones: Being penetrated in a hole with a womb by an unprotected penis will cause the one penetrating you to receive a massive boost to their cum production. When this buff wears off, their balls will be Exhausted, producing less cum and costing 20 max stamina.\n\nPitiful: -70 health, -70 stamina and -50 lust. You also gain one less health from each level of vitality, and one less stamina from each level of agility.\n\nResilient holes: The intent of this perk is to make your holes resist stretching so being stretched painfully will be a more common risk, but I'm unsure if that's actually how this one will play out. Should keep you tighter either way.\n\nPainful Shame: Being fully naked will add 90 ambient pain.",
-		"author": "Sleppa",
-		"categories": ["Gameplay"],
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SleppaStartingPerks.zip"
-	},
-	{
 		"name": "Taokaka",
 		"description": "Credits: amazing well done help from averywinters.\nDescription: Brings in taokaka as a species to your game for fun and lewdness for your enjoyment hehe\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/OrbsTaokakaSpecies.png]Click for Preview[/url]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/OrbsTaokakaSpecies.png",
@@ -3068,6 +3059,15 @@
 		"modversion": "1.7.5",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BrutalDreamsCorrectionalCenter.zip"
+	},
+	{
+		"name": "SleppaStartingPerks",
+		"description": "Made with help from Selinoccino, MOONHALO, Noro, Mindstormsman and bringlebangul\n\nNo llms were used in making this mod\n\nAdds 10 starting perks to the game.\n\nThis update adds:\n\n[b]Hypersensitive[/b]\nOverstimulation Threshold decreased by 50\nSensitivity gain increased by 500\n\n[b]Satisfying to Dominate[/b]\nAdds a status effect called dominance to an enemy under certain conditions. Dominance can continually stack, resulting in certain pawns becoming major threats.\nHaving a womb filled with a sufficient amount of cum at once, being knocked out in sex, or defeated in battle will all result in your opponent receiving a higher level of dominance, an increase in their level, and potentially a handful of perks.\n\nDominance can be decreased or removed by defeating a pawn with dominance in battle. This wont decrease their gained level/s or remove any perks though\n\nDominance gives a LOT of buffs, which increase with each stack. \nAt 5 stacks, it also gives the \"Aura of Dominance\" status effect in battle\nIt also makes it so that, when a dominant pawn reaches a threshold of anger during sex, they are given the \"Extremely Angry\" status effect\n(Anger threshold = 100 - 5 x stacks, so one stack of dominance means that the effect is given at 95% anger. 5 stacks means that the effect is given at 75% anger. This maxes out at 25%, with 15 stacks)\n\n[b]Quenchable Heat[/b]\nWhen in heat, flooding your womb with a large amount of cum(1000ml) can trick your body into ending your heat early.\n\n[b]Faltering Resiliance[/b]\nYou start out with a natural -300 fertility decrease. However, having cum in a hole with a womb will erode this defense, potentially making you exponentially more fertile.\nFertility -300+((cumvolume/2)x(cumvolume/1000))\nA little before 800ml is when your fertility will increase. 1,000ml of cum will give + 200 fertility. 3000ml of cum will give + 4,200 fertility",
+		"author": "Sleppa",
+		"categories": ["Gameplay"],
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SleppaStartingPerks.zip"
 	}
 	]
 }
