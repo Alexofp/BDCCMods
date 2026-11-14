@@ -2174,25 +2174,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HelpYourOwner.zip"
 	},
 	{
-		"name": "MorePoses",
-		"description": "Adds more sex poses to dynamic sex scenes, using animations from pre-written scenes. For penetrative sex: adds SexOverTable, SexHanging, RopesSex, SexStealth, SexUrinal. For oral sex: adds SexOralTable, ChairOral, RopesOralSex. Use 'switch pose' during sex. \n--Table is available as an option in the canteen, laundry room, and the spaces around the central platform.\n--Chair is the same as Table.\n--Hanging is available when the sub has bound wrists and you are near a wall.\n--Ropes is available in the fight club floor (any space)(but not slutwall).\n--Stealth is available when in public and the sub is not already totally naked.\n--Urinal is available in the two bathrooms.\n--If your player cell is upgraded to hold slaves and you bought all the 'furniture', you can use all the poses there. Because why not.\n\nChangelog v0.7:\n--compatibility fix for 0.3.0+\n\nThis edits the base game sexActivity files. This will get broken by major game updates.\n(please let me know if you find any typos)",
-		"author": "bringlebangul",
-		"categories": ["Visuals"],
-		"modversion": "0.8",
-		"gameversion": "0.3.1",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MorePoses.zip"
-	},
-	{
-		"id": "brutal_dreams_correctional_center",
-		"name": "Brutal Dreams Correctional Center",
-		"description": "Makes the game more difficult!\n  \nInmate Encounters:\nInmates you encounter have a 5% chance to attack you\nSome Inmates will chase you down to attack!\nExpanded the list of locations that they won't chase you to\n  \nSex:\nIf a Dom undresses a Sub the item is deleted\nCharacters that have their clothes removed will go to the laundry to get new ones!\n  \nHard Struggling:\nTime to complete the minigame halved\nStamina cost to play the minigame quintupled (5x!!)\nBlindfold hint disabled\nExtra time to complete the minigame when blindfolded removed\n  \nChanges 1.7.4:\nMade some of the most volatile code changes use\nthe hooks system I made for NPC Generation Settings\n\nThanks to aaron1218 for the idea!",
-		"author": "Mindstormsman",
-		"categories": ["Gameplay"],
-		"modversion": "1.7.4",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BrutalDreamsCorrectionalCenter.zip"
-	},
-	{
 		"name": "FluffyFix",
 		"description": "Small, one-time* use mod to try to fix saves using the old version of Winters Fluffy Bodyparts mod (before 2.3).\n\nBy default only affects dynamic NPCs (including datapack ones I think?), but it can be configured with FoxLib to affect the player and/or characters from other mods as well.\n\n*characters from other mods (and datapacks too I think?) don't save their bodyparts and will need the mod to be kept active until they're updated",
 		"author": "Selinoccino",
@@ -2457,16 +2438,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RAT_Pickpocket.zip"
 	},
 	{
-		"name": "Mind Misc Module",
-		"description": "  Adds a number of odds and ends\n  configuration available via FoxLib\n\n1.0.3\n  Fixed 'put in ass' action for condom storage checking for a vagina instead\n  Fixed save data for condoms that prevented condoms from being removed after loading a save\n    Condoms inside with the old malformed save data will be remove with a log warning on load\n\n1.0.2\n  Fixed a bug introduced by a last minute untested change\n  causing condom storage to not work\n\n1.0.1\n  Known Issues:\n    Hidden 'Condom Listener' perk is available as a starting perk\n    This is a byproduct of setting it as Skill.Start to keep it\n    from being reset when resetting starting perks through the\n    debug menu.\n    In a later update I may fix the seemingly incomplete or forgotten\n    Skill.Inherent feature and move this perk over to that\n    Don't worry if you pick this hidden perk or not,\n    there is a GameExtender that constantly checks every character\n    and gives them the perk if they don't have it\n\n  New:\n  'Perfect Stallion' perk\n    Allows you to cum again right after you cum\n    Currently only applies when the player is the dom\n    Should work in any sex scene!\n    cost 5 in the Breeder skill tree at level 15\n  \n  Condom Storage\n    Allows you to put used condoms inside you\n    and take them back out, or even pop them inside!\n    you can't interact with condoms inside you during sex yet\n    and you can't interact with npcs condoms at all yet\n  \n  NPC Task 'Deal with Condoms'\n    NPCs that have filled condoms left inside them will\n    eventually deal with them, either popping them or\n    removing them depending on how much they like being bred\n  \n  Condom Popping\n    Added config for the Condom Popping feature\n    You always have the option to pop them yourself in the\n    Condom Storage menu, this only affects them popping from\n    being overfilled in sex\n    also includes options to adjust when they become stressed\n    Defaults:\n      condomPopping = True, Vanilla = False\n      condomStressedAt = 9500 ml\n      condomMax = 24500 ml\n        The way this works is condoms have a 0% chance to pop below\n        condomStressedAt and a 100% chance when they reach condomMax\n          The equation is as follows\n      RNG.chance((condom fluid amount - condomStressedAt) / ((condomMax - condomStressedAt) / 100))\n\n  Updated:\n  Condom Inflation\n    Should now function globally\n    Inflates bellies in based on the amount of cum in condoms\n    Status Effect Images for this should match those of Cum Inflation\n    with and without the Extra Cum Inflation Images\n    Default = True, Vanilla = False\n  \n  'Insatiable Desire' perk\n    Allows you to 'milk' your partner for more cum after they cum\n    Currently only applies when the player is the dom\n    Should work in any sex scene now!\n    cost 5 in the Cum Lover skill tree at level 15\n\n  Unchanged:\n  Adjustable Max Cum Inflation Level\n    Default = 2.0, Vanilla = 1.0\n\n  Prevent Disabling Child Perks when Required Perk is Disabled\n    Default = True, Vanilla = False\n\n  'Better Biology' Perk\n    Prevents flared cocks from pushing out other cum\n    Automaticaly unlocked when unlocking 'Unique Biology'\n    If you already have the 'Unique Biology' perk unlocked,\n    toggling it will update and grant the 'Better Biology' perk\n\n  Extra Cum Inflation Status Effect Images\n    adds one additional image for the Cum Inflation Status Effect\n    and changes when the images appear to better align with a higher\n    Max Cum Inflation Level\n    Default = True, Vanilla = False",
-		"author": "Mindstormsman",
-		"categories": ["Gameplay"],
-		"modversion": "1.0.3",
-		"gameversion": "0.3.2",
-		"reqs": ["foxlib"],
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MindMiscModule.zip"
-	},
-	{
 		"name": "PowerBottom",
 		"description": "Allows you to use sub poses while domming. You still have control over what happens. NPCs can't use these poses, but it probably still works if you force them to using a datapack or another mod.\nNow with face sitting! Comes with the same quirks/restrictions as vanilla face sitting.\n\nPlease contact me on the discord server (@hare brained goofball ) if you have any issues.\n\nThe mod now replaces DomOralSexOnSub.gd, so any mods that change that file will be incompatible. Any mods that affect the sex engine or poses directly will probably be incompatible, and either won't do anything at all with this mod, overwrite this mod, or cause errors (Who knows?! I don't!)\n\nIf you ever want to update/change/patch this mod, feel free to, please just credit me.\n\nChangelog:\n1.1: Added face sitting, fixed switching holes in cowgirl, and fixed some flavor text that was weird or incorrect.",
 		"author": "hare brained goofball",
@@ -2719,26 +2690,6 @@
 		"gameversion": "*",
 		"delete": ["NPCBodyCustomizer"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/NPCBodyCustomizerLazarusFix.zip"
-	},
-	{
-		"name": "ScaleTweak",
-		"description": "Tool to tweak/adjust existing animations in the game. Can save and load edits to ScaleTweakSave.json in Mods folder. Access through the debug menu. Requires a lot of patience.\n\nFeatures:\n-- Adds a panel in the debug menu allowing you to scale and offset characters, as well as editing the rotation of joints.\n-- Save pose modifications to ScaleTweakSave.json, located in the Mods folder.\n-- Load pose modifications from the .json\n-- Works best for small changes, or on scenes where the character doesn't move very much. It's a tweak.\n-- If a button is locked, it's because you need to set other options first.\n-- If the panel doesn't show up in the debug menu, do one move/turn on the map to trigger a UI update.\n-- Might apply pose edits from the .json to normal gameplay, but this is still experimental and probably won't work.\n-- If it does work and you don't want it to, rename or delete ScaleTweakSave.json.\n\nChangelog v0.1.6:\nFixed many bugs, including one which messed up the .json. \nSome changes to auto-loading saved tweaks, it is now a bit more robust. Still very rough, but you should be able to see tweaked poses during the game. Except in the stocks, the stocks break your legs and I can't figure out why.\n\nCan I make new animations???!?!?!!\nNo. The ScaleTweakSave file only contains the difference from the base pose. The animation applies over top of the pose and cannot be changed.\n\nHeight difference mod?!??!!?!?!\nNo. This is a tool which is necessary in order to make such a mod without having to use Blender.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ScaleTweak.png]Click for Preview[/url]",
-		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ScaleTweak.png",
-		"author": "bringlebangul",
-		"categories": ["Visuals", "Tool"],
-		"modversion": "0.1.6",
-		"gameversion": "0.3.2",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ScaleTweak.zip"
-	},
-	{
-		"name": "VHairsAndParts",
-		"description": "- 5 Hairstyles\n- 1 Horn\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/VHairAndParts.png]Click for Preview[/url]",
-		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/VHairAndParts.png",
-		"author": "Verdeth",
-		"categories": ["Bodyparts"],
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/VHairAndParts.zip"
 	},
 	{
 		"ai": true,
@@ -3057,6 +3008,66 @@
 		"categories": ["Gameplay", "QoL"],
 		"delete": ["JunkieRehabilitation"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/JunkieRehabilitation_v0.4.3.zip"
+	},
+	{
+		"ai": true,
+		"name": "WolffsHeightMod",
+		"description": "Introduces randomized character heights and fixes 3D floating/alignment issues across almost all animations by applying dynamic X and Y coordinate offsets.\n\nCo-developed with AI assistance primarily for advanced dynamic formula (for missmatched character sizes) and the logic algorithm, other stuff like the height ajustment tweaking was done by me manualy for each scene.\n\n-Adds 2 new shrink/growth (Bone-stretching and Bone-compressing) pills that you can find in the medical vendomat.\n-Adds 3 new sizes (4 total):Very short, Short, Default(normal) and Tall.\n-Adds randomised character sizes.\n-adds short info text upon usage of pills.\n\nNotes:\n-I was testing it with a 5th Very Tall size but at that big of a difference (between shortest and tallest) it was too mutch for characters to not clip during scenes so there will be only 4 sizes that i stated in the description.\n-No story scenes were tweeked or tested (expect missmatches until i get to it).\n-Currently the only way to make your or NPCs height/sizes different form the randomised heights applyed is by forcing or eating the new pills.\n-Would recommend to use InsertionBulges by xrob1 with this mod.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WolffsHeightMod.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WolffsHeightMod.png",
+		"author": "Kristijan Wolff",
+		"categories": ["Visuals"],
+		"modversion": "0.8",
+		"gameversion": "0.3.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WolffsHeightMod.zip"
+	},
+	{
+		"name": "MorePoses",
+		"description": "Description: Adds more sex poses to dynamic sex scenes, using animations from pre-written scenes. For penetrative sex: adds SexOverTable, SexHanging, RopesSex, SexStealth, SexUrinal. For oral sex: adds SexOralTable, ChairOral, RopesOralSex. Use 'switch pose' during sex. No LLM was used.\n--Table is available as an option in the canteen, laundry room, and the spaces around the central platform.\n--Chair is the same as Table.\n--Hanging is available when the sub has bound wrists and you are near a wall.\n--Ropes is available in the fight club floor (any space)(but not slutwall).\n--Stealth is available when in public and the sub is not already totally naked.\n--Urinal is available in the two bathrooms.\n--If your player cell is upgraded to hold slaves and you bought all the 'furniture', you can use all the poses there. Because why not.\n\nChangelog v1.0:\n--compatibility fix for 0.4.0\n\nThis edits the base game sexActivity files. This will get broken by major game updates.\n(please let me know if you find any typos)",
+		"author": "bringlebangul",
+		"categories": ["Visuals", "Gameplay"],
+		"modversion": "1.0",
+		"gameversion": "0.4.*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MorePoses.zip"
+	},
+	{
+		"name": "ScaleTweak",
+		"description": "Tool to tweak/adjust existing animations in the game. Can save and load edits to ScaleTweakSave.json in Mods folder. Access through the debug menu. Requires a lot of patience. No LLM usage.\n\nFeatures:\n-- Adds a panel in the debug menu allowing you to scale and offset characters, as well as editing the rotation of joints.\n-- Save pose modifications to ScaleTweakSave.json, located in the Mods folder.\n-- Load pose modifications from the .json\n-- Works best for small changes, or on scenes where the character doesn't move very much. It's a tweak.\n-- If a button is locked, it's because you need to set other options first.\n-- If the panel doesn't show up in the debug menu, do one move/turn on the map to trigger a UI update.\n-- Might apply pose edits from the .json to normal gameplay, but this is still experimental and probably won't work.\n-- If it does work and you don't want it to, rename or delete ScaleTweakSave.json.\n\nChangelog v0.1.7:\nQuick fix for 0.4.0 compatibility. Due to changes to the combat scene, ScaleTweak will cause a crash. So until I have time to fix it properly, ScaleTweak will be disabled for the combat scene.\n\nCan I make new animations???!?!?!!\nNo. The ScaleTweakSave file only contains the difference from the base pose. The animation applies over top of the pose and cannot be changed.\n\nHeight difference mod?!??!!?!?!\nNo. This is a tool which is necessary in order to make such a mod without having to use Blender.",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ScaleTweak.png",
+		"author": "bringlebangul",
+		"categories": ["Visuals", "Tool"],
+		"modversion": "0.1.7",
+		"gameversion": "0.4.*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ScaleTweak.zip"
+	},
+	{
+		"name": "Mind Misc Module",
+		"description": "Adds a number of odds and ends\n\nCreative name I know...\n\n1.0.4\n  Maintenance update\n    removed some code hooks that were no longer nessesary and breaking the sex engine\n\n  Also, split of the hooks code into it's own function and added a path variable for the debug exports\n  This is n  Adds a number of odds and ends\n  configuration available via FoxLib\n\n1.0.4\n  Maintenance update\n    removed some code hooks that were no longer nessesary and breaking the sex engine\n\n1.0.3\n  Fixed 'put in ass' action for condom storage checking for a vagina instead\n  Fixed save data for condoms that prevented condoms from being removed after loading a save\n    Condoms inside with the old malformed save data will be remove with a log warning on load\n\n1.0.2\n  Fixed a bug introduced by a last minute untested change\n  causing condom storage to not work\n\n1.0.1\n  Known Issues:\n    Hidden 'Condom Listener' perk is available as a starting perk\n    This is a byproduct of setting it as Skill.Start to keep it\n    from being reset when resetting starting perks through the\n    debug menu.\n    In a later update I may fix the seemingly incomplete or forgotten\n    Skill.Inherent feature and move this perk over to that\n    Don't worry if you pick this hidden perk or not,\n    there is a GameExtender that constantly checks every character\n    and gives them the perk if they don't have it\n\n  New:\n  'Perfect Stallion' perk\n    Allows you to cum again right after you cum\n    Currently only applies when the player is the dom\n    Should work in any sex scene!\n    cost 5 in the Breeder skill tree at level 15\n  \n  Condom Storage\n    Allows you to put used condoms inside you\n    and take them back out, or even pop them inside!\n    you can't interact with condoms inside you during sex yet\n    and you can't interact with npcs condoms at all yet\n  \n  NPC Task 'Deal with Condoms'\n    NPCs that have filled condoms left inside them will\n    eventually deal with them, either popping them or\n    removing them depending on how much they like being bred\n  \n  Condom Popping\n    Added config for the Condom Popping feature\n    You always have the option to pop them yourself in the\n    Condom Storage menu, this only affects them popping from\n    being overfilled in sex\n    also includes options to adjust when they become stressed\n    Defaults:\n      condomPopping = True, Vanilla = False\n      condomStressedAt = 9500 ml\n      condomMax = 24500 ml\n        The way this works is condoms have a 0% chance to pop below\n        condomStressedAt and a 100% chance when they reach condomMax\n          The equation is as follows\n      RNG.chance((condom fluid amount - condomStressedAt) / ((condomMax - condomStressedAt) / 100))\n\n  Updated:\n  Condom Inflation\n    Should now function globally\n    Inflates bellies in based on the amount of cum in condoms\n    Status Effect Images for this should match those of Cum Inflation\n    with and without the Extra Cum Inflation Images\n    Default = True, Vanilla = False\n  \n  'Insatiable Desire' perk\n    Allows you to 'milk' your partner for more cum after they cum\n    Currently only applies when the player is the dom\n    Should work in any sex scene now!\n    cost 5 in the Cum Lover skill tree at level 15\n\n  Unchanged:\n  Adjustable Max Cum Inflation Level\n    Default = 2.0, Vanilla = 1.0\n\n  Prevent Disabling Child Perks when Required Perk is Disabled\n    Default = True, Vanilla = False\n\n  'Better Biology' Perk\n    Prevents flared cocks from pushing out other cum\n    Automaticaly unlocked when unlocking 'Unique Biology'\n    If you already have the 'Unique Biology' perk unlocked,\n    toggling it will update and grant the 'Better Biology' perk\n\n  Extra Cum Inflation Status Effect Images\n    adds one additional image for the Cum Inflation Status Effect\n    and changes when the images appear to better align with a higher\n    Max Cum Inflation Level\n    Default = True, Vanilla = False\now closer to what Thermal Dragon used in Better Editor Controls, and keeps the module _init clean\n\nLet me know if anything is broken :CatLove:",
+		"author": "Mindstormsman",
+		"categories": ["Gameplay"],
+		"modversion": "1.0.4",
+		"gameversion": "0.4.*",
+		"reqs": ["foxlib"],
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/MindMiscModule.zip"
+	},
+	{
+		"name": "VHairsAndParts",
+		"description": "5 Hairstyles\n1 Horn\nChanges: offsetlayer fix, collar is now underneath the hair, hairs 3 and 4 will still have the hair strain/curl in front\nAI disclosure: no AI LLM was used",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/VHairAndParts.png",
+		"author": "Verdeth",
+		"categories": ["Bodyparts"],
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/VHairAndParts.zip"
+	},
+	{
+		"id": "brutal_dreams_correctional_center",
+		"name": "Brutal Dreams Correctional Center",
+		"description": "Makes the game more difficult!\n  \nInmate Encounters:\nInmates you encounter have a 5% chance to attack you\nSome Inmates will chase you down to attack!\nExpanded the list of locations that they won't chase you to\n  \nSex:\nIf a Dom undresses a Sub the item is deleted\nCharacters that have their clothes removed will go to the laundry to get new ones!\n  \nHard Struggling:\nTime to complete the minigame halved\nStamina cost to play the minigame quintupled (5x!!)\nBlindfold hint disabled\nExtra time to complete the minigame when blindfolded removed\n  \nChanges 1.7.5:\nAdjusted some potentially problematic hooks\nUpdated hook code to match new version in MindMiscModule\n\nThanks to aaron1218 for the idea!",
+		"author": "Mindstormsman",
+		"categories": ["Gameplay"],
+		"modversion": "1.7.5",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BrutalDreamsCorrectionalCenter.zip"
 	}
 	]
 }
