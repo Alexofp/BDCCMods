@@ -4779,6 +4779,42 @@
 
 			],
 			"preview": "datapack_previews/AstrosSkinPack.png"
+		},
+		{
+			"id": "FantasySpecies",
+			"name": "FantasySpecies",
+			"author": "Borbius",
+			"version": "1.0",
+			"description": "Seven characters, all male, based on popular fantasy creatures.",
+			"contains": "Contains: 7 characters",
+			"download": "datapacks/FantasySpecies.res",
+			"lastedit": 1794287113,
+			"filesize": 36895,
+			"requiredDatapacks": [
+				"gwendiskinpack"
+			],
+			"reqDatapackToName": {
+				"gwendiskinpack": "Gwendi's Charactors Skinpack"
+			},
+			"requiredMods": [
+				"AvaliSpeciesVer2.zip",
+				"DragonsPlusVer0.9.zip",
+				"ExpandedBodyparts_V1.0.3.zip",
+				"MoldyBodypartExpansion_v2.3.zip",
+				"ScalieExpansionVer2.1.zip",
+				"SongshairPack_v1.8.zip",
+				"SongsHoofySpecies_v0.9.7.zip",
+				"SongsMHSpecies_0.9.8.zip",
+				"SongsUncutPenis_v0.8.zip",
+				"SongsVanillaParts_v1.4.3.zip",
+				"SugerrCharacterPartsV1.3.zip",
+				"SugerrSpeciesPackV1.6.zip",
+				"SugerrXenomorphSpecies.zip",
+				"WintersCoreModuleV1.7.zip",
+				"WintersExpandedPenises1.2.zip",
+				"WintersFluffyBodypartsV2.6.zip"
+			],
+			"preview": "datapack_previews/FantasySpecies.png"
 		}
 	]
 }

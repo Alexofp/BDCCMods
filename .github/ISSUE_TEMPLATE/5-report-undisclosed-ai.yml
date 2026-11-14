@@ -1,0 +1,33 @@
+name: Report Undisclosed AI usage
+title: "[Undisclosed AI]: "
+description: Submitting request to mark mod/datapack as having undisclosed usage of AI. Anything that is text, code, and/or iamges
+projects: []
+assignees: alexofp, CanInBad
+body:
+  - type: input
+    id: input-0
+    attributes:
+      label: Mod/datapack file name
+      description: file name of a mod/datapack, make sure to include extension. If you are reporting multiple mods please make a seperate issue for each mod/datapack.
+      placeholder: example.zip
+    validations:
+      required: true
+  - type: dropdown
+    attributes:
+      label: Type
+      description: What type of file you're reporting
+      multiple: false
+      options:
+        - Mod
+        - Datapack
+      default: 0
+    validations:
+      required: true
+  - type: textarea
+    id: textarea-2
+    attributes:
+      label: What make you think it contains usage of AI
+      description: Show evidences or describe how it is AI
+      value: None.
+    validations:
+      required: true
