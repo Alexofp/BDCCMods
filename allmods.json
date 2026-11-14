@@ -2746,8 +2746,8 @@
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HeadLayerOrder.png",
 		"author": "45hr4k",
 		"categories": ["Visuals"],
-		"modversion": "0.3.0",
-		"gameversion": "0.3.2",
+		"modversion": "0.3.1",
+		"gameversion": "0.4.0",
 		"reqs": ["foxlib"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HeadLayerOrder.zip"
 	},
@@ -2758,8 +2758,8 @@
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SpeciesSpawnRates.png",
 		"author": "45hr4k",
 		"categories": ["Gameplay"],
-		"modversion": "0.1.0",
-		"gameversion": "0.3.2",
+		"modversion": "0.1.2",
+		"gameversion": "0.4.0",
 		"reqs": ["foxlib"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SpeciesSpawnRates.zip"
 	},
@@ -2770,8 +2770,8 @@
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/DollRenderTweaks.png",
 		"author": "45hr4k",
 		"categories": ["Visuals"],
-		"modversion": "0.3.0",
-		"gameversion": "0.3.2",
+		"modversion": "0.3.3",
+		"gameversion": "0.4.0",
 		"reqs": ["foxlib"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DollRenderTweaks.zip"
 	},
@@ -3068,6 +3068,39 @@
 		"reqs": ["foxlib"],
 		"delete": ["SmartLocksExtended_v"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SmartLocksExtended_v0.3.2.zip"
+	},
+	{
+		"ai": true,
+		"name": "Fur Under Clothing",
+		"description": "Contains code made by AI.\n\n[b]Dependencies[/b]: FoxLib (optional, for the options and the preview; tested with v0.10.7)\n\nDescription:\nKeeps the fur of fur bodypart mods (for example WintersFluffyBodyparts) from poking out through clothes. Where clothing covers a bodypart, the tufts that stick out of the normal body outline are cut off. Uncovered fur keeps its tufts.\n\n-- Works for any mod whose bodyparts reuse the vanilla meshes, no list of supported mods needed\n-- Mod Options -> \"Fur under clothing\": Off / Under clothing (default) / Always\n-- Preview button: the same character without and with the mod, all installed fur bodyparts and several clothes to pick\n-- The first time a piece of clothing is shown on a fur bodypart, loading takes a moment longer. The result is saved to disk (user://fur_under_clothing_cache/), so later it loads instantly, also after restarting the game\n-- Replaces no game files. Needs the \"advanced shaders\" option (on by default)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FurUnderClothing.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FurUnderClothing.png",
+		"author": "45hr4k",
+		"categories": ["Visuals"],
+		"modversion": "0.2.1",
+		"gameversion": "0.4.0",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FurUnderClothing.zip"
+	},
+	{
+		"ai": true,
+		"name": "Limp When Hurt",
+		"description": "Contains code made by AI.\n\nMy first animation, made by hand in Godot (Godot's animation editor sucks, use Blender. Or I'm just too dumb). The rough edges were cleaned up with the help of AI.\n\n[b]Dependencies[/b]: FoxLib (optional, for the option; tested with v0.10.7)\n\nDescription:\nCharacters (the player and NPCs) limp while walking when their health is low.\n\n-- Health is the pain a character can still take before being defeated (100% = no pain)\n-- Mod Options -> \"Limp when hurt\": limp below this health (default 70%)\n-- Switches only between steps, so the posture doesn't jump while walking\n-- Replaces no game files\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/LimpWhenHurt.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/LimpWhenHurt.png",
+		"author": "45hr4k",
+		"categories": ["Visuals"],
+		"modversion": "0.1.2",
+		"gameversion": "0.4.0",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/LimpWhenHurt.zip"
+	},
+	{
+		"ai": true,
+		"name": "Mod Conflict Check",
+		"description": "Contains code made by AI.\n\n[b]Dependencies[/b]: None\n\nDescription:\nAdds a \"Check mod conflicts\" button to the troubleshooting screen of the main menu. It checks the mods that are loaded right now and shows a report:\n\n-- Files shipped by more than one mod (only the mod loaded last wins)\n-- Base game files replaced by a mod (a common cause of missing or broken body parts)\n-- IDs registered twice (body parts, items, species, events, perks, skins and more)\n-- Mod scripts that fail to load\n-- Body parts whose doll scene is missing\n-- The report can be saved to a text file, handy for bug reports\n\nNotes:\n-- The first check takes a few seconds, after that it is instant until the game is restarted\n-- .pck mods can't be looked into, only .zip mods\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ModConflictCheck.png]Click for Preview[/url]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ModConflictCheck.png",
+		"author": "45hr4k",
+		"categories": ["Tool"],
+		"modversion": "0.1.2",
+		"gameversion": "0.4.0",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ModConflictCheck.zip"
 	}
 	]
 }
