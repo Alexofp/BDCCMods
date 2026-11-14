@@ -2787,18 +2787,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsHoofySpecies_v0.9.7fix1WintersFix.zip"
 	},
 	{
-		"ai": true,
-  		"name": "SmartLocks Extended",
-  		"description": "Most likely contains code made by AI.\n\n\nRequires FoxLib 0.10.7.\nAdds a wealth of options to configure Smart Locks to your tastes, as well as several new types of smart locks and 3 optional starting perks.\n\nNew locks: Timed locks unlock on their own after a set amount of time. Prostitution locks require you to earn a certain amount of credits through prostitution, and pay the keyholder to release you. Multi-keyholder locks are similar to normal keyholder locks, but require you to convince several people to unlock you. Taskmaster locks generate a list of tasks for you to complete every morning, and unlocks itself after you have dutifully completed them several days in a row.\nAll types can be configured or disabled according to your tastes.\n\nNew perks: Faulty Release gives slut locks a 50% chance to reset itself and generate a new set of tasks, instead of releasing you. Fine Print only reveals slut lock requirements one-by-one, after the previous one has been completed. Uncertain Sentence hides the release time of timed locks.",
-  		"author": "AltGitsa",
-		"categories": ["Gameplay"],
-		"modversion": "0.3.1",
- 		"gameversion": "0.3.2",
-		"delete": ["SmartLocksExtended_v"],
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SmartLocksExtended_v0.3.1.zip"
-
-	},
-		{
 		"name": "An Apple A Day",
 		"description": "This mod, like all my mods, is 100% ratwritten with care; no LLMs were consulted or used in the creation of this mod.\n\nAdds an exciting new use for apples, in the form of using them to gain buffs (mostly a joke mod). Take an apple to Dr. Quinn to get started.\n\nVersion 1.6:\n- Updated license\n- Added back the ability to add homemade cream directly\n- Now compatible with CraftingLibReworked\n\nPlease tell me if you find any issues, and enjoy!",
 		"author": "Selinoccino",
@@ -3068,6 +3056,18 @@
 		"modversion": "1.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SleppaStartingPerks.zip"
+	},
+	{
+		"ai": true,
+  		"name": "SmartLocks Extended",
+  		"description": "Most likely contains code made by AI.\n\n\nRequires FoxLib 0.10.7.\nAdds a wealth of options to configure Smart Locks to your tastes, as well as several new types of smart locks and 3 optional starting perks.\n\nNew locks: Timed locks unlock on their own after a set amount of time. Prostitution locks require you to earn a certain amount of credits through prostitution, and pay the keyholder to release you. Multi-keyholder locks are similar to normal keyholder locks, but require you to convince several people to unlock you. Taskmaster locks generate a list of tasks for you to complete every morning, and unlocks itself after you have dutifully completed them several days in a row.\nAll types can be configured or disabled according to your tastes.\n\nNew perks: Faulty Release gives slut locks a 50% chance to reset itself and generate a new set of tasks, instead of releasing you. Fine Print only reveals slut lock requirements one-by-one, after the previous one has been completed. Uncertain Sentence hides the release time of timed locks.",
+  		"author": "AltGitsa",
+		"categories": ["Gameplay"],
+		"modversion": "0.3.1",
+ 		"gameversion": "0.3.2",
+		"delete": ["SmartLocksExtended_v"],
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SmartLocksExtended_v0.3.1.zip"
+
 	}
 	]
 }
