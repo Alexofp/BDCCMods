@@ -2746,8 +2746,8 @@
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HeadLayerOrder.png",
 		"author": "45hr4k",
 		"categories": ["Visuals"],
-		"modversion": "0.3.1",
-		"gameversion": "0.4.0",
+		"modversion": "0.3.2",
+		"gameversion": "0.4.*",
 		"reqs": ["foxlib"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/HeadLayerOrder.zip"
 	},
@@ -2758,8 +2758,8 @@
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SpeciesSpawnRates.png",
 		"author": "45hr4k",
 		"categories": ["Gameplay"],
-		"modversion": "0.1.2",
-		"gameversion": "0.4.0",
+		"modversion": "0.1.3",
+		"gameversion": "0.4.*",
 		"reqs": ["foxlib"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SpeciesSpawnRates.zip"
 	},
@@ -2770,8 +2770,8 @@
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/DollRenderTweaks.png",
 		"author": "45hr4k",
 		"categories": ["Visuals"],
-		"modversion": "0.3.3",
-		"gameversion": "0.4.0",
+		"modversion": "0.3.4",
+		"gameversion": "0.4.*",
 		"reqs": ["foxlib"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DollRenderTweaks.zip"
 	},
@@ -3076,7 +3076,7 @@
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FurUnderClothing.png",
 		"author": "45hr4k",
 		"categories": ["Visuals"],
-		"modversion": "0.2.1",
+		"modversion": "0.2.2",
 		"gameversion": "0.4.*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FurUnderClothing.zip"
 	},
@@ -3087,7 +3087,7 @@
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/LimpWhenHurt.png",
 		"author": "45hr4k",
 		"categories": ["Visuals"],
-		"modversion": "0.1.2",
+		"modversion": "0.1.3",
 		"gameversion": "0.4.*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/LimpWhenHurt.zip"
 	},
@@ -3098,7 +3098,7 @@
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ModConflictCheck.png",
 		"author": "45hr4k",
 		"categories": ["Tool"],
-		"modversion": "0.1.2",
+		"modversion": "0.1.3",
 		"gameversion": "0.4.*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ModConflictCheck.zip"
 	},
