@@ -3064,7 +3064,7 @@
 		"author": "AltGitsa",
 		"categories": ["Restraints"],
 		"modversion": "0.3.2",
-		"gameversion": "0.4.0",
+		"gameversion": "0.4.*",
 		"reqs": ["foxlib"],
 		"delete": ["SmartLocksExtended_v"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SmartLocksExtended_v0.3.2.zip"
@@ -3077,7 +3077,7 @@
 		"author": "45hr4k",
 		"categories": ["Visuals"],
 		"modversion": "0.2.1",
-		"gameversion": "0.4.0",
+		"gameversion": "0.4.*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FurUnderClothing.zip"
 	},
 	{
@@ -3088,7 +3088,7 @@
 		"author": "45hr4k",
 		"categories": ["Visuals"],
 		"modversion": "0.1.2",
-		"gameversion": "0.4.0",
+		"gameversion": "0.4.*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/LimpWhenHurt.zip"
 	},
 	{
@@ -3099,8 +3099,17 @@
 		"author": "45hr4k",
 		"categories": ["Tool"],
 		"modversion": "0.1.2",
-		"gameversion": "0.4.0",
+		"gameversion": "0.4.*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ModConflictCheck.zip"
+	},
+	{
+		"name": "BBMoreUniforms",
+		"description": "Replaces:MoreUniformsv7, ClothingRevamp\n\nDescription:\nThis mod ports MoreUniforms_v7 by Anon to game version 0.4.1, while also including some of the functions of the now-deprecated ClothingRevamp. MoreUniforms adds several BDSM harneses, some cow-print underwear, and three new inmate uniform variants (which give stat boosts!). They can be found in the various vendomats. This mod also gives ClothingRevamp's full control over the state of your clothing by selecting it from the inventory once it is equipped. You can go no shirt (like in vanilla), no shorts, shirt open, shorts down, etc. at any time, and the proper exposure effects will be included. Also, clothing items which share textures - like 'sporty' items - have been given their own appearance (e.g. stripes), to better distinguish them. No LLM usage.\n\nNote: due to changes in how clothing items are displayed, this won't work with old save files using MoreUniformsv7 - item IDs and scene files won't match up. You'll need to start a new save.\n\nChangelog v1.0:\n- it exists\n- no preview image because lazy\n- Not sure if I covered all clothing items in all states of undress at all damage levels, so please report any bugs!\n- known issue: I only got one leg on one of the uniforms, plz pretend you do not see it\n- known-er issue: ok it's several legs. Watch out, some thief is going around the cellblock and stealing only one pant leg I guess...",
+		"author": "Anon, bringlebangul",
+		"categories": ["Items"],
+		"modversion": "1.0",
+		"gameversion": "0.4.*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BBMoreUniforms.zip"
 	}
 	]
 }
