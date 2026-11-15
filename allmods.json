@@ -1768,7 +1768,7 @@
 	{
 		"name": "Fluidex",
 		"description": "Adds a new TF pill that lets you change what fluids are produced by different parts of the body.\n\n1.3\nReplaced hardcoding of fluid options with a more flexible system, now should be able to support any modded fluids by default.\n1.2\nChanged \"Ivy nectar\" to \"IvyNectar\" to hopefully correct data errors and added water as a fluid option. \n1.1\nUnintentional bugged item now removed.\n1.0 \nInitial release.\n\n(Feel free to go wild with adding new fluid types to the game! Fluidex should hopefully now be able to have them as options!)",
-		"author": "Thermal Dragon",
+		"author": "Astro",
 		"categories": ["Items"],
 		"modversion": "1.3",
 		"gameversion": "*",
@@ -2732,7 +2732,7 @@
 		"name": "ExpandedBodyparts",
 		"description": "COMPATIBILITY: Hypertus\nDESCRIPTION: More bodyparts and even more muscles! \n(Credit to Avery Winters, Songjo, Firaxalos, Anon, and others as more parts are added, as this mod is mostly just tweaks and merging of their different assets.)\nChangelog:\nV1.0.3 - Hotfix for Module.gd not seeing external Modules and thus not loading relevant bodyparts.\nV1.0.2 - Hotfix for Hypertus dependency routing issues.\nV1.0.1 - Hotfix for Hypertus file routing issues. \nV1.0 - Major code improvements for file handling, Hypertus compatibility, and not having the Protogens mod should just disable those parts now, rather than throwing errors.\nV0.5 - Added Buff Fluffy Poof Breasts (Hypertus compatibility is a WIP) and moved all mod files into Modules.\nV0.4 - Fixed missing legs due to typos in names and added Winter's original BuffFluffyBody as a new body.\nV0.3 - Added a bunch of buff bodies and more (including some Protogen only bodies)!\nV0.2.1 - Hotfix for issues with subfolders.\nV0.2 - Major file reorganizing (from scratch) and added 13 new fit arms.\nV0.1 - Initial prototype release.\nV0.0 - Development soup\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ExpandedBodyparts.png]Click for Preview[/url] [url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ExpandedBodyparts2.png]Click for Preview 2[/url]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/ExpandedBodyparts.png",
-		"author": "Thermal Dragon",
+		"author": "Astro",
 		"modversion": "1.0.3",
 		"gameversion": "*",
 		"categories": ["Bodyparts"],
