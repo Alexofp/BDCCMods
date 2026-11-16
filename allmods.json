@@ -2538,17 +2538,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Intimidate_v0.1.zip"
 	},
 	{
-		"name": "Intimidate in Prostitution",
-		"description": "Dependencies: Intimidate_v0.1.zip\n\nAdd-on for the Intimidate mod that enables intimidation during prostitution. If you meet someone you really don't want to see again, kick them out right from the prostitution menu.\n\nMust have the Intimidate mod enabled for this to work.\n\nModifies/overwrites the prostitution interaction file to add the action. If the file is modified in future updates, this will likely break things until updated.\n\n1.0: Released for 0.3.2.\nReport issues to [url=https://github.com/ethengart/EGBDCCMods]https://github.com/ethengart/EGBDCCMods[/url] (or discord DM)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/IntimidateProst.png]Click for Preview[/url]",
-		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/IntimidateProst.png",
-		"author": "EthenGart",
-		"categories": ["Gameplay"],
-		"modversion": "1.0",
-		"gameversion": "0.3.2",
-		"reqs": ["intimidate"],
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/IntimidateProst.zip"
-	},
-	{
 		"name": "Sugerør's Species Pack",
 		"description": "Adds Bears, Crocodiles, Fossas, Lizards and Otters to the game. If you have any suggestions or notice any issues, just yell at me ^^\nNew: Added new crocodile and bear parts\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrSpeciesPack.png]Click for Preview[/url]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrSpeciesPack.png",
@@ -3103,11 +3092,23 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ModConflictCheck.zip"
 	},
 	{
+		"name": "Intimidate in Prostitution",
+		"description": "Add-on for the Intimidate mod that enables intimidation during prostitution. If you meet someone you really don't want to see again, kick them out right from the prostitution menu.\n\nMust have the Intimidate mod enabled for this to work.\n\nModifies/overwrites the prostitution interaction file to add the action. If the file is modified in future updates, this will likely break things until updated.\n\nNo AI's were used in the creation of this mod; just lots of Ctrl+F.\n1.1: Update for 0.4.1.\n1.0: Released for 0.3.2.\nReport issues to [url=https://github.com/ethengart/EGBDCCMods]https://github.com/ethengart/EGBDCCMods[/url] (or Discord DM).",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/IntimidateProst.png",
+		"author": "EthenGart",
+		"categories": ["Gameplay"],
+		"modversion": "1.1",
+		"gameversion": "0.4.*",
+		"reqs": ["intimidate"],
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/IntimidateProst.zip"
+	},
+	{
 		"name": "BBMoreUniforms",
-		"description": "Replaces:MoreUniformsv7, ClothingRevamp\n\nDescription:\nThis mod ports MoreUniforms_v7 by Anon to game version 0.4.1, while also including some of the functions of the now-deprecated ClothingRevamp. MoreUniforms adds several BDSM harneses, some cow-print underwear, and three new inmate uniform variants (which give stat boosts!). They can be found in the various vendomats. This mod also gives ClothingRevamp's full control over the state of your clothing by selecting it from the inventory once it is equipped. You can go no shirt (like in vanilla), no shorts, shirt open, shorts down, etc. at any time, and the proper exposure effects will be included. Also, clothing items which share textures - like 'sporty' items - have been given their own appearance (e.g. stripes), to better distinguish them. No LLM usage.\n\nNote: due to changes in how clothing items are displayed, this won't work with old save files using MoreUniformsv7 - item IDs and scene files won't match up. You'll need to start a new save.\n\nChangelog v1.0:\n- it exists\n- no preview image because lazy\n- Not sure if I covered all clothing items in all states of undress at all damage levels, so please report any bugs!\n- known issue: I only got one leg on one of the uniforms, plz pretend you do not see it\n- known-er issue: ok it's several legs. Watch out, some thief is going around the cellblock and stealing only one pant leg I guess...",
+		"description": "Replaces:MoreUniformsv7, ClothingRevamp\n\nDescription:\nThis mod ports MoreUniforms_v7 by Anon to game version 0.4.1, while also including some of the functions of the now-deprecated ClothingRevamp. MoreUniforms adds several BDSM harneses, some cow-print underwear, and three new inmate uniform variants (which give stat boosts!). They can be found in the various vendomats. This mod also gives ClothingRevamp's full control over the state of your clothing by selecting it from the inventory once it is equipped. You can go no shirt (like in vanilla), no shorts, shirt open, shorts down, etc. at any time, and the proper exposure effects will be included. Also, clothing items which share textures - like 'sporty' items - have been given their own appearance (e.g. stripes), to better distinguish them. No LLM usage.\n\nNote: due to changes in how clothing items are displayed, this won't work with old save files using MoreUniformsv7 - item IDs and scene files won't match up. You'll need to start a new save.\n\nChangelog v1.1:\n- Not sure if I covered all clothing items in all states of undress at all damage levels, so please report any bugs!\n- found whoever was stealing all the pant legs (put textures in the right place, yippee!)\n- known issue: cowprint textures might vanish when in heavily damaged state\n- known issue: I forgot the color stripes on the lower legs AGAIN aaaaaaaaaaaa",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BBMoreUniforms.png",
 		"author": "Anon, bringlebangul",
 		"categories": ["Items"],
-		"modversion": "1.0",
+		"modversion": "1.1",
 		"gameversion": "0.4.*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BBMoreUniforms.zip"
 	}
