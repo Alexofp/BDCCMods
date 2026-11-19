@@ -2967,17 +2967,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/JunkieRehabilitation_v0.4.3.zip"
 	},
 	{
-		"ai": true,
-		"name": "WolffsHeightMod",
-		"description": "Introduces randomized character heights and fixes 3D floating/alignment issues across almost all animations by applying dynamic X and Y coordinate offsets.\n\nCo-developed with AI assistance primarily for advanced dynamic formula (for missmatched character sizes) and the logic algorithm, other stuff like the height ajustment tweaking was done by me manualy for each scene.\n\n-Adds 2 new shrink/growth (Bone-stretching and Bone-compressing) pills that you can find in the medical vendomat.\n-Adds 3 new sizes (4 total):Very short, Short, Default(normal) and Tall.\n-Adds randomised character sizes.\n-adds short info text upon usage of pills.\n\nNotes:\n-I was testing it with a 5th Very Tall size but at that big of a difference (between shortest and tallest) it was too mutch for characters to not clip during scenes so there will be only 4 sizes that i stated in the description.\n-No story scenes were tweeked or tested (expect missmatches until i get to it).\n-Currently the only way to make your or NPCs height/sizes different form the randomised heights applyed is by forcing or eating the new pills.\n-Would recommend to use InsertionBulges by xrob1 with this mod.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WolffsHeightMod.png]Click for Preview[/url]",
-		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WolffsHeightMod.png",
-		"author": "Kristijan Wolff",
-		"categories": ["Visuals"],
-		"modversion": "0.8",
-		"gameversion": "0.3.2",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WolffsHeightMod.zip"
-	},
-	{
 		"name": "MorePoses",
 		"description": "Description: Adds more sex poses to dynamic sex scenes, using animations from pre-written scenes. For penetrative sex: adds SexOverTable, SexHanging, RopesSex, SexStealth, SexUrinal. For oral sex: adds SexOralTable, ChairOral, RopesOralSex. Use 'switch pose' during sex. No LLM was used.\n--Table is available as an option in the canteen, laundry room, and the spaces around the central platform.\n--Chair is the same as Table.\n--Hanging is available when the sub has bound wrists and you are near a wall.\n--Ropes is available in the fight club floor (any space)(but not slutwall).\n--Stealth is available when in public and the sub is not already totally naked.\n--Urinal is available in the two bathrooms.\n--If your player cell is upgraded to hold slaves and you bought all the 'furniture', you can use all the poses there. Because why not.\n\nChangelog v1.0:\n--compatibility fix for 0.4.0\n\nThis edits the base game sexActivity files. This will get broken by major game updates.\n(please let me know if you find any typos)",
 		"author": "bringlebangul",
@@ -3111,6 +3100,18 @@
 		"categories": ["Content", "Gameplay"],
 		"delete": ["SneakUpTease"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SneakUpTease_v0.4.3.zip"
+	},
+	{
+		"ai": true,
+		"name": "WolffsHeightMod",
+		"description": "Introduces randomized character heights and fixes 3D floating/alignment issues across almost all animations by applying dynamic X and Y coordinate offsets.\n\nCo-developed with AI assistance primarily for advanced dynamic formula (for missmatched character sizes) and the logic algorithm, other stuff like the height ajustment tweaking was done by me manualy for each scene.\n\n-Adds 2 new shrink/growth (Bone-stretching and Bone-compressing) pills that you can find in the medical vendomat.\n-Adds 3 new sizes (4 total):Very short, Short, Default(normal) and Tall.\n-Adds randomised character sizes.\n-adds short info text upon usage of pills.\n-------------------------------\nUPDATE 0.9\n\n-Added two new NPC height settings via FoxLib: one resets all previously encountered NPC heights to 1.0 (normal/default height), and the second makes all newly encountered NPCs spawn at the default 1.0 height.\n-New and updated poses: tribalism, standing (girl dom), and straddle.\n-Fixed the misalignment when encountering the checkpoint guard (blowjob scene).\n\nNotes:\n-NEW im currently in the process of moving, so updates are very slow. Once i finish moving to should go mutch faster.\n-I was testing it with a 5th Very Tall size but at that big of a difference (between shortest and tallest) it was too mutch for characters to not clip during scenes so there will be only 4 sizes that i stated in the description.\n-No story scenes were tweeked or tested (expect missmatches until i get to it).\n-Currently the only way to make your or NPCs height/sizes different form the randomised heights applyed is by forcing or eating the new pills.\n-Would recommend to use InsertionBulges by xrob1 with this mod.",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WolffsHeightMod.png",
+		"author": "Kristijan Wolff",
+		"categories": ["Visuals"],
+		"modversion": "0.9",
+		"gameversion": "0.4.*",
+		"delete": ["WolffsHeightMod"],
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WolffsHeightMod_v0.9.zip"
 	}
 	]
 }
