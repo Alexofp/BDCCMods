@@ -2204,17 +2204,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersHellBeastsSpeciesV1.0.zip"
 	},
 	{
-		"name": "Eiras Trash Species",
-		"description": "CREDIT: Original Species by Anon and Fantos. Code by Avery Winters. New Raccoon Parts and Red Panda drawn by Moldy Tub. Project Lead kind of is Winter 'Eira (me)\nDESCRIPTION: A compilation of several species many would consider trash enjoyers includes: Bat, Possum, Rat/Mouse, Raccoons, Squirrels, and a bonus RED PANDA!\nCOMPATIBILITY: WintersFluffyBodyparts, AnonsSheathedHumanPenis, Hypertus, RAT_Archetypes\nCHANGELOG: Added archetypes\nNOTE: @ Avery Winters for issues or feedback. There is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\nNOTE: Adds archetypes handled by RAT_Archetypes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EirasTrashSpecies.png]Click for Preview[/url]",
-		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EirasTrashSpecies.png",
-		"author": "Anon, Fantos, Avery Winters, Moldy Tub",
-		"categories": ["Species"],
-		"modversion": "1.4",
-		"gameversion": "*",
-		"delete": ["EirasTrashSpeciesV"],
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EirasTrashSpeciesV1.4.zip"
-	},
-	{
 		"name": "Winters Rabbit Species Update",
 		"description": "CREDIT: Orignal by Fantos\nDESCRIPTION: . Add rabbit species and an update to the original by fantos. Removes the Rabbit legs as they dont scale with thickness and now uses fluffy parts if installed. Rabbits now spawn with eggy parts becuase easter bunny thats why \nCOMPATABILITY: Hypertus, Bodywriting, RAT_Archetypes, WintersFluffyBodyparts\nCHANGELOG: Moved archetypes locally in this mod\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\nNOTE: Adds archetypes handled by RAT_Archetypes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersRabbitSpecies.png]Click for Preview[/url]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersRabbitSpecies.png",
@@ -3112,6 +3101,17 @@
 		"gameversion": "0.4.*",
 		"delete": ["WolffsHeightMod"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WolffsHeightMod_v0.9.zip"
+	},
+	{
+		"name": "Eiras Trash Species",
+		"description": "CREDIT: Original Species by Anon and Fantos. Code by Avery Winters. New Raccoon Parts and Red Panda drawn by Moldy Tub. Project Lead kind of is Winter 'Eira \nDESCRIPTION: A compilation of several species many would consider trash enjoyers includes: Bat, Possum, Rat/Mouse, Raccoons, Squirrels, and a bonus RED PANDA!\nCOMPATIBILITY: WintersFluffyBodyparts, AnonsSheathedHumanPenis, Hypertus, RAT_BodypartArchetypes\nCHANGELOG: A quick fix for fluffy bat arms from Winters Fluffy Bodyparts (From Eira? le gasp)\nNOTE: @ Avery Winters for issues or feedback. They have a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for their time.\n\nNOTE: Adds archetypes handled by RAT_BodypartArchetypes",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EirasTrashSpecies.png",
+		"author": "Anon, Fantos, Avery Winters, Moldy Tub",
+		"categories": ["Species"],
+		"modversion": "1.4.1",
+		"gameversion": "*",
+		"delete": ["EirasTrashSpeciesV"],
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EirasTrashSpeciesV1.4.1.zip"
 	}
 	]
 }
