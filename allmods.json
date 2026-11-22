@@ -3108,10 +3108,10 @@
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/EirasTrashSpecies.png",
 		"author": "Anon, Fantos, Avery Winters, Moldy Tub",
 		"categories": ["Species"],
-		"modversion": "1.4.1",
+		"modversion": "1.4.2",
 		"gameversion": "*",
 		"delete": ["EirasTrashSpeciesV"],
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EirasTrashSpeciesV1.4.1.zip"
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EirasTrashSpeciesV1.4.2.zip"
 	}
 	]
 }

@@ -4815,6 +4815,27 @@
 				"WintersFluffyBodypartsV2.6.zip"
 			],
 			"preview": "datapack_previews/FantasySpecies.png"
+		},
+		{
+			"id": "New_World",
+			"name": "New World",
+			"author": "Malygorz",
+			"version": "Prologue V1.0",
+			"description": "Plan an escape and leave the prison behind for a new world, filled with new adventures.",
+			"contains": "Contains: 6 characters, 13 scenes, 1 quest",
+			"download": "datapacks/NewWorld.res",
+			"lastedit": 1795328912,
+			"filesize": 581956,
+			"requiredDatapacks": [
+
+			],
+			"reqDatapackToName": {
+
+			},
+			"requiredMods": [
+				"FoxedBDCC_v0.1.0.zip",
+				"FoxLib"
+			]
 		}
 	]
 }
