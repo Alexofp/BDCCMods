@@ -1210,15 +1210,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersSouthernSergalPatchV1.1.zip"
 	},
 	{
-		"name": "Sylvanos' Zordian Species",
-		"description": "CREDIT: Avery for the coding and patchworking!\nDESCRIPTION: Adds the Zordian alien race! Comes with two different ears, heads, hairstyles, and a unique arm, torso, legs, and horn!\nNote: It is recommended to have Winter's Fluffy Bodyparts installed when playing with this.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SylvanosZordianSpecies.png]Click for preview[/url]",
-		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SylvanosZordianSpecies.png",
-		"author": "Sylvanos, Avery Winters",
-		"modversion": "1.2",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SylvanosZordianSpeciesV1.2.zip"
-	},
-	{
 		"name": "Anons Skulldog Species",
 		"description": "CREDIT: Original by Anon\nDESCRIPTION: Updated the Skulldog species. Has built in hypertus compatibility, It will also spawn with withered parts if available, then fluffy parts if available.\nCOMPATIBILITY: WintersWitheredBodyparts, WintersFluffyBodyparts, Hypertus, Bodywritings\nCHANGELOG: Mod created.\nNOTE: Since these run new Mod ID's doesnt hurt to back up your saves, or wait till your starting a new game to update. @ Me or make a thread if anything is broken.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsSkulldogSpecies.png]Click for Preview[/url]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/AnonsSkulldogSpecies.png",
@@ -2319,17 +2310,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FashionoftheEmeraldSerpent(WinterFix).zip"
 	},
 	{
-		"name": "Renamon Re:Digitized",
-		"description": "I love Renamon!\nSo I was very excited to see that Eurygrey actually created Renamon as a species in this game!\n\nSadly it doesn't seem to be in the best shape anymore.\nDunno if it's just me, but his Renamons only come in white and are missing his crafted upper body.\n\nEither way, seeing that he does not seem to update his creation, I took matters in my own hand.\nAnd his to be frank, because I used all of his assets.\nI touched up all the textures, ensured they actually work and added the ability to color them.\n\nI haven't yet extensively tested everything, so there might be issues.\nIf you happen tofind any hit me up.\n\nOtherwise ... have fun ^.^\n\nFor compatibility: If you are already using Eurygrey's mod in a save,\nas far as I can tell you can simply delete his and install mine without any problems.\n\nHuge thanks to Eurygrey for initially creating most of the assets I used.\nI can fix things ... but I can't even draw a stickfigure xD\n \nUPDATE 1.1 Bug fixes:\nTail misplacement in many poses\nHead without eyes disappears on blowjobs\n\nI also added Eurygrey to the list of authors\n(how did i miss that >.< )\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/Renamon_Re-Digitized.png]Click for Preview[/url]",
-		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/Renamon_Re-Digitized.png",
-		"author": "Duren Blake, Eurygrey",
-		"categories": ["Species"],
-		"modversion": "1.1",
-		"gameversion": "*",
-		"delete": ["Renamon_Re-Digitized_"],
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Renamon_Re-Digitized_1.1.zip"
-	},
-	{
 		"name": "Permanent Straitjacket",
 		"description": "Adds a new [b]Permanent Straitjacket[/b] item to BDCC that can be applied to enslaved NPCs and locked with a password. Once equipped and locked, the NPC cannot remove the straitjacket by themselves, and normal restraint keys cannot unlock it.\n\nThe Permanent Straitjacket is sold through the Announcer/Fight Club shop for [b]100 credits[/b] and uses the original BDCC straitjacket model. The item is marked as [b]Important[/b] and [b]Persistent[/b], allowing it to remain properly tracked when saving and loading the game.\n\nTo equip the straitjacket, the NPC's Body slot must be free. When applying it, the player is asked to create a password of at least four characters. The password is stored securely as a [b]SHA-256 hash[/b] and persists between saves.\n\nTo remove the straitjacket, use the [b]Permanent straitjacket[/b] action again and enter the correct password. Once successfully unlocked, the item returns to the player's inventory and its password is reset.\n\nThe mod also includes an automatic protection system that can re-equip the straitjacket if an NPC accidentally moves it into their inventory while it is still locked.\n\nThe normal [b]Take/Equip[/b] menu cannot be used to equip or remove this item. This is intentional, allowing the mod to enforce the password system without modifying BDCC's original UI.\n\n[b]Features:[/b]\n- New Permanent Straitjacket item.\n- Password-protected locking system.\n- NPCs cannot remove it themselves while locked.\n- Restraint keys cannot unlock it.\n- Password persists through save/load.\n- Automatic re-equipping if the locked item is accidentally moved.\n- Uses the original BDCC straitjacket appearance.\n- Available from the Announcer/Fight Club shop for 100 credits.\n- Designed specifically for BDCC's enslaved NPC interaction system.\n(Creator's note: This mod is a prototype, so please let me know if you find any errors or anything like that. The design isn't very innovative, so if you'd like, you can create a design for the straitjacket; I would be very grateful.)",
 		"author": "El_Mister_SJ",
@@ -2640,6 +2620,7 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EternullSawians_0.1.1.pck"
 	},
 	{
+		"id": "winters_fluffy_bodyparts",
 		"name": "Winters Fluffy Bodyparts",
 		"description": "CREDIT: Based on assets from Max-Maxou & Suger0r\nDESCRIPTION: Dynamic NPC Canines, Felines and Equines will now spawn with fluffy bodyparts and dragons will spawn with scaled by default. \nCOMPATABILITY: Hypertus, Bodywriting, RAT_Archetypes\nCHANGELOG: Added Buff Scaled\nNOTE: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\nNOTE: Adds archetypes handled by RAT_Archetypes\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersFluffyBodyparts.png]Click for Preview[/url]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersFluffyBodyparts.png",
@@ -3112,6 +3093,29 @@
 		"gameversion": "*",
 		"delete": ["EirasTrashSpeciesV"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/EirasTrashSpeciesV1.4.2.zip"
+	},
+	{
+		"name": "Sylvanos' Zordian Species",
+		"description": "CREDIT: Avery for the coding and patchworking! quickfix by Eira\nDESCRIPTION: Adds the Zordian alien race! Comes with two different ears, heads, hairstyles, and a unique arm, torso, legs, and horn!\nCHANGELOG: Quick filepath fix for the newest version of Winters Fluffy\nNote: It is recommended to have Winter's Fluffy Bodyparts installed when playing with this.",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SylvanosZordianSpecies.png",
+		"author": "Sylvanos, Avery Winters",
+		"categories": ["Species"],
+		"modversion": "1.2.1",
+		"gameversion": "*",
+		"reqs": ["winters_fluffy_bodyparts"],
+		"delete": ["SylvanosZordianSpeciesV"],
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SylvanosZordianSpeciesV1.2.1.zip"
+	},
+	{
+		"name": "Renamon Re:Digitized",
+		"description": "I love Renamon!\nSo I was very excited to see that Eurygrey actually created Renamon as a species in this game!\n\nSadly it doesn't seem to be in the best shape anymore.\nDunno if it's just me, but his Renamons only come in white and are missing his crafted upper body.\n\nEither way, seeing that he does not seem to update his creation, I took matters in my own hand.\nAnd his to be frank, because I used all of his assets.\nI touched up all the textures, ensured they actually work and added the ability to color them.\n\nI haven't yet extensively tested everything, so there might be issues.\nIf you happen tofind any hit me up.\n\nOtherwise ... have fun ^.^\n\nFor compatibility: If you are already using Eurygrey's mod in a save,\nas far as I can tell you can simply delete his and install mine without any problems.\n\nHuge thanks to Eurygrey for initially creating most of the assets I used.\nI can fix things ... but I can't even draw a stickfigure xD\n\nUpdate 1.1\n- Fixed Head without eyes dissapear in blowjob poses\n- Fixed Tail being out of place in many poses\nUpdate 1.2\n- Added another head-variant, that has no shine in the eyes. This allows for a separate eye color.",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/Renamon_Re-Digitized.png",
+		"author": "Duren Blake, Eurygrey",
+		"categories": ["Species"],
+		"modversion": "1.2",
+		"gameversion": "*",
+		"delete": ["Renamon_Re-Digitized_"],
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Renamon_Re-Digitized_1.2.zip"
 	}
 	]
 }
