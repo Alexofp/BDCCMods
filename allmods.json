@@ -3116,6 +3116,18 @@
 		"gameversion": "*",
 		"delete": ["Renamon_Re-Digitized_"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Renamon_Re-Digitized_1.2.zip"
+	},
+	{
+		"ai": true,
+		"name": "UndressFix",
+		"description": "Band-aid softlock fix for when NPCs are unable to undress the player character when their arms/hands are restrained, which can be a problem when using BrutalDreams and sometimes in vanilla.\nNow leaves clothing removal code intact (thanks Mindstormsman). LLM assisted.",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/UndressFix.png",
+		"author": "ChadStevens",
+		"categories": ["Gameplay"],
+		"modversion": "0.4",
+		"gameversion": "0.4.*",
+		"delete": ["UndressFix_v"],
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/UndressFix_v0.4.zip"
 	}
 	]
 }
