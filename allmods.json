@@ -3120,14 +3120,25 @@
 	{
 		"ai": true,
 		"name": "UndressFix",
-		"description": "Band-aid softlock fix for when NPCs are unable to undress the player character when their arms/hands are restrained, which can be a problem when using BrutalDreams and sometimes in vanilla.\nNow leaves clothing removal code intact (thanks Mindstormsman). LLM assisted.",
+		"description": "Band-aid softlock fix for when NPCs are unable to undress the player character when their arms/hands are restrained, which can be a problem when using BrutalDreams and sometimes in vanilla.\nNow leaves clothing removal code intact (thanks Mindstormsman). LLM assisted.\n\nChangelog v0.5:\nNPCs now kindly redress you after taking off your clothes instead of stealing them when BrutalDreams is not installed.",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/UndressFix.png",
 		"author": "ChadStevens",
 		"categories": ["Gameplay"],
-		"modversion": "0.4",
+		"modversion": "0.5",
 		"gameversion": "0.4.*",
 		"delete": ["UndressFix_v"],
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/UndressFix_v0.4.zip"
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/UndressFix_v0.5.zip"
+	},
+	{
+		"ai": true,
+		"name": "Full Testes Mod",
+		"description": "Adds a status effect that follows how full your balls actually are. It reads the real fluid amount and compares it to each character's own capacity. Applies to anyone with a penis.\n\n[b]Empty Balls[/b] (fullness ≤ 10%)\n• Agility +1, Sexiness −1\n• Virility −25%, Cum production −50%\n\n[b]Overflowing Balls[/b] (completely full)\n• Strength −1, Vitality −2, Sexiness +4\n• Virility +50%, Cross species compatibility +50%\n• Lust rises +25/hour (+5 per battle turn) until you find release. Player only, and it never pushes lust above 85% of the threshold\n\nBetween 10% and 99% there is no effect. Spending the fluid changes or removes it.\n\nChangelog v1.6: Adjusted the parameters for overfilled balls: now they no longer deplete stamina.",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FullTestesMod.png",
+		"author": "Discis",
+		"categories": ["Gameplay"],
+		"modversion": "1.6",
+		"gameversion": "0.4.*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FullTestesMod.zip"
 	}
 	]
 }
