@@ -3132,13 +3132,33 @@
 	{
 		"ai": true,
 		"name": "Full Testes Mod",
-		"description": "Adds a status effect that follows how full your balls actually are. It reads the real fluid amount and compares it to each character's own capacity. Applies to anyone with a penis.\n\n[b]Empty Balls[/b] (fullness ≤ 10%)\n• Agility +1, Sexiness −1\n• Virility −25%, Cum production −50%\n\n[b]Overflowing Balls[/b] (completely full)\n• Strength −1, Vitality −2, Sexiness +4\n• Virility +50%, Cross species compatibility +50%\n• Lust rises +25/hour (+5 per battle turn) until you find release. Player only, and it never pushes lust above 85% of the threshold\n\nBetween 10% and 99% there is no effect. Spending the fluid changes or removes it.\n\nChangelog v1.6: Adjusted the parameters for overfilled balls: now they no longer deplete stamina.",
+		"description": "Adds a status effect that follows how full your balls actually are. It reads the real fluid amount and compares it to each character's own capacity. Applies to anyone with a penis.\n\n[b]Empty Balls[/b] (fullness ≤ 10%)\n• Agility +1, Sexiness −1\n• Virility −25%, Cum production −50%\n\n[b]Overflowing Balls[/b] (completely full)\n• Strength −1, Vitality −2, Sexiness +4\n• Virility +50%, Cross species compatibility +50%\n• Lust rises +25/hour (+5 per battle turn) until you find release. Player only, and it never pushes lust above 70% of the threshold\n\nBetween 10% and 99% there is no effect. Spending the fluid changes or removes it.\n\n[b]Changelog[/b]\nv1.8: Lust from overflowing balls is now capped at 70% of the threshold (was 85%).\nv.1.7: A compatibility issue with similar mods has been fixed.\nv1.6: Adjusted the parameters for overfilled balls: now they no longer deplete stamina. \n\n[b]This mod was created almost entirely with the help of the AI model Claude. Human involvement was minimal (if one counts the initial concept, bug testing, and minor tweaks to new versions as \"involvement\").[/b]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/FullTestesMod.png",
 		"author": "Discis",
 		"categories": ["Gameplay"],
-		"modversion": "1.6",
+		"modversion": "1.8",
 		"gameversion": "0.4.*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/FullTestesMod.zip"
+	},
+	{
+		"ai": true,
+		"name": "Buy Starter Perks Mod",
+		"description": "Adds a button to the nursery nurse's dialogue that lets you change your starting perks after character creation. You can add perks you skipped or remove ones you no longer want.\n\n[b]Perk Change[/b] (nursery nurse)\n• Cost: 100 credits for every single change, whether you add or remove a perk.\n• Pick any starting perk from the list, each one shows its description on hover.\n• Not enough credits? The buttons stay locked until you can afford them.\n\n[b]The Procedure[/b]\n• After every purchase the nurse helps you onto a bed and you lie down on your back.\n• You feel that something inside your body has changed. (same text for every perk, added or removed)\n• Resting takes 5 hours of in-game time.\n\n[b]Compatibility[/b]\n• Replaces the nursery nurse's talk scene with an extended copy, so it may conflict with other mods that change the same scene.\n• Does not modify any core game files.\n\n[b]This mod was created almost entirely with the help of the AI model Claude. Human involvement was minimal (if one counts the initial concept, bug testing, and minor tweaks to new versions as \"involvement\").[/b]",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/BuyStarterPerksMod.png",
+		"author": "Discis",
+		"categories": ["Gameplay"],
+		"modversion": "0.9",
+		"gameversion": "0.4.*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BuyStarterPerksMod.zip"
+	},
+	{
+		"name": "Bat's More Frequent Interactions",
+		"description": "NPCs who are 'wandering,' 'hanging around,' or 'heading somewhere' will look around every 30 seconds instead of every minute, making them more likely to notice and approach the PC.\nNPCs are more likely to to approach the player when looking around.\nBehaves weirdly in larger prison sizes, recommend size 30 at most.\n\nAll added/updated code is my own. No LLM.\n\nChangelog 1.1: Wasn't super happy with how this was playing so I tweaked the NPC behaviour further. They should be significantly more proactive now. The code enabling this is kinda awful, and I want to mess with it further, but it's workable for now. Feedback appreciated if they seem too active/too passive.",
+		"author": "bat",
+		"categories": ["Gameplay"],
+		"modversion": "1.1",
+		"gameversion": "0.4.*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BatsMoreFrequentInteractions.zip"
 	}
 	]
 }
