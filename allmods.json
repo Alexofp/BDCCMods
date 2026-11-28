@@ -2586,18 +2586,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod.zip"
 	},
 	{
-		"name": "Winters Base Species Expansion",
-		"description": "CREDIT: Code Improvements: Selinoccino, Assets: Anon\nDEPENDENCIES: Winters Core Module\nDESCRIPTION: A collection of bodyparts intended to expand the variety of looks for base species including sabertooths for canines and felines, jackal parts, hyena parts and the combination of equines and dragons plus!\nCHANGELOG: Fixed dragon head meshes. Muzzles might still need some love\nNOTES: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersBaseSpeciesExpansion.png]Click for Preview[/url]",
-		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersBaseSpeciesExpansion.png",
-		"author": "Avery Winters, Selinoccino, Anon",
-		"categories": ["Bodyparts"],
-		"modversion": "1.6",
-		"gameversion": "*",
-		"reqs": ["winters_core_module"],
-		"delete": ["WintersBaseSpeciesExpansionV"],
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersBaseSpeciesExpansionV1.6.zip"
-	},
-	{
 		"name": "Horsecock Dildo Punishment",
 		"description": "Instead of the horsecock dildo only ever being something the player rides on themselves, this mod lets you force one of your slaves onto it instead.\n\nAdds \"Horsecock dildo\" as a new Punish action in the slave management menu, right alongside things like Wooden Horse and Stocks. Requires owning a Horsecock dildo item first.\n\nThe scene mirrors the item's own solo riding scene. Their reaction (fighting it, whimpering through it, etc) branches based on their actual resistance, fear, and broken spirit stats, same as the game's other slave punishments do.\n\nIt's built on the NpcSlave/SlaveActionBase system, so it won't show up on regular pawns (if you request this change I will do it ; in the future I could also experiment with new animations).\n\n(This shouldn't conflict with anything else. If a line doesn't fit a particular slave's anatomy or a state branch reads oddly, let me know what the slave's state was at the time.)\n\n1.0.1 changes: the mod is now packaged correctly and should work as intended\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HorsecockDildoPunishment.png]Click for Preview[/url]",
 		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/HorsecockDildoPunishment.png",
@@ -2869,19 +2857,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/DyeFree.zip"
 	},
 	{
-		"id": "winters_expanded_penises",
-		"name": "Winters Expanded Penises",
-		"description": "CREDIT: Selinoccino designed automatic compatibility patches for both BallsExtra & Hypertus in addition to the mod options. @Thermal Dragon designed the new sheath assets\nDEPENDENCIES: Winters Core Module &  Rodent Utilities\nDESCRIPTION: This mod, like all my mods, is 100% written with care; no LLMs were consulted or used in the creation of this mod.Expands the list of available penises in character select. Includes mod options for disabling penises to customise whats available.\nCOMPATIBILITY: BallsExtra, Hypertus\nThis mod replaces all my other penis mods and should not be ran alongside them.\nCHANGELOG: updated sheathes to a new design\nNOTES: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersExpandedPenises.png]Click for Preview[/url]",
-		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersExpandedPenises.png",
-		"author": "Avery Winters, Selinoccino",
-		"modversion": "1.4",
-		"gameversion": "*",
-		"reqs": ["winters_core_module", "rodent_utils"],
-		"categories": ["Bodyparts"],
-		"delete": ["WintersExpandedPenises"],
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersExpandedPenises1.4.zip"
-	},
-	{
 		"id": "rodent_utils",
 		"name": "RodentUtils",
 		"description": "Updated November 12th 2026\n\nThis mod is 100% ratwritten with care; no LLMs were consulted or used in the creation of this mod.\n\nAdds some common functionality for most (some) Rat mods. Includes some basic mobile support.\n\nVersion 0.9.6:\n- Modified \"malicious\" (harmless) code disabling the mod as an act of protest against a double standard, to instead show a polite popup once\n- Fixed options\n\nthis and all my other mods will only be updated if they break and i feel like fixing them from now on",
@@ -2891,18 +2866,6 @@
 		"gameversion": "0.3.2",
 		"delete": ["RodentUtils_v"],
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/RodentUtils_v0.9.6.zip"
-	},
-	{
-		"id": "winters_core_module",
-		"name": "Winters Core Module 2.1",
-		"description": "[i]DEPENDENCIES[/i]: RodentUtilities\n[i]COMPATIBILITY[/i]: Required for all Updated Winters Mods does nothing on its own.\n[i]CHANGELOG[/i]: Updated for new ExpandedPenis updates\n[i]DESCRIPTION[/i]: \nThis mod, like all my mods, is 100% written with care; no LLMs were consulted or used in the creation of this mod. \n\nThis contains resources my mods need to refer to to run. Using a dependency helps reduce duplicated code and reduce file size and numbers of code lines required in all my other mods.\n\n[i]NOTES[/i]: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.",
-		"author": "Avery Winters, Selinoccino",
-		"categories": ["Library"],
-		"modversion": "2.1",
-		"gameversion": "*",
-		"reqs": ["rodent_utils"],
-		"delete": ["WintersCoreModuleV"],
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersCoreModuleV2.1.zip"
 	},
 	{
 		"name": "BetterEditorControls",
@@ -3159,6 +3122,43 @@
 		"modversion": "1.1",
 		"gameversion": "0.4.*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/BatsMoreFrequentInteractions.zip"
+	},
+	{
+		"id": "winters_expanded_penises",
+		"name": "Winters Expanded Penises",
+		"description": "CREDIT: Selinoccino designed automatic compatibility patches for both BallsExtra & Hypertus in addition to the mod options. @Thermal Dragon designed the new sheath assets\nDEPENDENCIES: Winters Core Module &  Rodent Utilities\nDESCRIPTION: This mod, like all my mods, is 100% written with care; no LLMs were consulted or used in the creation of this mod.Expands the list of available penises in character select. Includes mod options for disabling penises to customise whats available.\nCOMPATIBILITY: BallsExtra, Hypertus\nThis mod replaces all my other penis mods and should not be ran alongside them.\nCHANGELOG: Added new ovipositor and fixed skins\nNOTES: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersExpandedPenises.png",
+		"author": "Avery Winters, Selinoccino",
+		"modversion": "1.5",
+		"gameversion": "*",
+		"reqs": ["winters_core_module", "rodent_utils"],
+		"categories": ["Bodyparts"],
+		"delete": ["WintersExpandedPenises"],
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersExpandedPenises1.5.zip"
+	},
+	{
+		"name": "Anons Base Species Expansion",
+		"description": "CREDIT: Code Improvements: Selinoccino, Assets: Anon\nDEPENDENCIES: Winters Core Module\nDESCRIPTION: A collection of bodyparts intended to expand the variety of looks for base species including sabertooths for canines and felines, jackal parts, hyena parts and the combination of equines and dragons plus!\nCHANGELOG: Added Clawless Digilegs\nNOTES: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.",
+		"preview": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/WintersExpandedBaseSpecies.png",
+		"author": "Avery Winters, Selinoccino, Anon",
+		"categories": ["Bodyparts"],
+		"modversion": "1.6",
+		"gameversion": "*",
+		"reqs": ["winters_core_module"],
+		"delete": ["WintersBaseSpeciesExpansionV", "WintersExpandedBaseSpeciesV"],
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersExpandedBaseSpeciesV1.7.zip"
+	},
+	{
+		"id": "winters_core_module",
+		"name": "Winters Core Module 2.1.5",
+		"description": "[i]DEPENDENCIES[/i]: RodentUtilities\n[i]COMPATIBILITY[/i]: Required for all Updated Winters Mods does nothing on its own.\n[i]CHANGELOG[/i]: Updated for new ExpandedPenis updates?\n[i]DESCRIPTION[/i]: \nThis mod, like all my mods, is 100% written with care; no LLMs were consulted or used in the creation of this mod. \n\nThis contains resources my mods need to refer to to run. Using a dependency helps reduce duplicated code and reduce file size and numbers of code lines required in all my other mods.\n\n[i]NOTES[/i]: @ me or make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.",
+		"author": "Avery Winters, Selinoccino",
+		"categories": ["Library"],
+		"modversion": "2.1.5",
+		"gameversion": "*",
+		"reqs": ["rodent_utils"],
+		"delete": ["WintersCoreModuleV"],
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/WintersCoreModuleV2.1.5.zip"
 	}
 	]
 }
